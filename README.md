@@ -17,13 +17,21 @@
 	6, Overall Consistency
 
 T2V Model：
+
 Gen3
+
 Lavie-2
+
 Gen-2
+
 VideoCrafter-2
+
 Pika-Beta
+
 show-1 
+
 lavie 
+
 open-soraV1.2
 
 Dimension2Promptfile
