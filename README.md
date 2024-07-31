@@ -9,30 +9,22 @@
 3.Motion effects
 
 4.Video-Text Consistency
-	1, Object Class
-	2, Color
-	3, Action
-	4, Scene
-	5, Event order
-	6, Overall Consistency
+1. Object Class
+2. Color
+3. Action
+4. Scene
+5. Event order
+6. Overall Consistency
 
 T2V Model：
-
-Gen3
-
-Lavie-2
-
-Gen-2
-
-VideoCrafter-2
-
-Pika-Beta
-
-show-1 
-
-lavie 
-
-open-soraV1.2
+1. Gen3
+2. Lavie-2
+3. Gen-2
+4. VideoCrafter-2
+5. Pika-Beta
+6. show-1
+7. lavie
+8. open-soraV1.2
 
 Dimension2Promptfile
 {
