@@ -5,8 +5,7 @@ Prompt4Overconsistency = """
             During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
 
             ### Evaluation Criteria:
-            All videos will be input in the form of frames.
-            You are required to evaluate the overall consistency between the videos and the text prompt.
+            All videos will be input at a rate of 2 frames per second. Please consider this input method when evaluating the amplitude and dynamics of motion (such as translation, rotation).            You are required to evaluate the overall consistency between the videos and the text prompt.
             Overall consistency refers to the consistency in content and style between the video and the provided text prompt.
             About how to evaluate this metric,onsider the following:
             1. Whether the video displays all core elements mentioned in the text prompt.(Core elements includes human,animal,action,object,scene,style,spatial relation,number relation and so on.) 
@@ -14,11 +13,13 @@ Prompt4Overconsistency = """
 
             ### Scoring Range
             You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
-            1: Very poor consistency-The video misses all of the key elements of the text prompt and is a completely irrelevant video,or the visual quality is too poor to understand the video.
-            2: Poor consistency-The video misses most of the key elements of the text prompt but displays the correct subject/scene/style ,or the visual quality is not good enough  to judge if the video is consitent with the text prompt.
-            3: Moderate consistency-The video misses some of the key elements of the text prompt but covers the topic of the text prompt.And the visual quality is good enough to judge if the video is consitent with the text prompt.
-            4: Good consistency—The video includes most of the key elements and is consitent with the text prompt.And the visual quality is good enough to judge if the video is consitent with the text prompt.
-            5: Excellent consistency-The video includes all of the key elements and is perfectly consitent with the text prompt.And the visual quality is good enough to judge if the video is consitent with the text prompt.
+            1: Very poor consistency- more than half of the key elements, and the consistency is very weak,or the visual quality is too poor to understand the video.
+            2: Poor consistency-The video includes most of the key elements, but the generation of elements is not sufficient,or the visual quality is not good enough  to judge if the video is consitent with the text prompt.
+            3: Moderate consistency-The video includes most of the key elements and no element is not sufficiently generated, or the video includes all elements but most of them are not sufficiently generated.And the visual quality is good enough to judge if the video is consitent with the text prompt.
+            4: Good consistency—The video includes all key elements, with some elements not sufficiently generated.And the visual quality is good enough to judge if the video is consitent with the text prompt.
+            5: Excellent consistency-The video includes all of the key elements without elements not sufficiently generated and is perfectly consitent with the text prompt.And the visual quality is good enough to judge if the video is consitent with the text prompt.
+            
+            Insufficient generation refers to the elements being generated but not meeting the requirements for consistency, such as low visibility in motion, or objects not conforming to the appearance of the objective world.
             
             ### The Output Format:
             For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
