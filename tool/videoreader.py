@@ -1,4 +1,5 @@
 import cv2
+import os
 import time
 import base64
 from IPython.display import Image, display
@@ -6,7 +7,12 @@ from IPython.display import Image, display
 def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,resize_fy=1):
     base64Frames = {"gen2": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
     for key in base64Frames.keys():
-        video = cv2.VideoCapture(datadir+videos_path[key])
+        video = cv2.VideoCapture(os.path.join(datadir,videos_path[key]))
+
+        if not video.isOpened():
+            print(f"Error: Cannot open video file {datadir+videos_path[key]}")
+            continue
+
         total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
         fps = video.get(cv2.CAP_PROP_FPS)
         frames_to_skip = int(fps/extract_frames_persecond)
