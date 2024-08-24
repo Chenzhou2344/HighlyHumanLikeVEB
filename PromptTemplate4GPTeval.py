@@ -50,6 +50,8 @@ Prompt4Overconsistency = """
 
 Prompt4Color = """
 
+Prompt4
+
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
