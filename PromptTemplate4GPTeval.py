@@ -66,7 +66,7 @@ Prompt4Color = """
             1: Very poor consistency- The color is completely inconsistent with the text prompt.
             2: Poor consistency-The color is generated correctly but color distribution is incorrect including the subject being generated incorrectly or color allocation is misplaced and there are frequent and abrupt changes in color throughout the video,severely affecting the viewing experience.
             3: Moderate consistency-The color is basically consistent with the text prompt, with some minor color changes or inconsistencies, color distribution is mostly correct, and has little impact on the viewing experience.
-            4: Good consistency— The color is highly consistent with the text prompt, with stable color throughout the video, color distribution is correct, almost no abrupt color changes or inconsistencies, and the viewing experience is good.
+            4: Good consistency— The color is highly consistent with the text prompt, with stable color throughout the video, color distribution is correct, almost no abrupt color changes or inconsistencies,but it falls short of delivering an outstanding and captivating viewing experience.
             5: Excellent consistency- The color perfectly matches the text prompt, with precise and flawless color distribution throughout the video, no color changes or inconsistencies, and the color effect is outstanding and vibrant , providing an excellent viewing experience.
 
             ### The Output Format:
