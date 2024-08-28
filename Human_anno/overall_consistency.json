@@ -16,11 +16,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -40,11 +55,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                1,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -64,11 +94,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                1,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -88,11 +133,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -112,11 +172,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -136,11 +211,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -160,11 +250,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -184,11 +289,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -208,11 +328,26 @@
             "videocrafter2": 1
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                3,
+                5
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                2,
+                2
+            ]
         }
     },
     {
@@ -232,11 +367,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -256,11 +406,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                3
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -280,11 +445,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -304,11 +484,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -328,11 +523,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                2,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -352,11 +562,26 @@
             "videocrafter2": 1
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                2,
+                5
+            ],
+            "videocrafter2": [
+                2,
+                1
+            ]
         }
     },
     {
@@ -376,11 +601,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                2,
+                1
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -400,11 +640,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -424,11 +679,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -448,11 +718,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                5,
+                3
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -472,11 +757,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -496,11 +796,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                5
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -520,11 +835,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -544,11 +874,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -568,11 +913,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -592,11 +952,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -616,11 +991,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                2,
+                4
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -640,11 +1030,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -664,11 +1069,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -688,11 +1108,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -712,11 +1147,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -736,11 +1186,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                5,
+                5
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -760,11 +1225,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                5,
+                5
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -784,11 +1264,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                5,
+                5
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -808,11 +1303,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -832,11 +1342,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -856,11 +1381,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -880,11 +1420,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                5,
+                4
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -904,11 +1459,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -928,11 +1498,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -952,11 +1537,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                3,
+                5
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -976,11 +1576,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1000,11 +1615,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -1024,11 +1654,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1048,11 +1693,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1072,11 +1732,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1096,11 +1771,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                5,
+                2
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -1120,11 +1810,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                5,
+                3
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                3
+            ]
         }
     },
     {
@@ -1144,11 +1849,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                3
+            ]
         }
     },
     {
@@ -1168,11 +1888,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1192,11 +1927,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1216,11 +1966,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1240,11 +2005,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1264,11 +2044,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                5,
+                2
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1288,11 +2083,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1312,11 +2122,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -1336,11 +2161,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                1,
+                1
+            ],
+            "show1": [
+                3,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -1360,11 +2200,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1384,11 +2239,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1408,11 +2278,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1432,11 +2317,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1456,11 +2356,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -1480,11 +2395,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                5,
+                4
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1504,11 +2434,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -1528,11 +2473,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1552,11 +2512,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1576,11 +2551,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1600,11 +2590,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                2,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -1624,11 +2629,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -1648,11 +2668,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1672,11 +2707,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -1696,11 +2746,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -1720,11 +2785,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -1744,11 +2824,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1768,11 +2863,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1792,11 +2902,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1816,11 +2941,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                5,
+                5
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1840,11 +2980,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -1864,11 +3019,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                5,
+                4
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1888,11 +3058,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -1912,11 +3097,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                1,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -1936,11 +3136,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -1960,11 +3175,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -1984,11 +3214,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2008,11 +3253,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2032,11 +3292,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -2056,11 +3331,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -2080,11 +3370,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2104,11 +3409,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -2128,11 +3448,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -2152,11 +3487,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2176,11 +3526,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -2200,11 +3565,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                1
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -2224,11 +3604,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                5,
+                4
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -2248,11 +3643,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -2272,11 +3682,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                2
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -2296,11 +3721,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                2
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -2320,11 +3760,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                5,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -2344,11 +3799,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                5,
+                3
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -2368,11 +3838,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                5,
+                3
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2392,11 +3877,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                2
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -2416,11 +3916,26 @@
             "videocrafter2": 1
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -2440,11 +3955,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                2
+            ],
+            "show1": [
+                5,
+                1
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -2464,11 +3994,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2488,11 +4033,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                5,
+                4
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -2512,11 +4072,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                4,
+                2
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2536,11 +4111,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -2560,11 +4150,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                2,
+                4
+            ]
         }
     },
     {
@@ -2584,11 +4189,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                5,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -2608,11 +4228,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                1,
+                2
+            ],
+            "pika": [
+                5,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -2632,11 +4267,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                1
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -2656,11 +4306,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                1
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -2680,11 +4345,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                2
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                3
+            ]
         }
     },
     {
@@ -2704,11 +4384,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -2728,11 +4423,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                2
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                4,
+                2
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                2
+            ]
         }
     },
     {
@@ -2752,11 +4462,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -2776,11 +4501,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                1
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -2800,11 +4540,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                2,
+                2
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -2824,11 +4579,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -2848,11 +4618,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                5,
+                2
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -2872,11 +4657,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -2896,11 +4696,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                5
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                2,
+                4
+            ]
         }
     },
     {
@@ -2920,11 +4735,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -2944,11 +4774,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -2968,11 +4813,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                2,
+                4
+            ]
         }
     },
     {
@@ -2992,11 +4852,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                1,
+                2
+            ],
+            "show1": [
+                2,
+                4
+            ],
+            "videocrafter2": [
+                2,
+                2
+            ]
         }
     },
     {
@@ -3016,11 +4891,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                1,
+                3
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                1,
+                2
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                2,
+                3
+            ]
         }
     },
     {
@@ -3040,11 +4930,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                1,
+                3
+            ],
+            "lavie": [
+                5,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                1,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -3064,11 +4969,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                1,
+                4
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3088,11 +5008,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                1,
+                2
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3112,11 +5047,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                1,
+                2
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -3136,11 +5086,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                3
+            ]
         }
     },
     {
@@ -3160,11 +5125,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3184,11 +5164,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -3208,11 +5203,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                1,
+                2
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -3232,11 +5242,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                1,
+                2
+            ],
+            "pika": [
+                4,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3256,11 +5281,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -3280,11 +5320,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -3304,11 +5359,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                5,
+                2
+            ],
+            "pika": [
+                1,
+                1
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -3328,11 +5398,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                1,
+                1
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3352,11 +5437,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                1,
+                2
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                1,
+                2
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3376,11 +5476,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                1,
+                1
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                2
+            ]
         }
     },
     {
@@ -3400,11 +5515,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -3424,11 +5554,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3448,11 +5593,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                1
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -3472,11 +5632,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -3496,11 +5671,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -3520,11 +5710,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                1,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -3544,11 +5749,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -3568,11 +5788,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -3592,11 +5827,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -3616,11 +5866,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -3640,11 +5905,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                1
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -3664,11 +5944,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -3688,11 +5983,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                2,
+                1
+            ],
+            "pika": [
+                1,
+                2
+            ],
+            "show1": [
+                1,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -3712,11 +6022,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                2,
+                1
+            ],
+            "pika": [
+                2,
+                1
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                2,
+                2
+            ]
         }
     },
     {
@@ -3736,11 +6061,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                3
+            ],
+            "lavie": [
+                2,
+                1
+            ],
+            "pika": [
+                2,
+                1
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -3760,11 +6100,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -3784,11 +6139,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -3808,11 +6178,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -3832,11 +6217,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -3856,11 +6256,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -3880,11 +6295,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -3904,11 +6334,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                5
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -3928,11 +6373,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -3952,11 +6412,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -3976,11 +6451,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -4000,11 +6490,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -4024,11 +6529,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -4048,11 +6568,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -4072,11 +6607,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                1,
+                1
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -4096,11 +6646,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -4120,11 +6685,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -4144,11 +6724,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -4168,11 +6763,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                4,
+                5
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4192,11 +6802,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                1,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -4216,11 +6841,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -4240,11 +6880,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                5
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -4264,11 +6919,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                2,
+                4
+            ],
+            "videocrafter2": [
+                2,
+                5
+            ]
         }
     },
     {
@@ -4288,11 +6958,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                2
+            ],
+            "lavie": [
+                1,
+                4
+            ],
+            "pika": [
+                2,
+                5
+            ],
+            "show1": [
+                1,
+                4
+            ],
+            "videocrafter2": [
+                2,
+                5
+            ]
         }
     },
     {
@@ -4312,11 +6997,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                1,
+                2
+            ],
+            "videocrafter2": [
+                1,
+                4
+            ]
         }
     },
     {
@@ -4336,11 +7036,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -4360,11 +7075,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                5
+            ],
+            "lavie": [
+                2,
+                4
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                2,
+                4
+            ]
         }
     },
     {
@@ -4384,11 +7114,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -4408,11 +7153,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -4432,11 +7192,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                1
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -4456,11 +7231,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -4480,11 +7270,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                5,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                2
+            ],
+            "videocrafter2": [
+                5,
+                2
+            ]
         }
     },
     {
@@ -4504,11 +7309,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -4528,11 +7348,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -4552,11 +7387,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4576,11 +7426,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4600,11 +7465,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                1,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4624,11 +7504,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                3,
+                5
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -4648,11 +7543,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -4672,11 +7582,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -4696,11 +7621,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -4720,11 +7660,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                5
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -4744,11 +7699,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                5,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -4768,11 +7738,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -4792,11 +7777,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -4816,11 +7816,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4840,11 +7855,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                2,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4864,11 +7894,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                4
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                2,
+                4
+            ]
         }
     },
     {
@@ -4888,11 +7933,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                3
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                2,
+                1
+            ],
+            "videocrafter2": [
+                2,
+                3
+            ]
         }
     },
     {
@@ -4912,11 +7972,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4936,11 +8011,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -4960,11 +8050,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -4984,11 +8089,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                5
+            ],
+            "show1": [
+                4,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5008,11 +8128,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                5,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                3
+            ]
         }
     },
     {
@@ -5032,11 +8167,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5056,11 +8206,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                4
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5080,11 +8245,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5104,11 +8284,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5128,11 +8323,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                3,
+                5
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5152,11 +8362,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                4
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5176,11 +8401,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                2,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5200,11 +8440,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                2,
+                5
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -5224,11 +8479,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                3
+            ],
+            "lavie": [
+                3,
+                5
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -5248,11 +8518,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5272,11 +8557,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                2,
+                5
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5296,11 +8596,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                5
+            ],
+            "pika": [
+                2,
+                4
+            ],
+            "show1": [
+                2,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5320,11 +8635,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                5
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5344,11 +8674,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                5,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5368,11 +8713,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                2,
+                4
+            ],
+            "show1": [
+                3,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5392,11 +8752,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                4
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                3,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5416,11 +8791,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5440,11 +8830,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                1,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5464,11 +8869,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                1,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5488,11 +8908,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5512,11 +8947,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                1,
+                2
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                3,
+                1
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5536,11 +8986,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                1,
+                2
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5560,11 +9025,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                1,
+                1
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5584,11 +9064,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                1,
+                2
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5608,11 +9103,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                1,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5632,11 +9142,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                4
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5656,11 +9181,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -5680,11 +9220,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                3,
+                5
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5704,11 +9259,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                1,
+                1
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -5728,11 +9298,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                1,
+                1
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -5752,11 +9337,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -5776,11 +9376,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                2,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5800,11 +9415,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                1,
+                2
+            ],
+            "videocrafter2": [
+                2,
+                2
+            ]
         }
     },
     {
@@ -5824,11 +9454,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                4,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5848,11 +9493,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -5872,11 +9532,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                1,
+                2
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                2,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -5896,11 +9571,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                2,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -5920,11 +9610,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                3
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -5944,11 +9649,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -5968,11 +9688,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -5992,11 +9727,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6016,11 +9766,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                4,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6040,11 +9805,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6064,11 +9844,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -6088,11 +9883,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                2,
+                2
+            ]
         }
     },
     {
@@ -6112,11 +9922,26 @@
             "videocrafter2": 1
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                2,
+                1
+            ]
         }
     },
     {
@@ -6136,11 +9961,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -6160,11 +10000,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                1,
+                1
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                2,
+                2
+            ],
+            "videocrafter2": [
+                5,
+                4
+            ]
         }
     },
     {
@@ -6184,11 +10039,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                4,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6208,11 +10078,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                2
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -6232,11 +10117,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -6256,11 +10156,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                2,
+                2
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                3,
+                4
+            ],
+            "show1": [
+                2,
+                3
+            ],
+            "videocrafter2": [
+                2,
+                3
+            ]
         }
     },
     {
@@ -6280,11 +10195,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                3,
+                5
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                2
+            ]
         }
     },
     {
@@ -6304,11 +10234,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -6328,11 +10273,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                4,
+                4
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6352,11 +10312,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                4,
+                2
+            ],
+            "pika": [
+                5,
+                2
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6376,11 +10351,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                3
+            ],
+            "lavie": [
+                2,
+                3
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -6400,11 +10390,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                5
+            ],
+            "lavie": [
+                1,
+                1
+            ],
+            "pika": [
+                5,
+                3
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                2
+            ]
         }
     },
     {
@@ -6424,11 +10429,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                5,
+                4
+            ],
+            "show1": [
+                3,
+                3
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6448,11 +10468,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                5
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                4
+            ]
         }
     },
     {
@@ -6472,11 +10507,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                5
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                4,
+                4
+            ],
+            "show1": [
+                4,
+                3
+            ],
+            "videocrafter2": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -6496,11 +10546,26 @@
             "videocrafter2": 4
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                2
+            ],
+            "pika": [
+                3,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5
+            ]
         }
     },
     {
@@ -6520,11 +10585,26 @@
             "videocrafter2": 5
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                4
+            ],
+            "pika": [
+                2,
+                2
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                4
+            ]
         }
     },
     {
@@ -6544,11 +10624,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                4,
+                4
+            ],
+            "lavie": [
+                2,
+                2
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                3
+            ]
         }
     },
     {
@@ -6568,11 +10663,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     },
     {
@@ -6592,11 +10702,26 @@
             "videocrafter2": 2
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                3,
+                3
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                3,
+                3
+            ]
         }
     },
     {
@@ -6616,11 +10741,26 @@
             "videocrafter2": 3
         },
         "human_anno": {
-            "gen2": 0,
-            "lavie": 0,
-            "pika": 0,
-            "show1": 0,
-            "videocrafter2": 0
+            "gen2": [
+                5,
+                5
+            ],
+            "lavie": [
+                3,
+                3
+            ],
+            "pika": [
+                3,
+                3
+            ],
+            "show1": [
+                4,
+                4
+            ],
+            "videocrafter2": [
+                5,
+                5
+            ]
         }
     }
 ]
