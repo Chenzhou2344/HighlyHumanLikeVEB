@@ -114,11 +114,11 @@ You need to assign a specific score from 1 to 5 for each video (1 to 5, with 5 b
 3. You need to carefully observe whether the actions described in the text prompt appear in the video
 
 ### Output Format:
-For the evaluation results, you should assign a score to each video and provide the reason behind the score. Assuming there are 4 videos input from lavie,gen2,show1,pika , the format is:
-- lavie : score1, because [your reason]
-- gen2 : score2, because [your reason]
-- show1 : score3, because [your reason]
-- pika : score4, because [your reason]
+For the evaluation results, you should assign a score to each video and provide the reason behind the score. Assuming there are 4 videos input, the format is:
+- A: x, because...
+- B: y, because...
+- C: z, because...
+- D: w, because...
 
 ### Evaluation Steps:
 Follow these steps strictly:
