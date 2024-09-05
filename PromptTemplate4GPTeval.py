@@ -109,7 +109,7 @@ Prompt4Color = """
             You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
             1: Very poor consistency- The color is completely inconsistent with the text prompt.
             2: Poor consistency-The color is generated correctly but color distribution is incorrect including the subject being generated incorrectly or color allocation is misplaced and there are frequent and abrupt changes in color throughout the video,severely affecting the viewing experience.
-            3: Moderate consistency-The color is basically consistent with the text prompt, with some minor color changes or inconsistencies, color distribution is mostly correct, and has little impact on the viewing experience.
+            3: Moderate consistency-The color is basically consistent with the text prompt, with some minor color changes or inconsistencies, color distribution is mostly correct, but  with structural errors in the subject
             4: Good consistency— The color is highly consistent with the text prompt, with stable color throughout the video, color distribution is correct, almost no abrupt color changes or inconsistencies,but it falls short of delivering an outstanding and captivating viewing experience.
             5: Excellent consistency- The color perfectly matches the text prompt, with precise and flawless color distribution throughout the video, no color changes or inconsistencies, and the color effect is outstanding and vibrant , providing an excellent viewing experience.
 
@@ -184,17 +184,21 @@ Prompt4Object_class = """
             You are required to evaluate the object class consistency between the videos and the text prompt.
             Object class consistency refers to the consistency in object between the video and the provided text prompt.
             About how to evaluate this metric,onsider the following:
-            1.
-            2.
-            
+            1.Whether the objects mentioned in the text were correctly generated.
+            2.Whether the category of the objects in the text can be clearly recognized.
+            3.Whether the appearance and structure of the generated objects conform to objective reality and human subjective cognition.
+            4.if there are movements,whether the movement and changes in the video are natural and smooth.
 
             ### Scoring Range
             You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
-            1: Very poor consistency- The color is completely inconsistent with the text prompt.
-            2: Poor consistency-The color is generated correctly but color distribution is incorrect including the subject being generated incorrectly or color allocation is misplaced and there are frequent and abrupt changes in color throughout the video,severely affecting the viewing experience.
-            3: Moderate consistency-The color is basically consistent with the text prompt, with some minor color changes or inconsistencies, color distribution is mostly correct, and has little impact on the viewing experience.
-            4: Good consistency— The color is highly consistent with the text prompt, with stable color throughout the video, color distribution is correct, almost no abrupt color changes or inconsistencies,but it falls short of delivering an outstanding and captivating viewing experience.
-            5: Excellent consistency- The color perfectly matches the text prompt, with precise and flawless color distribution throughout the video, no color changes or inconsistencies, and the color effect is outstanding and vibrant , providing an excellent viewing experience.
+            1: Very poor consistency- The category is generated incorrectly or the main features are generated so poorly that the main category is difficult to recognize.
+            2: Poor consistency-The main features are generated poorly, and the category can only be barely recognized.
+            3: Moderate consistency- The main features are clearly generated, and the category can be recognized, but there is one of the following problems:
+                condition 1:significant deviations from reality in the object's shape or structure;
+                condition 2:only a small part of the main features are displayed in the video;
+                condition 3:the main features are unstable with very noticeable jumps or disappearances during the video.
+            4: Good consistency— The main features are fully generated, and the category can be clearly recognized,but if there is movement,the actions or changes of the object in the video are unnatural and do not conform to the human subjective understanding of changes in the objective world.
+            5: Excellent consistency- The main features are very fully generated, and the category can be clearly recognized, and the entire video dynamic process is natural and smooth, in accordance with objective laws.
 
             ### The Output Format:
             For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
@@ -210,9 +214,65 @@ Prompt4Object_class = """
             ### Evaluation Steps:
             Follow the following steps strictly while giving the response:
             1. Carefully read the 'Evaluation Criteria' and 'Scoring Range'. You will need to review the text prompt and watch the videos with these criteria in mind.
-            2. Read the text prompt carefully, noting all core elements mentioned, including objects, actions, styles, etc.
+            2. Read the text prompt carefully,noting the obhjects mentioned in the text prompt.
             3. Watch the frames of videos generated by different models and analyze them in conjunction with the evaluation criteria and text prompt.
-            4. Analyze and evaluate the consistency of each video with the text prompt based on the evaluation criteria. Score each video according to the 'Scoring Range'.
+            4. Analyze and evaluate the consistency of each video with the text prompt based on the evaluation criteria and think about the questions below step by step and then Score each video according to the 'Scoring Range':
+                Whether the objects mentioned in the text were correctly generated.
+                Whether the category of the objects in the text can be clearly recognized.
+                Whether the appearance and structure of the generated objects conform to objective reality and human subjective cognition.
+                If there are movements,whether the movement and changes in the video are natural and smooth.
+            5. Display the results in the specified 'Output Format'.
+</instructions>
+"""
+
+
+Prompt4Scene = """
+<instructions>
+            ### Task Description:
+            You are now an Video Evaluation Expert in evaluating generated videos.
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
+
+            ### Evaluation Criteria:
+            You are required to evaluate the scene consistency between the videos and the text prompt.
+            Scene consistency refers to the consistency in object between the video and the provided text prompt.
+            About how to evaluate this metric,onsider the following:
+            1.Whether the scene mentioned in the text were correctly generated.
+            2.Whether the scene in the text can be clearly recognized.
+            3.Whether the appearance,structure and elements of the generated scene conform to objective reality and human subjective cognition.
+            4.if there are elements moving,whether the movement and changes in the video are natural and smooth.
+
+            ### Scoring Range
+            You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
+            1: Very poor consistency- The scne is generated incorrectly or the main features are generated so poorly that the scene is difficult to recognize.
+            2: Poor consistency-The main features are generated poorly, and the scene can only be barely recognized.
+            3: Moderate consistency- The main features are clearly generated, and the category can be recognized, but there is one of the following problems:
+                condition 1:significant deviations from reality in the scene's appearance or structure;
+                condition 2:only a small part of the scene are displayed in the video;
+                condition 3:the main elements of scene are unstable with very noticeable jumps or disappearances during the video.
+            4: Good consistency— The main features are fully generated, and the category can be clearly recognized,but if there are elements moving,the actions or changes of the object in the video are unnatural and do not conform to the human subjective understanding of changes in the objective world.
+            5: Excellent consistency- The main features are very fully generated, and the category can be clearly recognized, and the entire video dynamic process is natural and smooth, in accordance with objective laws.
+
+            ### The Output Format:
+            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+            Assuming there are 4 videos input, the format is:
+            Final Scores:
+            - A: x ,because ...
+            - B: y ,because ...
+            - C: z ,because ...
+            - D: w ,because ...            
+            
+            How many score lines in this format is up to how many videos input.
+
+            ### Evaluation Steps:
+            Follow the following steps strictly while giving the response:
+            1. Carefully read the 'Evaluation Criteria' and 'Scoring Range'. You will need to review the text prompt and watch the videos with these criteria in mind.
+            2. Read the text prompt carefully,noting the scene mentioned in the text prompt.
+            3. Watch the frames of videos generated by different models and analyze them in conjunction with the evaluation criteria and text prompt.
+            4. Analyze and evaluate the consistency of each video with the text prompt based on the evaluation criteria and think about the questions below step by step and then Score each video according to the 'Scoring Range':
+                Whether the scene mentioned in the text were correctly generated.
+                Whether the scene in the text can be clearly recognized.
+                Whether the appearance,structure and elements of the generated scene conform to objective reality and human subjective cognition.
+                If there are elements moving,whether the movement and changes in the video are natural and smooth.
             5. Display the results in the specified 'Output Format'.
 </instructions>
 """
