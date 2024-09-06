@@ -37,7 +37,6 @@ Dimension2Promptfile
     "color": "color",
     "scene": "scene",
     "action": "action",
-    "event_order": "event_order",
     "overall_consistency": "overall_consistency"
 }
 

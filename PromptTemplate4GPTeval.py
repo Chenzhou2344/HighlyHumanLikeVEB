@@ -238,19 +238,18 @@ Prompt4Scene = """
             About how to evaluate this metric,onsider the following:
             1.Whether the scene mentioned in the text were correctly generated.
             2.Whether the scene in the text can be clearly recognized.
-            3.Whether the appearance,structure and elements of the generated scene conform to objective reality and human subjective cognition.
-            4.if there are elements moving,whether the movement and changes in the video are natural and smooth.
+            3.Whether the appearance and structure of elements of the generated scene conform to objective reality and human subjective cognition.
 
             ### Scoring Range
             You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
             1: Very poor consistency- The scne is generated incorrectly or the main features are generated so poorly that the scene is difficult to recognize.
             2: Poor consistency-The main features are generated poorly, and the scene can only be barely recognized.
-            3: Moderate consistency- The main features are clearly generated, and the category can be recognized, but there is one of the following problems:
+            3: Moderate consistency- The main features are clearly generated, and the scene can be recognized, but there is one of the following problems:
                 condition 1:significant deviations from reality in the scene's appearance or structure;
                 condition 2:only a small part of the scene are displayed in the video;
                 condition 3:the main elements of scene are unstable with very noticeable jumps or disappearances during the video.
-            4: Good consistency— The main features are fully generated, and the category can be clearly recognized,but if there are elements moving,the actions or changes of the object in the video are unnatural and do not conform to the human subjective understanding of changes in the objective world.
-            5: Excellent consistency- The main features are very fully generated, and the category can be clearly recognized, and the entire video dynamic process is natural and smooth, in accordance with objective laws.
+            4: Good consistency— The main features are fully generated, and the scene can be clearly recognized,but there are som elements unnatural and not conforming to the human subjective understanding of changes in the objective world..
+            5: Excellent consistency- The main features are very fully generated, and the scene can be clearly recognized, with all elements conforming to the human subjective understanding of changes in the objective world.
 
             ### The Output Format:
             For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
@@ -271,8 +270,61 @@ Prompt4Scene = """
             4. Analyze and evaluate the consistency of each video with the text prompt based on the evaluation criteria and think about the questions below step by step and then Score each video according to the 'Scoring Range':
                 Whether the scene mentioned in the text were correctly generated.
                 Whether the scene in the text can be clearly recognized.
-                Whether the appearance,structure and elements of the generated scene conform to objective reality and human subjective cognition.
-                If there are elements moving,whether the movement and changes in the video are natural and smooth.
+                Whether the appearance and structure of elements of the generated scene conform to objective reality and human subjective cognition.
             5. Display the results in the specified 'Output Format'.
 </instructions>
 """
+
+
+Prompt4Action = """
+<instructions>
+            ### Task Description:
+            You are now an Video Evaluation Expert in evaluating generated videos.
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
+
+            ### Evaluation Criteria:
+            Action consistency refers to the consistency of actions between the video and the provided text prompt.
+            About how to evaluate this metric,onsider the following:
+            1.Whether the actions mentioned in the text are correctly generated.
+            2.Whether the actions in the text can be clearly recognized.
+            3.Whether the appearance and process of the actions conform to objective reality and human subjective cognition.
+
+            ###Scoring Range
+            You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
+            1: Very poor consistency - The action is generated incorrectly or the main features are generated so poorly that the action is difficult to recognize.
+            2: Poor consistency - The main features are generated poorly, and the action can only be barely recognized.
+            3: Moderate consistency - The main features are clearly generated, and the action can be recognized, but there is one of the following issues:
+                condition 1:The appearance and process of the action significantly deviate from reality;
+                condition 2:Only a small part of the action is displayed in the video;
+                condition 3:The action is unstable in the video, with noticeable jumps or disappearances. 
+            4: Good consistency - The main features are fully generated, and the action can be clearly recognized, but some parts are unnatural and do not conform to human subjective understanding of changes in the objective world. 
+            5: Excellent consistency - The main features are very fully generated, and the action can be clearly recognized, with the entire action process conforming to human subjective understanding of changes in the objective world.
+           
+            Note: The evaluation of action consistency does not need to care the dynamic performance and motion effects. The focus is on whether the actions mentioned in the text prompt are correctly generated and whether the actions can be clearly recognized.
+
+             ### The Output Format:
+            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+            Assuming there are 4 videos input, the format is:
+            Final Scores:
+            - A: x ,because ...
+            - B: y ,because ...
+            - C: z ,because ...
+            - D: w ,because ...            
+            
+            How many score lines in this format is up to how many videos input.
+
+            ### Evaluation Steps:
+            Follow the following steps strictly while giving the response:
+            1. Carefully read the 'Evaluation Criteria' and 'Scoring Range'. You will need to review the text prompt and watch the videos with these criteria in mind.
+            2. Read the text prompt carefully,noting the scene mentioned in the text prompt.
+            3. Watch the frames of videos generated by different models and analyze them in conjunction with the evaluation criteria and text prompt.
+            4. Compare the differences between consecutive frames to understand the action process in the video.
+            5. Analyze and evaluate the consistency of each video with the text prompt based on the evaluation criteria and think about the questions below step by step and then Score each video according to the 'Scoring Range':
+                Whether the actions mentioned in the text are correctly generated.
+                Whether the actions in the text can be clearly recognized.
+                Whether the appearance and process of the actions conform to objective reality and human subjective cognition.
+            6. Display the results in the specified 'Output Format'.
+</instructions>
+"""
+
+
