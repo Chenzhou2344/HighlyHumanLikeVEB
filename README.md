@@ -29,7 +29,7 @@ T2V Model：
 
 Dimension2Promptfile
 {
-    "temporal_consistency": "action",
+    "temporal_coherence": "action",
     "aesthetic_quality": "overall_consistency",
     "imaging_quality": "overall_consistency",
     "motion_effects": "action",
