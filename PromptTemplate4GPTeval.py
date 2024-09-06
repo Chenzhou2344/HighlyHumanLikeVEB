@@ -338,19 +338,19 @@ Prompt4ImagingQuality = """
             You are required to evaluate the imaging qulity of the videos.
             Imaging qulity  mainly considers the low-level distortions presented in the generated video frames (e.g., over-exposure, noise, blur).
             About how to evaluate this metric,onsider the following:
-                1.Evaluate video clarity
+                1.Evaluate video clarity,this is the most important factor in imaging quality.
                 2.Evaluate whether the video has noise and the level of noise
                 3.Evaluate if the video brightness is reasonable and the extent of overexposure
-                4.Evaluate other factors related to imaging quality
+                4.Never care the consistency between the video and the text prompt.
 
             ###Scoring Range
             You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
-            1: Very poor quality  - Many low-level distortions such as over-exposure, noise, and blur, making the video unviewable.
-            2: Poor quality  - Significant low-level distortions such as over-exposure, noise, and blur,but the video is still viewable.
-            3: Moderate quality  - Some noticeable low-level distortions,which disturb the viewing experience,making the video unnatural.
-            4: Good quality  -  Minor low-level distortions that do not significantly impact the viewing experience.
-            5: Excellent quality  -  Very minimal to no low-level distortions, high clarity, and optimal exposure, providing an excellent viewing experience.
-           
+            1: Very poor quality - There is significant distortion, the video is very blurry, there are many noise spots, the brightness is over-exposed, and the viewing experience is extremely poor.
+            2: Poor quality - There are noticeable low-level distortions, the video is blurry, and blur and noise spots interfere with the viewing experience, making the video appear unnatural.
+            3: Moderate quality - The clarity has reached the standard definition level of 480p, but there are minor low-level distortions, some noise spots, and over-exposure that make the viewing experience average.
+            4: Good quality - The clarity has reached the high-definition level of 780p, with very few distortions, providing a good viewing experience.
+            5: Excellent quality - The clarity has reached the full high-definition level of 1080p, with no distortions, providing an excellent viewing experience.
+                
             Note: The evaluation of imaging qulity does not need to care any kind of consistency. The focus is on the imaging quality of the video frames.
 
              ### The Output Format:
@@ -373,13 +373,61 @@ Prompt4ImagingQuality = """
                 Evaluate video clarity
                 Evaluate whether the video has noise and the level of noise
                 Evaluate if the video brightness is reasonable and the extent of overexposure
-                Evaluate other factors related to imaging quality
+                Never care the consistency between the video and the text prompt.
             5. Display the results in the specified 'Output Format'.
 </instructions>
 """
 
 
 Prompt4Aesthetic_Quality = """
+<instructions>
+            ### Task Description:
+            You are now an Video Evaluation Expert in evaluating generated videos.
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
+
+            ### Evaluation Criteria:
+            You are required to evaluate the aesthetic qulity of the videos.
+            Aesthetic Quality refers to the visual appeal and artistic merit of the footage, encompassing elements such as color harmony, composition, clarity, and emotional resonance.
+            About how to evaluate this metric,onsider the following:
+                1.Whether the structure of people or objects in the video is reasonable and pleasing or causes psychological discomfort.
+                2.Whether the use of color in the video is appropriate.
+                3.Whether the composition of the video is reasonable and presents all the information.
+                4.Whether the video has sufficient visual appeal and emotional expression.
+                5.Whether the overall video is harmonious.
+
+
+            ###Scoring Range
+            You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
+            1: Very poor quality - The video has serious issues in aspects such as color, composition, and clarity, lacking visual appeal and emotional expression, and has poor overall harmony.
+            2: Poor quality - The video has noticeable problems in certain areas, such as discordant colors or poor composition, which affect the overall aesthetic experience.
+            3: Moderate quality - The video performs averagely in most aspects, may lack in some details, but overall it can provide a basic aesthetic experience.
+            4: Good quality -The video performs well in aspects such as color, composition, and clarity, providing a visually satisfying experience, with emotional expression and creativity being relatively well-executed.
+            5: Excellent quality -The video excels in all aspects, with high standards in color, composition, and clarity, and has a strong visual impact and profound emotional expression, offering an outstanding aesthetic experience
+
+            ### The Output Format:
+            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+            Assuming there are 4 videos input, the format is:
+            Final Scores:
+            - A: x ,because ...
+            - B: y ,because ...
+            - C: z ,because ...
+            - D: w ,because ...            
+            
+            How many score lines in this format is up to how many videos input.
+
+            ### Evaluation Steps:
+            Follow the following steps strictly while giving the response:
+            1. Carefully read the 'Evaluation Criteria' and 'Scoring Range'. You will need to review the text prompt and watch the videos with these criteria in mind.
+            2. Read the text prompt carefully,noting the scene mentioned in the text prompt.
+            3. Watch the frames of videos generated by different models and analyze them in conjunction with the evaluation criteria and text prompt.
+            4. Analyze and evaluate the consistency of each video with the text prompt based on the evaluation criteria and think about the questions below step by step and then Score each video according to the 'Scoring Range':
+                Whether the structure of people or objects in the video is reasonable and pleasing or causes psychological discomfort.
+                Whether the use of color in the video is appropriate.
+                Whether the composition of the video is reasonable and presents all the information.
+                Whether the video has sufficient visual appeal and emotional expression.
+                Whether the overall video is harmonious.
+            5. Display the results in the specified 'Output Format'.
+</instructions>
 
 """
 
