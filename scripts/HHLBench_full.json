@@ -200,10 +200,6 @@
         "dimension": "overall_consistency"
     },
     {
-        "prompt": "A fantasy landscape",
-        "dimension": "overall_consistency"
-    },
-    {
         "prompt": "A future where humans have achieved teleportation technology",
         "dimension": "overall_consistency"
     },
@@ -1321,14 +1317,6 @@
     },
     {
         "prompt": "A person is crawling baby",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is motorcycling",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is driving car",
         "dimension": "action"
     },
     {
