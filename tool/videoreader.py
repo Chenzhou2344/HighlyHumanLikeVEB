@@ -9,7 +9,7 @@ from io import BytesIO
 
 # We'll be using the OpenAI DevDay Keynote Recap video. You can review the video here: https://www.youtube.com/watch?v=h02ti0Bl6zk
 def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,resize_fy=1):
-    base64Frames = {"gen2": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
+    base64Frames = {"cogvideox5b":[],"gen3": [],"kling":[],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
     for key in base64Frames.keys():
         video = cv2.VideoCapture(os.path.join(datadir,videos_path[key]))
 
