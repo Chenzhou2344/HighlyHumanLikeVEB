@@ -115,13 +115,17 @@ Prompt4Color = """
 
             ### The Output Format:
             For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input, the format is:
+            Assuming there are 4 videos input ,the format is:
+            
+            <output format>
             Final Scores:
             - A: x ,because ...
             - B: y ,because ...
             - C: z ,because ...
             - D: w ,because ...            
-            
+            </output format>
+
+            A,B,C,D are the names of the video-generated models.
             How many score lines in this format is up to how many videos input.
 
             ### Evaluation Steps:
