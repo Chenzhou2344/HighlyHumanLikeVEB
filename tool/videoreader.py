@@ -24,7 +24,7 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
         else:
             frames_to_skip = int(fps/extract_frames_persecond)
     
-        curr_frame=0
+        curr_frame=1
         end_frame = total_frames - 1
         # Loop through the video and extract frames at specified sampling rate
         while curr_frame < total_frames - 1:
