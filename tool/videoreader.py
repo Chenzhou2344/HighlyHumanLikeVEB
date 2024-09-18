@@ -9,7 +9,7 @@ from io import BytesIO
 
 # We'll be using the OpenAI DevDay Keynote Recap video. You can review the video here: https://www.youtube.com/watch?v=h02ti0Bl6zk
 def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,resize_fy=1):
-    base64Frames = {"cogvideox5b":[],"gen3": [],"kling":[],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
+    base64Frames = {"cogvideox5b": [],"kling": [],"gen3": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
     for key in base64Frames.keys():
         video = cv2.VideoCapture(os.path.join(datadir,videos_path[key]))
 
@@ -19,8 +19,12 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
 
         total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
         fps = video.get(cv2.CAP_PROP_FPS)
-        frames_to_skip = int(fps/extract_frames_persecond)
-        curr_frame=0
+        if key == "gen3":
+            frames_to_skip = int(2*fps/extract_frames_persecond)
+        else:
+            frames_to_skip = int(fps/extract_frames_persecond)
+    
+        curr_frame=1
         end_frame = total_frames - 1
         # Loop through the video and extract frames at specified sampling rate
         while curr_frame < total_frames - 1:
