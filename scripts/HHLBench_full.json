@@ -1,5 +1,973 @@
 [
     {
+        "prompt": "A person is marching",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is roller skating",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is skateboarding",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is dunking basketball",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is stretching leg",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is riding scooter",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is skydiving",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is playing piano",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is canoeing or kayaking",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is laughing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is digging",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is clay pottery making",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is shooting basketball",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is bending back",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is shaking hands",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is push up",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is throwing axe",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is air drumming",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is planting trees",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is robot dancing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is rock climbing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is hula hooping",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is jogging",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is motorcycling",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is driving car",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is sword fighting",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is doing aerobics",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is strumming guitar",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is riding or walking with horse",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is archery",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is catching or throwing baseball",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is dancing ballet",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is running on treadmill",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is kissing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is barbequing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is milking cow",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is making snowman",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is sailing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person swimming in ocean",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person giving a presentation to a room full of colleagues",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person washing the dishes",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person walking in the snowstorm",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person drinking coffee in a cafe",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A bicycle leaning against a tree",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A bicycle gliding through a snowy field",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A car stuck in traffic during rush hour",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A car turning a corner",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A motorcycle cruising along a coastal highway",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A motorcycle turning a corner",
+        "dimension": "action"
+    },
+    {
+        "prompt": "An airplane soaring through a clear blue sky",
+        "dimension": "action"
+    },
+    {
+        "prompt": "An airplane taking off",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A bus turning a corner",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A bus stuck in traffic during rush hour",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A train speeding down the tracks",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A train crossing over a tall bridge",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A truck turning a corner",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A truck anchored in a tranquil bay",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A boat sailing smoothly on a calm lake",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A bird soaring gracefully in the sky",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A cat grooming itself meticulously with its tongue",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A cat playing in park",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A dog enjoying a peaceful walk",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A dog running happily",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A horse bending down to drink water from a river",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A horse galloping across an open field",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A sheep taking a peaceful walk",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A cow chewing cud while resting in a tranquil barn",
+        "dimension": "action"
+    },
+    {
+        "prompt": "An elephant spraying itself with water using its trunk to cool down",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A bear catching a salmon in its powerful jaws",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A bear climbing a tree",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A zebra bending down to drink water from a river",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A giraffe bending down to drink water from a river",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is brushing teeth",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is crawling baby",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is sticking tongue out",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is shaking head",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is using computer",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is arranging flowers",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A red bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white bicycle",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white car",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white bird",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black cat",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white cat",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange cat",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow cat",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white umbrella",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white suitcase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white bowl",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white chair",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white clock",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A red vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A green vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A blue vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A yellow vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "An orange vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A purple vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A pink vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A black vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A white vase",
+        "dimension": "color"
+    },
+    {
+        "prompt": "A person",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bicycle",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A car",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A motorcycle",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "An airplane",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bus",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A train",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A truck",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A boat",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A traffic light",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A fire hydrant",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A stop sign",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A parking meter",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bench",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bird",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A cat",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A dog",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A horse",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A sheep",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A cow",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "An elephant",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bear",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A zebra",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A giraffe",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A backpack",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "An umbrella",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A handbag",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A tie",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A suitcase",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A frisbee",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "Skis",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A snowboard",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A sports ball",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A kite",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A baseball bat",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A baseball glove",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A skateboard",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A surfboard",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A tennis racket",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bottle",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A wine glass",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A cup",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A fork",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A knife",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A spoon",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bowl",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A banana",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "An apple",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A sandwich",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "An orange",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "Broccoli",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A carrot",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A hot dog",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A pizza",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A donut",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A cake",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A chair",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A couch",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A potted plant",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A bed",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A dining table",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A toilet",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A tv",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A laptop",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A remote",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A keyboard",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A cell phone",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A microwave",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "An oven",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A toaster",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A sink",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A refrigerator",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A book",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A clock",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A vase",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "Scissors",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A teddy bear",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A hair drier",
+        "dimension": "object_class"
+    },
+    {
+        "prompt": "A toothbrush",
+        "dimension": "object_class"
+    },
+    {
         "prompt": "Close up of grapes on a rotating table.",
         "dimension": "overall_consistency"
     },
@@ -706,973 +1674,5 @@
     {
         "prompt": "Windmill",
         "dimension": "scene"
-    },
-    {
-        "prompt": "A person",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bicycle",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A car",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A motorcycle",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "An airplane",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bus",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A train",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A truck",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A boat",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A traffic light",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A fire hydrant",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A stop sign",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A parking meter",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bench",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bird",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A cat",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A dog",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A horse",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A sheep",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A cow",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "An elephant",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bear",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A zebra",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A giraffe",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A backpack",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "An umbrella",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A handbag",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A tie",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A suitcase",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A frisbee",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "Skis",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A snowboard",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A sports ball",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A kite",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A baseball bat",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A baseball glove",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A skateboard",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A surfboard",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A tennis racket",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bottle",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A wine glass",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A cup",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A fork",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A knife",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A spoon",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bowl",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A banana",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "An apple",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A sandwich",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "An orange",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "Broccoli",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A carrot",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A hot dog",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A pizza",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A donut",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A cake",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A chair",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A couch",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A potted plant",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A bed",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A dining table",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A toilet",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A tv",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A laptop",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A remote",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A keyboard",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A cell phone",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A microwave",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "An oven",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A toaster",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A sink",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A refrigerator",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A book",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A clock",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A vase",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "Scissors",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A teddy bear",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A hair drier",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A toothbrush",
-        "dimension": "object_class"
-    },
-    {
-        "prompt": "A person is marching",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is roller skating",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is skateboarding",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is dunking basketball",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is stretching leg",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is riding scooter",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is skydiving",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is playing piano",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is canoeing or kayaking",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is laughing",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is digging",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is clay pottery making",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is shooting basketball",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is bending back",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is shaking hands",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is push up",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is throwing axe",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is air drumming",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is planting trees",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is robot dancing",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is rock climbing",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is hula hooping",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is jogging",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is motorcycling",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is driving car",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is sword fighting",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is doing aerobics",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is strumming guitar",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is riding or walking with horse",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is archery",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is catching or throwing baseball",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is dancing ballet",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is running on treadmill",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is kissing",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is barbequing",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is milking cow",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is making snowman",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is sailing",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person swimming in ocean",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person giving a presentation to a room full of colleagues",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person washing the dishes",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person walking in the snowstorm",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person drinking coffee in a cafe",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A bicycle leaning against a tree",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A bicycle gliding through a snowy field",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A car stuck in traffic during rush hour",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A car turning a corner",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A motorcycle cruising along a coastal highway",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A motorcycle turning a corner",
-        "dimension": "action"
-    },
-    {
-        "prompt": "An airplane soaring through a clear blue sky",
-        "dimension": "action"
-    },
-    {
-        "prompt": "An airplane taking off",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A bus turning a corner",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A bus stuck in traffic during rush hour",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A train speeding down the tracks",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A train crossing over a tall bridge",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A truck turning a corner",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A truck anchored in a tranquil bay",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A boat sailing smoothly on a calm lake",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A bird soaring gracefully in the sky",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A cat grooming itself meticulously with its tongue",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A cat playing in park",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A dog enjoying a peaceful walk",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A dog running happily",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A horse bending down to drink water from a river",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A horse galloping across an open field",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A sheep taking a peaceful walk",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A cow chewing cud while resting in a tranquil barn",
-        "dimension": "action"
-    },
-    {
-        "prompt": "An elephant spraying itself with water using its trunk to cool down",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A bear catching a salmon in its powerful jaws",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A bear climbing a tree",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A zebra bending down to drink water from a river",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A giraffe bending down to drink water from a river",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is brushing teeth",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is crawling baby",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is sticking tongue out",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is shaking head",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is using computer",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A person is arranging flowers",
-        "dimension": "action"
-    },
-    {
-        "prompt": "A red bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white bicycle",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white car",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white bird",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black cat",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white cat",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange cat",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow cat",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white umbrella",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white suitcase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white bowl",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white chair",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white clock",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A red vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A green vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A blue vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A yellow vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "An orange vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A purple vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A pink vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A black vase",
-        "dimension": "color"
-    },
-    {
-        "prompt": "A white vase",
-        "dimension": "color"
     }
 ]
