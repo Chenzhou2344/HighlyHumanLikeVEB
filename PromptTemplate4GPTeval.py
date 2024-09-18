@@ -121,6 +121,10 @@ Prompt4Color = """
                 condition 2:color effect is not perfect and vibrant, falls short of delivering an outstanding and captivating viewing experience.
             5: Excellent consistency- The color perfectly matches the text prompt, with precise and flawless color distribution throughout the video, no color changes or inconsistencies, and the color effect is outstanding and vibrant , providing an excellent viewing experience.
 
+            Notes:
+            1.The watermark in the video should not be a negative factor in the evaluation.
+            2.The style of the video should not be a negative factor in the evaluation.
+
             ### The Output Format:
             For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
             Assuming there are 4 videos input ,the format is:
