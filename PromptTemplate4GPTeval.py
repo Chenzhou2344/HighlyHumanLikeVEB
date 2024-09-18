@@ -104,6 +104,7 @@ Prompt4Color = """
             About how to evaluate this metric,onsider the following:
             1. Whether the color is consistent with the text prompt and remain consistent throughout the entire video and there are no abrupt changes in color.
             2. Whether the color is on the right object or scene.
+            3. Whether the appearance of the subject significantly differs from objective reality.
 
             ### Scoring Range
             You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
@@ -112,7 +113,7 @@ Prompt4Color = """
                 condition 1:Correct color generation, but incorrect color allocation, such as the color appearing in the background instead of on the bicycle
                 condition 2: the main subject being incorrectly generated, like generating a motorcycle instead of a bicycle.
             3: Moderate consistency-The color is generated correctly,having no problem mentioned in 2,but there is one of the following issues:
-                condition 1:The appearance of the subject significantly differs from objective reality.Such as a bicycle having three wheels or a umbrella having two handles.
+                condition 1:The appearance of the subject significantly differs from objective reality.Such as a bicycle having three wheels or a umbrella having two handles and so on.
                 condition 2:The color has some abrupt changes.
                 condition 3:The color is unstable, with fluctuations within the same color spectrum.
             4: Good consistency— The color is highly consistent with the text prompt, with stable color throughout the video, color distribution is correct, almost no abrupt color changes or inconsistencies,having no problem mentioned in 2 and 3,but there is one of the following issues: 
@@ -134,7 +135,6 @@ Prompt4Color = """
 
             A,B,C,D are the names of the video-generated models.
             How many score lines in this format is up to how many videos input.
-
 </instructions>
 """
 

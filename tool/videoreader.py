@@ -58,7 +58,7 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
     return base64Frames
 
 
-def display_base64_images(base64Frames, cols=5):
+def display_base64_images(base64Frames, cols=7):
     for key, frames in base64Frames.items():
         print(f"Displaying images for {key}:")
         num_images = len(frames)
