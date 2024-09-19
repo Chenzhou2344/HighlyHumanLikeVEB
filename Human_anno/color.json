@@ -237,7 +237,7 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 5,
+            "pika": 4,
             "show1": 3,
             "lavie": 4
         },
@@ -385,9 +385,9 @@
             "gen3": 4,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 3,
+            "pika": 4,
             "show1": 2,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -532,10 +532,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 4,
+            "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -682,7 +682,7 @@
             "kling": 5,
             "videocrafter2": 5,
             "pika": 4,
-            "show1": 4,
+            "show1": 5,
             "lavie": 3
         },
         "human_anno": {
@@ -1126,7 +1126,7 @@
             "kling": 5,
             "videocrafter2": 5,
             "pika": 3,
-            "show1": 4,
+            "show1": 2,
             "lavie": 3
         },
         "human_anno": {
@@ -1495,7 +1495,7 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 3,
+            "pika": 4,
             "show1": 4,
             "lavie": 5
         },
@@ -1571,7 +1571,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 4
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1867,7 +1867,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 4,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2013,9 +2013,9 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 4,
-            "pika": 5,
+            "pika": 4,
             "show1": 5,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2087,8 +2087,8 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 1,
-            "show1": 5,
+            "pika": 2,
+            "show1": 4,
             "lavie": 5
         },
         "human_anno": {
@@ -2163,7 +2163,7 @@
             "videocrafter2": 4,
             "pika": 5,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2533,7 +2533,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 5
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3347,7 +3347,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3643,7 +3643,7 @@
             "videocrafter2": 4,
             "pika": 5,
             "show1": 5,
-            "lavie": 4
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3789,7 +3789,7 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 5,
+            "pika": 4,
             "show1": 4,
             "lavie": 5
         },
@@ -3863,9 +3863,9 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 2,
+            "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4013,7 +4013,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4085,9 +4085,9 @@
             "gen3": 5,
             "kling": 4,
             "videocrafter2": 5,
-            "pika": 4,
-            "show1": 5,
-            "lavie": 3
+            "pika": 5,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4233,9 +4233,9 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "pika": 5,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4308,8 +4308,8 @@
             "kling": 5,
             "videocrafter2": 5,
             "pika": 4,
-            "show1": 3,
-            "lavie": 4
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4383,7 +4383,7 @@
             "videocrafter2": 4,
             "pika": 3,
             "show1": 2,
-            "lavie": 4
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4603,9 +4603,9 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 4,
+            "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4751,7 +4751,7 @@
             "gen3": 5,
             "kling": 4,
             "videocrafter2": 5,
-            "pika": 5,
+            "pika": 4,
             "show1": 5,
             "lavie": 3
         },
@@ -5123,7 +5123,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 3,
-            "lavie": 4
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5270,7 +5270,7 @@
             "kling": 5,
             "videocrafter2": 5,
             "pika": 4,
-            "show1": 5,
+            "show1": 4,
             "lavie": 5
         },
         "human_anno": {
@@ -5416,8 +5416,8 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 5,
-            "pika": 4,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 5,
             "lavie": 3
         },
@@ -5493,7 +5493,7 @@
             "videocrafter2": 5,
             "pika": 5,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5639,8 +5639,8 @@
             "gen3": 2,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 4,
-            "show1": 5,
+            "pika": 3,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -5861,7 +5861,7 @@
             "gen3": 2,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 3,
+            "pika": 4,
             "show1": 5,
             "lavie": 4
         },
@@ -5935,9 +5935,9 @@
             "gen3": 2,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 2,
+            "pika": 3,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6380,8 +6380,8 @@
             "kling": 5,
             "videocrafter2": 5,
             "pika": 4,
-            "show1": 4,
-            "lavie": 3
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6529,7 +6529,7 @@
             "videocrafter2": 4,
             "pika": 5,
             "show1": 4,
-            "lavie": 3
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6603,7 +6603,7 @@
             "videocrafter2": 4,
             "pika": 5,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6675,9 +6675,9 @@
             "gen3": 4,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 3,
+            "pika": 4,
             "show1": 2,
-            "lavie": 4
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6748,8 +6748,8 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 4,
-            "pika": 2,
+            "videocrafter2": 5,
+            "pika": 4,
             "show1": 5,
             "lavie": 3
         },
@@ -6970,8 +6970,8 @@
             "cogvideox5b": 5,
             "gen3": 3,
             "kling": 4,
-            "videocrafter2": 2,
-            "pika": 4,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 5,
             "lavie": 4
         },
@@ -7121,7 +7121,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 4,
-            "lavie": 5
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7343,7 +7343,7 @@
             "videocrafter2": 5,
             "pika": 2,
             "show1": 5,
-            "lavie": 1
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7637,7 +7637,7 @@
             "gen3": 4,
             "kling": 5,
             "videocrafter2": 4,
-            "pika": 1,
+            "pika": 2,
             "show1": 5,
             "lavie": 3
         },
@@ -7711,7 +7711,7 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 3,
+            "pika": 4,
             "show1": 4,
             "lavie": 5
         },
@@ -7858,8 +7858,8 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 4,
-            "pika": 5,
+            "videocrafter2": 5,
+            "pika": 4,
             "show1": 4,
             "lavie": 3
         },
@@ -7932,10 +7932,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 5,
             "show1": 4,
-            "lavie": 4
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8006,10 +8006,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 4,
-            "pika": 5,
-            "show1": 4,
-            "lavie": 4
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8077,13 +8077,13 @@
             "lavie": "color/lavie/A purple umbrella_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8151,13 +8151,13 @@
             "lavie": "color/lavie/A purple umbrella_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8299,13 +8299,13 @@
             "lavie": "color/lavie/A pink umbrella_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8373,13 +8373,13 @@
             "lavie": "color/lavie/A pink umbrella_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8521,13 +8521,13 @@
             "lavie": "color/lavie/A black umbrella_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8595,13 +8595,13 @@
             "lavie": "color/lavie/A black umbrella_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8743,13 +8743,13 @@
             "lavie": "color/lavie/A white umbrella_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 1
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8817,13 +8817,13 @@
             "lavie": "color/lavie/A white umbrella_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8965,13 +8965,13 @@
             "lavie": "color/lavie/A red suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9039,13 +9039,13 @@
             "lavie": "color/lavie/A red suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9187,13 +9187,13 @@
             "lavie": "color/lavie/A green suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9261,13 +9261,13 @@
             "lavie": "color/lavie/A green suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9409,13 +9409,13 @@
             "lavie": "color/lavie/A blue suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9483,13 +9483,13 @@
             "lavie": "color/lavie/A blue suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9631,13 +9631,13 @@
             "lavie": "color/lavie/A yellow suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9705,13 +9705,13 @@
             "lavie": "color/lavie/A yellow suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9853,13 +9853,13 @@
             "lavie": "color/lavie/An orange suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9927,13 +9927,13 @@
             "lavie": "color/lavie/An orange suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10075,13 +10075,13 @@
             "lavie": "color/lavie/A purple suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10149,13 +10149,13 @@
             "lavie": "color/lavie/A purple suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10297,13 +10297,13 @@
             "lavie": "color/lavie/A pink suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10371,13 +10371,13 @@
             "lavie": "color/lavie/A pink suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10449,7 +10449,7 @@
             "gen3": 5,
             "kling": 5,
             "videocrafter2": 4,
-            "pika": 5,
+            "pika": 4,
             "show1": 5,
             "lavie": 5
         },
@@ -10519,13 +10519,13 @@
             "lavie": "color/lavie/A black suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10593,13 +10593,13 @@
             "lavie": "color/lavie/A black suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10673,7 +10673,7 @@
             "videocrafter2": 3,
             "pika": 5,
             "show1": 5,
-            "lavie": 4
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10741,13 +10741,13 @@
             "lavie": "color/lavie/A white suitcase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10815,13 +10815,13 @@
             "lavie": "color/lavie/A white suitcase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10892,9 +10892,9 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 4,
+            "videocrafter2": 3,
             "pika": 5,
-            "show1": 3,
+            "show1": 4,
             "lavie": 5
         },
         "human_anno": {
@@ -10963,13 +10963,13 @@
             "lavie": "color/lavie/A red bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11037,13 +11037,13 @@
             "lavie": "color/lavie/A red bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11115,9 +11115,9 @@
             "gen3": 3,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 3,
+            "pika": 4,
             "show1": 5,
-            "lavie": 4
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11185,13 +11185,13 @@
             "lavie": "color/lavie/A green bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 2,
+            "gen3": 4,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11259,13 +11259,13 @@
             "lavie": "color/lavie/A green bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11336,8 +11336,8 @@
             "cogvideox5b": 3,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 4,
-            "pika": 3,
+            "videocrafter2": 3,
+            "pika": 4,
             "show1": 5,
             "lavie": 5
         },
@@ -11407,13 +11407,13 @@
             "lavie": "color/lavie/A blue bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11481,13 +11481,13 @@
             "lavie": "color/lavie/A blue bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11558,7 +11558,7 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 2,
             "show1": 5,
             "lavie": 4
@@ -11629,13 +11629,13 @@
             "lavie": "color/lavie/A yellow bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11703,13 +11703,13 @@
             "lavie": "color/lavie/A yellow bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 1,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11781,8 +11781,8 @@
             "gen3": 5,
             "kling": 2,
             "videocrafter2": 2,
-            "pika": 3,
-            "show1": 5,
+            "pika": 2,
+            "show1": 4,
             "lavie": 5
         },
         "human_anno": {
@@ -11851,13 +11851,13 @@
             "lavie": "color/lavie/An orange bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11925,13 +11925,13 @@
             "lavie": "color/lavie/An orange bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12073,13 +12073,13 @@
             "lavie": "color/lavie/A purple bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12147,13 +12147,13 @@
             "lavie": "color/lavie/A purple bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12295,13 +12295,13 @@
             "lavie": "color/lavie/A pink bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12369,9 +12369,9 @@
             "lavie": "color/lavie/A pink bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -12517,9 +12517,9 @@
             "lavie": "color/lavie/A black bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 3,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -12591,9 +12591,9 @@
             "lavie": "color/lavie/A black bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 2,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -12739,9 +12739,9 @@
             "lavie": "color/lavie/A white bowl_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -12813,9 +12813,9 @@
             "lavie": "color/lavie/A white bowl_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -12961,9 +12961,9 @@
             "lavie": "color/lavie/A red chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13035,9 +13035,9 @@
             "lavie": "color/lavie/A red chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13183,9 +13183,9 @@
             "lavie": "color/lavie/A green chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13257,9 +13257,9 @@
             "lavie": "color/lavie/A green chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13405,9 +13405,9 @@
             "lavie": "color/lavie/A blue chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 3,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13479,9 +13479,9 @@
             "lavie": "color/lavie/A blue chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13627,9 +13627,9 @@
             "lavie": "color/lavie/A yellow chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13701,9 +13701,9 @@
             "lavie": "color/lavie/A yellow chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13849,9 +13849,9 @@
             "lavie": "color/lavie/An orange chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -13923,9 +13923,9 @@
             "lavie": "color/lavie/An orange chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14071,9 +14071,9 @@
             "lavie": "color/lavie/A purple chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14145,9 +14145,9 @@
             "lavie": "color/lavie/A purple chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14293,9 +14293,9 @@
             "lavie": "color/lavie/A pink chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14367,9 +14367,9 @@
             "lavie": "color/lavie/A pink chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14515,9 +14515,9 @@
             "lavie": "color/lavie/A black chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14589,9 +14589,9 @@
             "lavie": "color/lavie/A black chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14737,9 +14737,9 @@
             "lavie": "color/lavie/A white chair_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14811,9 +14811,9 @@
             "lavie": "color/lavie/A white chair_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -14959,9 +14959,9 @@
             "lavie": "color/lavie/A red clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15033,9 +15033,9 @@
             "lavie": "color/lavie/A red clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15181,9 +15181,9 @@
             "lavie": "color/lavie/A green clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15255,9 +15255,9 @@
             "lavie": "color/lavie/A green clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15403,9 +15403,9 @@
             "lavie": "color/lavie/A blue clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15477,9 +15477,9 @@
             "lavie": "color/lavie/A blue clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15625,9 +15625,9 @@
             "lavie": "color/lavie/A yellow clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15699,9 +15699,9 @@
             "lavie": "color/lavie/A yellow clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15847,9 +15847,9 @@
             "lavie": "color/lavie/An orange clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -15921,9 +15921,9 @@
             "lavie": "color/lavie/An orange clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16069,9 +16069,9 @@
             "lavie": "color/lavie/A purple clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16143,9 +16143,9 @@
             "lavie": "color/lavie/A purple clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16291,9 +16291,9 @@
             "lavie": "color/lavie/A pink clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16365,9 +16365,9 @@
             "lavie": "color/lavie/A pink clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16513,9 +16513,9 @@
             "lavie": "color/lavie/A black clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 3,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16587,9 +16587,9 @@
             "lavie": "color/lavie/A black clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16735,9 +16735,9 @@
             "lavie": "color/lavie/A white clock_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16809,9 +16809,9 @@
             "lavie": "color/lavie/A white clock_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -16957,9 +16957,9 @@
             "lavie": "color/lavie/A red vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17031,9 +17031,9 @@
             "lavie": "color/lavie/A red vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17179,9 +17179,9 @@
             "lavie": "color/lavie/A green vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17253,9 +17253,9 @@
             "lavie": "color/lavie/A green vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17401,9 +17401,9 @@
             "lavie": "color/lavie/A blue vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17475,9 +17475,9 @@
             "lavie": "color/lavie/A blue vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17623,9 +17623,9 @@
             "lavie": "color/lavie/A yellow vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17697,9 +17697,9 @@
             "lavie": "color/lavie/A yellow vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17845,9 +17845,9 @@
             "lavie": "color/lavie/An orange vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -17919,9 +17919,9 @@
             "lavie": "color/lavie/An orange vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18067,9 +18067,9 @@
             "lavie": "color/lavie/A purple vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18141,9 +18141,9 @@
             "lavie": "color/lavie/A purple vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18289,9 +18289,9 @@
             "lavie": "color/lavie/A pink vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18363,9 +18363,9 @@
             "lavie": "color/lavie/A pink vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 5,
+            "gen3": 3,
+            "kling": 4,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18511,9 +18511,9 @@
             "lavie": "color/lavie/A black vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18585,9 +18585,9 @@
             "lavie": "color/lavie/A black vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18733,9 +18733,9 @@
             "lavie": "color/lavie/A white vase_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 3,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
@@ -18807,9 +18807,9 @@
             "lavie": "color/lavie/A white vase_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
             "videocrafter2": 0,
             "pika": 0,
             "show1": 0,
