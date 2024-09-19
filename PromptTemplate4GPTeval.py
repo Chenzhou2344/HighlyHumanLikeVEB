@@ -101,13 +101,13 @@ Prompt4Color = """
             ### Evaluation Criteria:
             You are required to evaluate the color consistency between the videos and the text prompt.
             Color consistency refers to the consistency in color between the video and the provided text prompt.
-            About how to evaluate this metric,onsider the following:
+            About how to evaluate this metric,after you watching the frames of videos,you should first consider the following:
             1. Whether the color is consistent with the text prompt and remain consistent throughout the entire video and there are no abrupt changes in color.
             2. Whether the color is on the right object or scene.
-            3. Whether the appearance of the subject significantly differs from objective reality.
+            3. Whether the appearance of the subject significantly differs from objective reality,in other words,whether the structure of the object is reasonable and pleasing or causes psychological discomfort.
 
             ### Scoring Range
-            You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
+            Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
             1: Very poor consistency- The color is completely inconsistent with the text prompt.
             2: Poor consistency-The color is generated correctly but  there is one of the following issues:
                 condition 1:Correct color generation, but incorrect color allocation, such as the color appearing in the background instead of on the bicycle
@@ -125,8 +125,9 @@ Prompt4Color = """
             1.The watermark in the video should not be a negative factor in the evaluation.
             2.The style of the video should not be a negative factor in the evaluation.
 
+            
             ### The Output Format:
-            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
             Assuming there are 4 videos input ,the format is:
             
             <output format>
