@@ -97,6 +97,7 @@ Prompt4Color = """
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
             During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
+            You shouldn't take any video from any model in input as a reference for the evaluation.Please evaluate the video independently based on 'Evaluation Criteria'.
 
             ### Evaluation Criteria:
             You are required to evaluate the color consistency between the videos and the text prompt.
@@ -105,6 +106,13 @@ Prompt4Color = """
             1. Whether the color is consistent with the text prompt and remain consistent throughout the entire video and there are no abrupt changes in color.
             2. Whether the color is on the right object or scene.
             3. Whether the appearance of the subject significantly differs from objective reality,in other words,whether the structure of the object is reasonable and pleasing or causes psychological discomfort.
+
+            ###Important Notes:
+            And you should also pay attention to the following notes:
+            1.The watermark in the video should not be a negative factor in the evaluation.
+            2.The style of the video should not be a negative factor in the evaluation.
+            3.Whether the main subject is the primary focus or not doesn't matter,if the relationship between the main subject and the other objects is reasonable, 
+            
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
@@ -120,10 +128,6 @@ Prompt4Color = """
                 condition 1:just show a little part of the subject
                 condition 2:color effect is not perfect and vibrant, falls short of delivering an outstanding and captivating viewing experience.
             5: Excellent consistency- The color perfectly matches the text prompt, with precise and flawless color distribution throughout the video, no color changes or inconsistencies, and the color effect is outstanding and vibrant , providing an excellent viewing experience.
-
-            Notes:
-            1.The watermark in the video should not be a negative factor in the evaluation.
-            2.The style of the video should not be a negative factor in the evaluation.
 
             
             ### The Output Format:

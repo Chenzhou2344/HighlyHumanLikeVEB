@@ -1440,7 +1440,7 @@
             ],
             "kling": [
                 3,
-                5,
+                3,
                 2,
                 4
             ],
@@ -1458,7 +1458,7 @@
             ],
             "show1": [
                 5,
-                3,
+                4,
                 2,
                 3
             ],
@@ -2056,7 +2056,7 @@
             ],
             "lavie": [
                 3,
-                4,
+                3,
                 2,
                 0
             ]
@@ -4024,7 +4024,7 @@
             ],
             "gen3": [
                 5,
-                4,
+                5,
                 4,
                 0
             ],
@@ -4054,7 +4054,7 @@
             ],
             "lavie": [
                 5,
-                5,
+                4,
                 2,
                 0
             ]
@@ -4098,13 +4098,13 @@
             ],
             "gen3": [
                 4,
-                4,
+                5,
                 3,
                 5
             ],
             "kling": [
                 5,
-                5,
+                4,
                 4,
                 4
             ],
@@ -4128,7 +4128,7 @@
             ],
             "lavie": [
                 5,
-                5,
+                4,
                 2,
                 3
             ]
@@ -4240,7 +4240,7 @@
         "human_anno": {
             "cogvideox5b": [
                 5,
-                5,
+                3,
                 3,
                 3
             ],
@@ -4270,13 +4270,13 @@
             ],
             "show1": [
                 4,
-                5,
+                4,
                 2,
                 3
             ],
             "lavie": [
                 5,
-                5,
+                4,
                 2,
                 4
             ]
@@ -8032,7 +8032,7 @@
             ],
             "videocrafter2": [
                 4,
-                3,
+                4,
                 2,
                 2
             ],
@@ -8050,7 +8050,7 @@
             ],
             "lavie": [
                 4,
-                4,
+                5,
                 2,
                 2
             ]
@@ -12372,10 +12372,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12520,10 +12520,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 3,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12594,10 +12594,10 @@
             "cogvideox5b": 2,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12669,7 +12669,7 @@
             "gen3": 3,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 2,
+            "pika": 3,
             "show1": 4,
             "lavie": 5
         },
@@ -12742,10 +12742,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12816,10 +12816,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12891,9 +12891,9 @@
             "gen3": 5,
             "kling": 4,
             "videocrafter2": 5,
-            "pika": 2,
+            "pika": 3,
             "show1": 5,
-            "lavie": 4
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12964,10 +12964,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 3,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13038,10 +13038,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13186,10 +13186,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13260,10 +13260,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13408,10 +13408,10 @@
             "cogvideox5b": 5,
             "gen3": 3,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13482,10 +13482,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13630,10 +13630,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13704,10 +13704,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13852,10 +13852,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13926,10 +13926,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14003,7 +14003,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 4
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14074,10 +14074,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14148,10 +14148,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14222,8 +14222,8 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 3,
-            "pika": 4,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 5,
             "lavie": 4
         },
@@ -14296,10 +14296,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14370,10 +14370,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14518,10 +14518,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14592,10 +14592,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14740,10 +14740,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14814,10 +14814,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14962,10 +14962,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15036,10 +15036,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15113,7 +15113,7 @@
             "videocrafter2": 5,
             "pika": 5,
             "show1": 4,
-            "lavie": 5
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15184,10 +15184,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15258,10 +15258,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15333,8 +15333,8 @@
             "gen3": 5,
             "kling": 4,
             "videocrafter2": 5,
-            "pika": 2,
-            "show1": 5,
+            "pika": 3,
+            "show1": 4,
             "lavie": 4
         },
         "human_anno": {
@@ -15406,10 +15406,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15480,10 +15480,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15628,10 +15628,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15702,27 +15702,27 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
                 5,
-                5,
+                4,
                 3,
                 4
             ],
             "gen3": [
                 5,
-                5,
+                4,
                 3,
                 4
             ],
             "kling": [
                 5,
-                3,
+                5,
                 2,
                 4
             ],
@@ -15734,7 +15734,7 @@
             ],
             "pika": [
                 4,
-                5,
+                3,
                 2,
                 2
             ],
@@ -15746,7 +15746,7 @@
             ],
             "lavie": [
                 2,
-                4,
+                5,
                 3,
                 3
             ]
@@ -15850,10 +15850,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15924,10 +15924,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16072,10 +16072,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16146,10 +16146,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16294,10 +16294,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16368,10 +16368,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16516,10 +16516,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 3,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16590,15 +16590,15 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
                 5,
-                5,
+                4,
                 3,
                 4
             ],
@@ -16616,13 +16616,13 @@
             ],
             "videocrafter2": [
                 4,
-                3,
+                4,
                 3,
                 3
             ],
             "pika": [
                 4,
-                5,
+                3,
                 1,
                 2
             ],
@@ -16738,10 +16738,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16812,10 +16812,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16960,10 +16960,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17034,10 +17034,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17110,8 +17110,8 @@
             "kling": 4,
             "videocrafter2": 5,
             "pika": 4,
-            "show1": 4,
-            "lavie": 5
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17182,10 +17182,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17256,10 +17256,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17331,7 +17331,7 @@
             "gen3": 4,
             "kling": 5,
             "videocrafter2": 5,
-            "pika": 2,
+            "pika": 4,
             "show1": 5,
             "lavie": 3
         },
@@ -17404,10 +17404,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17478,10 +17478,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17626,10 +17626,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17700,10 +17700,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17777,7 +17777,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17848,10 +17848,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17922,10 +17922,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17999,7 +17999,7 @@
             "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
-            "lavie": 3
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18070,10 +18070,10 @@
             "cogvideox5b": 4,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18144,10 +18144,10 @@
             "cogvideox5b": 5,
             "gen3": 4,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18292,10 +18292,10 @@
             "cogvideox5b": 5,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18306,7 +18306,7 @@
             ],
             "gen3": [
                 5,
-                2,
+                5,
                 4,
                 3
             ],
@@ -18324,19 +18324,19 @@
             ],
             "pika": [
                 3,
-                2,
+                3,
                 1,
                 2
             ],
             "show1": [
                 4,
-                5,
+                4,
                 3,
                 3
             ],
             "lavie": [
                 4,
-                5,
+                4,
                 2,
                 2
             ]
@@ -18366,10 +18366,10 @@
             "cogvideox5b": 5,
             "gen3": 3,
             "kling": 4,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18442,7 +18442,7 @@
             "kling": 5,
             "videocrafter2": 5,
             "pika": 2,
-            "show1": 5,
+            "show1": 4,
             "lavie": 1
         },
         "human_anno": {
@@ -18514,10 +18514,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18588,10 +18588,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18736,10 +18736,10 @@
             "cogvideox5b": 4,
             "gen3": 3,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -18810,10 +18810,10 @@
             "cogvideox5b": 4,
             "gen3": 5,
             "kling": 5,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
