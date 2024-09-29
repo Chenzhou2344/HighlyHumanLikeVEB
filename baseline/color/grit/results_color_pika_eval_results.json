@@ -1,0 +1,1087 @@
+{
+    "color": [
+        0.8470088871809885,
+        [
+            {
+                "video_path": "./sampled_videos/color/pika/A red bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red bicycle_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green bicycle_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue bicycle_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bicycle_2.mp4",
+                "video_results": 0.625,
+                "cur_success_frame_rate": 0.625
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bicycle_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bicycle_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bicycle_1.mp4",
+                "video_results": 0.14285714285714285,
+                "cur_success_frame_rate": 0.14285714285714285
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bicycle_2.mp4",
+                "video_results": 0.9166666666666666,
+                "cur_success_frame_rate": 0.9166666666666666
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white bicycle_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white bicycle_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red car_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red car_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red car_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green car_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green car_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue car_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue car_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue car_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow car_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow car_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow car_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange car_0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange car_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange car_2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple car_0.mp4",
+                "video_results": 0.3333333333333333,
+                "cur_success_frame_rate": 0.3333333333333333
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple car_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple car_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink car_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink car_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black car_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black car_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black car_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white car_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white car_1.mp4",
+                "video_results": 0.13043478260869565,
+                "cur_success_frame_rate": 0.13043478260869565
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white car_2.mp4",
+                "video_results": 0.25,
+                "cur_success_frame_rate": 0.25
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red bird_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green bird_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue bird_0.mp4",
+                "video_results": 0.5454545454545454,
+                "cur_success_frame_rate": 0.5454545454545454
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow bird_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bird_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bird_2.mp4",
+                "video_results": 0.6666666666666666,
+                "cur_success_frame_rate": 0.6666666666666666
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bird_0.mp4",
+                "video_results": 0.20833333333333334,
+                "cur_success_frame_rate": 0.20833333333333334
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bird_0.mp4",
+                "video_results": 0.4166666666666667,
+                "cur_success_frame_rate": 0.4166666666666667
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bird_0.mp4",
+                "video_results": 0.4583333333333333,
+                "cur_success_frame_rate": 0.4583333333333333
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white bird_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white bird_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white bird_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black cat_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black cat_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white cat_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white cat_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white cat_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange cat_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange cat_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange cat_2.mp4",
+                "video_results": 0.7916666666666666,
+                "cur_success_frame_rate": 0.7916666666666666
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow cat_0.mp4",
+                "video_results": 0.19047619047619047,
+                "cur_success_frame_rate": 0.19047619047619047
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow cat_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow cat_2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow umbrella_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white umbrella_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white umbrella_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white umbrella_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red suitcase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red suitcase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red suitcase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green suitcase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green suitcase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue suitcase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue suitcase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue suitcase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow suitcase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow suitcase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow suitcase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange suitcase_0.mp4",
+                "video_results": 0.2916666666666667,
+                "cur_success_frame_rate": 0.2916666666666667
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange suitcase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange suitcase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple suitcase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple suitcase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple suitcase_2.mp4",
+                "video_results": 0.9583333333333334,
+                "cur_success_frame_rate": 0.9583333333333334
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink suitcase_0.mp4",
+                "video_results": 0.4583333333333333,
+                "cur_success_frame_rate": 0.4583333333333333
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink suitcase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black suitcase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black suitcase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black suitcase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white suitcase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white suitcase_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white suitcase_2.mp4",
+                "video_results": 0.7083333333333334,
+                "cur_success_frame_rate": 0.7083333333333334
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red bowl_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red bowl_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green bowl_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue bowl_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow bowl_1.mp4",
+                "video_results": 0.5,
+                "cur_success_frame_rate": 0.5
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bowl_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange bowl_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bowl_0.mp4",
+                "video_results": 0.6363636363636364,
+                "cur_success_frame_rate": 0.6363636363636364
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple bowl_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bowl_0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink bowl_1.mp4",
+                "video_results": 0.375,
+                "cur_success_frame_rate": 0.375
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bowl_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bowl_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black bowl_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white bowl_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red chair_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red chair_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green chair_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green chair_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green chair_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue chair_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue chair_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange chair_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange chair_2.mp4",
+                "video_results": 0.4583333333333333,
+                "cur_success_frame_rate": 0.4583333333333333
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple chair_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple chair_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink chair_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink chair_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black chair_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black chair_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white chair_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white chair_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white chair_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red clock_0.mp4",
+                "video_results": 0.5416666666666666,
+                "cur_success_frame_rate": 0.5416666666666666
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red clock_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green clock_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green clock_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green clock_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue clock_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue clock_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow clock_0.mp4",
+                "video_results": 0.041666666666666664,
+                "cur_success_frame_rate": 0.041666666666666664
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow clock_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow clock_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange clock_0.mp4",
+                "video_results": 0.375,
+                "cur_success_frame_rate": 0.375
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange clock_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange clock_2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple clock_1.mp4",
+                "video_results": 0.16666666666666666,
+                "cur_success_frame_rate": 0.16666666666666666
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink clock_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink clock_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink clock_2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black clock_0.mp4",
+                "video_results": 0.9583333333333334,
+                "cur_success_frame_rate": 0.9583333333333334
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black clock_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black clock_2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white clock_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white clock_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white clock_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red vase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A red vase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green vase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A green vase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue vase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue vase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A blue vase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A yellow vase_0.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange vase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange vase_1.mp4",
+                "video_results": 0.1,
+                "cur_success_frame_rate": 0.1
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/An orange vase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple vase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A purple vase_1.mp4",
+                "video_results": 0.7083333333333334,
+                "cur_success_frame_rate": 0.7083333333333334
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink vase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink vase_1.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A pink vase_2.mp4",
+                "video_results": 0.0,
+                "cur_success_frame_rate": 0.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black vase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black vase_1.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A black vase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white vase_0.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            },
+            {
+                "video_path": "./sampled_videos/color/pika/A white vase_2.mp4",
+                "video_results": 1.0,
+                "cur_success_frame_rate": 1.0
+            }
+        ]
+    ]
+}
