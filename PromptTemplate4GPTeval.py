@@ -115,19 +115,16 @@ Prompt4Color = """
             
 
             ### Scoring Range
-            Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
-            1: Very poor consistency- The color is completely inconsistent with the text prompt.
-            2: Poor consistency-The color is generated correctly but  there is one of the following issues:
-                condition 1:Correct color generation, but incorrect color allocation, such as the color appearing in the background instead of on the bicycle
-                condition 2: the main subject being incorrectly generated, like generating a motorcycle instead of a bicycle.
-            3: Moderate consistency-The color is generated correctly,having no problem mentioned in 2,but there is one of the following issues:
-                condition 1:The appearance of the subject significantly differs from objective reality.Such as a bicycle having three wheels or a umbrella having two handles and so on.
-                condition 2:The color has some abrupt changes.
-                condition 3:The color is unstable, with fluctuations within the same color spectrum.
-            4: Good consistency— The color is highly consistent with the text prompt, with stable color throughout the video, color distribution is correct, almost no abrupt color changes or inconsistencies,having no problem mentioned in 2 and 3,but there is one of the following issues: 
-                condition 1:just show a little part of the subject
-                condition 2:color effect is not perfect and vibrant, falls short of delivering an outstanding and captivating viewing experience.
-            5: Excellent consistency- The color perfectly matches the text prompt, with precise and flawless color distribution throughout the video, no color changes or inconsistencies, and the color effect is outstanding and vibrant , providing an excellent viewing experience.
+            Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
+            
+            1. Poor consistency - The generated object is incorrect or the color on the object does not match the text prompt at all.
+            2. Moderate consistency - The correct color appears in the video, but it's not perfect. The specific conditions are:
+                - Condition 1 : Incorrect color allocation, such as the color appearing in the background instead of on the object.
+                - Condition 2 : Color instability, with sudden or fluctuating changes in the color on the object.
+                - Condition 3 : Color confusion, where part of the object has the correct color but is mixed with other colors, and the other colors occupy a large area (at first glance, the required color is not the main color). For example: a white vase is generated as a black and white striped vase.
+                - Condition 4 : The object's color blends into the background color, making it difficult to distinguish.
+                - Condition 5 : The object's color is in the same color spectrum as the requested color but not very accurate. For example, pink instead of purple, or yellow instead of orange.
+            3.  Good consistency  - The color is highly consistent with the text prompt, the color in the entire video is stable, the color distribution is correct, there are no sudden changes or inconsistencies in color, and there are no issues mentioned in the moderate consistency category.
 
             
             ### The Output Format:
