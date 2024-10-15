@@ -67,9 +67,7 @@ Prompt4Color = """
             ###Important Notes:
             And you should also pay attention to the following notes:
             1.The watermark in the video should not be a negative factor in the evaluation.
-            2.The style of the video should not be a negative factor in the evaluation.
-            3.Whether the main subject is the primary focus or not doesn't matter,if the relationship between the main subject and the other objects is reasonable, 
-            
+            2.The style of the video should not be a negative factor in the evaluation.            
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
@@ -163,6 +161,11 @@ Prompt4Scene = """
             1.Whether the scene mentioned in the text were correctly generated.
             2.Whether the scene in the text can be clearly recognized.
             3.Whether the appearance and structure of elements of the generated scene conform to objective reality and human subjective cognition.
+
+            
+            And you should also pay attention to the following notes:
+            1.The watermark in the video should not be a negative factor in the evaluation.
+            2.The style of the video should not be a negative factor in the evaluation.      
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
