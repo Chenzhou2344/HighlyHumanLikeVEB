@@ -30,14 +30,14 @@
         "4": {
             "cogvideox5b": 3,
             "gen3": 2,
-            "kling": 2,
+            "kling": 3,
             "videocrafter2": 3,
             "pika": 2,
-            "show1": 2,
+            "show1": 3,
             "lavie": 2
         },
         "5": {
-            "cogvideox5b": 2,
+            "cogvideox5b": 3,
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
@@ -92,11 +92,11 @@
         },
         "11": {
             "cogvideox5b": 2,
-            "gen3": 2,
+            "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
+            "pika": 3,
+            "show1": 3,
             "lavie": 2
         },
         "12": {
@@ -109,19 +109,19 @@
             "lavie": 3
         },
         "13": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "gen3": 3,
             "kling": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 2,
-            "show1": 2,
+            "show1": 3,
             "lavie": 2
         },
         "14": {
             "cogvideox5b": 3,
             "gen3": 3,
-            "kling": 3,
-            "videocrafter2": 2,
+            "kling": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 2,
             "lavie": 2
@@ -159,12 +159,12 @@
             "kling": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 2
+            "show1": 3,
+            "lavie": 3
         },
         "19": {
             "cogvideox5b": 2,
-            "gen3": 3,
+            "gen3": 2,
             "kling": 2,
             "videocrafter2": 3,
             "pika": 2,
@@ -172,12 +172,12 @@
             "lavie": 2
         },
         "20": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
+            "pika": 3,
+            "show1": 3,
             "lavie": 2
         },
         "21": {
@@ -200,7 +200,7 @@
         },
         "23": {
             "cogvideox5b": 3,
-            "gen3": 2,
+            "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
             "pika": 2,
@@ -284,8 +284,8 @@
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
+            "pika": 3,
+            "show1": 3,
             "lavie": 3
         },
         "33": {
@@ -293,7 +293,7 @@
             "gen3": 2,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
             "lavie": 3
         },
@@ -304,7 +304,7 @@
             "videocrafter2": 1,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "35": {
             "cogvideox5b": 3,
@@ -385,7 +385,7 @@
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "44": {
             "cogvideox5b": 3,
@@ -533,9 +533,9 @@
         },
         "60": {
             "cogvideox5b": 3,
-            "gen3": 2,
+            "gen3": 3,
             "kling": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 2,
             "show1": 2,
             "lavie": 2
@@ -553,8 +553,8 @@
             "cogvideox5b": 3,
             "gen3": 3,
             "kling": 3,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 2,
+            "pika": 3,
             "show1": 3,
             "lavie": 3
         },
@@ -579,8 +579,8 @@
         "65": {
             "cogvideox5b": 3,
             "gen3": 3,
-            "kling": 2,
-            "videocrafter2": 2,
+            "kling": 3,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 2,
             "lavie": 3
@@ -588,8 +588,8 @@
         "66": {
             "cogvideox5b": 3,
             "gen3": 3,
-            "kling": 2,
-            "videocrafter2": 2,
+            "kling": 3,
+            "videocrafter2": 3,
             "pika": 2,
             "show1": 2,
             "lavie": 3
@@ -660,7 +660,7 @@
         "74": {
             "cogvideox5b": 3,
             "gen3": 3,
-            "kling": 2,
+            "kling": 3,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
@@ -690,7 +690,7 @@
             "kling": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
+            "show1": 3,
             "lavie": 3
         },
         "78": {
@@ -725,12 +725,12 @@
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 3,
+            "pika": 2,
             "show1": 3,
             "lavie": 3
         },
         "82": {
-            "cogvideox5b": 2,
+            "cogvideox5b": 3,
             "gen3": 3,
             "kling": 1,
             "videocrafter2": 1,
@@ -752,8 +752,8 @@
             "gen3": 2,
             "kling": 1,
             "videocrafter2": 1,
-            "pika": 2,
-            "show1": 3,
+            "pika": 3,
+            "show1": 2,
             "lavie": 3
         },
         "85": {
@@ -777,10 +777,10 @@
         "87": {
             "cogvideox5b": 3,
             "gen3": 3,
-            "kling": 2,
-            "videocrafter2": 3,
-            "pika": 3,
-            "show1": 3,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 1,
+            "show1": 2,
             "lavie": 3
         },
         "88": {
@@ -838,7 +838,7 @@
             "lavie": 2
         },
         "94": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
@@ -921,7 +921,7 @@
         "103": {
             "cogvideox5b": 3,
             "gen3": 3,
-            "kling": 3,
+            "kling": 2,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
@@ -959,9 +959,9 @@
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
-            "lavie": 3
+            "lavie": 2
         },
         "108": {
             "cogvideox5b": 3,
@@ -1023,8 +1023,8 @@
             "kling": 3,
             "videocrafter2": 1,
             "pika": 2,
-            "show1": 2,
-            "lavie": 2
+            "show1": 3,
+            "lavie": 3
         },
         "115": {
             "cogvideox5b": 3,
@@ -1058,8 +1058,8 @@
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 3,
-            "show1": 2,
+            "pika": 2,
+            "show1": 3,
             "lavie": 3
         },
         "119": {
@@ -1157,8 +1157,8 @@
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
+            "pika": 1,
+            "show1": 3,
             "lavie": 3
         },
         "130": {
@@ -1200,11 +1200,11 @@
         "134": {
             "cogvideox5b": 2,
             "gen3": 3,
-            "kling": 1,
+            "kling": 3,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 1
         },
         "135": {
             "cogvideox5b": 2,
@@ -1316,7 +1316,7 @@
         },
         "147": {
             "cogvideox5b": 3,
-            "gen3": 3,
+            "gen3": 2,
             "kling": 3,
             "videocrafter2": 3,
             "pika": 3,
@@ -1507,7 +1507,7 @@
             "cogvideox5b": 3,
             "gen3": 3,
             "kling": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
             "lavie": 3
@@ -1523,7 +1523,7 @@
         },
         "170": {
             "cogvideox5b": 3,
-            "gen3": 3,
+            "gen3": 2,
             "kling": 3,
             "videocrafter2": 3,
             "pika": 3,
@@ -1657,12 +1657,12 @@
             "lavie": 2
         },
         "185": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
+            "show1": 3,
             "lavie": 3
         },
         "186": {
@@ -1888,7 +1888,7 @@
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
-            "lavie": 3
+            "lavie": 1
         },
         "211": {
             "cogvideox5b": 3,
@@ -1904,7 +1904,7 @@
             "gen3": 3,
             "kling": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
             "lavie": 3
         },
@@ -1941,7 +1941,7 @@
             "kling": 2,
             "videocrafter2": 2,
             "pika": 3,
-            "show1": 3,
+            "show1": 2,
             "lavie": 3
         },
         "217": {
@@ -2019,7 +2019,7 @@
         "225": {
             "cogvideox5b": 3,
             "gen3": 3,
-            "kling": 1,
+            "kling": 3,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
@@ -2113,7 +2113,7 @@
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "236": {
             "cogvideox5b": 3,
@@ -2130,7 +2130,7 @@
             "kling": 3,
             "videocrafter2": 3,
             "pika": 2,
-            "show1": 2,
+            "show1": 3,
             "lavie": 3
         }
     }
