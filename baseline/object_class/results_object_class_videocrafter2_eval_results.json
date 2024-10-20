@@ -1,0 +1,1429 @@
+{
+    "object_class": [
+        0.9137658227848101,
+        [
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A person_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A person_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A person_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bicycle_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bicycle_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bicycle_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A car_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A car_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A car_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A motorcycle_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A motorcycle_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A motorcycle_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An airplane_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An airplane_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An airplane_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bus_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bus_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bus_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A train_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A train_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A train_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A truck_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A truck_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A truck_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A boat_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A boat_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A boat_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A traffic light_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A traffic light_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A traffic light_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A fire hydrant_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A fire hydrant_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A fire hydrant_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A stop sign_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A stop sign_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A stop sign_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A parking meter_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A parking meter_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A parking meter_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bench_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bench_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bench_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bird_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bird_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bird_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cat_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cat_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cat_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A dog_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A dog_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A dog_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A horse_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A horse_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A horse_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sheep_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sheep_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sheep_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cow_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cow_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cow_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An elephant_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An elephant_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An elephant_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bear_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bear_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bear_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A zebra_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A zebra_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A zebra_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A giraffe_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A giraffe_1.mp4",
+                "video_results": 0.9375,
+                "success_frame_count": 15,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A giraffe_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A backpack_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A backpack_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A backpack_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An umbrella_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An umbrella_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An umbrella_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A handbag_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A handbag_1.mp4",
+                "video_results": 0.9375,
+                "success_frame_count": 15,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A handbag_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tie_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tie_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tie_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A suitcase_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A suitcase_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A suitcase_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A frisbee_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A frisbee_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A frisbee_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Skis_0.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Skis_1.mp4",
+                "video_results": 0.6875,
+                "success_frame_count": 11,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Skis_2.mp4",
+                "video_results": 0.75,
+                "success_frame_count": 12,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A snowboard_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A snowboard_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A snowboard_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sports ball_0.mp4",
+                "video_results": 0.9375,
+                "success_frame_count": 15,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sports ball_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sports ball_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A kite_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A kite_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A kite_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A baseball bat_0.mp4",
+                "video_results": 0.9375,
+                "success_frame_count": 15,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A baseball bat_1.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A baseball bat_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A baseball glove_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A baseball glove_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A baseball glove_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A skateboard_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A skateboard_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A skateboard_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A surfboard_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A surfboard_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A surfboard_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tennis racket_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tennis racket_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tennis racket_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bottle_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bottle_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bottle_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A wine glass_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A wine glass_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A wine glass_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cup_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cup_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cup_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A fork_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A fork_1.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A fork_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A knife_0.mp4",
+                "video_results": 0.0625,
+                "success_frame_count": 1,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A knife_1.mp4",
+                "video_results": 0.875,
+                "success_frame_count": 14,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A knife_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A spoon_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A spoon_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A spoon_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bowl_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bowl_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bowl_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A banana_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A banana_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A banana_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An apple_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An apple_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An apple_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sandwich_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sandwich_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sandwich_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An orange_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An orange_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An orange_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Broccoli_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Broccoli_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Broccoli_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A carrot_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A carrot_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A carrot_2.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A hot dog_0.mp4",
+                "video_results": 0.625,
+                "success_frame_count": 10,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A hot dog_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A hot dog_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A pizza_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A pizza_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A pizza_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A donut_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A donut_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A donut_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cake_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cake_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cake_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A chair_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A chair_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A chair_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A couch_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A couch_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A couch_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A potted plant_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A potted plant_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A potted plant_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bed_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bed_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A bed_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A dining table_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A dining table_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A dining table_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toilet_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toilet_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toilet_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tv_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tv_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A tv_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A laptop_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A laptop_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A laptop_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A remote_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A remote_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A remote_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A keyboard_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A keyboard_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A keyboard_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cell phone_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cell phone_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A cell phone_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A microwave_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A microwave_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A microwave_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An oven_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An oven_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/An oven_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toaster_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toaster_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toaster_2.mp4",
+                "video_results": 0.0625,
+                "success_frame_count": 1,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sink_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sink_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A sink_2.mp4",
+                "video_results": 0.5,
+                "success_frame_count": 8,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A refrigerator_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A refrigerator_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A refrigerator_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A book_0.mp4",
+                "video_results": 0.875,
+                "success_frame_count": 14,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A book_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A book_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A clock_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A clock_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A clock_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A vase_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A vase_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A vase_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Scissors_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Scissors_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/Scissors_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A teddy bear_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A teddy bear_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A teddy bear_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A hair drier_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A hair drier_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A hair drier_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toothbrush_0.mp4",
+                "video_results": 0.0625,
+                "success_frame_count": 1,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toothbrush_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/object_class/videocrafter2/A toothbrush_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            }
+        ]
+    ]
+}
