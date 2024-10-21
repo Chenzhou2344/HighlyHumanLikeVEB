@@ -125,10 +125,10 @@ Prompt4Object_class = """
             Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
             1. Poor consistency - Completely unrecognizable as the specified object.The object is not discernible at all.
             2. Moderate consistency - Barely recognizable object category with the following issues :
-            - Issue one :Only a small part of the object is visible, such as just a human hand.
-            - Issue two: The specified object is mixed with features of other objects, like sheep and cows, horses and dogs.
-            - Issue three: The object's features are unstable, sometimes recognizable and sometimes not, for example, a person sometimes has facial features and sometimes does not.
-            - Issue four: Other objects of the same category are always present next to the specified object, occupying a large area, such as a horse always next to a dog, a bag under an umbrella, a car always accompanied by a motorcycle.
+            - Issue 1 :Only a small part of the object is visible, such as just a human hand.
+            - Issue 2: The specified object is mixed with features of other objects, like sheep and cows, horses and dogs.
+            - Issue 3: The object's features are unstable, sometimes recognizable and sometimes not, for example, a person sometimes has facial features and sometimes does not.
+            - Issue 4: Other objects of the same category are always present next to the specified object, occupying a large area, such as a horse always next to a dog, a bag under an umbrella, a car always accompanied by a motorcycle.
             3. Good consistency  - The object category is consistently correct throughout the video.
 
             ### The Output Format:
@@ -156,25 +156,27 @@ Prompt4Scene = """
 
             ### Evaluation Criteria:
             You are required to evaluate the scene consistency between the videos and the text prompt.
-            Scene consistency refers to the consistency in object between the video and the provided text prompt.
+            Scene consistency refers to the consistency in scene between the video and the provided text prompt.
             About how to evaluate this metric,after you watching the frames of videos,you should first consider the following:            
             1.Whether the scene mentioned in the text were correctly generated.
-            2.Whether the scene in the text can be clearly recognized.
+            2.Whether the scene in the text can be  recognized.
             3.Whether the appearance and structure of elements of the generated scene conform to objective reality and human subjective cognition.
 
             
             And you should also pay attention to the following notes:
             1.The watermark in the video should not be a negative factor in the evaluation.
             2.The style of the video should not be a negative factor in the evaluation.      
+            3.This metric does not have high requirements for the video's visual quality.Blur and distortion that do not affect scene recognition are acceptable.
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
             1. Poor consistency - The generated scene is unrecognizable and has no connection to the text and is difficult to identify.
             2. Moderate consistency -The scene is recognizable but there are the following issues:
-            - Issue one: Only a part of the scene is revealed, without showing the full picture, making it impossible to make a definitive judgment.
-            - Issue two: Only some features of the scene are shown, such as a bakery generating only bread or a bathroom showing only the sink.
-            - Issue three: The scene is similar but not completely accurate.
-            3. Good consistency  - The scene can be clearly identified and matches the subjective understanding of the objective world as perceived by humans.
+            - Issue 1: Only some features of the scene are shown, such as a bakery generating only bread or a bathroom showing only the sink.
+            - Issue 2: The scene is similar but not completely accurate.
+            3. Good consistency  - The scene can be identified and matches the subjective understanding of the objective world as perceived by humans.
+            - Condition 1: The scene is complete and all elements are present.
+            - Condition 2: The video show a part of the scene, but human can recognize the whole scene based on the part shown in the video.For example, a video showing only 
             
             ### The Output Format:
             Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
