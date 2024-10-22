@@ -152,8 +152,7 @@ Prompt4Scene = """
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
-            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
-
+            During the evaluation,you shouldn't take any video from any model in input as a reference for the evaluation.Please evaluate the video independently based on 'Evaluation Criteria'.
             ### Evaluation Criteria:
             You are required to evaluate the scene consistency between the videos and the text prompt.
             Scene consistency refers to the consistency in scene between the video and the provided text prompt.
@@ -165,18 +164,17 @@ Prompt4Scene = """
             
             And you should also pay attention to the following notes:
             1.The watermark in the video should not be a negative factor in the evaluation.
-            2.The style of the video should not be a negative factor in the evaluation.      
+            2.This metric focuses on the overall scene consistency, not the details or dynamic elements of the scene.  
             3.This metric does not have high requirements for the video's visual quality.Blur and distortion that do not affect scene recognition are acceptable.
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
             1. Poor consistency - The generated scene is unrecognizable and has no connection to the text and is difficult to identify.
             2. Moderate consistency -The scene is recognizable but there are the following issues:
-            - Issue 1: Only some features of the scene are shown, such as a bakery generating only bread or a bathroom showing only the sink.
-            - Issue 2: The scene is similar but not completely accurate.
-            3. Good consistency  - The scene can be identified and matches the subjective understanding of the objective world as perceived by humans.
-            - Condition 1: The scene is complete and all elements are present.
-            - Condition 2: The video show a part of the scene, but human can recognize the whole scene based on the part shown in the video.For example, a video showing only 
+            - Issue 1: The video only show a part of the scene
+            - Issue 2: Only some features of the scene are shown, such as a bakery generating only bread or a bathroom showing only the sink.
+            - Issue 3: The scene is similar but not completely accurate.
+            3. Good consistency  - The scene can be identified clearly and matches the subjective understanding of the objective world as perceived by humans.A human can easily recognize the scene without text prompt.
             
             ### The Output Format:
             Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
