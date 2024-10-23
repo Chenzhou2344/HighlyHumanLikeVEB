@@ -150,91 +150,171 @@ Prompt4Object_class = """
 
 Prompt4Scene = """
 <instructions>
-            ### Task Description:
-            You are now an Video Evaluation Expert in evaluating generated videos.
-            During the evaluation,you shouldn't take any video from any model in input as a reference for the evaluation.Please evaluate the video independently based on 'Evaluation Criteria'.
-            ### Evaluation Criteria:
-            You are required to evaluate the scene consistency between the videos and the text prompt.
-            Scene consistency refers to the consistency in scene between the video and the provided text prompt.
-            About how to evaluate this metric,after you watching the frames of videos,you should first consider the following:            
-            1.Whether the scene in the text can be  recognized.
-            2.Whether the appearance and structure of elements of the generated scene conform to objective reality and human subjective cognition.
+        ### Task Description:
+        You are a Video Evaluation Expert tasked with evaluating the scene generation capabilities of AI-generated videos. 
+        Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'. Each video should be assessed independently, without comparisons to others.
 
-            ###Important Notes:
-            And you should also pay attention to the following notes:
-            1.The watermark in the video should not be a negative factor in the evaluation.
-            2.This metric focuses on the overall scene consistency, not the details or dynamic elements of the scene.  
-            3.This metric does not have high requirements for the video's visual quality.Blur and distortion that do not affect scene recognition are acceptable.
-            4.This metric does not have high requirements for the details of the scene.Only the overall scene needs to be considered.
-            5.The scene in the video is not required to be a full view of the scene, but it is enough for human to recognize the scene.
+        ### Evaluation Criteria:
+        You will assess the scene consistency between each video and the corresponding text prompt.
+        Scene consistency involves:
+        1. **Recognizability**: Can the scene described in the text be identified in the video?  
+        2. **Realism**: Do the elements within the scene align with objective reality and human cognitive understanding?
 
-            ### Scoring Range
-            Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
-            1. Poor consistency - The generated scene is unrecognizable and has no connection to the text and is difficult to identify.
-            2. Moderate consistency -The scene is recognizable but there are the following issues:
-            - Issue 1: The video only show a part of the scene
-            - Issue 2: Only some features of the scene are shown, such as a bakery generating only bread or a bathroom showing only the sink.
-            - Issue 3: The scene is similar but not completely accurate.
-            3. Good consistency  - The scene can be identified clearly and matches the subjective understanding of the objective world as perceived by humans.A human can easily recognize the scene without text prompt.
-            
-            ### The Output Format:
-            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input ,the format is:
-            
-            <output format>
-            Final Scores:
-            - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
-            </output format>
+        ### Important Notes:
+        1. Watermarks in the video should not negatively impact your evaluation.  
+        2. Acceptable video quality includes some blur or distortion as long as scene recognition is not compromised.  
+        3. The style of the video should not be a negative factor in the evaluation.
 
-            A,B,C,D are the names of the video-generated models.
-            How many score lines in this format is up to how many videos input.
+        ### Scoring Range:
+        1. **Poor Consistency (score=1)**: The scene is unrecognizable and disconnected from the text, making identification difficult.  
+        2. **Moderate Consistency (score=2)**: The scene is recognizable but has issues, such as:
+        - Showing only a part of the scene(e.g.,a bathroom showing only a sink and mirror).
+        - Presenting a too broad view (e.g., generating a hospital building instead of the interior of a hospital).
+        - Highlighting only specific features in close-up (e.g., a bakery showing only bread;a laboratory showing tubes).
+        - Similarity to the scene but lacking complete accuracy.  
+        3. **Good Consistency (score=3)**: The scene is clearly identifiable and matches human understanding of the objective world.
+       
+        ### Output Format:
+        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
+        For four videos, the format is:
+        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
+
+        <output format>  
+        Final Scores:  
+        - A: x, because ...  
+        - B: y, because ...  
+        - C: z, because ...  
+        - D: w, because ...  
+        </output format>
+
+        <example>
+        Final Scores:
+        - gen2: x , because ...
+        - sora: y, because ...
+        - T2V: z, because ...
+        - videocrafter1: w, because...
+        </example>
+        
+
+        ### Evaluation Steps
+
+        1. **Understand the Task**:
+        - Familiarize yourself with the purpose of the evaluation: to assess the scene generation capabilities of AI-generated videos based on the given criteria.
+
+        2. **Review the Video and Text Prompt**:
+        - Watch the video carefully.
+        - Read the corresponding text prompt to understand what scene should be represented.
+
+        3. **Assess Recognizability**:
+        - Determine if the scene described in the text can be clearly identified in the video.
+        - Ask yourself: Does the video visually represent the scene mentioned in the prompt?
+
+        4. **Evaluate Realism**:
+        - Analyze the elements within the scene. Do they conform to objective reality and human cognitive understanding?
+        - Consider whether the elements look plausible and make sense in the context of the scene.
+
+        5. **Consider Important Notes**:
+        - Remember that watermarks should not negatively impact your evaluation.
+        - Accept some degree of blur or distortion if it does not hinder scene recognition.
+        - The style of the video should not be a factor in your scoring.
+
+        6. **Assign a Score**:
+        - Based on your assessment,assign a score from 1 to 3 for each video based on 'Scoring Range'.
+
+        7. **Provide Justification**:
+        - After assigning a score, explain your reasoning.
+        - Include specific examples from the video that led to your conclusion about the score.
+
+        8. **Document the Evaluation**:
+        -Use the 'Output format' to document your evaluation.
+
+
 </instructions>
 """
 
 
 Prompt4Action = """
 <instructions>
-            ### Task Description:
-            You are now an Video Evaluation Expert in evaluating generated videos.
-            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
+        ### Task Description:
+        You are a Video Evaluation Expert tasked with evaluating the action generation capabilities of AI-generated videos. 
+        Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'. 
+        Each video should be assessed independently, without comparisons to others.
 
-            ### Evaluation Criteria:
-            You are required to evaluate the action consistency between the videos and the text prompt.
-            Action consistency refers to the consistency of actions between the video and the provided text prompt.
-            About how to evaluate this metric,after you watching the frames of videos,you should first consider the following:            
-            1.Whether the actions mentioned in the text are correctly generated.
-            2.Whether the actions in the text can be clearly recognized.
-            3.Whether the appearance and process of the actions conform to objective reality and human subjective cognition.
+        ### Evaluation Criteria:
+        You will assess the action consistency between each video and the corresponding text prompt.
+        Action consistency involves:
+        1. **Recognizability**: Can the action described in the text be identified in the video?
+        2. **Realism**: Do the appearance and process of the actions align with objective reality and human understanding?  
+        
+        ### Important Notes:
+        1. Watermarks in the video should not negatively impact your evaluation.  
+        2. Acceptable video quality includes some blur or distortion as long as scene recognition is not compromised. 
+        3. Focus on action consistency, without needing to evaluate dynamic performance or motion effects.
 
-            ###Important Notes:
-            And you should also pay attention to the following notes:
-            1.The evaluation of action consistency does not need to care the dynamic performance and motion effects.The focus is on whether the actions mentioned in the text prompt are correctly generated and whether the actions can be clearly recognized.
 
-            ###Scoring Range
-            Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
-            1.Poor consistency - The action is unrecognizable or incorrect.The action does not match at all, making it impossible to identify or it is erroneous.
-            2.Moderate consistency -The action is recognizable but there are the following issues:
-            - Issue one: There is a significant deviation from reality in the appearance and process of the action.
-            - Issue two: The action is incomplete, either in terms of perspective or timing, with only a small part of the action shown in the video.
-            3. Good consistency - The action is fully consistent with the prompt and does not have the aforementioned issues.
+        ### Scoring Range:
+        1. **Poor Consistency (score = 1)**: The action is unrecognizable or incorrect, making it impossible to identify or is erroneous.  
+        2. **Moderate Consistency (score = 2)**: The action is recognizable but has issues, such as:
+        - Significant deviation from reality in appearance or process.
+        - Incomplete action, shown only partially in terms of perspective or timing.  
+        3. **Good Consistency (score = 3)**: The action is fully consistent with the prompt, with no identified issues.
+        
+        ### Output Format:
+        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
+        For four videos, the format is:
+        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
 
-            ### The Output Format:
-            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input ,the format is:
-            
-            <output format>
-            Final Scores:
-            - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
-            </output format>
+        <output format>  
+        Final Scores:  
+        - A: x, because ...  
+        - B: y, because ...  
+        - C: z, because ...  
+        - D: w, because ...  
+        </output format>
 
-            A,B,C,D are the names of the video-generated models.
-            How many score lines in this format is up to how many videos input.
+        <example>
+        Final Scores:
+        - gen2: x , because ...
+        - sora: y, because ...
+        - T2V: z, because ...
+        - videocrafter1: w, because...
+        </example>
+        
+        ### Evaluation Steps
+
+        1. **Understand the Task**:
+        - Familiarize yourself with the evaluation's purpose: to assess the action generation capabilities of AI-generated videos based on the provided criteria.
+
+        2. **Review the Video and Text Prompt**:
+        - Carefully watch the video.
+        - Read the corresponding text prompt to understand the intended actions.
+
+        3. **Assess Recognizability**:
+        - Determine if the action described in the text is clearly identifiable in the video.
+        - Ask yourself: Does the video accurately represent the action mentioned in the prompt?
+
+        4. **Evaluate Realism**:
+        - Analyze the appearance and process of the actions. Do they align with objective reality and human understanding?
+        - Consider whether the actions appear plausible and reasonable within the context.
+
+        5. **Consider Important Notes**:
+        - Watermarks should not negatively affect your evaluation.
+        - Accept some degree of blur or distortion, as long as it does not hinder action recognition.
+        - Focus on action consistency; do not evaluate dynamic performance or motion effects.
+
+        6. **Assign a Score**:
+        - Based on your assessment, assign a score from 1 to 3 for each video according to the 'Scoring Range'.
+
+        7. **Provide Justification**:
+        - After assigning a score, clearly explain your reasoning.
+        - Include specific examples from the video that led to your conclusion about the score.
+
+        8. **Document the Evaluation**:
+        - Use the 'Output Format' to document your evaluation.
+
+
+
+
 </instructions>
 """
 
