@@ -72,7 +72,6 @@ class Video_Dataset(Dataset):
         annotation = self.annotations[idx]
         #video_path = os.path.join(self.videos_dir, annotation['videos'])
         frames = self.process_video(self.data_dir, annotation['videos'],2, resize_fx=1, resize_fy=1)
-        print(f"Frames: {len(frames['cogvideox5b'])}")
         return {
             'frames': frames,
             'prompt': annotation['prompt_en']

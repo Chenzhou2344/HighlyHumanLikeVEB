@@ -91,7 +91,8 @@ class Agent():
     # prepare message
     def prepare_message(self,agent):
         # self.logger.info('initiating agents...')
-        self.video_prompt = f'This is the video\'s prompt:\n{self.video_prompt}'
+        # self.video_prompt = f'This is the video\'s prompt:\n{self.video_prompt}'
+        self.video_prompt = ''
         #self.logger.info(self.video_prompt)
         # if history is empty, it's the first round
         if not self.history:
@@ -210,8 +211,8 @@ class Host():
         self.qa_history = []
         self.description = ''
         # self.video_description = ''
-        self.api_key = "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"
-        self.base_url = "https://gateway.ai.cloudflare.com/v1/20b5f8f6bcbbd1d2e58af811c5ba8824/gpt4o/openai"
+        self.api_key = "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"
+        self.base_url = "https://gateway.ai.cloudflare.com/v1/627f1b1f372e3a198dc32573bbc6f720/openai-gpt/openai"
         self.model = "gpt-4o-2024-08-06"
         self.completion_tokens = 0
         self.prompt_tokens = 0
@@ -426,7 +427,7 @@ def chat(config, prompt):
     history = {}
     #for data in dataset[57:]:
     #for i in range(0, len(dataset)):
-    l1 = list(range(0,3, 3))
+    l1 = list(range(0,30, 3))
     #l1 = [83]
     #for i in range(2, len(dataset)):
     for i in l1:

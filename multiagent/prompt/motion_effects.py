@@ -159,22 +159,18 @@ After watching the frames of the video, you should first consider the following:
 2. Whether the motion is smooth and follows expected physical behaviors.
 3. Whether there are any unusual or unrealistic motions in the video.
 
-### Scoring Range
-Assign a specific score based on the following criteria:
+###Scoring Range
+You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
+1: Very poor effects - The motion trajectories are significantly incorrect, or the main features of motion are so poorly generated that the motion is difficult to recognize. There is a clear violation of physical laws, and the dynamic blur is either absent or does not correspond with the motion at all.
+2: Poor effects - The motion trajectories are generated poorly, and the motion can only be barely recognized. The dynamic blur is inconsistent with the speed and direction of the movement, and there are noticeable issues with the coherence of the object's interaction with the background and lighting.
+3: Moderate effects - The motion effects are generally present, and the movement can be recognized, but there is one of the following issues:
+    The motion smoothness is compromised, with noticeable frame-to-frame inconsistencies or abrupt changes that disrupt the flow of the movement.
+    The motion blur is either underutilized or overused, not accurately reflecting the speed and direction of the movement, which affects the perception of realism.
+    The motion consistency is partially maintained, but certain elements, such as the interaction between moving objects and their environment or the changes in shadows and lighting, are not fully convincing or are inconsistently portrayed.
+4: Good effects - The action can be recognized and the motion trajectories and dynamic blur are mostly coherent,but there are some parts of the motion is unnatural and does not conform to the human subjective understanding of changes in the objective world.
+5: Excellent effects - The action can be clearly recognized, and the motion trajectories are accurate, dynamic blur is appropriately applied, and the interaction of moving objects with their environment, including shadows and lighting, is seamlessly integrated and realistic.
 
-Amplitude of Motion (1-2 points):
-1 point: Motion amplitude is visible but not very prominent.
-2 points: Motion amplitude is sufficient, clearly visible, and effective.
-
-Conformity to Physical Laws (1-3 points):
-1 point: Motion does not conform to physical laws (e.g., impossible motion).
-2 points: Motion conforms to physical laws but has minimal amplitude (e.g., nearly static).
-3 points: Motion fully conforms to physical laws and demonstrates excellent movement quality.
-
-Total Score
-Total Score of 1 point: If the motion amplitude is nearly static, assign a total score of 1 point regardless of conformity to physical laws.
-Total Score Calculation
-The total score is the sum of the amplitude of motion score and the conformity to physical laws score, resulting in a total range of 2-5 points.
+Note: The evaluation of motion effects does not need to care the action consistency too much. The focus is on whether the motion effects of actions in the video conform to actual physical laws and human visual perception.
 
 ### Important Notes:
 Pay attention to the realism of the motion and whether it aligns with physical expectations.
