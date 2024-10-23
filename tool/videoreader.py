@@ -33,7 +33,7 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
             if not success:
                 break
 
-            frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fx)
+            frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fy)
 
             _, buffer = cv2.imencode(".jpg", frame)
             base64Frames[key].append(base64.b64encode(buffer).decode("utf-8"))
@@ -44,7 +44,7 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
         if not success:
             break
 
-        frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fx)
+        frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fy)
 
         _, buffer = cv2.imencode(".jpg", frame)
         base64Frames[key].append(base64.b64encode(buffer).decode("utf-8"))

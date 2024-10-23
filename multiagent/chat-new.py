@@ -11,7 +11,7 @@ from tenacity import retry, stop_after_attempt, wait_random_exponential
 from torch.utils.data import DataLoader
 from openai import OpenAI
 from load_dataset import *
-from scipy.stats import pearsonr, spearmanr
+# from scipy.stats import pearsonr, spearmanr
 
 
 
@@ -426,7 +426,7 @@ def chat(config, prompt):
     history = {}
     #for data in dataset[57:]:
     #for i in range(0, len(dataset)):
-    l1 = list(range(0, len(dataset), 3))
+    l1 = list(range(0,3, 3))
     #l1 = [83]
     #for i in range(2, len(dataset)):
     for i in l1:
@@ -577,11 +577,11 @@ def chat(config, prompt):
             host.reset()
             index += 1
 
-    with open("D:\\MemeAgent\\VideoEvalAgent\\data\\gpt\\color_multiagent_history_results-5.json", "w") as f:
+    with open("./gpt/me_multiagent_history_results-5.json", "w") as f:
         json.dump(history, f,indent=4)
-    with open("D:\\MemeAgent\\VideoEvalAgent\\data\\gpt\\color_multiagent_updated_description_results-5.json", "w") as f:
+    with open("./gpt/me_multiagent_updated_description_results-5.json", "w") as f:
         json.dump(des, f,indent=4)
-    with open("D:\\MemeAgent\\VideoEvalAgent\\data\\gpt\\color_multiagent_ev_results-5.json", "w") as f:
+    with open("./gpt/me_multiagent_ev_results-5.json", "w") as f:
         json.dump(s, f,indent=4)
     # pred_label = result_dict['pred_label']
     # gt_label = result_dict['gt_label']
@@ -597,10 +597,10 @@ def chat(config, prompt):
 
 if __name__ == '__main__':
     # load config from json
-    with open('D:\\MemeAgent\\VideoEvalAgent\\config.json', 'r') as f:
+    with open('./config.json', 'r') as f:
         config = json.load(f)
 
     # load prompt from prompt_dict.py
     from prompt_dict import prompt
 
-    chat(config, prompt['color'])
+    chat(config, prompt['motion_effects'])

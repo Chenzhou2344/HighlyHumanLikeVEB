@@ -1,4 +1,3 @@
-from prompt.overall import *
 from prompt.color import *
 from prompt.motion_effects import *
 # from prompt.misogynistic import *
@@ -6,7 +5,6 @@ from prompt.motion_effects import *
 # from prompt.sarcastic import *
 
 prompt = {
-    "overall_consistency": overall_prompt,
     "color": color_prompt,
     "motion_effects": motion_effects_prompt
 

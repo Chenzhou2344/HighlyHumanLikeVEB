@@ -10,24 +10,23 @@ class Video_Dataset(Dataset):
         with open(self.json_path, 'r') as f:
             data = json.load(f)
         return data
-
-    def process_video(self,datadir, videos_path, extract_frames_persecond=2, resize_fx=1, resize_fy=1):
+    def process_video(self,datadir,videos_path, extract_frames_persecond=2,resize_fx=1,resize_fy=1):
         base64Frames = {"cogvideox5b": [],"kling": [],"gen3": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
         for key in base64Frames.keys():
-            video = cv2.VideoCapture(os.path.join(datadir, videos_path[key]))
+            video = cv2.VideoCapture(os.path.join(datadir,videos_path[key]))
 
             if not video.isOpened():
-                print(f"Error: Cannot open video file {datadir + videos_path[key]}")
+                print(f"Error: Cannot open video file {datadir+videos_path[key]}")
                 continue
-
+            
             total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
             fps = video.get(cv2.CAP_PROP_FPS)
             if key == "gen3":
-                frames_to_skip = int(2 * fps / extract_frames_persecond)
+                frames_to_skip = int(2*fps/extract_frames_persecond)
             else:
-                frames_to_skip = int(fps / extract_frames_persecond)
-
-            curr_frame = 1
+                frames_to_skip = int(fps/extract_frames_persecond)
+        
+            curr_frame=1
             end_frame = total_frames - 1
             # Loop through the video and extract frames at specified sampling rate
             while curr_frame < total_frames - 1:
@@ -36,7 +35,7 @@ class Video_Dataset(Dataset):
                 if not success:
                     break
 
-                frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fx)
+                frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fy)
 
                 _, buffer = cv2.imencode(".jpg", frame)
                 base64Frames[key].append(base64.b64encode(buffer).decode("utf-8"))
@@ -47,18 +46,22 @@ class Video_Dataset(Dataset):
             if not success:
                 break
 
-            frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fx)
+            frame = cv2.resize(frame, None, fx=resize_fx, fy=resize_fy)
 
             _, buffer = cv2.imencode(".jpg", frame)
             base64Frames[key].append(base64.b64encode(buffer).decode("utf-8"))
 
+            
             video.release()
+        
+    
+
 
         return base64Frames
 
     def __init__(self, data_dir,):
         self.data_dir = data_dir
-        self.json_path = os.path.join(data_dir, 'human_anno\\color.json')
+        self.json_path='../human_anno/motion_effects.json'
         self.annotations = self.load_annotations()
 
     def __len__(self):
@@ -69,7 +72,7 @@ class Video_Dataset(Dataset):
         annotation = self.annotations[idx]
         #video_path = os.path.join(self.videos_dir, annotation['videos'])
         frames = self.process_video(self.data_dir, annotation['videos'],2, resize_fx=1, resize_fy=1)
-
+        print(f"Frames: {len(frames['cogvideox5b'])}")
         return {
             'frames': frames,
             'prompt': annotation['prompt_en']
