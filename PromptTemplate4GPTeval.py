@@ -152,7 +152,8 @@ Prompt4Scene = """
 <instructions>
         ### Task Description:
         You are a Video Evaluation Expert tasked with evaluating the scene generation capabilities of AI-generated videos. 
-        Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'. Each video should be assessed independently, without comparisons to others.
+        Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'.
+        Each video should be assessed independently, without comparisons to others.
 
         ### Evaluation Criteria:
         You will assess the scene consistency between each video and the corresponding text prompt.
@@ -320,83 +321,136 @@ Prompt4Action = """
 
 Prompt4ImagingQuality = """
 <instructions>
-            ### Task Description:
-            You are now an Video Evaluation Expert in evaluating generated videos.
-            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
+        ### Task Description:
+        You are a Video Evaluation Expert tasked with assessing the image quality of generated videos. 
+        Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'.
+        Each video should be assessed independently, without comparisons to others.
 
-            ### Evaluation Criteria:
-            You are required to evaluate the imaging qulity of the videos.
-            Imaging qulity  mainly considers the low-level distortions presented in the generated video frames (e.g., over-exposure, noise, blur).
-            About how to evaluate this metric,onsider the following:
-                1.Evaluate video clarity,this is the most important factor in imaging quality.
-                2.Evaluate whether the video has noise and the level of noise
-                3.Evaluate if the video brightness is reasonable and the extent of overexposure
-                4.Never care the consistency between the video and the text prompt.
+        ### Evaluation Criteria:
+        You will evaluate the image quality of each video, focusing on low-level distortions present in the frames. 
+        Image quality involves:
+        1. **Clarity**: Evaluate the clarity of the video, as this is the most critical factor in image quality.
+        2. **Noise**: Evaluate the presence and level of noise in the video.
+        3. **Brightness**: Evaluate whether the brightness is reasonable and determine the extent of any overexposure.
 
-            ###Scoring Range
-            You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
-            1: Very poor quality - There is significant distortion, the video is very blurry, there are many noise spots, the brightness is over-exposed, and the viewing experience is extremely poor.
-            2: Poor quality - There are noticeable low-level distortions, the video is blurry, and blur and noise spots interfere with the viewing experience, making the video appear unnatural.
-            3: Moderate quality - The clarity has reached the standard definition level of 480p, but there are minor low-level distortions, some noise spots, and over-exposure that make the viewing experience average.
-            4: Good quality - The clarity has reached the high-definition level of 780p, with very few distortions, providing a good viewing experience.
-            5: Excellent quality - The clarity has reached the full high-definition level of 1080p, with no distortions, providing an excellent viewing experience.
-                
-            Note: The evaluation of imaging qulity does not need to care any kind of consistency. The focus is on the imaging quality of the video frames.
+        ### Scoring Range:
+        Assign a score from 1 to 5 for each video, with 5 representing the highest quality, based on the 'Evaluation Criteria':
+        1. **Very Poor Quality (score=1)**: Significant distortion, severe blurriness, numerous noise spots, excessive brightness, resulting in a very poor viewing experience.
+        2. **Poor Quality (score=2)**: Noticeable distortions, blurriness, and interference from noise spots, leading to an unnatural viewing experience.
+        3. **Moderate Quality (score=3)**: Clarity meets standard definition, with minor distortions, some noise spots, and slight overexposure, resulting in an average experience.
+        4. **Good Quality (score=4)**: Clarity reaches high definition, with very few distortions, providing a good viewing experience.
+        5. **Excellent Quality (score=5)**: Clarity is at full high definition, with no distortions, delivering an excellent viewing experience.
 
-             ### The Output Format:
-            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input, the format is:
-            Final Scores:
-            - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
+        ### Output Format:
+        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
+        For four videos, the format is:
+        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
 
-            A,B,C,D are the names of the video-generated models.
-            How many score lines in this format is up to how many videos input.
-</instructions>
+        <output format>  
+        Final Scores:  
+        - A: x, because ...  
+        - B: y, because ...  
+        - C: z, because ...  
+        - D: w, because ...  
+        </output format>
+
+        <example>
+        Final Scores:
+        - gen2: x , because ...
+        - sora: y, because ...
+        - T2V: z, because ...
+        - videocrafter1: w, because...
+        </example>
+
+        ### Evaluation Steps:
+        1. **Understand the Task**:
+        - Familiarize yourself with the purpose of the evaluation: to assess the image quality of generated videos based on the given criteria.
+        2. **Review the Video**:
+        - Watch the video carefully to observe the visual elements and quality.
+        3. **Evaluate Clarity**:
+        - Determine if the video is clear and free from significant blurriness.
+        4. **Evaluate Noise**:
+        - Analyze the presence of noise in the video and its impact on overall quality.
+        5. **Evaluate Brightness**:
+        - Evaluate if the brightness is reasonable and note any instances of overexposure.
+        6. **Assign a Score**:
+        - Based on your assessment, assign a score from 1 to 5 for each video according to the 'Scoring Range'.
+        7. **Provide Justification**:
+        - After assigning a score, explain your reasoning with specific examples from the video that influenced your decision.
+        8. **Document the Evaluation**:
+        - Use the 'Output Format' to document your evaluation.
+
 """
-
 
 Prompt4AestheticQuality = """
 <instructions>
-            ### Task Description:
-            You are now an Video Evaluation Expert in evaluating generated videos.
-            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
+        ### Task Description:
+        You are a Video Evaluation Expert tasked with assessing the image quality of generated videos. 
+        Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'.
+        Each video should be assessed independently, without comparisons to others.
+        ### Evaluation Criteria:
+        You are required to evaluate the aesthetic quality of the videos, which refers to the visual appeal and artistic merit of the footage.
+        Aesthetic quality:
+        1. **Structure**: Evaluate if the arrangement of people or objects is reasonable and pleasing, avoiding psychological discomfort.
+        2. **Color Use**: Evaluate the appropriateness of color choices in the video.
+        3. **Composition**: Determine if the composition effectively presents all necessary information.
+        4. **Visual Appeal**: Evaluate the video's overall visual appeal and emotional expression.
+        5. **Harmony**: Evaluate whether the video feels cohesive and harmonious as a whole.
 
-            ### Evaluation Criteria:
-            You are required to evaluate the aesthetic qulity of the videos.
-            Aesthetic Quality refers to the visual appeal and artistic merit of the footage, encompassing elements such as color harmony, composition, clarity, and emotional resonance.
-            About how to evaluate this metric,onsider the following:
-                1.Whether the structure of people or objects in the video is reasonable and pleasing or causes psychological discomfort.
-                2.Whether the use of color in the video is appropriate.
-                3.Whether the composition of the video is reasonable and presents all the information.
-                4.Whether the video has sufficient visual appeal and emotional expression.
-                5.Whether the overall video is harmonious.
+        ### Scoring Range:
+        Assign a score from 1 to 5 for each video based strictly on the 'Evaluation Criteria', with 5 representing the highest quality:
 
+        1. **Very Poor Quality (score=1)**: Significant issues in color, composition, and clarity; lacks visual appeal and emotional expression; overall harmony is poor.
+        2. **Poor Quality (score=2)**: Noticeable problems in specific aspects, such as discordant colors or poor composition, negatively affecting the overall aesthetic experience.
+        3. **Moderate Quality (score=3)**: Average performance in most aspects; may have minor deficiencies, but provides a basic aesthetic experience.
+        4. **Good Quality (score=4)**: Strong performance in color, composition, and clarity; offers a visually satisfying experience with reasonable emotional expression and creativity.
+        5. **Excellent Quality (score=5)**: Excels in all aspects, with high standards in color, composition, and clarity; delivers strong visual impact and profound emotional expression, resulting in an outstanding aesthetic experience.
 
-            ###Scoring Range
-            You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
-            1: Very poor quality - The video has serious issues in aspects such as color, composition, and clarity, lacking visual appeal and emotional expression, and has poor overall harmony.
-            2: Poor quality - The video has noticeable problems in certain areas, such as discordant colors or poor composition, which affect the overall aesthetic experience.
-            3: Moderate quality - The video performs averagely in most aspects, may lack in some details, but overall it can provide a basic aesthetic experience.
-            4: Good quality -The video performs well in aspects such as color, composition, and clarity, providing a visually satisfying experience, with emotional expression and creativity being relatively well-executed.
-            5: Excellent quality -The video excels in all aspects, with high standards in color, composition, and clarity, and has a strong visual impact and profound emotional expression, offering an outstanding aesthetic experience
+        ### Output Format:
+        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
+        For four videos, the format is:
+        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
 
-            ### The Output Format:
-            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input, the format is:
-            Final Scores:
-            - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
-            
-            A,B,C,D are the names of the video-generated models.
-            How many score lines in this format is up to how many videos input.
-</instructions>
+        <output format>  
+        Final Scores:  
+        - A: x, because ...  
+        - B: y, because ...  
+        - C: z, because ...  
+        - D: w, because ...  
+        </output format>
+
+        <example>
+        Final Scores:
+        - gen2: x , because ...
+        - sora: y, because ...
+        - T2V: z, because ...
+        - videocrafter1: w, because...
+        </example>
+
+        ### Evaluation Steps:
+        1. **Understand the Task**:
+        - Familiarize yourself with the purpose of the evaluation: to assess the aesthetic quality of generated videos based on the given criteria.
+        2. **Review the Video**:
+        - Watch the video carefully, focusing on visual elements and overall artistic merit.
+        3. **Evaluate Structure**:
+        - Evaluate whether the arrangement of people or objects is reasonable and pleasing, avoiding any psychological discomfort.
+        4. **Evaluate Color Use**:
+        - Analyze the appropriateness and effectiveness of color choices, noting any discordant colors.
+        5. **Check Composition**:
+        - Determine if the composition effectively presents all necessary information and is visually appealing.
+        6. **Evaluate Visual Appeal**:
+        - Assess the overall visual appeal of the video and its ability to convey emotional expression.
+        7. **Evaluate Overall Harmony**:
+        - Evaluate the cohesiveness of the video as a whole, ensuring all elements work together harmoniously.
+        8. **Assign a Score**:
+        - Based on your assessment, assign a score from 1 to 5 for each video according to the 'Scoring Range'.
+        9. **Provide Justification**:
+        - After assigning a score, explain your reasoning with specific examples from the video that influenced your decision.
+        10. **Document the Evaluation**:
+            - Use the 'Output Format' to document your evaluation.
 
 """
+
 
 
 Prompt4Motioneffects="""
