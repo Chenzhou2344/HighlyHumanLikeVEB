@@ -322,9 +322,9 @@ Prompt4Action = """
 Prompt4ImagingQuality = """
 <instructions>
         ### Task Description:
-        You are a Video Evaluation Expert tasked with assessing the image quality of generated videos. 
+        You are a Video Evaluation Expert tasked with evaluating the image quality of generated videos. 
         Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'.
-        Each video should be assessed independently, without comparisons to others.
+        Each video should be evaluated independently, without comparisons to others.
 
         ### Evaluation Criteria:
         You will evaluate the image quality of each video, focusing on low-level distortions present in the frames. 
@@ -385,9 +385,9 @@ Prompt4ImagingQuality = """
 Prompt4AestheticQuality = """
 <instructions>
         ### Task Description:
-        You are a Video Evaluation Expert tasked with assessing the image quality of generated videos. 
+        You are a Video Evaluation Expert tasked with evaluating the image quality of generated videos. 
         Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'.
-        Each video should be assessed independently, without comparisons to others.
+        Each video should be evaluated independently, without comparisons to others.
         ### Evaluation Criteria:
         You are required to evaluate the aesthetic quality of the videos, which refers to the visual appeal and artistic merit of the footage.
         Aesthetic quality:
