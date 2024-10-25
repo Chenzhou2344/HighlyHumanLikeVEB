@@ -322,8 +322,8 @@ Prompt4Action = """
 Prompt4ImagingQuality = """
 <instructions>
         ### Task Description:
-        You are a Video Evaluation Expert tasked with evaluating the image quality of generated videos. 
-        Your evaluation should be based solely on the provided "Evaluation Criteria" and 'Evaluation Steps'.
+        You are now an Video Evaluation Expert in evaluating generated videos and need to evaluate the videos from different models.
+        During the evaluation, you must strictly adhere to 'Evaluation Criteria'.and 'Evaluation Steps'.
         Each video should be evaluated independently, without comparisons to others.
 
         ### Evaluation Criteria:
@@ -333,6 +333,10 @@ Prompt4ImagingQuality = """
         2. **Noise**: Evaluate the presence and level of noise in the video.
         3. **Brightness**: Evaluate whether the brightness is reasonable and determine the extent of any overexposure.
 
+        ### Important Notes:
+        1. Watermarks in the video should not negatively impact your evaluation.  
+        2. Text prompts should not influence your evaluation of image quality.
+        
         ### Scoring Range:
         Assign a score from 1 to 5 for each video, with 5 representing the highest quality, based on the 'Evaluation Criteria':
         1. **Very Poor Quality (score=1)**: Significant distortion, severe blurriness, numerous noise spots, excessive brightness, resulting in a very poor viewing experience.
@@ -344,8 +348,6 @@ Prompt4ImagingQuality = """
         ### Output Format:
         After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
         For four videos, the format is:
-        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
-
         <output format>  
         Final Scores:  
         - A: x, because ...  
@@ -354,31 +356,8 @@ Prompt4ImagingQuality = """
         - D: w, because ...  
         </output format>
 
-        <example>
-        Final Scores:
-        - gen2: x , because ...
-        - sora: y, because ...
-        - T2V: z, because ...
-        - videocrafter1: w, because...
-        </example>
-
-        ### Evaluation Steps:
-        1. **Understand the Task**:
-        - Familiarize yourself with the purpose of the evaluation: to assess the image quality of generated videos based on the given criteria.
-        2. **Review the Video**:
-        - Watch the video carefully to observe the visual elements and quality.
-        3. **Evaluate Clarity**:
-        - Determine if the video is clear and free from significant blurriness.
-        4. **Evaluate Noise**:
-        - Analyze the presence of noise in the video and its impact on overall quality.
-        5. **Evaluate Brightness**:
-        - Evaluate if the brightness is reasonable and note any instances of overexposure.
-        6. **Assign a Score**:
-        - Based on your assessment, assign a score from 1 to 5 for each video according to the 'Scoring Range'.
-        7. **Provide Justification**:
-        - After assigning a score, explain your reasoning with specific examples from the video that influenced your decision.
-        8. **Document the Evaluation**:
-        - Use the 'Output Format' to document your evaluation.
+        A,B,C,D are the names of the video-generated models.
+        How many score lines in this format is up to how many videos input.
 
 """
 
