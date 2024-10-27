@@ -1,81 +1,697 @@
 {
-    "0": {},
-    "3": {},
-    "6": {},
-    "9": {},
-    "12": {},
-    "15": {},
-    "18": {},
-    "21": {},
-    "24": {},
-    "27": {},
-    "30": {},
-    "33": {},
-    "36": {},
-    "39": {},
-    "42": {},
-    "45": {},
-    "48": {},
-    "51": {},
-    "54": {},
-    "57": {},
-    "60": {},
-    "63": {},
-    "66": {},
-    "69": {},
-    "72": {},
-    "75": {},
-    "78": {},
-    "81": {},
-    "84": {},
-    "87": {},
-    "90": {},
-    "93": {},
-    "96": {},
-    "99": {},
-    "102": {},
-    "105": {},
-    "108": {},
-    "111": {},
-    "114": {},
-    "117": {},
-    "120": {},
-    "123": {},
-    "126": {},
-    "129": {},
-    "132": {},
-    "135": {},
-    "138": {},
-    "141": {},
-    "144": {},
-    "147": {},
-    "150": {},
-    "153": {},
-    "156": {},
-    "159": {},
-    "162": {},
-    "165": {},
-    "168": {},
-    "171": {},
-    "174": {},
-    "177": {},
-    "180": {},
-    "183": {},
-    "186": {},
-    "189": {},
-    "192": {},
-    "195": {},
-    "198": {},
-    "201": {},
-    "204": {},
-    "207": {},
-    "210": {},
-    "213": {},
-    "216": {},
-    "219": {},
-    "222": {},
-    "225": {},
-    "228": {},
+    "0": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the bicycle is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently red throughout all frames, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies in color.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bicycle is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the bicycle is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the bicycle is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bicycle is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies."
+    },
+    "3": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the bicycle is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly placed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently green throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bicycle is consistently green throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bicycle is consistently green throughout all frames, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the bicycle is consistently green throughout all frames, matching the prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bicycle is consistently green throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "6": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the bicycle is consistently blue throughout the video, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies in color. The appearance of the bicycle is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently blue throughout all frames, matching the prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bicycle is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies in color.",
+        "pika": "Final Scores:\n- Pika: 3, because the bicycle is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies. The blue color is clearly the main color of the bicycle, and it stands out against the background.",
+        "show1": "Final Scores:\n- A: 3, because the bicycle is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bicycle is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "9": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the bicycle is consistently yellow throughout all frames, matching the text prompt. The color distribution is correct, with no abrupt changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies in color. The appearance is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bicycle is consistently yellow throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bicycle is consistently yellow throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the bicycle is consistently yellow throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bicycle is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "12": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the bicycle is consistently orange throughout the video, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies in color. The appearance of the bicycle is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently orange throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently orange throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bicycle is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bicycle is consistently orange throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the bicycle is consistently orange throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bicycle is consistently orange throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies."
+    },
+    "15": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the bicycle is consistently purple throughout the video, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies in color. The appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies in color.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bicycle is consistently purple throughout all frames, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bicycle is consistently purple throughout all frames, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 2, because the bicycle is purple, matching the prompt, but the background also has a lot of purple, which causes color confusion. The purple color is not isolated to the bicycle, making it difficult to distinguish the object from the background.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bicycle is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "18": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the bicycle is consistently pink throughout the frames, matching the text prompt. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently pink throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently pink throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bicycle is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the pink color is consistently applied to the bicycle throughout all frames. The color distribution is correct, with no sudden changes or inconsistencies, and the pink is clearly the main color of the bicycle, matching the prompt well.",
+        "show1": "Final Scores:\n- A: 3, because the color of the bicycle is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bicycle is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "21": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 2, because the video shows a black bicycle, which matches the prompt. However, there are issues with color stability and clarity in some frames. The bicycle appears distorted and blends into the background in certain frames, causing moderate consistency issues.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently black throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bicycle is consistently black throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bicycle, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bicycle is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bicycle is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the bicycle is consistently black throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bicycle is consistently black throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "24": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the bicycle is consistently white throughout the video, matching the prompt. The color distribution is correct, with no abrupt changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bicycle is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 1, because the bicycle in the frames is not white, which does not match the prompt. The color is predominantly dark, and there is no indication of a white bicycle throughout the frames.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bicycle is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bicycle is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the bicycle is consistently white throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bicycle is consistently white throughout the frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies."
+    },
+    "27": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the car is consistently red throughout all frames, matching the prompt. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies. The appearance of the car is realistic and visually pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the car is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies in color. The appearance of the car is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the car is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the car is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the car is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the car is consistently red throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "30": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the car is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the car is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the car is consistently green throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the car is reasonable and does not cause any discomfort.",
+        "pika": "Final Scores:\n- Pika: 3, because the car is consistently green throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the car is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the car is consistently green throughout all frames, matching the prompt. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies."
+    },
+    "33": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the car is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the car is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently blue throughout all frames, matching the text prompt. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the car is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the car is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the car is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the car is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "36": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the car is consistently yellow throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the car is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the car is consistently yellow throughout all frames, the color is stable, and the distribution is correct with no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the car is consistently yellow throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the car is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the car is consistently yellow throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "39": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the color of the car is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the car is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the car is consistently orange throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the car is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The orange color is clearly distinguishable from the background, maintaining good visibility and consistency.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the car is consistently orange throughout all frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the car's appearance is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the car is consistently orange throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the car is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies in color.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the car is consistently orange throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "42": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the car is consistently purple throughout the video, matching the text prompt. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies in color. The appearance of the car is reasonable and visually pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the car is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the car is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The purple color is clearly on the car, and the appearance is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the car is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the car is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the car is consistently purple throughout all frames, the color is stable, and the distribution is correct without any sudden changes or inconsistencies."
+    },
+    "45": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the car is consistently pink throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies in color.",
+        "kling": "Final Scores:\n- Kling: 3, because the car is consistently pink throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently pink throughout all frames, matching the text prompt. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies in color.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the car is consistently pink throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the car is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the car is consistently pink throughout all frames, matching the text prompt perfectly. There are no abrupt changes in color, and the color distribution is correct and stable.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the car is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "48": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the car is consistently black throughout the video. The color distribution is correct, with no sudden changes or inconsistencies. The black color is stable and accurately represented on the car, matching the text prompt perfectly.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the car is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently black throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies in color.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the car is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 1, because the car is silver instead of black, which does not match the prompt. The color is consistent throughout the frames, but it is not the correct color specified in the prompt.",
+        "show1": "Final Scores:\n- A: 3, because the color of the car is consistently black throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the car is consistently black throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "51": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the car is consistently white throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the car, and there are no abrupt changes or inconsistencies in color. The appearance of the car is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the car is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the car is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the car's appearance is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the car is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the car is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the car is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the car is consistently white throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "54": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the bird is consistently red throughout the video, matching the prompt. The red is vibrant and correctly placed on the bird, with no abrupt changes or inconsistencies in color. The structure of the bird is reasonable and visually pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the video consistently depicts a red bird throughout all frames. The color is stable, accurately placed on the bird, and there are no abrupt changes or inconsistencies. The appearance of the bird is realistic and visually pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bird is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the red color is clearly on the bird, making it distinct from the background.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bird is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies. The background does not interfere with the color of the bird.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the birds is consistently red throughout all frames, matching the prompt. The color distribution is correct, and there are no sudden changes or inconsistencies in color. The red color is clearly on the birds, and the appearance is pleasing and realistic.",
+        "show1": "Final Scores:\n- Show1: 3, because the bird is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bird is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies."
+    },
+    "57": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the video consistently depicts a green bird throughout all frames. The color is stable and accurately placed on the bird, matching the prompt without any abrupt changes or inconsistencies. The background does not interfere with the color of the bird, maintaining clarity and focus on the subject.",
+        "kling": "Final Scores:\n- Kling: 3, because the bird is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bird is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bird is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bird is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bird is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the bird is consistently green throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The background is also green, but it does not interfere with the identification of the bird.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bird is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies."
+    },
+    "60": {
+        "cogvideox5b": "Final Scores:\n- Cogvideo: 2, because the bird is consistently blue, matching the prompt, but there are some frames where the bird's color blends into the background, making it less distinct. Additionally, the presence of orange on the bird introduces some color confusion. The color is generally stable, but not perfectly aligned with the prompt.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bird is consistently blue throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bird is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bird is consistently blue throughout the frames, matching the prompt. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies. The background does not interfere with the color perception of the bird.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bird is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the video features a bird with blue elements, but the overall appearance includes a significant amount of other colors, such as orange and silver, which dominate the frame. The blue is present but not the main focus, leading to moderate consistency with the prompt.",
+        "show1": "Final Scores:\n- A: 3, because the color of the bird is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bird is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "63": {
+        "cogvideox5b": "Final Scores:\n- Cogvideo: 3, because the color of the bird is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bird is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bird is consistently yellow throughout the frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bird is consistently yellow throughout the video, matching the prompt perfectly. The color distribution is correct, with no abrupt changes or inconsistencies, and the bird's appearance is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bird is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the yellow bird is consistently depicted with the correct color throughout all frames. The color distribution is accurate, with no sudden changes or inconsistencies. The background colors do not interfere with the bird's color, maintaining a clear distinction.",
+        "show1": "Final Scores:\n- Show1: 3, because the bird is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies.",
+        "lavie": "I'm unable to evaluate the video frames directly. However, based on the description of the frames, I can provide an evaluation.\nFinal Scores:\n- Lavie: 3, because the bird is consistently yellow throughout the frames, matching the prompt. The color distribution is correct, and there are no sudden changes or inconsistencies in color."
+    },
+    "66": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the bird is consistently orange throughout the video, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bird is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bird is consistently orange throughout the video, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bird is consistently orange throughout the video, matching the prompt. The color distribution is correct, with no abrupt changes or inconsistencies. The appearance of the bird is realistic and visually pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the birds is consistently orange throughout the frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the birds is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the bird is consistently orange throughout the video, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies in color. The appearance of the bird is reasonable and visually pleasing.",
+        "show1": "Final Scores:\n- Show1: 3, because the bird is consistently orange throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is pleasing and realistic.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bird is consistently orange throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies."
+    },
+    "69": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the bird is consistently purple throughout the video, matching the text prompt. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies in color. The appearance of the bird is reasonable and visually pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bird consistently appears purple throughout the frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bird is realistic and visually pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bird is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bird is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bird is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies. The background complements the bird without causing any color confusion.",
+        "show1": "Final Scores:\n- A: 3, because the bird is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bird is reasonable and pleasing.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bird is consistently purple throughout all frames, matching the text prompt. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies."
+    },
+    "72": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 2, because the bird is predominantly pink, which matches the prompt. However, there are noticeable areas of other colors, such as green and blue, on the bird's wings and back. This color inconsistency affects the overall accuracy, leading to a moderate consistency score.",
+        "kling": "Final Scores:\n- Kling: 3, because the bird is consistently pink throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the bird, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bird is consistently pink throughout the video, matching the text prompt. The color distribution is correct, with no abrupt changes or inconsistencies. The appearance of the bird is realistic and pleasing, with no issues causing psychological discomfort.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bird is consistently pink throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bird is reasonable and pleasing.",
+        "pika": "Final Scores:\n- Pika: 2, because the birds have a mix of pink and blue, with pink primarily on their heads. While the pink is present, it is not the dominant color as suggested by the prompt. The color distribution is consistent across frames, but the blue is more prominent, which affects the overall consistency with the prompt.",
+        "show1": "Final Scores:\n- A: 3, because the bird is consistently pink throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "I'm unable to evaluate the video frames directly. However, based on the description of the frames, I can provide an evaluation:\nFinal Scores:\n- Lavie: 3, because the bird is consistently pink throughout the frames, matching the prompt. The color distribution is correct, and there are no sudden changes or inconsistencies in color."
+    },
+    "75": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the bird is consistently black throughout the video, matching the prompt. The color distribution is correct, with no abrupt changes or inconsistencies, and the bird's appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the bird is consistently black throughout the frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies in color. The appearance of the bird is realistic and does not cause any discomfort.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the video starts with a black bird, which matches the prompt, but as the frames progress, the bird's color changes to a lighter shade, losing the consistency with the prompt. The color distribution is initially correct, but there is instability and fluctuation in the color towards the end.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bird is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies. The background does not interfere with the bird's color, maintaining clarity and focus on the subject.",
+        "pika": "Final Scores:\n- Pika: 2, because the bird is mostly black, which aligns with the prompt. However, there are noticeable areas of lighter colors, such as gray and brown, which detract from the overall consistency. The color distribution is not entirely accurate for a \"black bird,\" leading to moderate consistency.",
+        "show1": "Final Scores:\n- Show1: 3, because the bird is consistently black throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The appearance is realistic and pleasing.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bird is consistently black throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies."
+    },
+    "78": {
+        "cogvideox5b": "Final Scores:\n- Cogvideo: 3, because the bird is consistently white throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the bird stands out clearly against the background.",
+        "kling": "Final Scores:\n- Kling: 3, because the bird is consistently white throughout the frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies in color. The appearance of the bird is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the bird is mostly white, but there are some inconsistencies with the color distribution. The wings and body have darker shades, which may not fully align with the prompt of a \"white bird.\" The color is not entirely stable, as there are slight variations in shading throughout the frames.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bird is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the bird is predominantly white, which matches the prompt, but there are noticeable black and brown markings. The color distribution is not entirely consistent with the prompt of a \"white bird,\" as these additional colors are prominent. However, the color remains stable throughout the frames.",
+        "show1": "Final Scores:\n- Show1: 3, because the bird is consistently white throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The background does not interfere with the bird's color, maintaining good color consistency.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bird is consistently white throughout the frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies."
+    },
+    "81": {
+        "cogvideox5b": "Final Scores:\n- CogVideoX5B: 3, because the color of the cat is consistently black throughout the video, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The black color is stable and appropriately applied to the cat, maintaining a realistic and pleasing appearance.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the cat is consistently black throughout the video, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the cat is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the cat is consistently black throughout the video, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the cat is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the cat is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the black cat is consistently depicted throughout the frames, with stable color distribution and no abrupt changes. The color is accurately placed on the cat, matching the prompt well.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the cat is consistently black throughout all frames, matching the prompt perfectly. There are no abrupt changes in color, and the color distribution is correct and stable.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the cat is consistently black throughout the frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies."
+    },
+    "84": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the cat is consistently white throughout the video, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the cat is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the cat is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies. The appearance of the cat is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the cat is not entirely white; it has noticeable orange and brown markings, which do not match the prompt of a \"white cat.\" The color distribution is consistent throughout the video, but the primary color is not accurate to the prompt.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the cat is consistently white throughout the frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the cat is consistently white throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the cat is consistently white throughout all frames, matching the prompt perfectly. There are no abrupt changes in color, and the color distribution is correct and stable.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the cat is consistently white throughout the frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The background does not interfere with the color of the cat."
+    },
+    "87": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the color of the cat is consistently orange throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the cat is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the cat is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the cat is consistently orange throughout the video, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The appearance of the cat is realistic and pleasing, with no issues causing discomfort.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the cat is consistently orange throughout the frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies. The appearance of the cat is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the cat is consistently orange throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the cat is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the cat is highly consistent with the text prompt. The orange color is stable throughout the frames, correctly distributed on the cat, and there are no abrupt changes or inconsistencies in color."
+    },
+    "90": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the cat is consistently yellow throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the cat is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the cat is consistent with the prompt, appearing as a yellowish-orange throughout the video. The color distribution is stable, and there are no abrupt changes or inconsistencies. The appearance of the cat is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the cat appears to have a mix of yellow and other colors, such as brown and black stripes. While the yellow is present, it is not the dominant color, leading to color confusion. The color distribution is not entirely consistent with the prompt of a \"yellow cat.\"",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the cat is consistently yellow throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the cat is consistently yellow throughout the frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies in color.",
+        "show1": "Final Scores:\n- Show1: 1, because the cat itself is not yellow; instead, the background is yellow. The color does not match the prompt, which specifies a yellow cat.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the cat is consistently yellow throughout all frames, matching the text prompt. The color distribution is correct, and there are no sudden changes or inconsistencies in color."
+    },
+    "93": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the umbrella is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the umbrella is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the umbrella is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the red is clearly the main color of the umbrella.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the red umbrella is consistently depicted in all frames, with stable color distribution and no abrupt changes. The color is accurately placed on the umbrella, matching the prompt perfectly.",
+        "pika": "Final Scores:\n- Pika: 3, because the red umbrella is consistently depicted throughout the frames. The color is stable, correctly allocated to the umbrella, and there are no abrupt changes or inconsistencies. The scene is visually pleasing and matches the prompt well.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the umbrella is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the umbrella is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "96": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the umbrella is consistently green throughout all frames. The color distribution is correct, with no abrupt changes or inconsistencies. The green color is stable and accurately represents the prompt.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the umbrella is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the umbrella is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the umbrella is consistently green throughout all frames, matching the text prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the umbrella is consistently green throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the umbrella is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the umbrella is consistently green throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies."
+    },
+    "99": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the umbrella is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The blue is clearly on the umbrella, and the appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the umbrella is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the umbrella is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the blue umbrella is consistently colored throughout all frames, the color distribution is correct, and there are no sudden changes or inconsistencies in color. The blue color is accurately represented on the umbrella, matching the text prompt well.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the umbrella is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the umbrella is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 1, because the umbrella is black instead of blue, which does not match the text prompt. The background is blue, but the color is not on the correct object."
+    },
+    "102": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the yellow umbrella is consistently depicted throughout the frames. The color is stable, correctly allocated to the umbrella, and matches the prompt without any abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the umbrella is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the umbrella is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the yellow color of the umbrella is consistent with the text prompt, remains stable throughout the video, and is correctly applied to the umbrella without any abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the umbrella is predominantly yellow, which matches the prompt. However, the design includes additional colors and patterns that may distract from the main color focus. The color is stable throughout the frames, but the presence of other colors and patterns slightly reduces the consistency with the prompt.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the umbrella is consistently yellow throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the umbrella is consistently yellow throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "105": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the umbrella is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the orange is clearly distinguishable from the background.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the umbrella is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the umbrella is consistently orange throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the umbrella is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the orange umbrella is consistently depicted with the correct color throughout all frames. The color distribution is accurate, and there are no sudden changes or inconsistencies in color. The orange is clearly the main color and matches the prompt well.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the umbrella is consistently orange throughout all frames, matching the text prompt perfectly. There are no abrupt changes in color, and the color distribution is correct and stable.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the umbrella is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "108": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the umbrella is consistently purple throughout the video. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the umbrella is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the umbrella is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the umbrella is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the purple umbrella is consistently depicted in all frames, with stable color distribution and no abrupt changes. The color is accurately placed on the umbrella, matching the text prompt perfectly.",
+        "pika": "Final Scores:\n- Pika: 3, because the umbrella is consistently purple throughout all frames, matching the text prompt. The color is stable, correctly placed on the umbrella, and there are no abrupt changes or inconsistencies in color.",
+        "show1": "Final Scores:\n- A: 3, because the umbrella is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the umbrella is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "111": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the umbrella is consistently pink throughout the video, matching the text prompt. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 1, because the frames do not clearly show a pink umbrella. The object in the sky is not distinctly pink, and the color consistency with the prompt is poor. The pink color is not prominent or stable throughout the video, and the object is difficult to identify as an umbrella.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the umbrella is consistently pink throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the umbrella, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the umbrellas is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is visually pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the umbrellas are consistently pink throughout the video, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the pink color is clearly the main focus.",
+        "show1": "Final Scores:\n- Show1: 2, because the umbrella is predominantly pink, which matches the prompt. However, there is a noticeable white section on the umbrella, indicating color confusion. The pink color is consistent throughout the frames, but the presence of white affects the overall color accuracy.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the umbrella is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "114": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 2, because the umbrella appears dark, but it has a bluish tint rather than pure black. The color is consistent throughout the video, but the hue is not entirely accurate to the prompt.",
+        "kling": "Final Scores:\n- Kling: 3, because the umbrella is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the umbrella is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the umbrella is realistic and does not cause any discomfort.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the umbrella is consistently black throughout the video, matching the text prompt. The color distribution is correct, and there are no sudden changes or inconsistencies in color. The black umbrella is clearly distinguishable from the background.",
+        "pika": "Final Scores:\n- Pika: 2, because the umbrella is primarily black, which matches the prompt, but the presence of white stripes introduces color confusion. The black is not the sole color, and the stripes occupy a significant area, affecting the overall consistency with the prompt.",
+        "show1": "Final Scores:\n- Show1: 3, because the umbrella is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the umbrella is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "117": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the umbrella is consistently white throughout the video, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the umbrella remains the main focus without blending into the background.",
+        "kling": "Final Scores:\n- Kling: 3, because the video consistently shows a white structure resembling an umbrella. The color is stable throughout the frames, correctly placed on the object, and there are no abrupt changes or inconsistencies in color.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the umbrella consistently appears white throughout the video, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the umbrella is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the video consistently depicts a white umbrella throughout all frames. The color is stable, correctly distributed, and matches the prompt without any sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the umbrella is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the umbrella is consistently white throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "120": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the suitcase is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the suitcase is clearly distinguishable from the background.",
+        "kling": "Final Scores:\n- Kling: 2, because the video maintains a consistent red color for the suitcase, which matches the prompt. However, there is a noticeable distortion in one of the frames, causing a sudden change in appearance. The color remains stable, but the distortion affects the overall consistency.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the suitcase is consistently red throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 2, because the suitcase has red elements, but the main body is white, which does not fully match the prompt of a \"red suitcase.\" The color distribution is incorrect, as the red is not the dominant color.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the suitcase is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the suitcase is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the suitcase is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies."
+    },
+    "123": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the suitcase is consistently green throughout all frames, matching the prompt. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the suitcase is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the suitcase is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- A: 3, because the color of the suitcase is consistently green throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the suitcase is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the suitcase is consistently green throughout all frames, matching the prompt. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the suitcase is consistently green throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "126": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the suitcase is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies in color.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the suitcase is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the suitcase is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the suitcase is realistic and does not cause any discomfort.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the suitcase is consistently blue throughout all frames, with no abrupt changes in color. The color is correctly applied to the suitcase, matching the prompt accurately.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the suitcase is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the suitcase is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the suitcase is consistently blue throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies."
+    },
+    "129": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the suitcase is consistently yellow throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies in color. The appearance of the suitcase is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the suitcase is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the video shows a yellow suitcase, but the yellow color is not consistently prominent throughout the frames. The suitcase is mostly black, with only a small portion being yellow. The color distribution is not ideal, as the yellow is not the main focus, which leads to moderate consistency with the prompt.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the suitcase is consistently yellow throughout all frames, the color distribution is correct, and there are no sudden changes or inconsistencies in color. The appearance of the suitcase is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 2, because the suitcase itself is not yellow; only the handle is yellow. The main body of the suitcase is a different color, which does not fully match the prompt. The color distribution is incorrect, as the yellow should be the main color of the suitcase.",
+        "show1": "Final Scores:\n- A: 1, because the suitcase is not yellow as specified in the prompt. The suitcase is purple, and the background is yellow, which indicates incorrect color allocation. The color of the suitcase does not match the prompt at all.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the suitcase is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies."
+    },
+    "132": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the color of the suitcase is consistently orange throughout the video, matching the text prompt. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the suitcase is consistently orange throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the video starts with an orange suitcase, which matches the prompt. However, as the frames progress, the focus shifts to a black section of the suitcase, which occupies a significant portion of the video. This results in moderate color consistency, as the orange is not consistently the main focus throughout the video.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the suitcase is consistently orange throughout all frames, the color distribution is correct, and there are no sudden changes or inconsistencies in color. The appearance of the suitcase is realistic and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the suitcase is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the suitcase is consistently orange throughout all frames, matching the text prompt perfectly. There are no abrupt changes in color, and the color distribution is correct and stable.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the suitcase is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "135": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the color of the suitcase is consistently purple throughout the video, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The suitcase appears realistic and does not cause any psychological discomfort.",
+        "kling": "Final Scores:\n- Kling: 3, because the suitcase is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the suitcase is consistently purple throughout all frames. The color distribution is correct, with no sudden changes or inconsistencies. The appearance of the suitcase is realistic and visually pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the suitcase is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the suitcase is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the suitcase is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the suitcase is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "138": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the suitcase is consistently pink throughout all frames, matching the prompt perfectly. The color is stable, correctly placed on the suitcase, and there are no abrupt changes or inconsistencies. The scene is realistic and visually pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the suitcase is consistently pink throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the suitcase is consistently pink throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies in color.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the suitcase is consistently pink throughout all frames, the color distribution is correct, and there are no sudden changes or inconsistencies in color. The appearance of the suitcase is reasonable and pleasing.",
+        "pika": "Final Scores:\n- Pika: 2, because the suitcase appears more purple than pink, which does not perfectly match the prompt. The color is consistent throughout the frames, but the hue is not accurately aligned with the specified pink.",
+        "show1": "Final Scores:\n- A: 3, because the color of the suitcase is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the suitcase is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "141": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the color of the suitcase is consistently black throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the suitcase is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the suitcase is consistently black throughout all frames, matching the prompt. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the suitcase is consistently black throughout all frames, with no abrupt changes in color. The color is correctly applied to the suitcase, matching the prompt accurately.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the suitcase is consistently black throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the suitcase is consistently black throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the suitcase is consistently black throughout all frames, with no abrupt changes in color. The color is correctly applied to the suitcase, matching the prompt perfectly."
+    },
+    "144": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the suitcase is consistently white throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the suitcase, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the suitcase is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the suitcase is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 2, because the suitcase is primarily white, which matches the prompt, but there are significant blue sections that are not mentioned in the prompt. The color distribution is not entirely consistent with the prompt, as the blue occupies a large area.",
+        "pika": "Final Scores:\n- Pika: 3, because the suitcase is consistently white throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the suitcase is consistently white throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the suitcase is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "147": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the bowl is consistently red throughout the video, matching the prompt. The color distribution is correct, with no abrupt changes or inconsistencies. The red color is stable and clearly visible on the bowl, fulfilling the prompt requirements effectively.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bowl is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 2, because the bowl has red elements, but the primary color is white with red accents. The red is not the main color, which does not fully align with the prompt of \"a red bowl.\" The color distribution is consistent throughout the frames, but the red is not dominant.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the bowl is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the bowl is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "150": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the bowl is consistently green throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bowl is consistently green throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bowl is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bowl is highly consistent with the text prompt. The green color is stable throughout the frames, correctly distributed on the bowl, and there are no abrupt changes or inconsistencies in color. The appearance of the bowl is reasonable and visually pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the bowl is consistently green throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the bowl is consistently green throughout all frames, matching the prompt perfectly. There are no abrupt changes in color, and the color distribution is correct and stable.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently green throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "153": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the bowl is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bowl is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bowl is consistently blue throughout all frames, with no abrupt changes in color. The blue color is correctly applied to the bowl, matching the text prompt accurately.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the bowl is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the bowl is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently blue throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "156": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the bowl is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently yellow throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bowl is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bowl is realistic and visually pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the bowl is consistently yellow throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the bowl is predominantly brown with some yellow tones, which does not fully match the prompt of a \"yellow bowl.\" The color is consistent throughout the frames, but the primary color is not yellow, leading to moderate consistency.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the bowl is consistently yellow throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently yellow throughout all frames, matching the text prompt. The color distribution is correct, and there are no sudden changes or inconsistencies in color."
+    },
+    "159": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the color of the bowl is consistently orange throughout all frames, matching the text prompt perfectly. The color is stable, correctly allocated to the bowl, and there are no abrupt changes or inconsistencies. The appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 2, because the bowl itself is not orange, which is inconsistent with the prompt. The oranges are correctly colored, but the main object (the bowl) does not match the specified color. The color distribution is stable, but the prompt's requirement is not fully met.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bowl is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is stable, and there are no abrupt changes or inconsistencies. The appearance of the bowl is realistic and visually pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 1, because the frames depict oranges instead of an orange bowl. The color is consistent with the prompt, but the object itself is incorrect, leading to poor consistency with the text prompt.",
+        "pika": "Final Scores:\n- Pika: 2, because the bowl has an orange hue, but it is mixed with other colors like white, which occupy a significant area. The color is not purely orange, leading to moderate consistency with the prompt.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the bowl is consistently orange throughout all frames. The color distribution is correct, stable, and matches the text prompt without any abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently orange throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "162": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the bowl is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bowl is consistently purple throughout the video. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bowl is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bowl is reasonable and visually pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the bowl is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the bowl is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "165": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the bowl is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bowl is reasonable and visually pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the bowl is consistently pink throughout all frames, matching the prompt. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bowl is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the bowl is consistently pink throughout all frames, matching the prompt. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the bowl is consistently pink throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "168": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the bowl is consistently black throughout all frames, matching the prompt perfectly. There are no abrupt changes in color, and the color is correctly applied to the object.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently black throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance of the bowl is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bowl is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bowl is consistently black throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the video consistently depicts a black bowl with intricate designs. The color is stable throughout all frames, and the black color is correctly applied to the bowl, matching the prompt without any abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the bowl is consistently black throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the bowl is consistently black throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies."
+    },
+    "171": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the bowl is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the bowl is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the bowl is realistic and pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the bowl is consistently white throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the bowl is consistently white throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the bowl is primarily white, which matches the prompt, but there are noticeable brown decorative patterns. The color distribution is mostly correct, but the additional colors slightly detract from the prompt's specificity of a \"white bowl.\" The color remains stable throughout the frames.",
+        "show1": "Final Scores:\n- A: 3, because the bowl is consistently white throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the bowl is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "174": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the chair is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the red color is clearly on the chair as intended.",
+        "kling": "Final Scores:\n- Kling: 3, because the chair is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the chair is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The chair's appearance is realistic and visually pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the chair is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the chair is predominantly red, which matches the prompt. However, the seat and backrest are blue, which is not consistent with the prompt of a fully red chair. The red color is stable and correctly placed on the frame, but the presence of blue affects the overall color consistency.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the chair is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 2, because the video starts with a red chair, which matches the prompt. However, the chair quickly becomes indistinguishable as the frames progress, blending into the red background. This results in color confusion and makes it difficult to identify the object consistently throughout the video."
+    },
+    "177": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the color of the chair is consistently green throughout all frames, matching the text prompt. The color distribution is correct, with no abrupt changes or inconsistencies, and the appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the chair is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the chair is consistently green throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the chair is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the chair is consistently green throughout all frames, the color is stable, and the distribution is correct without any abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the chair is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 2, because the chairs are green, matching the prompt, but the color blends into the background, making it difficult to distinguish the chairs clearly. The color distribution is correct, but the lack of contrast affects the overall clarity.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the chair is consistently green throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "180": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the chair is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the chair is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the chair is consistently blue throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the chair is consistently blue throughout all frames, the color distribution is correct, and there are no sudden changes or inconsistencies in color. The appearance of the chair is reasonable and pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the chair is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the chair is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the chair is consistently blue throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies."
+    },
+    "183": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the color of the chair is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The chair's appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the chair consistently appears in a bright yellow color throughout the video. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies in color. The background changes do not affect the color consistency of the chair itself.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the chair is consistently yellow throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the yellow chair is consistently depicted in all frames, with stable color distribution and no abrupt changes. The color is accurately placed on the chair, matching the text prompt perfectly.",
+        "pika": "Final Scores:\n- Pika: 2, because the chair is primarily yellow, which matches the prompt. However, the seat cushion is green, which introduces some color inconsistency. The yellow color is stable throughout the video, but the presence of green affects the overall consistency with the prompt.",
+        "show1": "Final Scores:\n- Show1: 3, because the chair is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the object, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the chair is consistently yellow throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "186": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the color of the chair is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 2, because the chair is consistently orange, matching the prompt. However, there is a sudden change in background color in some frames, which affects the overall consistency. The chair itself remains correctly colored throughout.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the chair is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies, and the chair's appearance is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the chair is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the chairs are more red than orange, which does not perfectly match the prompt. The color is consistent throughout the frames, but the hue is not accurately represented as orange.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the chair is consistently orange throughout all frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the chair stands out against the background.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the chair is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "189": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the chair is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the chair is consistently purple throughout all frames, matching the text prompt. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the chair is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the chair is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the chair is reasonable and visually pleasing.",
+        "pika": "Final Scores:\n- Pika: 3, because the chair is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the chair is consistently purple throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the chair is consistently purple throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "192": {
+        "cogvideox5b": "Final Scores:\n- CogVideo: 3, because the chair consistently appears in a vibrant pink color throughout all frames, matching the prompt. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the chair is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, with no abrupt changes or inconsistencies, and the chair's appearance is reasonable and visually pleasing.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the chair is consistently pink throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the chair, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- VideoCrafter2: 3, because the color of the chair is consistently pink throughout all frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the pink color is clearly the main color of the chair.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the chairs is consistently pink throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the pink color is clearly the main focus without blending into the background.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the chair is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the chair is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies."
+    },
+    "195": {
+        "cogvideox5b": "Final Scores:\n- Cogvideox5b: 3, because the color of the chair is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the chair is realistic and does not cause any discomfort.",
+        "kling": "Final Scores:\n- Kling: 3, because the video consistently shows a black chair that matches the prompt. The color is stable throughout the frames, and the chair is clearly visible without any abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the chair appears to be a very dark shade, but it leans more towards a dark blue or gray rather than pure black. The color is consistent throughout the frames, but it does not perfectly match the prompt of a \"black chair.\"",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the chair is consistently black throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the black chair is consistently depicted in all frames, matching the prompt. The color is stable, correctly allocated, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the chair is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies in color.",
+        "lavie": "Final Scores:\n- Lavie: 1, because the chair is not consistently black throughout the frames. The color changes to a brownish tone, which does not match the prompt of a black chair. The color distribution is incorrect, and there are abrupt changes in color."
+    },
+    "198": {
+        "cogvideox5b": "Final Scores:\n- CogVideoX5B: 3, because the color of the chair is consistently white throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the chair appears realistic and well-structured.",
+        "kling": "Final Scores:\n- Kling: 3, because the chair is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the chair is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the chair is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the chair is consistently white throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The structure of the chair is reasonable and visually pleasing.",
+        "pika": "Final Scores:\n- Pika: 2, because the chair is predominantly white, which matches the prompt. However, the seat cushion has a brown pattern that is not mentioned in the prompt, leading to moderate consistency. The color distribution is stable, but the additional colors on the cushion slightly detract from the overall consistency with the prompt.",
+        "show1": "Final Scores:\n- A: 3, because the chair is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the chair is consistently white throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "201": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the clock is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the clock is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the clock is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the clock, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the clock is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the clock is consistently red throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the color of the clock is consistently red throughout all frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 2, because the video shows a consistent red color, which matches the prompt. However, the frames lack clear clock features such as hands or numbers, making it difficult to identify the object as a clock."
+    },
+    "204": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the clock is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly placed on the object, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the clock is consistently green throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the clock is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies in color.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the clock is consistently green throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the clock is consistently green throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- A: 3, because the clock is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the clock is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies."
+    },
+    "207": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the clock is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the clock, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the clock is consistently blue throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the clock, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the clock is consistently blue throughout all frames. The color distribution is correct, with no abrupt changes or inconsistencies. The appearance of the clock is realistic and visually pleasing, matching the prompt well.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the clock is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the video consistently depicts a blue clock throughout all frames. The color is stable, accurately placed on the clock, and there are no abrupt changes or inconsistencies in color. The design is visually pleasing and matches the prompt well.",
+        "show1": "Final Scores:\n- A: 3, because the color of the clock is consistently blue throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the clock is consistently blue throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "210": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the clock is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the clock is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the clock is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the clock is consistently yellow throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the clock is consistently yellow throughout all frames, matching the text prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the clock is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the clock is consistently yellow throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies."
+    },
+    "213": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the clock is consistently orange throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The appearance of the clock is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the clock is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the color of the clock is consistently orange throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the clock is consistently orange throughout all frames, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the clock is clearly distinguishable from the background.",
+        "pika": "Final Scores:\n- Pika: 3, because the clock is consistently orange throughout all frames, matching the prompt. The color is stable, correctly distributed on the clock, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the color of the clock is consistently orange throughout all frames, matching the text prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the clock is consistently orange throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The clock is clearly distinguishable from the background."
+    },
+    "216": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the clock is consistently purple throughout all frames, matching the text prompt. The color is stable, correctly distributed on the clock, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the clock is consistently purple throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the clock, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the clock consistently displays a purple hue throughout all frames. The color is stable, correctly applied to the clock face, and there are no abrupt changes or inconsistencies. The appearance is visually pleasing and aligns well with the prompt.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the clock is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the color of the clock is consistently purple throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the clock is consistently purple throughout all frames, matching the text prompt. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the clock is highly consistent with the text prompt. The purple color is stable throughout the video, and the color distribution is correct with no sudden changes or inconsistencies."
+    },
+    "219": {
+        "cogvideox5b": "Final Scores:\n- cogvideox5b: 3, because the clock is consistently pink throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the clock, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the color of the clock is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the clock is consistently pink throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the clock is realistic and pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the clock is consistently pink throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because the clock itself is not pink, which is the main focus of the prompt. The background and surrounding elements are pink, but the clock's color does not match the prompt. The color distribution is incorrect, as the pink is not on the clock itself.",
+        "show1": "Final Scores:\n- Show1: 3, because the clock is consistently pink throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 2, because the clock is predominantly white with pink hands and a pink background. While the pink color is present, it is not the main color of the clock itself, which should be pink according to the prompt. The color distribution is not entirely accurate, as the pink is more prominent in the background rather than on the clock."
+    },
+    "222": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the clock is consistently black throughout the video, matching the prompt. The color distribution is correct, and there are no abrupt changes or inconsistencies in color. The appearance of the clock is realistic and does not cause any discomfort.",
+        "kling": "Final Scores:\n- Kling: 3, because the video consistently depicts a black clock throughout all frames. The color is stable, correctly distributed, and matches the prompt without any abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the clock is consistently black throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the clock is consistently black throughout the frames, matching the prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 2, because while the clock is predominantly black, the presence of significant gold elements may detract from the prompt's focus on a \"black clock.\" The color distribution is not entirely consistent with the prompt, as the gold occupies a large area. However, the black color is present and stable throughout the frames.",
+        "show1": "Final Scores:\n- Show1: 3, because the clock is consistently black throughout the frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The appearance is stable and visually pleasing.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the clock is consistently black throughout all frames, matching the text prompt. The color distribution is correct, stable, and there are no sudden changes or inconsistencies."
+    },
+    "225": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the color of the clock is consistently white throughout the video, matching the text prompt. The color distribution is correct, with no sudden changes or inconsistencies. The clock's appearance is realistic and pleasing.",
+        "kling": "Final Scores:\n- Kling: 3, because the clock is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 2, because the clock is predominantly white, which matches the prompt. However, there are elements like the hands and some details that are not white, and the last few frames show a different clock with a metallic appearance, which deviates from the prompt. The color consistency is moderate, with some correct color allocation but also some inconsistencies.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 2, because the clock is mostly white, but the face is gray, which is not entirely consistent with the prompt. The color distribution is stable, but the gray face slightly detracts from the overall consistency with the prompt of a \"white clock.\"",
+        "pika": "Final Scores:\n- Pika: 3, because the clock is consistently white throughout the video, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies, and the clock stands out clearly against the background.",
+        "show1": "Final Scores:\n- Show1: 3, because the clock is consistently white throughout all frames, matching the prompt perfectly. The color distribution is correct, with no sudden changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 3, because the color of the clock is consistently white throughout all frames, matching the prompt. The color distribution is correct, with no sudden changes or inconsistencies. The clock's appearance is reasonable and does not cause discomfort."
+    },
+    "228": {
+        "cogvideox5b": "Final Scores:\n- A: 3, because the vase is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the vase, and there are no abrupt changes or inconsistencies.",
+        "kling": "Final Scores:\n- Kling: 3, because the vase is consistently red throughout all frames, matching the prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "gen3": "Final Scores:\n- Gen3: 3, because the vase consistently appears red throughout all frames, matching the prompt. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies. The appearance of the vase is realistic and visually pleasing.",
+        "videocrafter2": "Final Scores:\n- Videocrafter2: 3, because the color of the vase is consistently red throughout all frames, matching the text prompt perfectly. The color distribution is correct, stable, and there are no abrupt changes or inconsistencies.",
+        "pika": "Final Scores:\n- Pika: 3, because the vase is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the vase, and there are no abrupt changes or inconsistencies.",
+        "show1": "Final Scores:\n- Show1: 3, because the vase is consistently red throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed, and there are no abrupt changes or inconsistencies.",
+        "lavie": "Final Scores:\n- Lavie: 1, because the frames do not depict a vase. The color is consistent with the prompt, but the object itself is not recognizable as a vase, which is a significant deviation from the prompt."
+    },
     "231": {
         "cogvideox5b": "Final Scores:\n- A: 3, because the vase is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the vase, and there are no abrupt changes or inconsistencies.",
         "kling": "Final Scores:\n- Kling: 3, because the vase is consistently green throughout all frames, matching the prompt perfectly. The color is stable, correctly distributed on the vase, and there are no abrupt changes or inconsistencies.",
