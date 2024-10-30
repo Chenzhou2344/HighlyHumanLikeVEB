@@ -1,0 +1,10 @@
+{
+    "dataset_root_path": "D:\\MemeAgent\\VideoEvalAgent\\data\\",
+    "log_path_gpt": "D:\\MemeAgent\\VideoEvalAgent\\logs\\color-gpt-3.log",
+    "log_path_color": "D:\\MemeAgent\\VideoEvalAgent\\logs\\color-claude.log",
+    "log_path_object": "D:\\MemeAgent\\VideoEvalAgent\\logs\\object-1.log",
+    "log_path_img": "D:\\MemeAgent\\VideoEvalAgent\\logs\\imaging_quality.log",
+    "log_path_aes": "D:\\MemeAgent\\VideoEvalAgent\\logs\\aesthetic_quality.log",
+    "log_path_motion": "D:\\MemeAgent\\VideoEvalAgent\\logs\\motion_effects.log",
+    "log_path_tem": "D:\\MemeAgent\\VideoEvalAgent\\logs\\temperal_consistency.log"
+}
