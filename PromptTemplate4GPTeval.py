@@ -498,7 +498,71 @@ Prompt4Motioneffects="""
 </instructions>
 """
 
-Prompt4TemperalCoherence="""
+Prompt4TemperalConsistency=
+"""
+<instructions>
+            ### Task Description:
+            You are now an Video Evaluation Expert in evaluating generated videos.
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria' and 'Evaluation Steps'..
+
+            ### Evaluation Criteria:
+            You will evaluate the temporal consistency between the video and the text prompt. 
+            Temporal consistency is to measure **frame-to-frame** coherence in the video, focusing on the smoothness and stability of visual and semantic features across consecutive frames.
+            Temporal consistency involves:
+            1.'Visual Features Consistency': Whether the visual features such as color, brightness, texture, and details maintain smooth transitions between consecutive frames.
+            2.'Semantic Features Consistency': Whether the semantic features such as object positions, shapes, scene layout, and background remain consistent across frames.
+            3.''
+
+            ###Important Notes:
+            And you should also pay attention to the following notes:
+            1.The watermark in the video should not be a negative factor in the evaluation.
+            2.The style of the video should not be a negative factor in the evaluation.            
+
+            ### Scoring Range
+            Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
+
+            1. Poor consistency - The generated object is incorrect or cannot be recognized or the color on the object does not match the text prompt at all.(e.g., yellow instead of red).
+            2. Moderate consistency - The correct color appears in the video, but it's not perfect. The specific conditions are:
+                -Condition 1: Incorrect allocation (e.g., color on the background, not the object).
+                -Condition 2: Instability (e.g., sudden color changes).
+                -Condition 3: Confusion (e.g., part of the object has the right color, but it's not dominant).
+                -Condition 4: Blending (e.g., object color merging with the background).
+                -Condition 5: Similarity (e.g., pink instead of purple).
+            3.  Good consistency  - The color is highly consistent with the text prompt, the color in the entire video is stable, the color distribution is correct, there are no sudden changes or inconsistencies in color, and there are no issues mentioned in the moderate consistency category.
+
+            ### The Output Format:
+            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
+            <output format>
+            Final Scores:
+            - A: x ,because ...
+            </output format>
+                
+            <example>
+            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+            Final Scores:
+            - gen2: 3 , because ...
+            </example>
+                
+            ### Evaluation Steps
+            1. **Understand the Task**:
+            - Familiarize yourself with the purpose of the evaluation: to assess the aesthetic quality of generated videos based on the given criteria.
+            2. **Review the Video**:
+            - Watch the video carefully, focusing on visual elements and overall artistic merit.
+            3. **Evaluate Overall Consistency**:
+            - Evaluate whether the arrangement of people or objects is reasonable and pleasing, avoiding any psychological discomfort.
+            4. **Evaluate Correct Allocation**:
+            - Analyze the appropriateness and effectiveness of color choices, noting any discordant colors.
+            5. **Assign a Score**:
+            - Based on your evaluation, assign a score from 1 to 3 for each video according to the 'Scoring Range'.
+            6. **Provide Justification**:
+            - After assigning a score, explain your reasoning with specific examples from the video that influenced your decision.
+            7. **Document the Evaluation**:
+            - Use the 'Output Format' to document your evaluation.
+
+</instructions>
+"""
+"""
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
@@ -508,11 +572,9 @@ Prompt4TemperalCoherence="""
             You are required to evaluate the temporal coherence of videos.
             Temporal coherence refers to the continuity and stability of visual and semantic features across consecutive frames in a video or animation sequence.
             About how to evaluate this metric,onsider the following:
-                1.Whether the visual features such as color, brightness, texture, and details maintain smooth transitions between consecutive frames.
-                2.Whether the motion trajectories of objects follow physical laws and exhibit smooth movement without abrupt jumps or discontinuities.
-                3.Whether the semantic features such as object positions, shapes, scene layout, and background remain consistent across frames.
-                4.Whether the main subjects in the video maintain continuity and do not exhibit sudden or unnatural changes.          
-
+                1.'Visual Features Con': Whether the visual features such as color, brightness, texture, and details maintain smooth transitions between consecutive frames.
+                2.'Semantic Features': Whether the semantic features such as object positions, shapes, scene layout, and background remain consistent across frames.
+                
             ###Scoring Range
             You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
             1: Very poor coherence - There are significant inconsistencies in color, brightness, and texture between frames, with noticeable flickering or sudden changes. Object motion trajectories are erratic and do not follow physical laws. Semantic features like object positions and scene layout are inconsistent, and main subjects exhibit sudden or unnatural changes.
