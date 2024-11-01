@@ -53,16 +53,13 @@ Prompt4Color = """
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
-            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
-            You shouldn't take any video from any model in input as a reference for the evaluation.Please evaluate the video independently based on 'Evaluation Criteria'.
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria' and 'Evaluation Steps'..
 
             ### Evaluation Criteria:
-            You are required to evaluate the color consistency between the videos and the text prompt.
-            Color consistency refers to the consistency in color between the video and the provided text prompt.
-            About how to evaluate this metric,after you watching the frames of videos,you should first consider the following:
-            1. Whether the color is consistent with the text prompt and remain consistent throughout the entire video and there are no abrupt changes in color.
-            2. Whether the color is on the right object or scene.
-            3. Whether the appearance of the subject significantly differs from objective reality,in other words,whether the structure of the object is reasonable and pleasing or causes psychological discomfort.
+            You will evaluate the color consistency between the video and the text prompt. 
+            Color consistency involves:
+            1. **Overall Consistency**: Whether the color is consistent with the text prompt and remain consistent throughout the entire video and there are no abrupt changes in color.
+            2. **Correct Allocation**: Whether the color is on the right object or background.
 
             ###Important Notes:
             And you should also pay attention to the following notes:
@@ -71,31 +68,46 @@ Prompt4Color = """
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
-            
-            1. Poor consistency - The generated object is incorrect or the color on the object does not match the text prompt at all.
+
+            1. Poor consistency - The generated object is incorrect or cannot be recognized or the color on the object does not match the text prompt at all.(e.g., yellow instead of red).
             2. Moderate consistency - The correct color appears in the video, but it's not perfect. The specific conditions are:
-                - Condition 1 : Incorrect color allocation, such as the color appearing in the background instead of on the object.
-                - Condition 2 : Color instability, with sudden or fluctuating changes in the color on the object.
-                - Condition 3 : Color confusion, where part of the object has the correct color but is mixed with other colors, and the other colors occupy a large area (at first glance, the required color is not the main color). For example: a white vase is generated as a black and white striped vase.
-                - Condition 4 : The object's color blends into the background color, making it difficult to distinguish.
-                - Condition 5 : The object's color is in the same color spectrum as the requested color but not very accurate. For example, pink instead of purple, or yellow instead of orange.
+                -Condition 1: Incorrect allocation (e.g., color on the background, not the object).
+                -Condition 2: Instability (e.g., sudden color changes).
+                -Condition 3: Confusion (e.g., part of the object has the right color, but it's not dominant).
+                -Condition 4: Blending (e.g., object color merging with the background).
+                -Condition 5: Similarity (e.g., pink instead of purple).
             3.  Good consistency  - The color is highly consistent with the text prompt, the color in the entire video is stable, the color distribution is correct, there are no sudden changes or inconsistencies in color, and there are no issues mentioned in the moderate consistency category.
 
-            
             ### The Output Format:
             Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input ,the format is:
-            
+            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
             <output format>
             Final Scores:
             - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
             </output format>
+                
+            <example>
+            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+            Final Scores:
+            - gen2: 3 , because ...
+            </example>
+                
+            ### Evaluation Steps
+            1. **Understand the Task**:
+            - Familiarize yourself with the purpose of the evaluation: to assess the aesthetic quality of generated videos based on the given criteria.
+            2. **Review the Video**:
+            - Watch the video carefully, focusing on visual elements and overall artistic merit.
+            3. **Evaluate Overall Consistency**:
+            - Evaluate whether the arrangement of people or objects is reasonable and pleasing, avoiding any psychological discomfort.
+            4. **Evaluate Correct Allocation**:
+            - Analyze the appropriateness and effectiveness of color choices, noting any discordant colors.
+            5. **Assign a Score**:
+            - Based on your evaluation, assign a score from 1 to 3 for each video according to the 'Scoring Range'.
+            6. **Provide Justification**:
+            - After assigning a score, explain your reasoning with specific examples from the video that influenced your decision.
+            7. **Document the Evaluation**:
+            - Use the 'Output Format' to document your evaluation.
 
-            A,B,C,D are the names of the video-generated models.
-            How many score lines in this format is up to how many videos input.
 </instructions>
 """
 
