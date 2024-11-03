@@ -195,22 +195,20 @@ Prompt4Scene = """
         For four videos, the format is:
         A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
 
-        <output format>  
-        Final Scores:  
-        - A: x, because ...  
-        - B: y, because ...  
-        - C: z, because ...  
-        - D: w, because ...  
-        </output format>
 
-        <example>
+        ### The Output Format:
+        Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+        Assuming there are 1 video input from model 'A' scoring 'x',the format is:
+        <output format>
         Final Scores:
-        - gen2: x , because ...
-        - sora: y, because ...
-        - T2V: z, because ...
-        - videocrafter1: w, because...
+        - A: x ,because ...
+        </output format>
+            
+        <example>
+        Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+        Final Scores:
+        - gen2: 3 , because ...
         </example>
-        
 
         ### Evaluation Steps
 
@@ -275,27 +273,21 @@ Prompt4Action = """
         - Incomplete action, shown only partially in terms of perspective or timing.  
         3. **Good Consistency (score = 3)**: The action is fully consistent with the prompt, with no identified issues.
         
-        ### Output Format:
-        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
-        For four videos, the format is:
-        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
 
-        <output format>  
-        Final Scores:  
-        - A: x, because ...  
-        - B: y, because ...  
-        - C: z, because ...  
-        - D: w, because ...  
-        </output format>
-
-        <example>
+        ### The Output Format:
+        Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+        Assuming there are 1 video input from model 'A' scoring 'x',the format is:
+        <output format>
         Final Scores:
-        - gen2: x , because ...
-        - sora: y, because ...
-        - T2V: z, because ...
-        - videocrafter1: w, because...
+        - A: x ,because ...
+        </output format>
+            
+        <example>
+        Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+        Final Scores:
+        - gen2: 3 , because ...
         </example>
-        
+
         ### Evaluation Steps
 
         1. **Understand the Task**:
