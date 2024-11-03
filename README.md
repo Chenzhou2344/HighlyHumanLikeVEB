@@ -40,3 +40,11 @@ Dimension2Promptfile
     "overall_consistency": "overall_consistency"
 }
 
+
+Few shot:
+Imaging quality:
+score1 199  lavie 
+score2 13 lavie
+score3 3 show1
+score4 5 cogvideox5b
+score5 205 gen3
