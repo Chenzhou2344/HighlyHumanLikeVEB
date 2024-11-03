@@ -146,20 +146,20 @@ Prompt4Object_class = """
                 - Condition 6 : The appearance of the object changes significantly. (e.g., a person sometimes has facial features and sometimes does not.)
             3. Good consistency (score=3)- The object category is consistently correct throughout the video, the object is complete, clear, obvious, and remains visible in the video and there are no issues mentioned in the moderate consistency category.
 
+
             ### The Output Format:
             Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input ,the format is:
-            
+            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
             <output format>
             Final Scores:
             - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
             </output format>
-
-            A,B,C,D are the names of the video-generated models.
-            How many score lines in this format is up to how many videos input.
+                
+            <example>
+            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+            Final Scores:
+            - gen2: 3 , because ...
+            </example>
 """
 
 
