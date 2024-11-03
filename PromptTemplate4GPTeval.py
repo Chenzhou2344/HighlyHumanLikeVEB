@@ -119,29 +119,32 @@ Prompt4Object_class = """
             During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
 
             ### Evaluation Criteria:
-            You are required to evaluate the object class consistency between the videos and the text prompt.
+            You are required to evaluate the object class consistency between the video and the text prompt. Don't think about quantity consistency.
             Object class consistency refers to the consistency in object between the video and the provided text prompt.
             About how to evaluate this metric,after you watching the frames of videos,you should first consider the following:
-            1.Whether the objects mentioned in the text were correctly generated.
-            2.Whether the category of the objects in the text can be clearly recognized.
+            1.Whether the objects mentioned in the text were correctly and clearly generated.
+            2.Whether the video focuses on only a part of the object.
             3.Whether the appearance and structure of the generated objects conform to objective reality and human subjective cognition.
 
             
             ###Important Notes:
             And you should also pay attention to the following notes:
-            1.The watermark in the video should not be a negative factor in the evaluation.
-            2.The style of the video should not be a negative factor in the evaluation.
+            1.Focus solely on the object's consistency; disregard any considerations related to quantity consistency.
+            2.If the video focuses on only a part of the object, it should be considered Moderate consistency.
             
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
-            1. Poor consistency - Completely unrecognizable as the specified object.The object is not discernible at all.
-            2. Moderate consistency - Barely recognizable object category with the following issues :
-            - Issue 1 :Only a small part of the object is visible, such as just a human hand.
-            - Issue 2: The specified object is mixed with features of other objects, like sheep and cows, horses and dogs.
-            - Issue 3: The object's features are unstable, sometimes recognizable and sometimes not, for example, a person sometimes has facial features and sometimes does not.
-            - Issue 4: Other objects of the same category are always present next to the specified object, occupying a large area, such as a horse always next to a dog, a bag under an umbrella, a car always accompanied by a motorcycle.
-            3. Good consistency  - The object category is consistently correct throughout the video.
+
+            1. Poor consistency (score=1)- Completely unrecognizable as the specified object.The object is not discernible at all.
+            2. Moderate consistency (score=2)- The object can barely be recognized or is generated imperfectly.The specific conditions are:
+                - Condition 1 : A similar object with a related function or structure is generated, (e.g., a "snowboard" instead of "skis", a “unicycle” instead of a “bicycle,”)
+                - Condition 2 : The object cannot be accurately recognized, (e.g. Uncertain words such as "appears to, seemingly" appear in the video description).
+                - Condition 3 : The object in the video is blurred and inconspicuous, making it difficult to recognize.
+                - Condition 4 : The video focuses on only a part of the object. (e.g. generating a human hand instead of a whole person.)
+                - Condition 5 : More than 3 frames in the video are missing the object.
+                - Condition 6 : The appearance of the object changes significantly. (e.g., a person sometimes has facial features and sometimes does not.)
+            3. Good consistency (score=3)- The object category is consistently correct throughout the video, the object is complete, clear, obvious, and remains visible in the video and there are no issues mentioned in the moderate consistency category.
 
             ### The Output Format:
             Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
