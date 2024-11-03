@@ -331,7 +331,7 @@ Prompt4Action = """
 </instructions>
 """
 
-Prompt4ImagingQuality = """
+Prompt4ImagingQuality = ["""
 <instructions>
         ### Task Description:
         You are now an Video Evaluation Expert in evaluating generated videos and need to evaluate the videos from different models.
@@ -356,23 +356,25 @@ Prompt4ImagingQuality = """
         3. **Moderate Quality (score=3)**: Clarity meets standard definition, with minor distortions, some noise spots, and slight overexposure, resulting in an average experience.
         4. **Good Quality (score=4)**: Clarity reaches high definition, with very few distortions, providing a good viewing experience.
         5. **Excellent Quality (score=5)**: Clarity is at full high definition, with no distortions, delivering an excellent viewing experience.
-
-        ### Output Format:
-        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
-        For four videos, the format is:
-        <output format>  
-        Final Scores:  
-        - A: x, because ...  
-        - B: y, because ...  
-        - C: z, because ...  
-        - D: w, because ...  
+        """
+,
+"""
+        ### The Output Format:
+        Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+        Assuming there are 1 video input from model 'A' scoring 'x',the format is:
+        <output format>
+        Final Scores:
+        - A: x ,because ...
         </output format>
-
-        A,B,C,D are the names of the video-generated models.
-        How many score lines in this format is up to how many videos input.
+            
+        <example>
+        Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+        Final Scores:
+        - gen2: 3 , because ...
+        </example>
 
 """
-
+]
 Prompt4AestheticQuality = """
 <instructions>
         ### Task Description:
@@ -498,8 +500,7 @@ Prompt4Motioneffects="""
 </instructions>
 """
 
-Prompt4TemperalConsistency=
-"""
+Prompt4TemperalConsistency="""
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
@@ -561,8 +562,7 @@ Prompt4TemperalConsistency=
             - Use the 'Output Format' to document your evaluation.
 
 </instructions>
-"""
-"""
+
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
