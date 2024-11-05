@@ -1,0 +1,1411 @@
+{
+    "background_consistency": [
+        0.9684859664351851,
+        [
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is marching_0.mp4",
+                "video_results": 0.9127604166666666,
+                "video_sim": 13.69140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is marching_1.mp4",
+                "video_results": 0.938525390625,
+                "video_sim": 14.077880859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is marching_2.mp4",
+                "video_results": 0.9677083333333333,
+                "video_sim": 14.515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is roller skating_0.mp4",
+                "video_results": 0.9619954427083334,
+                "video_sim": 14.429931640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is roller skating_1.mp4",
+                "video_results": 0.9471842447916666,
+                "video_sim": 14.207763671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is roller skating_2.mp4",
+                "video_results": 0.9760416666666667,
+                "video_sim": 14.640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is skateboarding_0.mp4",
+                "video_results": 0.9644205729166667,
+                "video_sim": 14.46630859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is skateboarding_1.mp4",
+                "video_results": 0.9722493489583334,
+                "video_sim": 14.583740234375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is skateboarding_2.mp4",
+                "video_results": 0.9634440104166667,
+                "video_sim": 14.45166015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is dunking basketball_0.mp4",
+                "video_results": 0.9781087239583334,
+                "video_sim": 14.671630859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is dunking basketball_1.mp4",
+                "video_results": 0.9525065104166667,
+                "video_sim": 14.28759765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is dunking basketball_2.mp4",
+                "video_results": 0.9807454427083333,
+                "video_sim": 14.711181640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is stretching leg_0.mp4",
+                "video_results": 0.9535319010416666,
+                "video_sim": 14.302978515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is stretching leg_1.mp4",
+                "video_results": 0.9904134114583333,
+                "video_sim": 14.856201171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is stretching leg_2.mp4",
+                "video_results": 0.96376953125,
+                "video_sim": 14.45654296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is riding scooter_0.mp4",
+                "video_results": 0.973046875,
+                "video_sim": 14.595703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is riding scooter_1.mp4",
+                "video_results": 0.97978515625,
+                "video_sim": 14.69677734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is riding scooter_2.mp4",
+                "video_results": 0.9633626302083333,
+                "video_sim": 14.450439453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is skydiving_0.mp4",
+                "video_results": 0.97783203125,
+                "video_sim": 14.66748046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is skydiving_1.mp4",
+                "video_results": 0.9748046875,
+                "video_sim": 14.6220703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is skydiving_2.mp4",
+                "video_results": 0.977783203125,
+                "video_sim": 14.666748046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is playing piano_0.mp4",
+                "video_results": 0.9830078125,
+                "video_sim": 14.7451171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is playing piano_1.mp4",
+                "video_results": 0.9732259114583334,
+                "video_sim": 14.598388671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is playing piano_2.mp4",
+                "video_results": 0.97763671875,
+                "video_sim": 14.66455078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is canoeing or kayaking_0.mp4",
+                "video_results": 0.9802897135416667,
+                "video_sim": 14.704345703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is canoeing or kayaking_1.mp4",
+                "video_results": 0.9796223958333333,
+                "video_sim": 14.6943359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is canoeing or kayaking_2.mp4",
+                "video_results": 0.985546875,
+                "video_sim": 14.783203125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is laughing_0.mp4",
+                "video_results": 0.9393229166666667,
+                "video_sim": 14.08984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is laughing_1.mp4",
+                "video_results": 0.9828287760416666,
+                "video_sim": 14.742431640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is laughing_2.mp4",
+                "video_results": 0.9388834635416666,
+                "video_sim": 14.083251953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is digging_0.mp4",
+                "video_results": 0.9770833333333333,
+                "video_sim": 14.65625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is digging_1.mp4",
+                "video_results": 0.9546223958333333,
+                "video_sim": 14.3193359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is digging_2.mp4",
+                "video_results": 0.9731770833333333,
+                "video_sim": 14.59765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is clay pottery making_0.mp4",
+                "video_results": 0.95888671875,
+                "video_sim": 14.38330078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is clay pottery making_1.mp4",
+                "video_results": 0.9606770833333333,
+                "video_sim": 14.41015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is clay pottery making_2.mp4",
+                "video_results": 0.9817220052083333,
+                "video_sim": 14.725830078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shooting basketball_0.mp4",
+                "video_results": 0.949853515625,
+                "video_sim": 14.247802734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shooting basketball_1.mp4",
+                "video_results": 0.9160319010416667,
+                "video_sim": 13.740478515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shooting basketball_2.mp4",
+                "video_results": 0.961181640625,
+                "video_sim": 14.417724609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is bending back_0.mp4",
+                "video_results": 0.939892578125,
+                "video_sim": 14.098388671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is bending back_1.mp4",
+                "video_results": 0.934814453125,
+                "video_sim": 14.022216796875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is bending back_2.mp4",
+                "video_results": 0.9518229166666666,
+                "video_sim": 14.27734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shaking hands_0.mp4",
+                "video_results": 0.9917317708333333,
+                "video_sim": 14.8759765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shaking hands_1.mp4",
+                "video_results": 0.9885904947916667,
+                "video_sim": 14.828857421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shaking hands_2.mp4",
+                "video_results": 0.940478515625,
+                "video_sim": 14.107177734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is push up_0.mp4",
+                "video_results": 0.9343587239583333,
+                "video_sim": 14.015380859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is push up_1.mp4",
+                "video_results": 0.9378743489583333,
+                "video_sim": 14.068115234375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is push up_2.mp4",
+                "video_results": 0.9356282552083334,
+                "video_sim": 14.034423828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is throwing axe_0.mp4",
+                "video_results": 0.9360514322916667,
+                "video_sim": 14.040771484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is throwing axe_1.mp4",
+                "video_results": 0.9187825520833334,
+                "video_sim": 13.78173828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is throwing axe_2.mp4",
+                "video_results": 0.9177083333333333,
+                "video_sim": 13.765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is air drumming_0.mp4",
+                "video_results": 0.9421061197916667,
+                "video_sim": 14.131591796875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is air drumming_1.mp4",
+                "video_results": 0.94267578125,
+                "video_sim": 14.14013671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is air drumming_2.mp4",
+                "video_results": 0.905029296875,
+                "video_sim": 13.575439453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is planting trees_0.mp4",
+                "video_results": 0.9854817708333333,
+                "video_sim": 14.7822265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is planting trees_1.mp4",
+                "video_results": 0.9730305989583333,
+                "video_sim": 14.595458984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is planting trees_2.mp4",
+                "video_results": 0.9713704427083333,
+                "video_sim": 14.570556640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is robot dancing_0.mp4",
+                "video_results": 0.9779134114583333,
+                "video_sim": 14.668701171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is robot dancing_1.mp4",
+                "video_results": 0.9868489583333333,
+                "video_sim": 14.802734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is robot dancing_2.mp4",
+                "video_results": 0.9841959635416667,
+                "video_sim": 14.762939453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is rock climbing_0.mp4",
+                "video_results": 0.981005859375,
+                "video_sim": 14.715087890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is rock climbing_1.mp4",
+                "video_results": 0.9865234375,
+                "video_sim": 14.7978515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is rock climbing_2.mp4",
+                "video_results": 0.9605631510416667,
+                "video_sim": 14.408447265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is hula hooping_0.mp4",
+                "video_results": 0.9728515625,
+                "video_sim": 14.5927734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is hula hooping_1.mp4",
+                "video_results": 0.905078125,
+                "video_sim": 13.576171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is hula hooping_2.mp4",
+                "video_results": 0.9409993489583334,
+                "video_sim": 14.114990234375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is jogging_0.mp4",
+                "video_results": 0.9486653645833333,
+                "video_sim": 14.22998046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is jogging_1.mp4",
+                "video_results": 0.9666666666666667,
+                "video_sim": 14.5,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is jogging_2.mp4",
+                "video_results": 0.9464192708333333,
+                "video_sim": 14.1962890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is motorcycling_0.mp4",
+                "video_results": 0.9647298177083333,
+                "video_sim": 14.470947265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is motorcycling_1.mp4",
+                "video_results": 0.9863444010416667,
+                "video_sim": 14.795166015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is motorcycling_2.mp4",
+                "video_results": 0.9498046875,
+                "video_sim": 14.2470703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sword fighting_0.mp4",
+                "video_results": 0.982666015625,
+                "video_sim": 14.739990234375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sword fighting_1.mp4",
+                "video_results": 0.9718912760416667,
+                "video_sim": 14.578369140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sword fighting_2.mp4",
+                "video_results": 0.9706217447916666,
+                "video_sim": 14.559326171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is doing aerobics_0.mp4",
+                "video_results": 0.9635416666666666,
+                "video_sim": 14.453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is doing aerobics_1.mp4",
+                "video_results": 0.9840494791666666,
+                "video_sim": 14.7607421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is doing aerobics_2.mp4",
+                "video_results": 0.9738932291666667,
+                "video_sim": 14.6083984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is strumming guitar_0.mp4",
+                "video_results": 0.9688313802083334,
+                "video_sim": 14.532470703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is strumming guitar_1.mp4",
+                "video_results": 0.9669759114583333,
+                "video_sim": 14.504638671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is strumming guitar_2.mp4",
+                "video_results": 0.9498372395833333,
+                "video_sim": 14.24755859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is riding or walking with horse_0.mp4",
+                "video_results": 0.9792805989583333,
+                "video_sim": 14.689208984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is riding or walking with horse_1.mp4",
+                "video_results": 0.9626790364583333,
+                "video_sim": 14.440185546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is riding or walking with horse_2.mp4",
+                "video_results": 0.967919921875,
+                "video_sim": 14.518798828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is archery_0.mp4",
+                "video_results": 0.9853841145833333,
+                "video_sim": 14.78076171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is archery_1.mp4",
+                "video_results": 0.9911295572916666,
+                "video_sim": 14.866943359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is archery_2.mp4",
+                "video_results": 0.9758138020833333,
+                "video_sim": 14.63720703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is catching or throwing baseball_0.mp4",
+                "video_results": 0.9512532552083334,
+                "video_sim": 14.268798828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is catching or throwing baseball_1.mp4",
+                "video_results": 0.9498372395833333,
+                "video_sim": 14.24755859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is catching or throwing baseball_2.mp4",
+                "video_results": 0.9572102864583333,
+                "video_sim": 14.358154296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is dancing ballet_0.mp4",
+                "video_results": 0.96845703125,
+                "video_sim": 14.52685546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is dancing ballet_1.mp4",
+                "video_results": 0.9784342447916666,
+                "video_sim": 14.676513671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is dancing ballet_2.mp4",
+                "video_results": 0.982470703125,
+                "video_sim": 14.737060546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is running on treadmill_0.mp4",
+                "video_results": 0.9392578125,
+                "video_sim": 14.0888671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is running on treadmill_1.mp4",
+                "video_results": 0.9736002604166667,
+                "video_sim": 14.60400390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is running on treadmill_2.mp4",
+                "video_results": 0.9839680989583334,
+                "video_sim": 14.759521484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is kissing_0.mp4",
+                "video_results": 0.9378255208333334,
+                "video_sim": 14.0673828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is kissing_1.mp4",
+                "video_results": 0.9844401041666667,
+                "video_sim": 14.7666015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is kissing_2.mp4",
+                "video_results": 0.9088704427083333,
+                "video_sim": 13.633056640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is barbequing_0.mp4",
+                "video_results": 0.9719889322916667,
+                "video_sim": 14.579833984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is barbequing_1.mp4",
+                "video_results": 0.9715657552083333,
+                "video_sim": 14.573486328125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is barbequing_2.mp4",
+                "video_results": 0.967333984375,
+                "video_sim": 14.510009765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is milking cow_0.mp4",
+                "video_results": 0.9599283854166667,
+                "video_sim": 14.39892578125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is milking cow_1.mp4",
+                "video_results": 0.9595703125,
+                "video_sim": 14.3935546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is milking cow_2.mp4",
+                "video_results": 0.9730143229166667,
+                "video_sim": 14.59521484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is making snowman_0.mp4",
+                "video_results": 0.956787109375,
+                "video_sim": 14.351806640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is making snowman_1.mp4",
+                "video_results": 0.98994140625,
+                "video_sim": 14.84912109375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is making snowman_2.mp4",
+                "video_results": 0.9445475260416667,
+                "video_sim": 14.168212890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sailing_0.mp4",
+                "video_results": 0.970361328125,
+                "video_sim": 14.555419921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sailing_1.mp4",
+                "video_results": 0.9870930989583333,
+                "video_sim": 14.806396484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sailing_2.mp4",
+                "video_results": 0.9795084635416667,
+                "video_sim": 14.692626953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person swimming in ocean_0.mp4",
+                "video_results": 0.96142578125,
+                "video_sim": 14.42138671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person swimming in ocean_1.mp4",
+                "video_results": 0.966796875,
+                "video_sim": 14.501953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person swimming in ocean_2.mp4",
+                "video_results": 0.9657063802083333,
+                "video_sim": 14.485595703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person giving a presentation to a room full of colleagues_0.mp4",
+                "video_results": 0.9779459635416666,
+                "video_sim": 14.669189453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person giving a presentation to a room full of colleagues_1.mp4",
+                "video_results": 0.9907877604166667,
+                "video_sim": 14.86181640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person giving a presentation to a room full of colleagues_2.mp4",
+                "video_results": 0.98486328125,
+                "video_sim": 14.77294921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person washing the dishes_0.mp4",
+                "video_results": 0.962890625,
+                "video_sim": 14.443359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person washing the dishes_1.mp4",
+                "video_results": 0.9603841145833333,
+                "video_sim": 14.40576171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person washing the dishes_2.mp4",
+                "video_results": 0.933056640625,
+                "video_sim": 13.995849609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person walking in the snowstorm_0.mp4",
+                "video_results": 0.98408203125,
+                "video_sim": 14.76123046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person walking in the snowstorm_1.mp4",
+                "video_results": 0.9785970052083334,
+                "video_sim": 14.678955078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person walking in the snowstorm_2.mp4",
+                "video_results": 0.983447265625,
+                "video_sim": 14.751708984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person drinking coffee in a cafe_0.mp4",
+                "video_results": 0.9889485677083333,
+                "video_sim": 14.834228515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person drinking coffee in a cafe_1.mp4",
+                "video_results": 0.9804361979166667,
+                "video_sim": 14.70654296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person drinking coffee in a cafe_2.mp4",
+                "video_results": 0.98056640625,
+                "video_sim": 14.70849609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bicycle leaning against a tree_0.mp4",
+                "video_results": 0.99130859375,
+                "video_sim": 14.86962890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bicycle leaning against a tree_1.mp4",
+                "video_results": 0.994384765625,
+                "video_sim": 14.915771484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bicycle leaning against a tree_2.mp4",
+                "video_results": 0.99091796875,
+                "video_sim": 14.86376953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bicycle gliding through a snowy field_0.mp4",
+                "video_results": 0.9776041666666667,
+                "video_sim": 14.6640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bicycle gliding through a snowy field_1.mp4",
+                "video_results": 0.956201171875,
+                "video_sim": 14.343017578125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bicycle gliding through a snowy field_2.mp4",
+                "video_results": 0.9859375,
+                "video_sim": 14.7890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A car stuck in traffic during rush hour_0.mp4",
+                "video_results": 0.9820149739583334,
+                "video_sim": 14.730224609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A car stuck in traffic during rush hour_1.mp4",
+                "video_results": 0.9812662760416667,
+                "video_sim": 14.718994140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A car stuck in traffic during rush hour_2.mp4",
+                "video_results": 0.9825358072916667,
+                "video_sim": 14.738037109375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A car turning a corner_0.mp4",
+                "video_results": 0.9462565104166667,
+                "video_sim": 14.19384765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A car turning a corner_1.mp4",
+                "video_results": 0.91376953125,
+                "video_sim": 13.70654296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A car turning a corner_2.mp4",
+                "video_results": 0.9533040364583333,
+                "video_sim": 14.299560546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A motorcycle cruising along a coastal highway_0.mp4",
+                "video_results": 0.9755208333333333,
+                "video_sim": 14.6328125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A motorcycle cruising along a coastal highway_1.mp4",
+                "video_results": 0.9779947916666667,
+                "video_sim": 14.669921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A motorcycle cruising along a coastal highway_2.mp4",
+                "video_results": 0.9868001302083333,
+                "video_sim": 14.802001953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A motorcycle turning a corner_0.mp4",
+                "video_results": 0.94365234375,
+                "video_sim": 14.15478515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A motorcycle turning a corner_1.mp4",
+                "video_results": 0.966455078125,
+                "video_sim": 14.496826171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A motorcycle turning a corner_2.mp4",
+                "video_results": 0.9725260416666667,
+                "video_sim": 14.587890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An airplane soaring through a clear blue sky_0.mp4",
+                "video_results": 0.9635091145833333,
+                "video_sim": 14.45263671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An airplane soaring through a clear blue sky_1.mp4",
+                "video_results": 0.983740234375,
+                "video_sim": 14.756103515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An airplane soaring through a clear blue sky_2.mp4",
+                "video_results": 0.969384765625,
+                "video_sim": 14.540771484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An airplane taking off_0.mp4",
+                "video_results": 0.9515625,
+                "video_sim": 14.2734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An airplane taking off_1.mp4",
+                "video_results": 0.9824381510416667,
+                "video_sim": 14.736572265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An airplane taking off_2.mp4",
+                "video_results": 0.971728515625,
+                "video_sim": 14.575927734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bus turning a corner_0.mp4",
+                "video_results": 0.96630859375,
+                "video_sim": 14.49462890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bus turning a corner_1.mp4",
+                "video_results": 0.9529622395833334,
+                "video_sim": 14.29443359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bus turning a corner_2.mp4",
+                "video_results": 0.9242838541666667,
+                "video_sim": 13.8642578125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bus stuck in traffic during rush hour_0.mp4",
+                "video_results": 0.9641276041666667,
+                "video_sim": 14.4619140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bus stuck in traffic during rush hour_1.mp4",
+                "video_results": 0.966015625,
+                "video_sim": 14.490234375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bus stuck in traffic during rush hour_2.mp4",
+                "video_results": 0.9710286458333334,
+                "video_sim": 14.5654296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A train speeding down the tracks_0.mp4",
+                "video_results": 0.9871419270833334,
+                "video_sim": 14.80712890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A train speeding down the tracks_1.mp4",
+                "video_results": 0.9546875,
+                "video_sim": 14.3203125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A train speeding down the tracks_2.mp4",
+                "video_results": 0.9608235677083333,
+                "video_sim": 14.412353515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A train crossing over a tall bridge_0.mp4",
+                "video_results": 0.99423828125,
+                "video_sim": 14.91357421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A train crossing over a tall bridge_1.mp4",
+                "video_results": 0.9816569010416667,
+                "video_sim": 14.724853515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A train crossing over a tall bridge_2.mp4",
+                "video_results": 0.9928059895833333,
+                "video_sim": 14.89208984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A truck turning a corner_0.mp4",
+                "video_results": 0.9699381510416667,
+                "video_sim": 14.549072265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A truck turning a corner_1.mp4",
+                "video_results": 0.9300455729166667,
+                "video_sim": 13.95068359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A truck turning a corner_2.mp4",
+                "video_results": 0.9268717447916667,
+                "video_sim": 13.903076171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A truck anchored in a tranquil bay_0.mp4",
+                "video_results": 0.996875,
+                "video_sim": 14.953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A truck anchored in a tranquil bay_1.mp4",
+                "video_results": 0.993798828125,
+                "video_sim": 14.906982421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A truck anchored in a tranquil bay_2.mp4",
+                "video_results": 0.9933430989583333,
+                "video_sim": 14.900146484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A boat sailing smoothly on a calm lake_0.mp4",
+                "video_results": 0.9836263020833333,
+                "video_sim": 14.75439453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A boat sailing smoothly on a calm lake_1.mp4",
+                "video_results": 0.9903483072916667,
+                "video_sim": 14.855224609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A boat sailing smoothly on a calm lake_2.mp4",
+                "video_results": 0.97578125,
+                "video_sim": 14.63671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bird soaring gracefully in the sky_0.mp4",
+                "video_results": 0.954345703125,
+                "video_sim": 14.315185546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bird soaring gracefully in the sky_1.mp4",
+                "video_results": 0.9626790364583333,
+                "video_sim": 14.440185546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bird soaring gracefully in the sky_2.mp4",
+                "video_results": 0.97685546875,
+                "video_sim": 14.65283203125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cat grooming itself meticulously with its tongue_0.mp4",
+                "video_results": 0.9769368489583333,
+                "video_sim": 14.654052734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cat grooming itself meticulously with its tongue_1.mp4",
+                "video_results": 0.9855794270833333,
+                "video_sim": 14.78369140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cat grooming itself meticulously with its tongue_2.mp4",
+                "video_results": 0.9868489583333333,
+                "video_sim": 14.802734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cat playing in park_0.mp4",
+                "video_results": 0.9816243489583333,
+                "video_sim": 14.724365234375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cat playing in park_1.mp4",
+                "video_results": 0.9844563802083334,
+                "video_sim": 14.766845703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cat playing in park_2.mp4",
+                "video_results": 0.97978515625,
+                "video_sim": 14.69677734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A dog enjoying a peaceful walk_0.mp4",
+                "video_results": 0.9862141927083333,
+                "video_sim": 14.793212890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A dog enjoying a peaceful walk_1.mp4",
+                "video_results": 0.981103515625,
+                "video_sim": 14.716552734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A dog enjoying a peaceful walk_2.mp4",
+                "video_results": 0.9805501302083334,
+                "video_sim": 14.708251953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A dog running happily_0.mp4",
+                "video_results": 0.9845703125,
+                "video_sim": 14.7685546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A dog running happily_1.mp4",
+                "video_results": 0.97470703125,
+                "video_sim": 14.62060546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A dog running happily_2.mp4",
+                "video_results": 0.99140625,
+                "video_sim": 14.87109375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A horse bending down to drink water from a river_0.mp4",
+                "video_results": 0.9863932291666667,
+                "video_sim": 14.7958984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A horse bending down to drink water from a river_1.mp4",
+                "video_results": 0.982861328125,
+                "video_sim": 14.742919921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A horse bending down to drink water from a river_2.mp4",
+                "video_results": 0.9841959635416667,
+                "video_sim": 14.762939453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A horse galloping across an open field_0.mp4",
+                "video_results": 0.9661458333333334,
+                "video_sim": 14.4921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A horse galloping across an open field_1.mp4",
+                "video_results": 0.9467610677083333,
+                "video_sim": 14.201416015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A horse galloping across an open field_2.mp4",
+                "video_results": 0.9791178385416667,
+                "video_sim": 14.686767578125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A sheep taking a peaceful walk_0.mp4",
+                "video_results": 0.9825032552083334,
+                "video_sim": 14.737548828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A sheep taking a peaceful walk_1.mp4",
+                "video_results": 0.984716796875,
+                "video_sim": 14.770751953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A sheep taking a peaceful walk_2.mp4",
+                "video_results": 0.9924641927083333,
+                "video_sim": 14.886962890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cow chewing cud while resting in a tranquil barn_0.mp4",
+                "video_results": 0.9834635416666667,
+                "video_sim": 14.751953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cow chewing cud while resting in a tranquil barn_1.mp4",
+                "video_results": 0.991845703125,
+                "video_sim": 14.877685546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A cow chewing cud while resting in a tranquil barn_2.mp4",
+                "video_results": 0.9927734375,
+                "video_sim": 14.8916015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An elephant spraying itself with water using its trunk to cool down_0.mp4",
+                "video_results": 0.9734700520833334,
+                "video_sim": 14.60205078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An elephant spraying itself with water using its trunk to cool down_1.mp4",
+                "video_results": 0.991357421875,
+                "video_sim": 14.870361328125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/An elephant spraying itself with water using its trunk to cool down_2.mp4",
+                "video_results": 0.9837239583333334,
+                "video_sim": 14.755859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bear catching a salmon in its powerful jaws_0.mp4",
+                "video_results": 0.9613932291666667,
+                "video_sim": 14.4208984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bear catching a salmon in its powerful jaws_1.mp4",
+                "video_results": 0.976611328125,
+                "video_sim": 14.649169921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bear catching a salmon in its powerful jaws_2.mp4",
+                "video_results": 0.9817545572916667,
+                "video_sim": 14.726318359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bear climbing a tree_0.mp4",
+                "video_results": 0.9321126302083333,
+                "video_sim": 13.981689453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bear climbing a tree_1.mp4",
+                "video_results": 0.9590494791666667,
+                "video_sim": 14.3857421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A bear climbing a tree_2.mp4",
+                "video_results": 0.9703125,
+                "video_sim": 14.5546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A zebra bending down to drink water from a river_0.mp4",
+                "video_results": 0.9945638020833333,
+                "video_sim": 14.91845703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A zebra bending down to drink water from a river_1.mp4",
+                "video_results": 0.9915690104166667,
+                "video_sim": 14.87353515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A zebra bending down to drink water from a river_2.mp4",
+                "video_results": 0.9909830729166667,
+                "video_sim": 14.86474609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A giraffe bending down to drink water from a river_0.mp4",
+                "video_results": 0.9859049479166667,
+                "video_sim": 14.78857421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A giraffe bending down to drink water from a river_1.mp4",
+                "video_results": 0.9892415364583333,
+                "video_sim": 14.838623046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A giraffe bending down to drink water from a river_2.mp4",
+                "video_results": 0.9803385416666667,
+                "video_sim": 14.705078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is brushing teeth_0.mp4",
+                "video_results": 0.948583984375,
+                "video_sim": 14.228759765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is brushing teeth_1.mp4",
+                "video_results": 0.958740234375,
+                "video_sim": 14.381103515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is brushing teeth_2.mp4",
+                "video_results": 0.97880859375,
+                "video_sim": 14.68212890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is crawling baby_0.mp4",
+                "video_results": 0.9786295572916667,
+                "video_sim": 14.679443359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is crawling baby_1.mp4",
+                "video_results": 0.97412109375,
+                "video_sim": 14.61181640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is crawling baby_2.mp4",
+                "video_results": 0.981884765625,
+                "video_sim": 14.728271484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is driving car_0.mp4",
+                "video_results": 0.9408040364583333,
+                "video_sim": 14.112060546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is driving car_1.mp4",
+                "video_results": 0.9769368489583333,
+                "video_sim": 14.654052734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is driving car_2.mp4",
+                "video_results": 0.977490234375,
+                "video_sim": 14.662353515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sticking tongue out_0.mp4",
+                "video_results": 0.9445963541666667,
+                "video_sim": 14.1689453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sticking tongue out_1.mp4",
+                "video_results": 0.9849446614583334,
+                "video_sim": 14.774169921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is sticking tongue out_2.mp4",
+                "video_results": 0.985986328125,
+                "video_sim": 14.789794921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shaking head_0.mp4",
+                "video_results": 0.97529296875,
+                "video_sim": 14.62939453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shaking head_1.mp4",
+                "video_results": 0.9455240885416667,
+                "video_sim": 14.182861328125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is shaking head_2.mp4",
+                "video_results": 0.932958984375,
+                "video_sim": 13.994384765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is using computer_0.mp4",
+                "video_results": 0.9790690104166667,
+                "video_sim": 14.68603515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is using computer_1.mp4",
+                "video_results": 0.9875325520833333,
+                "video_sim": 14.81298828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is using computer_2.mp4",
+                "video_results": 0.9853678385416667,
+                "video_sim": 14.780517578125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is arranging flowers_0.mp4",
+                "video_results": 0.9519694010416667,
+                "video_sim": 14.279541015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is arranging flowers_1.mp4",
+                "video_results": 0.9745442708333333,
+                "video_sim": 14.6181640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "./sampled_videos/action/videocrafter2/A person is arranging flowers_2.mp4",
+                "video_results": 0.9697428385416667,
+                "video_sim": 14.546142578125,
+                "cnt_per_video": 15
+            }
+        ]
+    ]
+}
