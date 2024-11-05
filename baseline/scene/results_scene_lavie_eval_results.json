@@ -1,0 +1,1555 @@
+{
+    "scene": [
+        0.5196220930232558,
+        [
+            {
+                "video_path": "./sampled_videos/scene/lavie/Alley_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Alley_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Alley_2.mp4",
+                "video_results": 0.625,
+                "success_frame_count": 10,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Amusement park_0.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Amusement park_1.mp4",
+                "video_results": 0.75,
+                "success_frame_count": 12,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Amusement park_2.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Aquarium_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Aquarium_1.mp4",
+                "video_results": 0.75,
+                "success_frame_count": 12,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Aquarium_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Arch_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Arch_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Arch_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Art gallery_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Art gallery_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Art gallery_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bathroom_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bathroom_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bathroom_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bakery shop_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bakery shop_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bakery shop_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ballroom_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ballroom_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ballroom_2.mp4",
+                "video_results": 0.625,
+                "success_frame_count": 10,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bar_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bar_1.mp4",
+                "video_results": 0.1875,
+                "success_frame_count": 3,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bar_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Barn_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Barn_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Barn_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Basement_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Basement_1.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Basement_2.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Beach_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Beach_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Beach_2.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bedroom_0.mp4",
+                "video_results": 0.625,
+                "success_frame_count": 10,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bedroom_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bedroom_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bridge_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bridge_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Bridge_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Botanical garden_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Botanical garden_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Botanical garden_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cafeteria_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cafeteria_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cafeteria_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Campsite_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Campsite_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Campsite_2.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Campus_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Campus_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Campus_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Carrousel_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Carrousel_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Carrousel_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Castle_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Castle_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Castle_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cemetery_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cemetery_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cemetery_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Classroom_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Classroom_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Classroom_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cliff_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cliff_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Cliff_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Crosswalk_0.mp4",
+                "video_results": 0.9375,
+                "success_frame_count": 15,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Crosswalk_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Crosswalk_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Construction site_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Construction site_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Construction site_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Corridor_0.mp4",
+                "video_results": 0.1875,
+                "success_frame_count": 3,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Corridor_1.mp4",
+                "video_results": 0.625,
+                "success_frame_count": 10,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Corridor_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Courtyard_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Courtyard_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Courtyard_2.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Desert_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Desert_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Desert_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Downtown_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Downtown_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Downtown_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Driveway_0.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Driveway_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Driveway_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Farm_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Farm_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Farm_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Food court_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Food court_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Food court_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Football field_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Football field_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Football field_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Forest road_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Forest road_1.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Forest road_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Fountain_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Fountain_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Fountain_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Gas station_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Gas station_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Gas station_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Glacier_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Glacier_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Glacier_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Golf course_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Golf course_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Golf course_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor gymnasium_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor gymnasium_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor gymnasium_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Harbor_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Harbor_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Harbor_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Highway_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Highway_1.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Highway_2.mp4",
+                "video_results": 0.25,
+                "success_frame_count": 4,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Hospital_0.mp4",
+                "video_results": 0.4375,
+                "success_frame_count": 7,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Hospital_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Hospital_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/House_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/House_1.mp4",
+                "video_results": 0.25,
+                "success_frame_count": 4,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/House_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Iceberg_0.mp4",
+                "video_results": 0.1875,
+                "success_frame_count": 3,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Iceberg_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Iceberg_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Industrial area_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Industrial area_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Industrial area_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Jail cell_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Jail cell_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Jail cell_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Junkyard_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Junkyard_1.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Junkyard_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Kitchen_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Kitchen_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Kitchen_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor library_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor library_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor library_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Lighthouse_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Lighthouse_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Lighthouse_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Laboratory_0.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Laboratory_1.mp4",
+                "video_results": 0.4375,
+                "success_frame_count": 7,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Laboratory_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Mansion_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Mansion_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Mansion_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Marsh_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Marsh_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Marsh_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Mountain_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Mountain_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Mountain_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor movie theater_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor movie theater_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor movie theater_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor museum_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor museum_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor museum_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Music studio_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Music studio_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Music studio_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Nursery_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Nursery_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Nursery_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ocean_0.mp4",
+                "video_results": 0.75,
+                "success_frame_count": 12,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ocean_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ocean_2.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Office_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Office_1.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Office_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Palace_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Palace_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Palace_2.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Parking lot_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Parking lot_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Parking lot_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Pharmacy_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Pharmacy_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Pharmacy_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Phone booth_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Phone booth_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Phone booth_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Raceway_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Raceway_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Raceway_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Restaurant_0.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Restaurant_1.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Restaurant_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/River_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/River_1.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/River_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Science museum_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Science museum_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Science museum_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Shower_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Shower_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Shower_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ski slope_0.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ski slope_1.mp4",
+                "video_results": 0.1875,
+                "success_frame_count": 3,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Ski slope_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Sky_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Sky_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Sky_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Skyscraper_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Skyscraper_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Skyscraper_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Baseball stadium_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Baseball stadium_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Baseball stadium_2.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Staircase_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Staircase_1.mp4",
+                "video_results": 0.4375,
+                "success_frame_count": 7,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Staircase_2.mp4",
+                "video_results": 0.375,
+                "success_frame_count": 6,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Street_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Street_1.mp4",
+                "video_results": 0.8125,
+                "success_frame_count": 13,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Street_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Supermarket_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Supermarket_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Supermarket_2.mp4",
+                "video_results": 0.5625,
+                "success_frame_count": 9,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor swimming pool_0.mp4",
+                "video_results": 0.9375,
+                "success_frame_count": 15,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor swimming pool_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Indoor swimming pool_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Tower_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Tower_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Tower_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Outdoor track_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Outdoor track_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Outdoor track_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Train railway_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Train railway_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Train railway_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Train station platform_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Train station platform_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Train station platform_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Underwater coral reef_0.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Underwater coral reef_1.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Underwater coral reef_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Valley_0.mp4",
+                "video_results": 0.4375,
+                "success_frame_count": 7,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Valley_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Valley_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Volcano_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Volcano_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Volcano_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Waterfall_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Waterfall_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Waterfall_2.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Windmill_0.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Windmill_1.mp4",
+                "video_results": 1.0,
+                "success_frame_count": 16,
+                "frame_count": 16
+            },
+            {
+                "video_path": "./sampled_videos/scene/lavie/Windmill_2.mp4",
+                "video_results": 0.0,
+                "success_frame_count": 0,
+                "frame_count": 16
+            }
+        ]
+    ]
+}
