@@ -71,13 +71,10 @@ def process_video2gridview(datadir,videos_path, extract_frames_persecond=8):
 
         total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
         fps = video.get(cv2.CAP_PROP_FPS)
-
         frames_to_skip = int(fps/extract_frames_persecond)
-    
-        curr_frame=1
-        end_frame = total_frames - 1
+        curr_frame=0
         # Loop through the video and extract frames at specified sampling rate
-        while curr_frame < total_frames - 1:
+        while curr_frame < total_frames:
             video.set(cv2.CAP_PROP_POS_FRAMES, curr_frame)
             curr_frame += frames_to_skip
             success, frame = video.read()
@@ -87,12 +84,12 @@ def process_video2gridview(datadir,videos_path, extract_frames_persecond=8):
             if len(frames) == 8:
                 height, width, _ = frames[0].shape
                 # 创建一个空白图像用于网格
-                grid_image = np.zeros(( 2*height, 4 * width, 3))
+                grid_image = np.zeros(( height, 8 * width, 3))
 
                 # 将帧放置到网格中
-                for i in range(2):
-                    for j in range(4):
-                        grid_image[i * height:(i + 1) * height, j * width:(j + 1) * width] = frames[i * 4 + j]
+                for i in range(1):
+                    for j in range(8):
+                        grid_image[i * height:(i + 1) * height, j * width:(j + 1) * width] = frames[i * 8 + j]
 
                 _, buffer = cv2.imencode(".jpg", grid_image)
                 base64Frames[key].append(base64.b64encode(buffer).decode("utf-8"))

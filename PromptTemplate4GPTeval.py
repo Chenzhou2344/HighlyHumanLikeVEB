@@ -523,11 +523,11 @@ Prompt4TemperalConsistency="""
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
-            1: Very poor coherence - There are many significant abrupt changes through the entire video making it difficult to understand the video.
-            2: Poor coherence - The video content can be understood, but there are noticeable abrupt changes in the primary object in the video, affecting the overall temporal consistency. 
-            3: Moderate coherence - The video content is fully presented but there are minor inconsistencies or abrupt changes in unimportant objects or background, which do not significantly affect the overall coherence.
-            4: Good coherence - The video is complete and comprehensive without any inconsistency and abrupt changes but there are noticeable frame flickering in the visual features.
-            5: Excellent coherence -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
+            1: Very poor consistency - There are many significant abrupt changes through the entire video making it difficult to understand the video.
+            2: Poor consistency - The video content can be understood, but there are noticeable abrupt changes in the primary object in the video, affecting the overall temporal consistency. 
+            3: Moderate consistency - The video content is fully presented but there are minor inconsistencies or abrupt changes in unimportant objects or background, which do not significantly affect the overall coherence.
+            4: Good consistency - The video is complete and comprehensive without any inconsistency and abrupt changes but there are noticeable frame flickering in the visual features.
+            5: Excellent consistency -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
 
             ### The Output Format:
             Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
