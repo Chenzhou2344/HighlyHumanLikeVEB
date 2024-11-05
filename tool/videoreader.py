@@ -5,7 +5,9 @@ import base64
 import numpy as np
 import matplotlib.pyplot as plt
 from io import BytesIO
-from IPython.display import display, Image
+from IPython.display import display
+from PIL import Image
+
 
 # We'll be using the OpenAI DevDay Keynote Recap video. You can review the video here: https://www.youtube.com/watch?v=h02ti0Bl6zk
 def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,resize_fy=1):
@@ -69,10 +71,8 @@ def process_video2gridview(datadir,videos_path, extract_frames_persecond=8):
 
         total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
         fps = video.get(cv2.CAP_PROP_FPS)
-        if key == "gen3":
-            frames_to_skip = int(2*fps/extract_frames_persecond)
-        else:
-            frames_to_skip = int(fps/extract_frames_persecond)
+
+        frames_to_skip = int(fps/extract_frames_persecond)
     
         curr_frame=1
         end_frame = total_frames - 1

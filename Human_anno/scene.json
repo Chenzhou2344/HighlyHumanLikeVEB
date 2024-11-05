@@ -64,13 +64,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.625,
+            "gen3": 0.96875,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -138,13 +138,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.75,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.5,
+            "lavie": 1.0
         }
     },
     {
@@ -212,13 +212,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.90625,
+            "lavie": 0.625
         }
     },
     {
@@ -286,13 +286,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.84375,
+            "gen3": 0.9375,
+            "kling": 0.6666666666666666,
+            "videocrafter2": 0.1875,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.8125
         }
     },
     {
@@ -360,13 +360,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.203125,
+            "gen3": 0.8020833333333334,
+            "kling": 0.625,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.90625,
+            "lavie": 0.75
         }
     },
     {
@@ -434,13 +434,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.203125,
+            "gen3": 0.8854166666666666,
+            "kling": 1.0,
+            "videocrafter2": 0.9375,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.375
         }
     },
     {
@@ -508,13 +508,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.203125,
+            "gen3": 1.0,
+            "kling": 0.375,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -582,13 +582,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 1.0,
+            "kling": 0.3958333333333333,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.75
         }
     },
     {
@@ -656,13 +656,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 1.0,
+            "kling": 0.625,
+            "videocrafter2": 1.0,
+            "pika": 0.875,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -730,13 +730,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.5833333333333334,
+            "videocrafter2": 0.1875,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -804,13 +804,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.078125,
+            "gen3": 0.28125,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -878,13 +878,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.140625,
+            "gen3": 0.0,
+            "kling": 0.3125,
+            "videocrafter2": 0.625,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -952,13 +952,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.765625,
+            "gen3": 0.13541666666666666,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.5,
+            "show1": 0.90625,
+            "lavie": 0.0
         }
     },
     {
@@ -1026,13 +1026,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.953125,
+            "gen3": 0.7291666666666666,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -1100,13 +1100,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.953125,
+            "gen3": 0.0625,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.90625,
+            "lavie": 0.0
         }
     },
     {
@@ -1174,13 +1174,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.8125,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -1248,13 +1248,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -1322,13 +1322,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -1396,13 +1396,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -1470,13 +1470,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -1544,13 +1544,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -1618,13 +1618,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.7291666666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -1692,13 +1692,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.90625,
+            "gen3": 0.11458333333333333,
+            "kling": 0.6666666666666666,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.21875,
+            "lavie": 1.0
         }
     },
     {
@@ -1766,13 +1766,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.0,
+            "kling": 0.875,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.625
         }
     },
     {
@@ -1840,13 +1840,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.1875,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -1914,13 +1914,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 0.9375,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.1875
         }
     },
     {
@@ -1988,13 +1988,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 0.6458333333333334,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -2062,13 +2062,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.4270833333333333,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -2136,13 +2136,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.3333333333333333,
+            "kling": 1.0,
+            "videocrafter2": 0.5625,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -2210,13 +2210,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.6354166666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -2284,13 +2284,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.4375,
+            "pika": 0.0,
+            "show1": 0.1875,
+            "lavie": 0.0
         }
     },
     {
@@ -2358,13 +2358,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.3020833333333333,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.5625
         }
     },
     {
@@ -2432,13 +2432,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.125,
+            "lavie": 0.8125
         }
     },
     {
@@ -2506,13 +2506,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -2580,13 +2580,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.96875,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.09375,
+            "lavie": 1.0
         }
     },
     {
@@ -2654,13 +2654,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.96875,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.8125
         }
     },
     {
@@ -2728,13 +2728,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.5,
+            "kling": 1.0,
+            "videocrafter2": 0.0625,
+            "pika": 1.0,
+            "show1": 0.3125,
+            "lavie": 0.625
         }
     },
     {
@@ -2802,13 +2802,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.2604166666666667,
+            "kling": 0.9375,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.71875,
+            "lavie": 1.0
         }
     },
     {
@@ -2876,13 +2876,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.875,
+            "kling": 0.8541666666666666,
+            "videocrafter2": 0.75,
+            "pika": 0.0,
+            "show1": 0.375,
+            "lavie": 1.0
         }
     },
     {
@@ -2950,13 +2950,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -3024,13 +3024,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.75,
+            "gen3": 1.0,
+            "kling": 0.9791666666666666,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.90625,
+            "lavie": 1.0
         }
     },
     {
@@ -3098,13 +3098,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.859375,
+            "gen3": 1.0,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -3172,13 +3172,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -3246,13 +3246,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -3320,13 +3320,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -3394,13 +3394,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.10416666666666667,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.90625,
+            "lavie": 0.0
         }
     },
     {
@@ -3468,13 +3468,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.5208333333333334,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -3542,13 +3542,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.16666666666666666,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -3616,13 +3616,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -3690,13 +3690,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -3764,13 +3764,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.5625
         }
     },
     {
@@ -3838,13 +3838,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.046875,
+            "gen3": 0.2916666666666667,
+            "kling": 0.4583333333333333,
+            "videocrafter2": 1.0,
+            "pika": 0.21875,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -3912,13 +3912,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.046875,
+            "gen3": 0.8229166666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -3986,13 +3986,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.140625,
+            "gen3": 0.3333333333333333,
+            "kling": 0.2708333333333333,
+            "videocrafter2": 0.5625,
+            "pika": 0.0,
+            "show1": 0.6875,
+            "lavie": 1.0
         }
     },
     {
@@ -4060,13 +4060,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -4134,13 +4134,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -4208,13 +4208,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -4282,13 +4282,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.96875,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -4356,13 +4356,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.921875,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.5,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -4430,13 +4430,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.25,
+            "gen3": 0.625,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -4504,13 +4504,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.5625,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -4578,13 +4578,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.953125,
+            "gen3": 0.8333333333333334,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.625,
+            "lavie": 1.0
         }
     },
     {
@@ -4652,13 +4652,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 0.5625,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.90625,
+            "lavie": 1.0
         }
     },
     {
@@ -4726,13 +4726,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.6979166666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -4800,13 +4800,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -4874,13 +4874,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -4948,13 +4948,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.71875,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -5022,13 +5022,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.78125,
+            "gen3": 0.6875,
+            "kling": 0.9166666666666666,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -5096,13 +5096,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.6041666666666666,
+            "kling": 0.7083333333333334,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -5170,13 +5170,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.578125,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.1875,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.9375
         }
     },
     {
@@ -5244,13 +5244,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.859375,
+            "gen3": 0.75,
+            "kling": 1.0,
+            "videocrafter2": 0.8125,
+            "pika": 0.28125,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -5318,13 +5318,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.296875,
+            "gen3": 0.9583333333333334,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.34375,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -5392,13 +5392,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.890625,
+            "gen3": 0.9895833333333334,
+            "kling": 1.0,
+            "videocrafter2": 0.375,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -5466,13 +5466,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.375,
+            "pika": 0.3125,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -5540,13 +5540,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.7395833333333334,
+            "kling": 1.0,
+            "videocrafter2": 0.375,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -5614,13 +5614,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.140625,
+            "gen3": 0.23958333333333334,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.5,
+            "lavie": 0.1875
         }
     },
     {
@@ -5688,13 +5688,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.875,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.875,
+            "show1": 0.0,
+            "lavie": 0.625
         }
     },
     {
@@ -5762,13 +5762,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.7604166666666666,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -5836,13 +5836,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.5520833333333334,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -5910,13 +5910,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.9375,
+            "kling": 0.875,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -5984,13 +5984,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.5625
         }
     },
     {
@@ -6058,13 +6058,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.796875,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -6132,13 +6132,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.953125,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.5625,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -6206,13 +6206,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.734375,
+            "gen3": 0.4479166666666667,
+            "kling": 1.0,
+            "videocrafter2": 0.4375,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -6280,13 +6280,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -6354,13 +6354,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -6428,13 +6428,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -6502,13 +6502,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.90625,
+            "kling": 0.0,
+            "videocrafter2": 0.9375,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.8125
         }
     },
     {
@@ -6576,13 +6576,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 1.0,
+            "kling": 0.0,
+            "videocrafter2": 0.8125,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -6650,13 +6650,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 1.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -6724,13 +6724,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.90625,
+            "kling": 0.4791666666666667,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -6798,13 +6798,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.5729166666666666,
+            "kling": 0.125,
+            "videocrafter2": 0.0,
+            "pika": 0.09375,
+            "show1": 0.6875,
+            "lavie": 0.0
         }
     },
     {
@@ -6872,13 +6872,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.5,
+            "gen3": 0.2916666666666667,
+            "kling": 0.6458333333333334,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.6875,
+            "lavie": 0.0
         }
     },
     {
@@ -6946,13 +6946,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.20833333333333334,
+            "videocrafter2": 0.625,
+            "pika": 0.0,
+            "show1": 0.59375,
+            "lavie": 0.0
         }
     },
     {
@@ -7020,13 +7020,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0625,
+            "kling": 0.0,
+            "videocrafter2": 0.375,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -7094,13 +7094,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.3229166666666667,
+            "kling": 0.0,
+            "videocrafter2": 0.625,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -7168,13 +7168,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.13541666666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -7242,13 +7242,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.8958333333333334,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -7316,13 +7316,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.7604166666666666,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -7390,13 +7390,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.203125,
+            "gen3": 0.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -7464,13 +7464,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.015625,
+            "gen3": 0.2708333333333333,
+            "kling": 0.8541666666666666,
+            "videocrafter2": 0.1875,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.8125
         }
     },
     {
@@ -7538,13 +7538,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.046875,
+            "gen3": 0.3333333333333333,
+            "kling": 0.1875,
+            "videocrafter2": 0.0,
+            "pika": 0.21875,
+            "show1": 0.875,
+            "lavie": 0.0
         }
     },
     {
@@ -7612,13 +7612,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -7686,13 +7686,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -7760,13 +7760,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -7834,13 +7834,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.7916666666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -7908,13 +7908,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.46875,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -7982,13 +7982,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.5729166666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8056,13 +8056,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.859375,
+            "gen3": 0.6666666666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8130,13 +8130,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.25,
+            "gen3": 0.6979166666666666,
+            "kling": 1.0,
+            "videocrafter2": 0.625,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8204,13 +8204,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.71875,
+            "gen3": 0.78125,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.59375,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8278,13 +8278,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8352,13 +8352,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8426,13 +8426,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8500,13 +8500,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -8574,13 +8574,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -8648,13 +8648,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.010416666666666666,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -8722,13 +8722,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.40625,
+            "gen3": 0.0625,
+            "kling": 0.3125,
+            "videocrafter2": 0.375,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -8796,13 +8796,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.3854166666666667,
+            "kling": 0.8541666666666666,
+            "videocrafter2": 0.1875,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8870,13 +8870,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.890625,
+            "gen3": 0.09375,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.1875,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -8944,13 +8944,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.9375,
+            "pika": 0.625,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -9018,13 +9018,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.5625,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.8125,
+            "show1": 1.0,
+            "lavie": 0.375
         }
     },
     {
@@ -9092,13 +9092,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.890625,
+            "gen3": 0.6458333333333334,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 0.09375,
+            "lavie": 0.25
         }
     },
     {
@@ -9166,13 +9166,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.15625,
+            "gen3": 0.3333333333333333,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.4375
         }
     },
     {
@@ -9240,13 +9240,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.140625,
+            "gen3": 0.8958333333333334,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -9314,13 +9314,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.390625,
+            "gen3": 0.9270833333333334,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -9388,13 +9388,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.3645833333333333,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 0.28125,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -9462,13 +9462,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.921875,
+            "gen3": 0.10416666666666667,
+            "kling": 0.8333333333333334,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.25
         }
     },
     {
@@ -9536,13 +9536,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.3020833333333333,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.65625,
+            "lavie": 1.0
         }
     },
     {
@@ -9610,13 +9610,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.1875
         }
     },
     {
@@ -9684,13 +9684,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.8125,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -9758,13 +9758,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.046875,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -9832,13 +9832,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -9906,13 +9906,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -9980,13 +9980,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -10054,13 +10054,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.8125,
+            "pika": 0.0,
+            "show1": 0.90625,
+            "lavie": 0.0
         }
     },
     {
@@ -10128,13 +10128,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.25,
+            "pika": 0.0,
+            "show1": 0.5,
+            "lavie": 1.0
         }
     },
     {
@@ -10202,13 +10202,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.09375,
+            "show1": 0.90625,
+            "lavie": 0.0
         }
     },
     {
@@ -10276,13 +10276,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.8125,
+            "gen3": 1.0,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.3125,
+            "lavie": 0.0
         }
     },
     {
@@ -10350,13 +10350,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0625,
+            "gen3": 0.4375,
+            "kling": 0.0,
+            "videocrafter2": 0.8125,
+            "pika": 0.375,
+            "show1": 0.46875,
+            "lavie": 0.8125
         }
     },
     {
@@ -10424,13 +10424,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.1875,
+            "gen3": 0.6666666666666666,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -10498,13 +10498,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.8854166666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -10572,13 +10572,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -10646,13 +10646,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.6666666666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.5,
+            "lavie": 1.0
         }
     },
     {
@@ -10720,13 +10720,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -10794,13 +10794,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -10868,13 +10868,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -10942,13 +10942,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.265625,
+            "gen3": 0.9583333333333334,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 0.59375,
+            "show1": 0.8125,
+            "lavie": 1.0
         }
     },
     {
@@ -11016,13 +11016,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.34375,
+            "gen3": 0.5416666666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -11090,13 +11090,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.953125,
+            "gen3": 0.96875,
+            "kling": 1.0,
+            "videocrafter2": 0.0625,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -11164,13 +11164,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.625,
+            "gen3": 0.5,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.71875,
+            "lavie": 0.375
         }
     },
     {
@@ -11238,13 +11238,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.296875,
+            "gen3": 0.9375,
+            "kling": 0.0,
+            "videocrafter2": 0.625,
+            "pika": 0.09375,
+            "show1": 0.0,
+            "lavie": 0.4375
         }
     },
     {
@@ -11312,13 +11312,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.109375,
+            "gen3": 0.4479166666666667,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -11386,13 +11386,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.046875,
+            "gen3": 0.5833333333333334,
+            "kling": 0.3125,
+            "videocrafter2": 0.625,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -11460,13 +11460,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.109375,
+            "gen3": 0.4583333333333333,
+            "kling": 0.0,
+            "videocrafter2": 0.625,
+            "pika": 0.0,
+            "show1": 0.09375,
+            "lavie": 0.0
         }
     },
     {
@@ -11534,13 +11534,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.5,
+            "gen3": 0.3645833333333333,
+            "kling": 0.0,
+            "videocrafter2": 0.375,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -11608,13 +11608,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.953125,
+            "gen3": 0.0,
+            "kling": 1.0,
+            "videocrafter2": 0.8125,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -11682,13 +11682,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.703125,
+            "gen3": 0.5520833333333334,
+            "kling": 0.3541666666666667,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -11756,13 +11756,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.1875,
+            "gen3": 0.0,
+            "kling": 0.75,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -11830,13 +11830,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -11904,13 +11904,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.96875,
+            "kling": 1.0,
+            "videocrafter2": 0.5625,
+            "pika": 0.1875,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -11978,13 +11978,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -12052,13 +12052,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12126,13 +12126,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12200,13 +12200,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12274,13 +12274,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12348,13 +12348,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12422,13 +12422,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12496,13 +12496,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.75,
+            "videocrafter2": 0.9375,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12570,13 +12570,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.09375,
+            "gen3": 0.6145833333333334,
+            "kling": 0.0,
+            "videocrafter2": 0.625,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12644,13 +12644,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.2604166666666667,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12718,13 +12718,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.078125,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12792,13 +12792,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.17708333333333334,
+            "kling": 0.0,
+            "videocrafter2": 0.625,
+            "pika": 1.0,
+            "show1": 0.03125,
+            "lavie": 1.0
         }
     },
     {
@@ -12866,13 +12866,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.984375,
+            "gen3": 0.3958333333333333,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -12940,13 +12940,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.90625,
+            "gen3": 0.90625,
+            "kling": 0.875,
+            "videocrafter2": 0.8125,
+            "pika": 1.0,
+            "show1": 0.59375,
+            "lavie": 0.75
         }
     },
     {
@@ -13014,13 +13014,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.5625,
+            "gen3": 0.8125,
+            "kling": 0.9375,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -13088,13 +13088,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.59375,
+            "gen3": 0.96875,
+            "kling": 0.6875,
+            "videocrafter2": 0.8125,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.5625
         }
     },
     {
@@ -13162,13 +13162,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.484375,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 0.40625,
+            "lavie": 1.0
         }
     },
     {
@@ -13236,13 +13236,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.953125,
+            "gen3": 0.875,
+            "kling": 0.0,
+            "videocrafter2": 0.75,
+            "pika": 0.28125,
+            "show1": 0.90625,
+            "lavie": 0.375
         }
     },
     {
@@ -13310,13 +13310,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.796875,
+            "gen3": 0.875,
+            "kling": 0.625,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -13384,13 +13384,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.671875,
+            "gen3": 0.0,
+            "kling": 0.875,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -13458,13 +13458,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.453125,
+            "gen3": 0.46875,
+            "kling": 0.3958333333333333,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -13532,13 +13532,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.390625,
+            "gen3": 0.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.375
         }
     },
     {
@@ -13606,13 +13606,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.375,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -13680,13 +13680,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.46875,
+            "kling": 1.0,
+            "videocrafter2": 0.75,
+            "pika": 0.28125,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -13754,13 +13754,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.5,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -13828,13 +13828,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.859375,
+            "gen3": 0.96875,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.40625,
+            "lavie": 1.0
         }
     },
     {
@@ -13902,13 +13902,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.59375,
+            "gen3": 0.9375,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -13976,13 +13976,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.046875,
+            "gen3": 0.7395833333333334,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.90625,
+            "lavie": 1.0
         }
     },
     {
@@ -14050,13 +14050,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.17708333333333334,
+            "kling": 0.4375,
+            "videocrafter2": 0.0,
+            "pika": 0.28125,
+            "show1": 0.90625,
+            "lavie": 0.0
         }
     },
     {
@@ -14124,13 +14124,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.19791666666666666,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -14198,13 +14198,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.16666666666666666,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -14272,13 +14272,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -14346,13 +14346,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -14420,13 +14420,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -14494,13 +14494,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.796875,
+            "gen3": 0.4791666666666667,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.78125,
+            "show1": 0.03125,
+            "lavie": 0.8125
         }
     },
     {
@@ -14568,13 +14568,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0625,
+            "gen3": 0.7083333333333334,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.5625
         }
     },
     {
@@ -14642,13 +14642,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.796875,
+            "gen3": 0.46875,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -14716,13 +14716,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.875,
+            "gen3": 0.7395833333333334,
+            "kling": 0.6041666666666666,
+            "videocrafter2": 0.1875,
+            "pika": 1.0,
+            "show1": 0.28125,
+            "lavie": 0.0
         }
     },
     {
@@ -14790,13 +14790,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.9375,
+            "kling": 1.0,
+            "videocrafter2": 0.9375,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.375
         }
     },
     {
@@ -14864,13 +14864,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.515625,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.96875,
+            "show1": 0.71875,
+            "lavie": 1.0
         }
     },
     {
@@ -14938,13 +14938,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -15012,13 +15012,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -15086,13 +15086,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -15160,13 +15160,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.96875,
+            "kling": 0.8125,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.46875,
+            "lavie": 1.0
         }
     },
     {
@@ -15234,13 +15234,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.8645833333333334,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -15308,13 +15308,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 0.14583333333333334,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -15382,13 +15382,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.25,
+            "gen3": 0.34375,
+            "kling": 0.0,
+            "videocrafter2": 0.1875,
+            "pika": 0.0,
+            "show1": 0.1875,
+            "lavie": 0.375
         }
     },
     {
@@ -15456,13 +15456,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.859375,
+            "gen3": 0.4791666666666667,
+            "kling": 0.7916666666666666,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.6875,
+            "lavie": 0.1875
         }
     },
     {
@@ -15530,13 +15530,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.484375,
+            "gen3": 0.5,
+            "kling": 0.875,
+            "videocrafter2": 0.8125,
+            "pika": 0.71875,
+            "show1": 0.5,
+            "lavie": 0.0
         }
     },
     {
@@ -15604,13 +15604,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.75,
+            "gen3": 0.8125,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -15678,13 +15678,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.546875,
+            "gen3": 0.8020833333333334,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.1875,
+            "lavie": 1.0
         }
     },
     {
@@ -15752,13 +15752,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.25,
+            "pika": 0.09375,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -15826,13 +15826,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.140625,
+            "gen3": 0.10416666666666667,
+            "kling": 0.1875,
+            "videocrafter2": 0.1875,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -15900,13 +15900,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.5208333333333334,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -15974,13 +15974,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.09375,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -16048,13 +16048,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.453125,
+            "gen3": 0.8333333333333334,
+            "kling": 0.75,
+            "videocrafter2": 0.8125,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -16122,13 +16122,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 1.0,
+            "kling": 0.5,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -16196,13 +16196,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.75,
+            "gen3": 0.9375,
+            "kling": 0.9375,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.5625
         }
     },
     {
@@ -16270,13 +16270,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.5208333333333334,
+            "kling": 0.7916666666666666,
+            "videocrafter2": 0.0,
+            "pika": 0.625,
+            "show1": 0.625,
+            "lavie": 1.0
         }
     },
     {
@@ -16344,13 +16344,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.890625,
+            "gen3": 0.5,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.4375
         }
     },
     {
@@ -16418,13 +16418,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.9375,
+            "gen3": 0.7708333333333334,
+            "kling": 0.4375,
+            "videocrafter2": 0.0,
+            "pika": 0.09375,
+            "show1": 0.71875,
+            "lavie": 0.375
         }
     },
     {
@@ -16492,13 +16492,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.5625,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -16566,13 +16566,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 0.8125
         }
     },
     {
@@ -16640,13 +16640,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.84375,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -16714,13 +16714,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.03125,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.625,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -16788,13 +16788,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.03125,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.09375,
+            "lavie": 1.0
         }
     },
     {
@@ -16862,13 +16862,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.140625,
+            "gen3": 0.03125,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 0.0,
+            "lavie": 0.5625
         }
     },
     {
@@ -16936,13 +16936,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.09375,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.90625,
+            "lavie": 0.9375
         }
     },
     {
@@ -17010,13 +17010,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.16666666666666666,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -17084,13 +17084,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.6458333333333334,
+            "kling": 0.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -17158,13 +17158,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.59375,
+            "gen3": 0.46875,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.1875,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17232,13 +17232,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.5625,
+            "gen3": 0.6770833333333334,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -17306,13 +17306,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.203125,
+            "gen3": 0.6354166666666666,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -17380,13 +17380,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17454,13 +17454,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17528,13 +17528,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17602,13 +17602,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17676,13 +17676,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17750,13 +17750,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17824,13 +17824,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17898,13 +17898,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.453125,
+            "gen3": 0.3854166666666667,
+            "kling": 1.0,
+            "videocrafter2": 0.5625,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -17972,13 +17972,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.453125,
+            "gen3": 0.8125,
+            "kling": 1.0,
+            "videocrafter2": 0.8125,
+            "pika": 0.90625,
+            "show1": 1.0,
+            "lavie": 0.0
         }
     },
     {
@@ -18046,13 +18046,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.171875,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -18120,13 +18120,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.875,
+            "gen3": 0.11458333333333333,
+            "kling": 0.0,
+            "videocrafter2": 0.375,
+            "pika": 0.0,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -18194,13 +18194,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0,
+            "gen3": 0.0,
+            "kling": 0.0,
+            "videocrafter2": 0.0,
+            "pika": 0.21875,
+            "show1": 0.0,
+            "lavie": 0.0
         }
     },
     {
@@ -18268,13 +18268,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.203125,
+            "gen3": 0.96875,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.0,
+            "show1": 1.0,
+            "lavie": 0.4375
         }
     },
     {
@@ -18342,13 +18342,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.984375,
+            "gen3": 0.6666666666666666,
+            "kling": 0.0,
+            "videocrafter2": 0.1875,
+            "pika": 0.0,
+            "show1": 0.21875,
+            "lavie": 1.0
         }
     },
     {
@@ -18416,13 +18416,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 0.6145833333333334,
+            "kling": 0.9791666666666666,
+            "videocrafter2": 1.0,
+            "pika": 0.1875,
+            "show1": 0.0,
+            "lavie": 1.0
         }
     },
     {
@@ -18490,13 +18490,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.546875,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -18564,13 +18564,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.90625,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -18638,13 +18638,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 0.90625,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -18712,13 +18712,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.875,
+            "gen3": 0.9375,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -18786,13 +18786,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.78125,
+            "lavie": 1.0
         }
     },
     {
@@ -18860,13 +18860,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 1.0,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.71875,
+            "lavie": 1.0
         }
     },
     {
@@ -18934,13 +18934,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.875,
+            "gen3": 1.0,
+            "kling": 0.75,
+            "videocrafter2": 0.0,
+            "pika": 1.0,
+            "show1": 1.0,
+            "lavie": 1.0
         }
     },
     {
@@ -19008,13 +19008,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.0625,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 0.0,
+            "pika": 0.96875,
+            "show1": 0.3125,
+            "lavie": 1.0
         }
     },
     {
@@ -19082,13 +19082,13 @@
             ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": []
+            "cogvideox5b": 0.921875,
+            "gen3": 1.0,
+            "kling": 1.0,
+            "videocrafter2": 1.0,
+            "pika": 1.0,
+            "show1": 0.28125,
+            "lavie": 0.0
         }
     }
 ]

@@ -470,16 +470,20 @@ Prompt4Motioneffects="""
            
             Note: The evaluation of motion effects does not need to care the action consistency too much. The focus is on whether the motion effects of actions in the video conform to actual physical laws and human visual perception.
 
-             ### The Output Format:
-            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input, the format is:
+            ### The Output Format:
+            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
+            <output format>
             Final Scores:
             - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
-            
-            How many score lines in this format is up to how many videos input.
+            </output format>
+                
+            <example>
+            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+            Final Scores:
+            - gen2: 3 , because ...
+            </example>
+                
 
             ### Evaluation Steps:
             Follow the following steps strictly while giving the response:
