@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 from IPython.display import display
 from PIL import Image
+from concurrent.futures import ThreadPoolExecutor
 
 
-# We'll be using the OpenAI DevDay Keynote Recap video. You can review the video here: https://www.youtube.com/watch?v=h02ti0Bl6zk
 def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,resize_fy=1):
     base64Frames = {"cogvideox5b": [],"kling": [],"gen3": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
     for key in base64Frames.keys():
@@ -59,21 +59,22 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
 
     return base64Frames
 
-def process_video2gridview(datadir,videos_path, extract_frames_persecond=8):
-    base64Frames = {"cogvideox5b": [],"kling": [],"gen3": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
-    for key in base64Frames.keys():
+def process_video2gridview(datadir, videos_path, extract_frames_persecond=8):
+    base64Frames = {"cogvideox5b": [], "kling": [], "gen3": [], "lavie": [], "pika": [], "show1": [], "videocrafter2": []}
+
+    def process_video(key):
         frames = []
-        video = cv2.VideoCapture(os.path.join(datadir,videos_path[key]))
+        video = cv2.VideoCapture(os.path.join(datadir, videos_path[key]))
 
         if not video.isOpened():
             print(f"Error: Cannot open video file {datadir+videos_path[key]}")
-            continue
+            return
 
         total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
         fps = video.get(cv2.CAP_PROP_FPS)
-        frames_to_skip = int(fps/extract_frames_persecond)
-        curr_frame=0
-        # Loop through the video and extract frames at specified sampling rate
+        frames_to_skip = int(fps / extract_frames_persecond)
+        curr_frame = 0
+
         while curr_frame < total_frames:
             video.set(cv2.CAP_PROP_POS_FRAMES, curr_frame)
             curr_frame += frames_to_skip
@@ -83,25 +84,21 @@ def process_video2gridview(datadir,videos_path, extract_frames_persecond=8):
             frames.append(frame)
             if len(frames) == 8:
                 height, width, _ = frames[0].shape
-                # 创建一个空白图像用于网格
-                grid_image = np.zeros(( height, 8 * width, 3))
+                grid_image = np.zeros((height, 8 * width, 3))
 
-                # 将帧放置到网格中
-                for i in range(1):
-                    for j in range(8):
-                        grid_image[i * height:(i + 1) * height, j * width:(j + 1) * width] = frames[i * 8 + j]
+                for j in range(8):
+                    grid_image[0:height, j * width:(j + 1) * width] = frames[j]
 
                 _, buffer = cv2.imencode(".jpg", grid_image)
                 base64Frames[key].append(base64.b64encode(buffer).decode("utf-8"))
                 frames = []
 
         video.release()
-        
-    
 
+    with ThreadPoolExecutor() as executor:
+        executor.map(process_video, base64Frames.keys())
 
     return base64Frames
-
 
 
 
