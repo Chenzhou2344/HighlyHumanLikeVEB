@@ -512,7 +512,9 @@ Prompt4TemperalConsistency="""
             'Visual Features' includes color, brightness, texture, details and so on.
             'Semantic Features'includes positions, shapes, scene layout, background and so on.
             Temporal consistency involves:
-            1.**frame-to-frame Consitency** Whether the visual features and semantic features stay consistent between consecutive frames.
+            1.**frame-to-frame Consitency** Whether:
+                the visual features(like color, brightness, texture, details) stay consistent between consecutive frames.
+                the semantic features(like positions, shapes, scene layout, background) stay consistent between consecutive frames.
             2.**Reasonableness**Whether the visual features and semantic features have no unnatural changes.
             3.**Stability**Whether there are noticeable frame flickering in the video.
 
