@@ -509,15 +509,13 @@ Prompt4TemperalConsistency="""
             ### Evaluation Criteria:
             You will evaluate the temporal consistency between the video and the text prompt. 
             Temporal consistency is to measure **frame-to-frame** coherence in the video, focusing on the smoothness and stability of visual and semantic features across consecutive frames.
-            'Visual Features' includes color, brightness, texture, details and so on.
-            'Semantic Features'includes positions, shapes, scene layout, background and so on.
-            Temporal consistency involves:
-            1.**frame-to-frame Consitency** Whether:
-                the visual features(like color, brightness, texture, details) stay consistent between consecutive frames.
-                the semantic features(like positions, shapes, scene layout, background) stay consistent between consecutive frames.
-            2.**Reasonableness**Whether the visual features and semantic features have no unnatural changes.
-            3.**Stability**Whether there are noticeable frame flickering in the video.
-
+            The visual features includes color, brightness, texture and details.
+            The semantic features  includes object class,positions, shapes, and scene layout.
+            To evaluate this metric, you should focus on the following aspects:
+                1.whether the frame flickering in the video is noticeable.
+                2.Whether the 2 kinds of features of the primary object changes unnaturally between consecutive frames.
+                3.Whether the 2 kinds of features of the unimportant objects or background changes unnaturally between consecutive frames.
+                
             ###Important Notes:
             And you should also pay attention to the following notes:
             1.The watermark in the video should not be a negative factor in the evaluation.
@@ -527,25 +525,10 @@ Prompt4TemperalConsistency="""
             Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
             1: Very poor consistency - There are many significant unnatural changes through the entire video making it difficult to understand the video.
             2: Poor consistency - The video content can be understood, but there are noticeable unnatural changes in the primary object in the video, affecting the overall temporal consistency. 
-            3: Moderate consistency - The video content is fully presented but there are minor inconsistencies or unnatural changes in unimportant objects or background, which do not significantly affect the overall coherence.
-            4: Good consistency - The video is complete and comprehensive without any inconsistency and unnatural changes but there are noticeable frame flickering in the visual features.
+            3: Moderate consistency - The video content is fully presented but there are minor noticeable inconsistencies or unnatural changes in unimportant objects or background, which do not significantly affect the overall coherence.
+            4: Good consistency - The video is complete and comprehensive without any noticeable inconsistency and unnatural changes but there are noticeable frame flickering in the visual features.
             5: Excellent consistency -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
 
-            ### The Output Format:
-            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
-            <output format>
-            Final Scores:
-            - A: x ,because ...
-            </output format>
-                
-            <example>
-            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-            Final Scores:
-            - gen2: 3 , because ...
-            </example>
-                
-            ### Evaluation Steps
 
 </instructions>
 """
