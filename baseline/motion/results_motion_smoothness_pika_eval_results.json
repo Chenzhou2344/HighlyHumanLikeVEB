@@ -1,0 +1,1905 @@
+{
+    "motion_smoothness": [
+        0.9951258405249398,
+        [
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is marching_0/A person is marching_0_full.mp4",
+                "video_results": 0.9968570284501668
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is marching_1/A person is marching_1_full.mp4",
+                "video_results": 0.9959704934056957
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is marching_2/A person is marching_2_full.mp4",
+                "video_results": 0.9950215445016856
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is roller skating_0/A person is roller skating_0_full.mp4",
+                "video_results": 0.995117896093793
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is roller skating_1/A person is roller skating_1_full.mp4",
+                "video_results": 0.9949356760856917
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is roller skating_2/A person is roller skating_2_full.mp4",
+                "video_results": 0.9912754707045196
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skateboarding_0/A person is skateboarding_0_full.mp4",
+                "video_results": 0.9947817769264569
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skateboarding_1/A person is skateboarding_1_full.mp4",
+                "video_results": 0.9958000059858502
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skateboarding_2/A person is skateboarding_2_full.mp4",
+                "video_results": 0.9950259122950651
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dunking basketball_0/A person is dunking basketball_0_full.mp4",
+                "video_results": 0.9921437575949498
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dunking basketball_1/A person is dunking basketball_1_full.mp4",
+                "video_results": 0.9942770698276248
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dunking basketball_2/A person is dunking basketball_2_full.mp4",
+                "video_results": 0.9967433835973114
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is stretching leg_0/A person is stretching leg_0_full.mp4",
+                "video_results": 0.9969533559057815
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is stretching leg_1/A person is stretching leg_1_full.mp4",
+                "video_results": 0.9964388324953143
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is stretching leg_2/A person is stretching leg_2_full.mp4",
+                "video_results": 0.9969790489878549
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding scooter_0/A person is riding scooter_0_full.mp4",
+                "video_results": 0.9962059455369158
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding scooter_1/A person is riding scooter_1_full.mp4",
+                "video_results": 0.9957546605422193
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding scooter_2/A person is riding scooter_2_full.mp4",
+                "video_results": 0.9962308401301697
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skydiving_0/A person is skydiving_0_full.mp4",
+                "video_results": 0.9963051072604288
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skydiving_1/A person is skydiving_1_full.mp4",
+                "video_results": 0.9960370895830758
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skydiving_2/A person is skydiving_2_full.mp4",
+                "video_results": 0.9934697677554477
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is playing piano_0/A person is playing piano_0_full.mp4",
+                "video_results": 0.9962740522832908
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is playing piano_1/A person is playing piano_1_full.mp4",
+                "video_results": 0.9965781047789827
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is playing piano_2/A person is playing piano_2_full.mp4",
+                "video_results": 0.996094096921857
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is canoeing or kayaking_0/A person is canoeing or kayaking_0_full.mp4",
+                "video_results": 0.9967048419628268
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is canoeing or kayaking_1/A person is canoeing or kayaking_1_full.mp4",
+                "video_results": 0.995302605217945
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is canoeing or kayaking_2/A person is canoeing or kayaking_2_full.mp4",
+                "video_results": 0.9956793624082598
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is laughing_0/A person is laughing_0_full.mp4",
+                "video_results": 0.9960462588221564
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is laughing_1/A person is laughing_1_full.mp4",
+                "video_results": 0.9968062754666819
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is laughing_2/A person is laughing_2_full.mp4",
+                "video_results": 0.9952736574102681
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is digging_0/A person is digging_0_full.mp4",
+                "video_results": 0.9967674924672687
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is digging_1/A person is digging_1_full.mp4",
+                "video_results": 0.9959356109707976
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is digging_2/A person is digging_2_full.mp4",
+                "video_results": 0.9968070669827367
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is clay pottery making_0/A person is clay pottery making_0_full.mp4",
+                "video_results": 0.9957393515693655
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is clay pottery making_1/A person is clay pottery making_1_full.mp4",
+                "video_results": 0.9959657790122789
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is clay pottery making_2/A person is clay pottery making_2_full.mp4",
+                "video_results": 0.9953327417747123
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shooting basketball_0/A person is shooting basketball_0_full.mp4",
+                "video_results": 0.996331262154065
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shooting basketball_1/A person is shooting basketball_1_full.mp4",
+                "video_results": 0.9917946720891175
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shooting basketball_2/A person is shooting basketball_2_full.mp4",
+                "video_results": 0.9948167220089629
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is bending back_0/A person is bending back_0_full.mp4",
+                "video_results": 0.9962729906530627
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is bending back_1/A person is bending back_1_full.mp4",
+                "video_results": 0.9966465464326049
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is bending back_2/A person is bending back_2_full.mp4",
+                "video_results": 0.9959888183674205
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking hands_0/A person is shaking hands_0_full.mp4",
+                "video_results": 0.9966784477960915
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking hands_1/A person is shaking hands_1_full.mp4",
+                "video_results": 0.9962813638706096
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking hands_2/A person is shaking hands_2_full.mp4",
+                "video_results": 0.9940364117230838
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is push up_0/A person is push up_0_full.mp4",
+                "video_results": 0.996705349794636
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is push up_1/A person is push up_1_full.mp4",
+                "video_results": 0.9968167881965899
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is push up_2/A person is push up_2_full.mp4",
+                "video_results": 0.9967889696549576
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is throwing axe_0/A person is throwing axe_0_full.mp4",
+                "video_results": 0.9956164479578596
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is throwing axe_1/A person is throwing axe_1_full.mp4",
+                "video_results": 0.9918269146889761
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is throwing axe_2/A person is throwing axe_2_full.mp4",
+                "video_results": 0.9957290492024016
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is air drumming_0/A person is air drumming_0_full.mp4",
+                "video_results": 0.9954175426604466
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is air drumming_1/A person is air drumming_1_full.mp4",
+                "video_results": 0.9961643465060657
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is air drumming_2/A person is air drumming_2_full.mp4",
+                "video_results": 0.9951687618215179
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is planting trees_0/A person is planting trees_0_full.mp4",
+                "video_results": 0.9967583244081947
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is planting trees_1/A person is planting trees_1_full.mp4",
+                "video_results": 0.9960039343019683
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is planting trees_2/A person is planting trees_2_full.mp4",
+                "video_results": 0.9960701143662122
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is robot dancing_0/A person is robot dancing_0_full.mp4",
+                "video_results": 0.9946301246601581
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is robot dancing_1/A person is robot dancing_1_full.mp4",
+                "video_results": 0.9928938937247692
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is robot dancing_2/A person is robot dancing_2_full.mp4",
+                "video_results": 0.9951288335187015
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is rock climbing_0/A person is rock climbing_0_full.mp4",
+                "video_results": 0.9938260671226211
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is rock climbing_1/A person is rock climbing_1_full.mp4",
+                "video_results": 0.9961623461271764
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is rock climbing_2/A person is rock climbing_2_full.mp4",
+                "video_results": 0.9968304125495173
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is hula hooping_0/A person is hula hooping_0_full.mp4",
+                "video_results": 0.9942268428051368
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is hula hooping_1/A person is hula hooping_1_full.mp4",
+                "video_results": 0.9900828970528163
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is hula hooping_2/A person is hula hooping_2_full.mp4",
+                "video_results": 0.9838708798470369
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is jogging_0/A person is jogging_0_full.mp4",
+                "video_results": 0.994742090900392
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is jogging_1/A person is jogging_1_full.mp4",
+                "video_results": 0.9949033377980481
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is jogging_2/A person is jogging_2_full.mp4",
+                "video_results": 0.9967236224069898
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_0/A person is motorcycling_0_full.mp4",
+                "video_results": 0.9963791114101891
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_1/A person is motorcycling_1_full.mp4",
+                "video_results": 0.996919076615021
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_2/A person is motorcycling_2_full.mp4",
+                "video_results": 0.9945114436476183
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_0/A person is driving car_0_full.mp4",
+                "video_results": 0.9964665171598663
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_1/A person is driving car_1_full.mp4",
+                "video_results": 0.9939064178290801
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_2/A person is driving car_2_full.mp4",
+                "video_results": 0.9896633498834584
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sword fighting_0/A person is sword fighting_0_full.mp4",
+                "video_results": 0.9964930644592396
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sword fighting_1/A person is sword fighting_1_full.mp4",
+                "video_results": 0.9966363176551257
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sword fighting_2/A person is sword fighting_2_full.mp4",
+                "video_results": 0.9944220360172256
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is doing aerobics_0/A person is doing aerobics_0_full.mp4",
+                "video_results": 0.996195040830364
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is doing aerobics_1/A person is doing aerobics_1_full.mp4",
+                "video_results": 0.9963575320983173
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is doing aerobics_2/A person is doing aerobics_2_full.mp4",
+                "video_results": 0.9925884974700664
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is strumming guitar_0/A person is strumming guitar_0_full.mp4",
+                "video_results": 0.9943948783864036
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is strumming guitar_1/A person is strumming guitar_1_full.mp4",
+                "video_results": 0.993435278745383
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is strumming guitar_2/A person is strumming guitar_2_full.mp4",
+                "video_results": 0.9969299830379456
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding or walking with horse_0/A person is riding or walking with horse_0_full.mp4",
+                "video_results": 0.9885027526329159
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding or walking with horse_1/A person is riding or walking with horse_1_full.mp4",
+                "video_results": 0.9950769343736269
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding or walking with horse_2/A person is riding or walking with horse_2_full.mp4",
+                "video_results": 0.9931438225489339
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is archery_0/A person is archery_0_full.mp4",
+                "video_results": 0.9951906435368265
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is archery_1/A person is archery_1_full.mp4",
+                "video_results": 0.9962441330622323
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is archery_2/A person is archery_2_full.mp4",
+                "video_results": 0.9966097973886245
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is catching or throwing baseball_0/A person is catching or throwing baseball_0_full.mp4",
+                "video_results": 0.9960690972007676
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is catching or throwing baseball_1/A person is catching or throwing baseball_1_full.mp4",
+                "video_results": 0.9952396217908118
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is catching or throwing baseball_2/A person is catching or throwing baseball_2_full.mp4",
+                "video_results": 0.9931345518829467
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dancing ballet_0/A person is dancing ballet_0_full.mp4",
+                "video_results": 0.9920243109728573
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dancing ballet_1/A person is dancing ballet_1_full.mp4",
+                "video_results": 0.9922949243422859
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dancing ballet_2/A person is dancing ballet_2_full.mp4",
+                "video_results": 0.9958015667051134
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is running on treadmill_0/A person is running on treadmill_0_full.mp4",
+                "video_results": 0.9891053923714094
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is running on treadmill_1/A person is running on treadmill_1_full.mp4",
+                "video_results": 0.9782772917760855
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is running on treadmill_2/A person is running on treadmill_2_full.mp4",
+                "video_results": 0.9902820026831198
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is kissing_0/A person is kissing_0_full.mp4",
+                "video_results": 0.996033046774163
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is kissing_1/A person is kissing_1_full.mp4",
+                "video_results": 0.9964029901789148
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is kissing_2/A person is kissing_2_full.mp4",
+                "video_results": 0.9962981397522244
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is barbequing_0/A person is barbequing_0_full.mp4",
+                "video_results": 0.994941307183106
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is barbequing_1/A person is barbequing_1_full.mp4",
+                "video_results": 0.9961358307416104
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is barbequing_2/A person is barbequing_2_full.mp4",
+                "video_results": 0.9894314032828205
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is milking cow_0/A person is milking cow_0_full.mp4",
+                "video_results": 0.9923650406394176
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is milking cow_1/A person is milking cow_1_full.mp4",
+                "video_results": 0.9954279421097484
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is milking cow_2/A person is milking cow_2_full.mp4",
+                "video_results": 0.9937976267712967
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is making snowman_0/A person is making snowman_0_full.mp4",
+                "video_results": 0.9970735598773823
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is making snowman_1/A person is making snowman_1_full.mp4",
+                "video_results": 0.9955004102131049
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is making snowman_2/A person is making snowman_2_full.mp4",
+                "video_results": 0.9951137622098472
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sailing_0/A person is sailing_0_full.mp4",
+                "video_results": 0.9959543951695261
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sailing_1/A person is sailing_1_full.mp4",
+                "video_results": 0.9969254700501524
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sailing_2/A person is sailing_2_full.mp4",
+                "video_results": 0.9969055851200775
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person swimming in ocean_0/A person swimming in ocean_0_full.mp4",
+                "video_results": 0.9967084999287705
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person swimming in ocean_1/A person swimming in ocean_1_full.mp4",
+                "video_results": 0.9959550161210318
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person swimming in ocean_2/A person swimming in ocean_2_full.mp4",
+                "video_results": 0.9937211263181743
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person giving a presentation to a room full of colleagues_0/A person giving a presentation to a room full of colleagues_0_full.mp4",
+                "video_results": 0.9969243580551093
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person giving a presentation to a room full of colleagues_1/A person giving a presentation to a room full of colleagues_1_full.mp4",
+                "video_results": 0.9968278634140543
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person giving a presentation to a room full of colleagues_2/A person giving a presentation to a room full of colleagues_2_full.mp4",
+                "video_results": 0.9977511148914223
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person washing the dishes_0/A person washing the dishes_0_full.mp4",
+                "video_results": 0.9926528593591235
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person washing the dishes_1/A person washing the dishes_1_full.mp4",
+                "video_results": 0.9949503555788124
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person washing the dishes_2/A person washing the dishes_2_full.mp4",
+                "video_results": 0.9962119333180576
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person walking in the snowstorm_0/A person walking in the snowstorm_0_full.mp4",
+                "video_results": 0.9948983536122783
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person walking in the snowstorm_1/A person walking in the snowstorm_1_full.mp4",
+                "video_results": 0.9971289784449319
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person walking in the snowstorm_2/A person walking in the snowstorm_2_full.mp4",
+                "video_results": 0.996880322954856
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person drinking coffee in a cafe_0/A person drinking coffee in a cafe_0_full.mp4",
+                "video_results": 0.996474102133194
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person drinking coffee in a cafe_1/A person drinking coffee in a cafe_1_full.mp4",
+                "video_results": 0.9963809286199161
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person drinking coffee in a cafe_2/A person drinking coffee in a cafe_2_full.mp4",
+                "video_results": 0.9963164529675228
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle leaning against a tree_0/A bicycle leaning against a tree_0_full.mp4",
+                "video_results": 0.9969434336081247
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle leaning against a tree_1/A bicycle leaning against a tree_1_full.mp4",
+                "video_results": 0.9968562937889617
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle leaning against a tree_2/A bicycle leaning against a tree_2_full.mp4",
+                "video_results": 0.9930881475981937
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle gliding through a snowy field_0/A bicycle gliding through a snowy field_0_full.mp4",
+                "video_results": 0.9961697972234237
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle gliding through a snowy field_1/A bicycle gliding through a snowy field_1_full.mp4",
+                "video_results": 0.9878984580964739
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle gliding through a snowy field_2/A bicycle gliding through a snowy field_2_full.mp4",
+                "video_results": 0.9957964707942001
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car stuck in traffic during rush hour_0/A car stuck in traffic during rush hour_0_full.mp4",
+                "video_results": 0.9935884347688217
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car stuck in traffic during rush hour_1/A car stuck in traffic during rush hour_1_full.mp4",
+                "video_results": 0.9948517506037342
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car stuck in traffic during rush hour_2/A car stuck in traffic during rush hour_2_full.mp4",
+                "video_results": 0.9959610002012447
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car turning a corner_0/A car turning a corner_0_full.mp4",
+                "video_results": 0.997039857073344
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car turning a corner_1/A car turning a corner_1_full.mp4",
+                "video_results": 0.9966245757877293
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car turning a corner_2/A car turning a corner_2_full.mp4",
+                "video_results": 0.9964188415255808
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle cruising along a coastal highway_0/A motorcycle cruising along a coastal highway_0_full.mp4",
+                "video_results": 0.9951855327149242
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle cruising along a coastal highway_1/A motorcycle cruising along a coastal highway_1_full.mp4",
+                "video_results": 0.9972132414623325
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle cruising along a coastal highway_2/A motorcycle cruising along a coastal highway_2_full.mp4",
+                "video_results": 0.9958085770690016
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle turning a corner_0/A motorcycle turning a corner_0_full.mp4",
+                "video_results": 0.9959905085119218
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle turning a corner_1/A motorcycle turning a corner_1_full.mp4",
+                "video_results": 0.9947586023533188
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle turning a corner_2/A motorcycle turning a corner_2_full.mp4",
+                "video_results": 0.996218754130022
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane soaring through a clear blue sky_0/An airplane soaring through a clear blue sky_0_full.mp4",
+                "video_results": 0.9964311007721103
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane soaring through a clear blue sky_1/An airplane soaring through a clear blue sky_1_full.mp4",
+                "video_results": 0.9965479244010718
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane soaring through a clear blue sky_2/An airplane soaring through a clear blue sky_2_full.mp4",
+                "video_results": 0.9963117812152434
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane taking off_0/An airplane taking off_0_full.mp4",
+                "video_results": 0.9956353103051881
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane taking off_1/An airplane taking off_1_full.mp4",
+                "video_results": 0.9969847202591208
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane taking off_2/An airplane taking off_2_full.mp4",
+                "video_results": 0.9961867718824662
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus turning a corner_0/A bus turning a corner_0_full.mp4",
+                "video_results": 0.994681021282594
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus turning a corner_1/A bus turning a corner_1_full.mp4",
+                "video_results": 0.9928730586214265
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus turning a corner_2/A bus turning a corner_2_full.mp4",
+                "video_results": 0.9933650903069561
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus stuck in traffic during rush hour_0/A bus stuck in traffic during rush hour_0_full.mp4",
+                "video_results": 0.996029272148504
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus stuck in traffic during rush hour_1/A bus stuck in traffic during rush hour_1_full.mp4",
+                "video_results": 0.9959151823796308
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus stuck in traffic during rush hour_2/A bus stuck in traffic during rush hour_2_full.mp4",
+                "video_results": 0.9937341698934476
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train speeding down the tracks_0/A train speeding down the tracks_0_full.mp4",
+                "video_results": 0.9947174510275923
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train speeding down the tracks_1/A train speeding down the tracks_1_full.mp4",
+                "video_results": 0.9956671480019703
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train speeding down the tracks_2/A train speeding down the tracks_2_full.mp4",
+                "video_results": 0.9860662082771221
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train crossing over a tall bridge_0/A train crossing over a tall bridge_0_full.mp4",
+                "video_results": 0.9960563115641478
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train crossing over a tall bridge_1/A train crossing over a tall bridge_1_full.mp4",
+                "video_results": 0.9950796601882175
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train crossing over a tall bridge_2/A train crossing over a tall bridge_2_full.mp4",
+                "video_results": 0.9947755809814735
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck turning a corner_0/A truck turning a corner_0_full.mp4",
+                "video_results": 0.9951036829177137
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck turning a corner_1/A truck turning a corner_1_full.mp4",
+                "video_results": 0.9961491061881247
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck turning a corner_2/A truck turning a corner_2_full.mp4",
+                "video_results": 0.9961917767183467
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck anchored in a tranquil bay_0/A truck anchored in a tranquil bay_0_full.mp4",
+                "video_results": 0.9967885391135621
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck anchored in a tranquil bay_1/A truck anchored in a tranquil bay_1_full.mp4",
+                "video_results": 0.9955792740043322
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck anchored in a tranquil bay_2/A truck anchored in a tranquil bay_2_full.mp4",
+                "video_results": 0.9952191060400876
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A boat sailing smoothly on a calm lake_0/A boat sailing smoothly on a calm lake_0_full.mp4",
+                "video_results": 0.9958824734627306
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A boat sailing smoothly on a calm lake_1/A boat sailing smoothly on a calm lake_1_full.mp4",
+                "video_results": 0.9970434376416007
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A boat sailing smoothly on a calm lake_2/A boat sailing smoothly on a calm lake_2_full.mp4",
+                "video_results": 0.9970555108225888
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bird soaring gracefully in the sky_0/A bird soaring gracefully in the sky_0_full.mp4",
+                "video_results": 0.9968379258642796
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bird soaring gracefully in the sky_1/A bird soaring gracefully in the sky_1_full.mp4",
+                "video_results": 0.9964960634452924
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bird soaring gracefully in the sky_2/A bird soaring gracefully in the sky_2_full.mp4",
+                "video_results": 0.9971645974719545
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat grooming itself meticulously with its tongue_0/A cat grooming itself meticulously with its tongue_0_full.mp4",
+                "video_results": 0.994457163786164
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat grooming itself meticulously with its tongue_1/A cat grooming itself meticulously with its tongue_1_full.mp4",
+                "video_results": 0.9873220880340494
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat grooming itself meticulously with its tongue_2/A cat grooming itself meticulously with its tongue_2_full.mp4",
+                "video_results": 0.9852178757762297
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat playing in park_0/A cat playing in park_0_full.mp4",
+                "video_results": 0.9964420180296383
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat playing in park_1/A cat playing in park_1_full.mp4",
+                "video_results": 0.9965143339658167
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat playing in park_2/A cat playing in park_2_full.mp4",
+                "video_results": 0.9964695756826014
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog enjoying a peaceful walk_0/A dog enjoying a peaceful walk_0_full.mp4",
+                "video_results": 0.9963054386276569
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog enjoying a peaceful walk_1/A dog enjoying a peaceful walk_1_full.mp4",
+                "video_results": 0.9961516114488074
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog enjoying a peaceful walk_2/A dog enjoying a peaceful walk_2_full.mp4",
+                "video_results": 0.996476925244669
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog running happily_0/A dog running happily_0_full.mp4",
+                "video_results": 0.994707182827175
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog running happily_1/A dog running happily_1_full.mp4",
+                "video_results": 0.9950089852117318
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog running happily_2/A dog running happily_2_full.mp4",
+                "video_results": 0.994040090070955
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse bending down to drink water from a river_0/A horse bending down to drink water from a river_0_full.mp4",
+                "video_results": 0.9957136779037595
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse bending down to drink water from a river_1/A horse bending down to drink water from a river_1_full.mp4",
+                "video_results": 0.9967910007676477
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse bending down to drink water from a river_2/A horse bending down to drink water from a river_2_full.mp4",
+                "video_results": 0.9965746901088868
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse galloping across an open field_0/A horse galloping across an open field_0_full.mp4",
+                "video_results": 0.9963201069643544
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse galloping across an open field_1/A horse galloping across an open field_1_full.mp4",
+                "video_results": 0.9847568341138538
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse galloping across an open field_2/A horse galloping across an open field_2_full.mp4",
+                "video_results": 0.9943342809856786
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A sheep taking a peaceful walk_0/A sheep taking a peaceful walk_0_full.mp4",
+                "video_results": 0.9956126814849714
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A sheep taking a peaceful walk_1/A sheep taking a peaceful walk_1_full.mp4",
+                "video_results": 0.9964295708402847
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A sheep taking a peaceful walk_2/A sheep taking a peaceful walk_2_full.mp4",
+                "video_results": 0.9964199328705133
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cow chewing cud while resting in a tranquil barn_0/A cow chewing cud while resting in a tranquil barn_0_full.mp4",
+                "video_results": 0.9969755148689379
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cow chewing cud while resting in a tranquil barn_1/A cow chewing cud while resting in a tranquil barn_1_full.mp4",
+                "video_results": 0.9945218881517067
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cow chewing cud while resting in a tranquil barn_2/A cow chewing cud while resting in a tranquil barn_2_full.mp4",
+                "video_results": 0.9966815403244631
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An elephant spraying itself with water using its trunk to cool down_0/An elephant spraying itself with water using its trunk to cool down_0_full.mp4",
+                "video_results": 0.9935964782818765
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An elephant spraying itself with water using its trunk to cool down_1/An elephant spraying itself with water using its trunk to cool down_1_full.mp4",
+                "video_results": 0.9950249842200973
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An elephant spraying itself with water using its trunk to cool down_2/An elephant spraying itself with water using its trunk to cool down_2_full.mp4",
+                "video_results": 0.9952293142747295
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear catching a salmon in its powerful jaws_0/A bear catching a salmon in its powerful jaws_0_full.mp4",
+                "video_results": 0.9952025228213222
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear catching a salmon in its powerful jaws_1/A bear catching a salmon in its powerful jaws_1_full.mp4",
+                "video_results": 0.9898751679363534
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear catching a salmon in its powerful jaws_2/A bear catching a salmon in its powerful jaws_2_full.mp4",
+                "video_results": 0.9956698202335469
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear climbing a tree_0/A bear climbing a tree_0_full.mp4",
+                "video_results": 0.996112421239942
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear climbing a tree_1/A bear climbing a tree_1_full.mp4",
+                "video_results": 0.9969657604539978
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear climbing a tree_2/A bear climbing a tree_2_full.mp4",
+                "video_results": 0.99678401137569
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A zebra bending down to drink water from a river_0/A zebra bending down to drink water from a river_0_full.mp4",
+                "video_results": 0.9945313985735225
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A zebra bending down to drink water from a river_1/A zebra bending down to drink water from a river_1_full.mp4",
+                "video_results": 0.9948716514102577
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A zebra bending down to drink water from a river_2/A zebra bending down to drink water from a river_2_full.mp4",
+                "video_results": 0.9952871925118086
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A giraffe bending down to drink water from a river_0/A giraffe bending down to drink water from a river_0_full.mp4",
+                "video_results": 0.9950018527708264
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A giraffe bending down to drink water from a river_1/A giraffe bending down to drink water from a river_1_full.mp4",
+                "video_results": 0.9961609123658655
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A giraffe bending down to drink water from a river_2/A giraffe bending down to drink water from a river_2_full.mp4",
+                "video_results": 0.9943501380714663
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is brushing teeth_0/A person is brushing teeth_0_full.mp4",
+                "video_results": 0.9964637891998098
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is brushing teeth_1/A person is brushing teeth_1_full.mp4",
+                "video_results": 0.9920644539831863
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is brushing teeth_2/A person is brushing teeth_2_full.mp4",
+                "video_results": 0.9950954990375439
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is crawling baby_0/A person is crawling baby_0_full.mp4",
+                "video_results": 0.9949810817632813
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is crawling baby_1/A person is crawling baby_1_full.mp4",
+                "video_results": 0.9966282810611989
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is crawling baby_2/A person is crawling baby_2_full.mp4",
+                "video_results": 0.9964712214695928
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_0/A person is motorcycling_0_full.mp4",
+                "video_results": 0.9963791112492791
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_1/A person is motorcycling_1_full.mp4",
+                "video_results": 0.9969190770441142
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_2/A person is motorcycling_2_full.mp4",
+                "video_results": 0.9945114407512392
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_0/A person is driving car_0_full.mp4",
+                "video_results": 0.9964665163016799
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_1/A person is driving car_1_full.mp4",
+                "video_results": 0.9939064178290801
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_2/A person is driving car_2_full.mp4",
+                "video_results": 0.9896633520289243
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sticking tongue out_0/A person is sticking tongue out_0_full.mp4",
+                "video_results": 0.9959658211170497
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sticking tongue out_1/A person is sticking tongue out_1_full.mp4",
+                "video_results": 0.9969573921710229
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sticking tongue out_2/A person is sticking tongue out_2_full.mp4",
+                "video_results": 0.9962081029102818
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking head_0/A person is shaking head_0_full.mp4",
+                "video_results": 0.9968220984931963
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking head_1/A person is shaking head_1_full.mp4",
+                "video_results": 0.9962710170388621
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking head_2/A person is shaking head_2_full.mp4",
+                "video_results": 0.9967584214905325
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is using computer_0/A person is using computer_0_full.mp4",
+                "video_results": 0.9973511379122727
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is using computer_1/A person is using computer_1_full.mp4",
+                "video_results": 0.9965238952351775
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is using computer_2/A person is using computer_2_full.mp4",
+                "video_results": 0.996499241524122
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is arranging flowers_0/A person is arranging flowers_0_full.mp4",
+                "video_results": 0.9956588916586855
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is arranging flowers_1/A person is arranging flowers_1_full.mp4",
+                "video_results": 0.9965336751811631
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is arranging flowers_2/A person is arranging flowers_2_full.mp4",
+                "video_results": 0.9963512399291824
+            }
+        ],
+        [
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is marching_0/A person is marching_0_full.mp4/A person is marching.mp4",
+                "video_results": 0.9968570284501668
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is marching_1/A person is marching_1_full.mp4/A person is marching.mp4",
+                "video_results": 0.9959704934056957
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is marching_2/A person is marching_2_full.mp4/A person is marching.mp4",
+                "video_results": 0.9950215445016856
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is roller skating_0/A person is roller skating_0_full.mp4/A person is roller skating.mp4",
+                "video_results": 0.995117896093793
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is roller skating_1/A person is roller skating_1_full.mp4/A person is roller skating.mp4",
+                "video_results": 0.9949356760856917
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is roller skating_2/A person is roller skating_2_full.mp4/A person is roller skating.mp4",
+                "video_results": 0.9912754707045196
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skateboarding_0/A person is skateboarding_0_full.mp4/A person is skateboarding.mp4",
+                "video_results": 0.9947817769264569
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skateboarding_1/A person is skateboarding_1_full.mp4/A person is skateboarding.mp4",
+                "video_results": 0.9958000059858502
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skateboarding_2/A person is skateboarding_2_full.mp4/A person is skateboarding.mp4",
+                "video_results": 0.9950259122950651
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dunking basketball_0/A person is dunking basketball_0_full.mp4/A person is dunking basketball.mp4",
+                "video_results": 0.9921437575949498
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dunking basketball_1/A person is dunking basketball_1_full.mp4/A person is dunking basketball.mp4",
+                "video_results": 0.9942770698276248
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dunking basketball_2/A person is dunking basketball_2_full.mp4/A person is dunking basketball.mp4",
+                "video_results": 0.9967433835973114
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is stretching leg_0/A person is stretching leg_0_full.mp4/A person is stretching leg.mp4",
+                "video_results": 0.9969533559057815
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is stretching leg_1/A person is stretching leg_1_full.mp4/A person is stretching leg.mp4",
+                "video_results": 0.9964388324953143
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is stretching leg_2/A person is stretching leg_2_full.mp4/A person is stretching leg.mp4",
+                "video_results": 0.9969790489878549
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding scooter_0/A person is riding scooter_0_full.mp4/A person is riding scooter.mp4",
+                "video_results": 0.9962059455369158
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding scooter_1/A person is riding scooter_1_full.mp4/A person is riding scooter.mp4",
+                "video_results": 0.9957546605422193
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding scooter_2/A person is riding scooter_2_full.mp4/A person is riding scooter.mp4",
+                "video_results": 0.9962308401301697
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skydiving_0/A person is skydiving_0_full.mp4/A person is skydiving.mp4",
+                "video_results": 0.9963051072604288
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skydiving_1/A person is skydiving_1_full.mp4/A person is skydiving.mp4",
+                "video_results": 0.9960370895830758
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is skydiving_2/A person is skydiving_2_full.mp4/A person is skydiving.mp4",
+                "video_results": 0.9934697677554477
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is playing piano_0/A person is playing piano_0_full.mp4/A person is playing piano.mp4",
+                "video_results": 0.9962740522832908
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is playing piano_1/A person is playing piano_1_full.mp4/A person is playing piano.mp4",
+                "video_results": 0.9965781047789827
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is playing piano_2/A person is playing piano_2_full.mp4/A person is playing piano.mp4",
+                "video_results": 0.996094096921857
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is canoeing or kayaking_0/A person is canoeing or kayaking_0_full.mp4/A person is canoeing or kayaking.mp4",
+                "video_results": 0.9967048419628268
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is canoeing or kayaking_1/A person is canoeing or kayaking_1_full.mp4/A person is canoeing or kayaking.mp4",
+                "video_results": 0.995302605217945
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is canoeing or kayaking_2/A person is canoeing or kayaking_2_full.mp4/A person is canoeing or kayaking.mp4",
+                "video_results": 0.9956793624082598
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is laughing_0/A person is laughing_0_full.mp4/A person is laughing.mp4",
+                "video_results": 0.9960462588221564
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is laughing_1/A person is laughing_1_full.mp4/A person is laughing.mp4",
+                "video_results": 0.9968062754666819
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is laughing_2/A person is laughing_2_full.mp4/A person is laughing.mp4",
+                "video_results": 0.9952736574102681
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is digging_0/A person is digging_0_full.mp4/A person is digging.mp4",
+                "video_results": 0.9967674924672687
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is digging_1/A person is digging_1_full.mp4/A person is digging.mp4",
+                "video_results": 0.9959356109707976
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is digging_2/A person is digging_2_full.mp4/A person is digging.mp4",
+                "video_results": 0.9968070669827367
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is clay pottery making_0/A person is clay pottery making_0_full.mp4/A person is clay pottery making.mp4",
+                "video_results": 0.9957393515693655
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is clay pottery making_1/A person is clay pottery making_1_full.mp4/A person is clay pottery making.mp4",
+                "video_results": 0.9959657790122789
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is clay pottery making_2/A person is clay pottery making_2_full.mp4/A person is clay pottery making.mp4",
+                "video_results": 0.9953327417747123
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shooting basketball_0/A person is shooting basketball_0_full.mp4/A person is shooting basketball.mp4",
+                "video_results": 0.996331262154065
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shooting basketball_1/A person is shooting basketball_1_full.mp4/A person is shooting basketball.mp4",
+                "video_results": 0.9917946720891175
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shooting basketball_2/A person is shooting basketball_2_full.mp4/A person is shooting basketball.mp4",
+                "video_results": 0.9948167220089629
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is bending back_0/A person is bending back_0_full.mp4/A person is bending back.mp4",
+                "video_results": 0.9962729906530627
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is bending back_1/A person is bending back_1_full.mp4/A person is bending back.mp4",
+                "video_results": 0.9966465464326049
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is bending back_2/A person is bending back_2_full.mp4/A person is bending back.mp4",
+                "video_results": 0.9959888183674205
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking hands_0/A person is shaking hands_0_full.mp4/A person is shaking hands.mp4",
+                "video_results": 0.9966784477960915
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking hands_1/A person is shaking hands_1_full.mp4/A person is shaking hands.mp4",
+                "video_results": 0.9962813638706096
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking hands_2/A person is shaking hands_2_full.mp4/A person is shaking hands.mp4",
+                "video_results": 0.9940364117230838
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is push up_0/A person is push up_0_full.mp4/A person is push up.mp4",
+                "video_results": 0.996705349794636
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is push up_1/A person is push up_1_full.mp4/A person is push up.mp4",
+                "video_results": 0.9968167881965899
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is push up_2/A person is push up_2_full.mp4/A person is push up.mp4",
+                "video_results": 0.9967889696549576
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is throwing axe_0/A person is throwing axe_0_full.mp4/A person is throwing axe.mp4",
+                "video_results": 0.9956164479578596
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is throwing axe_1/A person is throwing axe_1_full.mp4/A person is throwing axe.mp4",
+                "video_results": 0.9918269146889761
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is throwing axe_2/A person is throwing axe_2_full.mp4/A person is throwing axe.mp4",
+                "video_results": 0.9957290492024016
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is air drumming_0/A person is air drumming_0_full.mp4/A person is air drumming.mp4",
+                "video_results": 0.9954175426604466
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is air drumming_1/A person is air drumming_1_full.mp4/A person is air drumming.mp4",
+                "video_results": 0.9961643465060657
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is air drumming_2/A person is air drumming_2_full.mp4/A person is air drumming.mp4",
+                "video_results": 0.9951687618215179
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is planting trees_0/A person is planting trees_0_full.mp4/A person is planting trees.mp4",
+                "video_results": 0.9967583244081947
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is planting trees_1/A person is planting trees_1_full.mp4/A person is planting trees.mp4",
+                "video_results": 0.9960039343019683
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is planting trees_2/A person is planting trees_2_full.mp4/A person is planting trees.mp4",
+                "video_results": 0.9960701143662122
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is robot dancing_0/A person is robot dancing_0_full.mp4/A person is robot dancing.mp4",
+                "video_results": 0.9946301246601581
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is robot dancing_1/A person is robot dancing_1_full.mp4/A person is robot dancing.mp4",
+                "video_results": 0.9928938937247692
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is robot dancing_2/A person is robot dancing_2_full.mp4/A person is robot dancing.mp4",
+                "video_results": 0.9951288335187015
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is rock climbing_0/A person is rock climbing_0_full.mp4/A person is rock climbing.mp4",
+                "video_results": 0.9938260671226211
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is rock climbing_1/A person is rock climbing_1_full.mp4/A person is rock climbing.mp4",
+                "video_results": 0.9961623461271764
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is rock climbing_2/A person is rock climbing_2_full.mp4/A person is rock climbing.mp4",
+                "video_results": 0.9968304125495173
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is hula hooping_0/A person is hula hooping_0_full.mp4/A person is hula hooping.mp4",
+                "video_results": 0.9942268428051368
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is hula hooping_1/A person is hula hooping_1_full.mp4/A person is hula hooping.mp4",
+                "video_results": 0.9900828970528163
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is hula hooping_2/A person is hula hooping_2_full.mp4/A person is hula hooping.mp4",
+                "video_results": 0.9838708798470369
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is jogging_0/A person is jogging_0_full.mp4/A person is jogging.mp4",
+                "video_results": 0.994742090900392
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is jogging_1/A person is jogging_1_full.mp4/A person is jogging.mp4",
+                "video_results": 0.9949033377980481
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is jogging_2/A person is jogging_2_full.mp4/A person is jogging.mp4",
+                "video_results": 0.9967236224069898
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_0/A person is motorcycling_0_full.mp4/A person is motorcycling.mp4",
+                "video_results": 0.9963791113297341
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_1/A person is motorcycling_1_full.mp4/A person is motorcycling.mp4",
+                "video_results": 0.9969190768295676
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is motorcycling_2/A person is motorcycling_2_full.mp4/A person is motorcycling.mp4",
+                "video_results": 0.9945114421994288
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_0/A person is driving car_0_full.mp4/A person is driving car.mp4",
+                "video_results": 0.9964665167307731
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_1/A person is driving car_1_full.mp4/A person is driving car.mp4",
+                "video_results": 0.9939064178290801
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is driving car_2/A person is driving car_2_full.mp4/A person is driving car.mp4",
+                "video_results": 0.9896633509561914
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sword fighting_0/A person is sword fighting_0_full.mp4/A person is sword fighting.mp4",
+                "video_results": 0.9964930644592396
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sword fighting_1/A person is sword fighting_1_full.mp4/A person is sword fighting.mp4",
+                "video_results": 0.9966363176551257
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sword fighting_2/A person is sword fighting_2_full.mp4/A person is sword fighting.mp4",
+                "video_results": 0.9944220360172256
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is doing aerobics_0/A person is doing aerobics_0_full.mp4/A person is doing aerobics.mp4",
+                "video_results": 0.996195040830364
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is doing aerobics_1/A person is doing aerobics_1_full.mp4/A person is doing aerobics.mp4",
+                "video_results": 0.9963575320983173
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is doing aerobics_2/A person is doing aerobics_2_full.mp4/A person is doing aerobics.mp4",
+                "video_results": 0.9925884974700664
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is strumming guitar_0/A person is strumming guitar_0_full.mp4/A person is strumming guitar.mp4",
+                "video_results": 0.9943948783864036
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is strumming guitar_1/A person is strumming guitar_1_full.mp4/A person is strumming guitar.mp4",
+                "video_results": 0.993435278745383
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is strumming guitar_2/A person is strumming guitar_2_full.mp4/A person is strumming guitar.mp4",
+                "video_results": 0.9969299830379456
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding or walking with horse_0/A person is riding or walking with horse_0_full.mp4/A person is riding or walking with horse.mp4",
+                "video_results": 0.9885027526329159
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding or walking with horse_1/A person is riding or walking with horse_1_full.mp4/A person is riding or walking with horse.mp4",
+                "video_results": 0.9950769343736269
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is riding or walking with horse_2/A person is riding or walking with horse_2_full.mp4/A person is riding or walking with horse.mp4",
+                "video_results": 0.9931438225489339
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is archery_0/A person is archery_0_full.mp4/A person is archery.mp4",
+                "video_results": 0.9951906435368265
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is archery_1/A person is archery_1_full.mp4/A person is archery.mp4",
+                "video_results": 0.9962441330622323
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is archery_2/A person is archery_2_full.mp4/A person is archery.mp4",
+                "video_results": 0.9966097973886245
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is catching or throwing baseball_0/A person is catching or throwing baseball_0_full.mp4/A person is catching or throwing baseball.mp4",
+                "video_results": 0.9960690972007676
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is catching or throwing baseball_1/A person is catching or throwing baseball_1_full.mp4/A person is catching or throwing baseball.mp4",
+                "video_results": 0.9952396217908118
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is catching or throwing baseball_2/A person is catching or throwing baseball_2_full.mp4/A person is catching or throwing baseball.mp4",
+                "video_results": 0.9931345518829467
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dancing ballet_0/A person is dancing ballet_0_full.mp4/A person is dancing ballet.mp4",
+                "video_results": 0.9920243109728573
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dancing ballet_1/A person is dancing ballet_1_full.mp4/A person is dancing ballet.mp4",
+                "video_results": 0.9922949243422859
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is dancing ballet_2/A person is dancing ballet_2_full.mp4/A person is dancing ballet.mp4",
+                "video_results": 0.9958015667051134
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is running on treadmill_0/A person is running on treadmill_0_full.mp4/A person is running on treadmill.mp4",
+                "video_results": 0.9891053923714094
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is running on treadmill_1/A person is running on treadmill_1_full.mp4/A person is running on treadmill.mp4",
+                "video_results": 0.9782772917760855
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is running on treadmill_2/A person is running on treadmill_2_full.mp4/A person is running on treadmill.mp4",
+                "video_results": 0.9902820026831198
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is kissing_0/A person is kissing_0_full.mp4/A person is kissing.mp4",
+                "video_results": 0.996033046774163
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is kissing_1/A person is kissing_1_full.mp4/A person is kissing.mp4",
+                "video_results": 0.9964029901789148
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is kissing_2/A person is kissing_2_full.mp4/A person is kissing.mp4",
+                "video_results": 0.9962981397522244
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is barbequing_0/A person is barbequing_0_full.mp4/A person is barbequing.mp4",
+                "video_results": 0.994941307183106
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is barbequing_1/A person is barbequing_1_full.mp4/A person is barbequing.mp4",
+                "video_results": 0.9961358307416104
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is barbequing_2/A person is barbequing_2_full.mp4/A person is barbequing.mp4",
+                "video_results": 0.9894314032828205
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is milking cow_0/A person is milking cow_0_full.mp4/A person is milking cow.mp4",
+                "video_results": 0.9923650406394176
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is milking cow_1/A person is milking cow_1_full.mp4/A person is milking cow.mp4",
+                "video_results": 0.9954279421097484
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is milking cow_2/A person is milking cow_2_full.mp4/A person is milking cow.mp4",
+                "video_results": 0.9937976267712967
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is making snowman_0/A person is making snowman_0_full.mp4/A person is making snowman.mp4",
+                "video_results": 0.9970735598773823
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is making snowman_1/A person is making snowman_1_full.mp4/A person is making snowman.mp4",
+                "video_results": 0.9955004102131049
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is making snowman_2/A person is making snowman_2_full.mp4/A person is making snowman.mp4",
+                "video_results": 0.9951137622098472
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sailing_0/A person is sailing_0_full.mp4/A person is sailing.mp4",
+                "video_results": 0.9959543951695261
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sailing_1/A person is sailing_1_full.mp4/A person is sailing.mp4",
+                "video_results": 0.9969254700501524
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sailing_2/A person is sailing_2_full.mp4/A person is sailing.mp4",
+                "video_results": 0.9969055851200775
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person swimming in ocean_0/A person swimming in ocean_0_full.mp4/A person swimming in ocean.mp4",
+                "video_results": 0.9967084999287705
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person swimming in ocean_1/A person swimming in ocean_1_full.mp4/A person swimming in ocean.mp4",
+                "video_results": 0.9959550161210318
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person swimming in ocean_2/A person swimming in ocean_2_full.mp4/A person swimming in ocean.mp4",
+                "video_results": 0.9937211263181743
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person giving a presentation to a room full of colleagues_0/A person giving a presentation to a room full of colleagues_0_full.mp4/A person giving a presentation to a room full of colleagues.mp4",
+                "video_results": 0.9969243580551093
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person giving a presentation to a room full of colleagues_1/A person giving a presentation to a room full of colleagues_1_full.mp4/A person giving a presentation to a room full of colleagues.mp4",
+                "video_results": 0.9968278634140543
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person giving a presentation to a room full of colleagues_2/A person giving a presentation to a room full of colleagues_2_full.mp4/A person giving a presentation to a room full of colleagues.mp4",
+                "video_results": 0.9977511148914223
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person washing the dishes_0/A person washing the dishes_0_full.mp4/A person washing the dishes.mp4",
+                "video_results": 0.9926528593591235
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person washing the dishes_1/A person washing the dishes_1_full.mp4/A person washing the dishes.mp4",
+                "video_results": 0.9949503555788124
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person washing the dishes_2/A person washing the dishes_2_full.mp4/A person washing the dishes.mp4",
+                "video_results": 0.9962119333180576
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person walking in the snowstorm_0/A person walking in the snowstorm_0_full.mp4/A person walking in the snowstorm.mp4",
+                "video_results": 0.9948983536122783
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person walking in the snowstorm_1/A person walking in the snowstorm_1_full.mp4/A person walking in the snowstorm.mp4",
+                "video_results": 0.9971289784449319
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person walking in the snowstorm_2/A person walking in the snowstorm_2_full.mp4/A person walking in the snowstorm.mp4",
+                "video_results": 0.996880322954856
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person drinking coffee in a cafe_0/A person drinking coffee in a cafe_0_full.mp4/A person drinking coffee in a cafe.mp4",
+                "video_results": 0.996474102133194
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person drinking coffee in a cafe_1/A person drinking coffee in a cafe_1_full.mp4/A person drinking coffee in a cafe.mp4",
+                "video_results": 0.9963809286199161
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person drinking coffee in a cafe_2/A person drinking coffee in a cafe_2_full.mp4/A person drinking coffee in a cafe.mp4",
+                "video_results": 0.9963164529675228
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle leaning against a tree_0/A bicycle leaning against a tree_0_full.mp4/A bicycle leaning against a tree.mp4",
+                "video_results": 0.9969434336081247
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle leaning against a tree_1/A bicycle leaning against a tree_1_full.mp4/A bicycle leaning against a tree.mp4",
+                "video_results": 0.9968562937889617
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle leaning against a tree_2/A bicycle leaning against a tree_2_full.mp4/A bicycle leaning against a tree.mp4",
+                "video_results": 0.9930881475981937
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle gliding through a snowy field_0/A bicycle gliding through a snowy field_0_full.mp4/A bicycle gliding through a snowy field.mp4",
+                "video_results": 0.9961697972234237
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle gliding through a snowy field_1/A bicycle gliding through a snowy field_1_full.mp4/A bicycle gliding through a snowy field.mp4",
+                "video_results": 0.9878984580964739
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bicycle gliding through a snowy field_2/A bicycle gliding through a snowy field_2_full.mp4/A bicycle gliding through a snowy field.mp4",
+                "video_results": 0.9957964707942001
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car stuck in traffic during rush hour_0/A car stuck in traffic during rush hour_0_full.mp4/A car stuck in traffic during rush hour.mp4",
+                "video_results": 0.9935884347688217
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car stuck in traffic during rush hour_1/A car stuck in traffic during rush hour_1_full.mp4/A car stuck in traffic during rush hour.mp4",
+                "video_results": 0.9948517506037342
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car stuck in traffic during rush hour_2/A car stuck in traffic during rush hour_2_full.mp4/A car stuck in traffic during rush hour.mp4",
+                "video_results": 0.9959610002012447
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car turning a corner_0/A car turning a corner_0_full.mp4/A car turning a corner.mp4",
+                "video_results": 0.997039857073344
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car turning a corner_1/A car turning a corner_1_full.mp4/A car turning a corner.mp4",
+                "video_results": 0.9966245757877293
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A car turning a corner_2/A car turning a corner_2_full.mp4/A car turning a corner.mp4",
+                "video_results": 0.9964188415255808
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle cruising along a coastal highway_0/A motorcycle cruising along a coastal highway_0_full.mp4/A motorcycle cruising along a coastal highway.mp4",
+                "video_results": 0.9951855327149242
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle cruising along a coastal highway_1/A motorcycle cruising along a coastal highway_1_full.mp4/A motorcycle cruising along a coastal highway.mp4",
+                "video_results": 0.9972132414623325
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle cruising along a coastal highway_2/A motorcycle cruising along a coastal highway_2_full.mp4/A motorcycle cruising along a coastal highway.mp4",
+                "video_results": 0.9958085770690016
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle turning a corner_0/A motorcycle turning a corner_0_full.mp4/A motorcycle turning a corner.mp4",
+                "video_results": 0.9959905085119218
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle turning a corner_1/A motorcycle turning a corner_1_full.mp4/A motorcycle turning a corner.mp4",
+                "video_results": 0.9947586023533188
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A motorcycle turning a corner_2/A motorcycle turning a corner_2_full.mp4/A motorcycle turning a corner.mp4",
+                "video_results": 0.996218754130022
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane soaring through a clear blue sky_0/An airplane soaring through a clear blue sky_0_full.mp4/An airplane soaring through a clear blue sky.mp4",
+                "video_results": 0.9964311007721103
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane soaring through a clear blue sky_1/An airplane soaring through a clear blue sky_1_full.mp4/An airplane soaring through a clear blue sky.mp4",
+                "video_results": 0.9965479244010718
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane soaring through a clear blue sky_2/An airplane soaring through a clear blue sky_2_full.mp4/An airplane soaring through a clear blue sky.mp4",
+                "video_results": 0.9963117812152434
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane taking off_0/An airplane taking off_0_full.mp4/An airplane taking off.mp4",
+                "video_results": 0.9956353103051881
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane taking off_1/An airplane taking off_1_full.mp4/An airplane taking off.mp4",
+                "video_results": 0.9969847202591208
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An airplane taking off_2/An airplane taking off_2_full.mp4/An airplane taking off.mp4",
+                "video_results": 0.9961867718824662
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus turning a corner_0/A bus turning a corner_0_full.mp4/A bus turning a corner.mp4",
+                "video_results": 0.994681021282594
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus turning a corner_1/A bus turning a corner_1_full.mp4/A bus turning a corner.mp4",
+                "video_results": 0.9928730586214265
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus turning a corner_2/A bus turning a corner_2_full.mp4/A bus turning a corner.mp4",
+                "video_results": 0.9933650903069561
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus stuck in traffic during rush hour_0/A bus stuck in traffic during rush hour_0_full.mp4/A bus stuck in traffic during rush hour.mp4",
+                "video_results": 0.996029272148504
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus stuck in traffic during rush hour_1/A bus stuck in traffic during rush hour_1_full.mp4/A bus stuck in traffic during rush hour.mp4",
+                "video_results": 0.9959151823796308
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bus stuck in traffic during rush hour_2/A bus stuck in traffic during rush hour_2_full.mp4/A bus stuck in traffic during rush hour.mp4",
+                "video_results": 0.9937341698934476
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train speeding down the tracks_0/A train speeding down the tracks_0_full.mp4/A train speeding down the tracks.mp4",
+                "video_results": 0.9947174510275923
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train speeding down the tracks_1/A train speeding down the tracks_1_full.mp4/A train speeding down the tracks.mp4",
+                "video_results": 0.9956671480019703
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train speeding down the tracks_2/A train speeding down the tracks_2_full.mp4/A train speeding down the tracks.mp4",
+                "video_results": 0.9860662082771221
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train crossing over a tall bridge_0/A train crossing over a tall bridge_0_full.mp4/A train crossing over a tall bridge.mp4",
+                "video_results": 0.9960563115641478
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train crossing over a tall bridge_1/A train crossing over a tall bridge_1_full.mp4/A train crossing over a tall bridge.mp4",
+                "video_results": 0.9950796601882175
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A train crossing over a tall bridge_2/A train crossing over a tall bridge_2_full.mp4/A train crossing over a tall bridge.mp4",
+                "video_results": 0.9947755809814735
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck turning a corner_0/A truck turning a corner_0_full.mp4/A truck turning a corner.mp4",
+                "video_results": 0.9951036829177137
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck turning a corner_1/A truck turning a corner_1_full.mp4/A truck turning a corner.mp4",
+                "video_results": 0.9961491061881247
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck turning a corner_2/A truck turning a corner_2_full.mp4/A truck turning a corner.mp4",
+                "video_results": 0.9961917767183467
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck anchored in a tranquil bay_0/A truck anchored in a tranquil bay_0_full.mp4/A truck anchored in a tranquil bay.mp4",
+                "video_results": 0.9967885391135621
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck anchored in a tranquil bay_1/A truck anchored in a tranquil bay_1_full.mp4/A truck anchored in a tranquil bay.mp4",
+                "video_results": 0.9955792740043322
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A truck anchored in a tranquil bay_2/A truck anchored in a tranquil bay_2_full.mp4/A truck anchored in a tranquil bay.mp4",
+                "video_results": 0.9952191060400876
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A boat sailing smoothly on a calm lake_0/A boat sailing smoothly on a calm lake_0_full.mp4/A boat sailing smoothly on a calm lake.mp4",
+                "video_results": 0.9958824734627306
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A boat sailing smoothly on a calm lake_1/A boat sailing smoothly on a calm lake_1_full.mp4/A boat sailing smoothly on a calm lake.mp4",
+                "video_results": 0.9970434376416007
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A boat sailing smoothly on a calm lake_2/A boat sailing smoothly on a calm lake_2_full.mp4/A boat sailing smoothly on a calm lake.mp4",
+                "video_results": 0.9970555108225888
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bird soaring gracefully in the sky_0/A bird soaring gracefully in the sky_0_full.mp4/A bird soaring gracefully in the sky.mp4",
+                "video_results": 0.9968379258642796
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bird soaring gracefully in the sky_1/A bird soaring gracefully in the sky_1_full.mp4/A bird soaring gracefully in the sky.mp4",
+                "video_results": 0.9964960634452924
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bird soaring gracefully in the sky_2/A bird soaring gracefully in the sky_2_full.mp4/A bird soaring gracefully in the sky.mp4",
+                "video_results": 0.9971645974719545
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat grooming itself meticulously with its tongue_0/A cat grooming itself meticulously with its tongue_0_full.mp4/A cat grooming itself meticulously with its tongue.mp4",
+                "video_results": 0.994457163786164
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat grooming itself meticulously with its tongue_1/A cat grooming itself meticulously with its tongue_1_full.mp4/A cat grooming itself meticulously with its tongue.mp4",
+                "video_results": 0.9873220880340494
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat grooming itself meticulously with its tongue_2/A cat grooming itself meticulously with its tongue_2_full.mp4/A cat grooming itself meticulously with its tongue.mp4",
+                "video_results": 0.9852178757762297
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat playing in park_0/A cat playing in park_0_full.mp4/A cat playing in park.mp4",
+                "video_results": 0.9964420180296383
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat playing in park_1/A cat playing in park_1_full.mp4/A cat playing in park.mp4",
+                "video_results": 0.9965143339658167
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cat playing in park_2/A cat playing in park_2_full.mp4/A cat playing in park.mp4",
+                "video_results": 0.9964695756826014
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog enjoying a peaceful walk_0/A dog enjoying a peaceful walk_0_full.mp4/A dog enjoying a peaceful walk.mp4",
+                "video_results": 0.9963054386276569
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog enjoying a peaceful walk_1/A dog enjoying a peaceful walk_1_full.mp4/A dog enjoying a peaceful walk.mp4",
+                "video_results": 0.9961516114488074
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog enjoying a peaceful walk_2/A dog enjoying a peaceful walk_2_full.mp4/A dog enjoying a peaceful walk.mp4",
+                "video_results": 0.996476925244669
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog running happily_0/A dog running happily_0_full.mp4/A dog running happily.mp4",
+                "video_results": 0.994707182827175
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog running happily_1/A dog running happily_1_full.mp4/A dog running happily.mp4",
+                "video_results": 0.9950089852117318
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A dog running happily_2/A dog running happily_2_full.mp4/A dog running happily.mp4",
+                "video_results": 0.994040090070955
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse bending down to drink water from a river_0/A horse bending down to drink water from a river_0_full.mp4/A horse bending down to drink water from a river.mp4",
+                "video_results": 0.9957136779037595
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse bending down to drink water from a river_1/A horse bending down to drink water from a river_1_full.mp4/A horse bending down to drink water from a river.mp4",
+                "video_results": 0.9967910007676477
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse bending down to drink water from a river_2/A horse bending down to drink water from a river_2_full.mp4/A horse bending down to drink water from a river.mp4",
+                "video_results": 0.9965746901088868
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse galloping across an open field_0/A horse galloping across an open field_0_full.mp4/A horse galloping across an open field.mp4",
+                "video_results": 0.9963201069643544
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse galloping across an open field_1/A horse galloping across an open field_1_full.mp4/A horse galloping across an open field.mp4",
+                "video_results": 0.9847568341138538
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A horse galloping across an open field_2/A horse galloping across an open field_2_full.mp4/A horse galloping across an open field.mp4",
+                "video_results": 0.9943342809856786
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A sheep taking a peaceful walk_0/A sheep taking a peaceful walk_0_full.mp4/A sheep taking a peaceful walk.mp4",
+                "video_results": 0.9956126814849714
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A sheep taking a peaceful walk_1/A sheep taking a peaceful walk_1_full.mp4/A sheep taking a peaceful walk.mp4",
+                "video_results": 0.9964295708402847
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A sheep taking a peaceful walk_2/A sheep taking a peaceful walk_2_full.mp4/A sheep taking a peaceful walk.mp4",
+                "video_results": 0.9964199328705133
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cow chewing cud while resting in a tranquil barn_0/A cow chewing cud while resting in a tranquil barn_0_full.mp4/A cow chewing cud while resting in a tranquil barn.mp4",
+                "video_results": 0.9969755148689379
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cow chewing cud while resting in a tranquil barn_1/A cow chewing cud while resting in a tranquil barn_1_full.mp4/A cow chewing cud while resting in a tranquil barn.mp4",
+                "video_results": 0.9945218881517067
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A cow chewing cud while resting in a tranquil barn_2/A cow chewing cud while resting in a tranquil barn_2_full.mp4/A cow chewing cud while resting in a tranquil barn.mp4",
+                "video_results": 0.9966815403244631
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An elephant spraying itself with water using its trunk to cool down_0/An elephant spraying itself with water using its trunk to cool down_0_full.mp4/An elephant spraying itself with water using its trunk to cool down.mp4",
+                "video_results": 0.9935964782818765
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An elephant spraying itself with water using its trunk to cool down_1/An elephant spraying itself with water using its trunk to cool down_1_full.mp4/An elephant spraying itself with water using its trunk to cool down.mp4",
+                "video_results": 0.9950249842200973
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/An elephant spraying itself with water using its trunk to cool down_2/An elephant spraying itself with water using its trunk to cool down_2_full.mp4/An elephant spraying itself with water using its trunk to cool down.mp4",
+                "video_results": 0.9952293142747295
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear catching a salmon in its powerful jaws_0/A bear catching a salmon in its powerful jaws_0_full.mp4/A bear catching a salmon in its powerful jaws.mp4",
+                "video_results": 0.9952025228213222
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear catching a salmon in its powerful jaws_1/A bear catching a salmon in its powerful jaws_1_full.mp4/A bear catching a salmon in its powerful jaws.mp4",
+                "video_results": 0.9898751679363534
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear catching a salmon in its powerful jaws_2/A bear catching a salmon in its powerful jaws_2_full.mp4/A bear catching a salmon in its powerful jaws.mp4",
+                "video_results": 0.9956698202335469
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear climbing a tree_0/A bear climbing a tree_0_full.mp4/A bear climbing a tree.mp4",
+                "video_results": 0.996112421239942
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear climbing a tree_1/A bear climbing a tree_1_full.mp4/A bear climbing a tree.mp4",
+                "video_results": 0.9969657604539978
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A bear climbing a tree_2/A bear climbing a tree_2_full.mp4/A bear climbing a tree.mp4",
+                "video_results": 0.99678401137569
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A zebra bending down to drink water from a river_0/A zebra bending down to drink water from a river_0_full.mp4/A zebra bending down to drink water from a river.mp4",
+                "video_results": 0.9945313985735225
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A zebra bending down to drink water from a river_1/A zebra bending down to drink water from a river_1_full.mp4/A zebra bending down to drink water from a river.mp4",
+                "video_results": 0.9948716514102577
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A zebra bending down to drink water from a river_2/A zebra bending down to drink water from a river_2_full.mp4/A zebra bending down to drink water from a river.mp4",
+                "video_results": 0.9952871925118086
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A giraffe bending down to drink water from a river_0/A giraffe bending down to drink water from a river_0_full.mp4/A giraffe bending down to drink water from a river.mp4",
+                "video_results": 0.9950018527708264
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A giraffe bending down to drink water from a river_1/A giraffe bending down to drink water from a river_1_full.mp4/A giraffe bending down to drink water from a river.mp4",
+                "video_results": 0.9961609123658655
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A giraffe bending down to drink water from a river_2/A giraffe bending down to drink water from a river_2_full.mp4/A giraffe bending down to drink water from a river.mp4",
+                "video_results": 0.9943501380714663
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is brushing teeth_0/A person is brushing teeth_0_full.mp4/A person is brushing teeth.mp4",
+                "video_results": 0.9964637891998098
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is brushing teeth_1/A person is brushing teeth_1_full.mp4/A person is brushing teeth.mp4",
+                "video_results": 0.9920644539831863
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is brushing teeth_2/A person is brushing teeth_2_full.mp4/A person is brushing teeth.mp4",
+                "video_results": 0.9950954990375439
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is crawling baby_0/A person is crawling baby_0_full.mp4/A person is crawling baby.mp4",
+                "video_results": 0.9949810817632813
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is crawling baby_1/A person is crawling baby_1_full.mp4/A person is crawling baby.mp4",
+                "video_results": 0.9966282810611989
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is crawling baby_2/A person is crawling baby_2_full.mp4/A person is crawling baby.mp4",
+                "video_results": 0.9964712214695928
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sticking tongue out_0/A person is sticking tongue out_0_full.mp4/A person is sticking tongue out.mp4",
+                "video_results": 0.9959658211170497
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sticking tongue out_1/A person is sticking tongue out_1_full.mp4/A person is sticking tongue out.mp4",
+                "video_results": 0.9969573921710229
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is sticking tongue out_2/A person is sticking tongue out_2_full.mp4/A person is sticking tongue out.mp4",
+                "video_results": 0.9962081029102818
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking head_0/A person is shaking head_0_full.mp4/A person is shaking head.mp4",
+                "video_results": 0.9968220984931963
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking head_1/A person is shaking head_1_full.mp4/A person is shaking head.mp4",
+                "video_results": 0.9962710170388621
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is shaking head_2/A person is shaking head_2_full.mp4/A person is shaking head.mp4",
+                "video_results": 0.9967584214905325
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is using computer_0/A person is using computer_0_full.mp4/A person is using computer.mp4",
+                "video_results": 0.9973511379122727
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is using computer_1/A person is using computer_1_full.mp4/A person is using computer.mp4",
+                "video_results": 0.9965238952351775
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is using computer_2/A person is using computer_2_full.mp4/A person is using computer.mp4",
+                "video_results": 0.996499241524122
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is arranging flowers_0/A person is arranging flowers_0_full.mp4/A person is arranging flowers.mp4",
+                "video_results": 0.9956588916586855
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is arranging flowers_1/A person is arranging flowers_1_full.mp4/A person is arranging flowers.mp4",
+                "video_results": 0.9965336751811631
+            },
+            {
+                "video_path": "./sampled_videos/action/pika/split_clip/A person is arranging flowers_2/A person is arranging flowers_2_full.mp4/A person is arranging flowers.mp4",
+                "video_results": 0.9963512399291824
+            }
+        ]
+    ]
+}

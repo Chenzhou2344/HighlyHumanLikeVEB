@@ -1,0 +1,943 @@
+{
+    "motion_smoothness": [
+        0.9622430735376367,
+        [
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is marching_0.mp4",
+                "video_results": 0.9152441279449606
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is marching_1.mp4",
+                "video_results": 0.964811000592457
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is marching_2.mp4",
+                "video_results": 0.913569295617824
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is roller skating_0.mp4",
+                "video_results": 0.8972843166604207
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is roller skating_1.mp4",
+                "video_results": 0.9344525790459413
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is roller skating_2.mp4",
+                "video_results": 0.9356777273083712
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is skateboarding_0.mp4",
+                "video_results": 0.9588260839410634
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is skateboarding_1.mp4",
+                "video_results": 0.9496300911925643
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is skateboarding_2.mp4",
+                "video_results": 0.9380827575170693
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is dunking basketball_0.mp4",
+                "video_results": 0.9830012573470143
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is dunking basketball_1.mp4",
+                "video_results": 0.9792374925230509
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is dunking basketball_2.mp4",
+                "video_results": 0.9817040479928951
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is stretching leg_0.mp4",
+                "video_results": 0.9734781516366312
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is stretching leg_1.mp4",
+                "video_results": 0.9665117985060235
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is stretching leg_2.mp4",
+                "video_results": 0.9873905470391281
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is riding scooter_0.mp4",
+                "video_results": 0.9347707753755798
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is riding scooter_1.mp4",
+                "video_results": 0.9342716348827943
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is riding scooter_2.mp4",
+                "video_results": 0.9569575205570509
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is skydiving_0.mp4",
+                "video_results": 0.9774861532544333
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is skydiving_1.mp4",
+                "video_results": 0.9638556052100202
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is skydiving_2.mp4",
+                "video_results": 0.955437882652247
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is playing piano_0.mp4",
+                "video_results": 0.9728226028570608
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is playing piano_1.mp4",
+                "video_results": 0.9670969823272734
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is playing piano_2.mp4",
+                "video_results": 0.9725753762808834
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is canoeing or kayaking_0.mp4",
+                "video_results": 0.9243139122714515
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is canoeing or kayaking_1.mp4",
+                "video_results": 0.9552171537967401
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is canoeing or kayaking_2.mp4",
+                "video_results": 0.9696322194445812
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is laughing_0.mp4",
+                "video_results": 0.9595527086159985
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is laughing_1.mp4",
+                "video_results": 0.980124739816988
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is laughing_2.mp4",
+                "video_results": 0.973781265130564
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is digging_0.mp4",
+                "video_results": 0.9247595422853386
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is digging_1.mp4",
+                "video_results": 0.9410354414796517
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is digging_2.mp4",
+                "video_results": 0.9528442183351205
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is clay pottery making_0.mp4",
+                "video_results": 0.9724762618263452
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is clay pottery making_1.mp4",
+                "video_results": 0.9371532557725238
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is clay pottery making_2.mp4",
+                "video_results": 0.9558323857497101
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shooting basketball_0.mp4",
+                "video_results": 0.9469287370099406
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shooting basketball_1.mp4",
+                "video_results": 0.9604051385161813
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shooting basketball_2.mp4",
+                "video_results": 0.9795073173515826
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is bending back_0.mp4",
+                "video_results": 0.9702009562573402
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is bending back_1.mp4",
+                "video_results": 0.9541997544460492
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is bending back_2.mp4",
+                "video_results": 0.9837383686995306
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shaking hands_0.mp4",
+                "video_results": 0.94135916288716
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shaking hands_1.mp4",
+                "video_results": 0.9909853888047732
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shaking hands_2.mp4",
+                "video_results": 0.9663025878279371
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is push up_0.mp4",
+                "video_results": 0.9903819279176513
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is push up_1.mp4",
+                "video_results": 0.9663740825920212
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is push up_2.mp4",
+                "video_results": 0.9759459181214803
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is throwing axe_0.mp4",
+                "video_results": 0.9143746198837608
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is throwing axe_1.mp4",
+                "video_results": 0.9542026302505051
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is throwing axe_2.mp4",
+                "video_results": 0.9346924447879738
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is air drumming_0.mp4",
+                "video_results": 0.9598105714657282
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is air drumming_1.mp4",
+                "video_results": 0.9597593049263976
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is air drumming_2.mp4",
+                "video_results": 0.8264716688880956
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is planting trees_0.mp4",
+                "video_results": 0.9652239588462338
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is planting trees_1.mp4",
+                "video_results": 0.9307345571081623
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is planting trees_2.mp4",
+                "video_results": 0.9728750362449667
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is robot dancing_0.mp4",
+                "video_results": 0.8928421554779139
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is robot dancing_1.mp4",
+                "video_results": 0.9551519335151053
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is robot dancing_2.mp4",
+                "video_results": 0.9034194853682033
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is rock climbing_0.mp4",
+                "video_results": 0.969966754503722
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is rock climbing_1.mp4",
+                "video_results": 0.9573125844576111
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is rock climbing_2.mp4",
+                "video_results": 0.9722688085447394
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is hula hooping_0.mp4",
+                "video_results": 0.9255414198760559
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is hula hooping_1.mp4",
+                "video_results": 0.967069117584371
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is hula hooping_2.mp4",
+                "video_results": 0.9579545748556584
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is jogging_0.mp4",
+                "video_results": 0.96402617311166
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is jogging_1.mp4",
+                "video_results": 0.8515376164910952
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is jogging_2.mp4",
+                "video_results": 0.9826182895236545
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is motorcycling_0.mp4",
+                "video_results": 0.9161148805021683
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is motorcycling_1.mp4",
+                "video_results": 0.9408843075193944
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is motorcycling_2.mp4",
+                "video_results": 0.9298998258360961
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sword fighting_0.mp4",
+                "video_results": 0.9750647494105064
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sword fighting_1.mp4",
+                "video_results": 0.9501166150460836
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sword fighting_2.mp4",
+                "video_results": 0.9408028845693551
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is doing aerobics_0.mp4",
+                "video_results": 0.8995709808378104
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is doing aerobics_1.mp4",
+                "video_results": 0.9519726907283095
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is doing aerobics_2.mp4",
+                "video_results": 0.992806382807029
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is strumming guitar_0.mp4",
+                "video_results": 0.9618214925130208
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is strumming guitar_1.mp4",
+                "video_results": 0.9541743252680305
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is strumming guitar_2.mp4",
+                "video_results": 0.9519028244232264
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is riding or walking with horse_0.mp4",
+                "video_results": 0.9685630420788107
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is riding or walking with horse_1.mp4",
+                "video_results": 0.9407270679064269
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is riding or walking with horse_2.mp4",
+                "video_results": 0.9451903171343408
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is archery_0.mp4",
+                "video_results": 0.9821159555130645
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is archery_1.mp4",
+                "video_results": 0.9576339735926923
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is archery_2.mp4",
+                "video_results": 0.9275822850502505
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is catching or throwing baseball_0.mp4",
+                "video_results": 0.9558892471783635
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is catching or throwing baseball_1.mp4",
+                "video_results": 0.9265744683900577
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is catching or throwing baseball_2.mp4",
+                "video_results": 0.9712293986401527
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is dancing ballet_0.mp4",
+                "video_results": 0.9708116298073592
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is dancing ballet_1.mp4",
+                "video_results": 0.9680576577351319
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is dancing ballet_2.mp4",
+                "video_results": 0.9803416112335234
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is running on treadmill_0.mp4",
+                "video_results": 0.9431099557743019
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is running on treadmill_1.mp4",
+                "video_results": 0.9400948162061049
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is running on treadmill_2.mp4",
+                "video_results": 0.959830372273421
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is kissing_0.mp4",
+                "video_results": 0.990881148194955
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is kissing_1.mp4",
+                "video_results": 0.9717897331458626
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is kissing_2.mp4",
+                "video_results": 0.9637460211745831
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is barbequing_0.mp4",
+                "video_results": 0.97859634698606
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is barbequing_1.mp4",
+                "video_results": 0.9578291044404416
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is barbequing_2.mp4",
+                "video_results": 0.9536748592259169
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is milking cow_0.mp4",
+                "video_results": 0.966142747382156
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is milking cow_1.mp4",
+                "video_results": 0.9720789912034149
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is milking cow_2.mp4",
+                "video_results": 0.9704534763938126
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is making snowman_0.mp4",
+                "video_results": 0.9903181081392518
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is making snowman_1.mp4",
+                "video_results": 0.9866225355702176
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is making snowman_2.mp4",
+                "video_results": 0.9663486370296817
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sailing_0.mp4",
+                "video_results": 0.926180768124307
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sailing_1.mp4",
+                "video_results": 0.934513691849624
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sailing_2.mp4",
+                "video_results": 0.9794256856795454
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person swimming in ocean_0.mp4",
+                "video_results": 0.9855178590804812
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person swimming in ocean_1.mp4",
+                "video_results": 0.9599476070742424
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person swimming in ocean_2.mp4",
+                "video_results": 0.9712313697451637
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person giving a presentation to a room full of colleagues_0.mp4",
+                "video_results": 0.9924107021755643
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person giving a presentation to a room full of colleagues_1.mp4",
+                "video_results": 0.990067670236226
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person giving a presentation to a room full of colleagues_2.mp4",
+                "video_results": 0.9917253125615481
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person washing the dishes_0.mp4",
+                "video_results": 0.9731306366337226
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person washing the dishes_1.mp4",
+                "video_results": 0.9731924917183671
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person washing the dishes_2.mp4",
+                "video_results": 0.9670807561509304
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person walking in the snowstorm_0.mp4",
+                "video_results": 0.9944449352617023
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person walking in the snowstorm_1.mp4",
+                "video_results": 0.9920338471285324
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person walking in the snowstorm_2.mp4",
+                "video_results": 0.9847314715274131
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person drinking coffee in a cafe_0.mp4",
+                "video_results": 0.9903597720419548
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person drinking coffee in a cafe_1.mp4",
+                "video_results": 0.9896337614228634
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person drinking coffee in a cafe_2.mp4",
+                "video_results": 0.9860526554168216
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bicycle leaning against a tree_0.mp4",
+                "video_results": 0.9785553705124628
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bicycle leaning against a tree_1.mp4",
+                "video_results": 0.95002816607193
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bicycle leaning against a tree_2.mp4",
+                "video_results": 0.9054510941135895
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bicycle gliding through a snowy field_0.mp4",
+                "video_results": 0.9732737023845996
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bicycle gliding through a snowy field_1.mp4",
+                "video_results": 0.9792187438736889
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bicycle gliding through a snowy field_2.mp4",
+                "video_results": 0.9859230839349087
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A car stuck in traffic during rush hour_0.mp4",
+                "video_results": 0.9822245215835358
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A car stuck in traffic during rush hour_1.mp4",
+                "video_results": 0.9656281764211219
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A car stuck in traffic during rush hour_2.mp4",
+                "video_results": 0.9747701315430143
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A car turning a corner_0.mp4",
+                "video_results": 0.9695821938394498
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A car turning a corner_1.mp4",
+                "video_results": 0.955786614369055
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A car turning a corner_2.mp4",
+                "video_results": 0.9732665958636059
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A motorcycle cruising along a coastal highway_0.mp4",
+                "video_results": 0.9754830582135198
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A motorcycle cruising along a coastal highway_1.mp4",
+                "video_results": 0.9302200153539606
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A motorcycle cruising along a coastal highway_2.mp4",
+                "video_results": 0.9760290364925267
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A motorcycle turning a corner_0.mp4",
+                "video_results": 0.9155726328617384
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A motorcycle turning a corner_1.mp4",
+                "video_results": 0.9603390819218313
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A motorcycle turning a corner_2.mp4",
+                "video_results": 0.9658237268499522
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An airplane soaring through a clear blue sky_0.mp4",
+                "video_results": 0.9857549195418728
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An airplane soaring through a clear blue sky_1.mp4",
+                "video_results": 0.9910728461713461
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An airplane soaring through a clear blue sky_2.mp4",
+                "video_results": 0.9860457212873757
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An airplane taking off_0.mp4",
+                "video_results": 0.9945143506417867
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An airplane taking off_1.mp4",
+                "video_results": 0.9933600724021705
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An airplane taking off_2.mp4",
+                "video_results": 0.9912591330477504
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bus turning a corner_0.mp4",
+                "video_results": 0.9647536497712692
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bus turning a corner_1.mp4",
+                "video_results": 0.9830209399026537
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bus turning a corner_2.mp4",
+                "video_results": 0.9842649978082053
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bus stuck in traffic during rush hour_0.mp4",
+                "video_results": 0.9606001511118771
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bus stuck in traffic during rush hour_1.mp4",
+                "video_results": 0.9823361579332254
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bus stuck in traffic during rush hour_2.mp4",
+                "video_results": 0.9838569626866046
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A train speeding down the tracks_0.mp4",
+                "video_results": 0.9907289585145581
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A train speeding down the tracks_1.mp4",
+                "video_results": 0.9366631287931839
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A train speeding down the tracks_2.mp4",
+                "video_results": 0.9892183604805854
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A train crossing over a tall bridge_0.mp4",
+                "video_results": 0.9729131611344082
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A train crossing over a tall bridge_1.mp4",
+                "video_results": 0.9703568338346081
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A train crossing over a tall bridge_2.mp4",
+                "video_results": 0.9922605113822873
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A truck turning a corner_0.mp4",
+                "video_results": 0.9812269237528995
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A truck turning a corner_1.mp4",
+                "video_results": 0.9795323689778646
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A truck turning a corner_2.mp4",
+                "video_results": 0.9622497480233956
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A truck anchored in a tranquil bay_0.mp4",
+                "video_results": 0.99104377896178
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A truck anchored in a tranquil bay_1.mp4",
+                "video_results": 0.9804666663418298
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A truck anchored in a tranquil bay_2.mp4",
+                "video_results": 0.9798255436004154
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A boat sailing smoothly on a calm lake_0.mp4",
+                "video_results": 0.9901289162515592
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A boat sailing smoothly on a calm lake_1.mp4",
+                "video_results": 0.9831829217079084
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A boat sailing smoothly on a calm lake_2.mp4",
+                "video_results": 0.9746344565454763
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bird soaring gracefully in the sky_0.mp4",
+                "video_results": 0.9945144211656016
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bird soaring gracefully in the sky_1.mp4",
+                "video_results": 0.9827706715417286
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bird soaring gracefully in the sky_2.mp4",
+                "video_results": 0.9944512588971135
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cat grooming itself meticulously with its tongue_0.mp4",
+                "video_results": 0.9747289712800811
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cat grooming itself meticulously with its tongue_1.mp4",
+                "video_results": 0.9864506341273489
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cat grooming itself meticulously with its tongue_2.mp4",
+                "video_results": 0.9705674186585441
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cat playing in park_0.mp4",
+                "video_results": 0.9270561175520013
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cat playing in park_1.mp4",
+                "video_results": 0.9522820267022825
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cat playing in park_2.mp4",
+                "video_results": 0.9342371587103265
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A dog enjoying a peaceful walk_0.mp4",
+                "video_results": 0.9627960575506245
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A dog enjoying a peaceful walk_1.mp4",
+                "video_results": 0.9765943397215657
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A dog enjoying a peaceful walk_2.mp4",
+                "video_results": 0.924144915839871
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A dog running happily_0.mp4",
+                "video_results": 0.9744952745909562
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A dog running happily_1.mp4",
+                "video_results": 0.8988171190106902
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A dog running happily_2.mp4",
+                "video_results": 0.9586145395658263
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A horse bending down to drink water from a river_0.mp4",
+                "video_results": 0.9609488194284875
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A horse bending down to drink water from a river_1.mp4",
+                "video_results": 0.9630974912955091
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A horse bending down to drink water from a river_2.mp4",
+                "video_results": 0.9658458100647485
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A horse galloping across an open field_0.mp4",
+                "video_results": 0.986502591657594
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A horse galloping across an open field_1.mp4",
+                "video_results": 0.9576482970507539
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A horse galloping across an open field_2.mp4",
+                "video_results": 0.9662332679043297
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A sheep taking a peaceful walk_0.mp4",
+                "video_results": 0.9730251515278964
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A sheep taking a peaceful walk_1.mp4",
+                "video_results": 0.9741597073196141
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A sheep taking a peaceful walk_2.mp4",
+                "video_results": 0.9761410404208883
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cow chewing cud while resting in a tranquil barn_0.mp4",
+                "video_results": 0.9863400705944813
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cow chewing cud while resting in a tranquil barn_1.mp4",
+                "video_results": 0.985992603319811
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A cow chewing cud while resting in a tranquil barn_2.mp4",
+                "video_results": 0.9852285169642401
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An elephant spraying itself with water using its trunk to cool down_0.mp4",
+                "video_results": 0.9599889297556589
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An elephant spraying itself with water using its trunk to cool down_1.mp4",
+                "video_results": 0.9717187121023539
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/An elephant spraying itself with water using its trunk to cool down_2.mp4",
+                "video_results": 0.9716523783992764
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bear catching a salmon in its powerful jaws_0.mp4",
+                "video_results": 0.910861599990745
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bear catching a salmon in its powerful jaws_1.mp4",
+                "video_results": 0.9331852782006357
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bear catching a salmon in its powerful jaws_2.mp4",
+                "video_results": 0.9190280981981009
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bear climbing a tree_0.mp4",
+                "video_results": 0.9604629010824708
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bear climbing a tree_1.mp4",
+                "video_results": 0.9561570581601782
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A bear climbing a tree_2.mp4",
+                "video_results": 0.9736106281298326
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A zebra bending down to drink water from a river_0.mp4",
+                "video_results": 0.9516076081718495
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A zebra bending down to drink water from a river_1.mp4",
+                "video_results": 0.9785077790474914
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A zebra bending down to drink water from a river_2.mp4",
+                "video_results": 0.9560052901979477
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A giraffe bending down to drink water from a river_0.mp4",
+                "video_results": 0.9633249092280142
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A giraffe bending down to drink water from a river_1.mp4",
+                "video_results": 0.986349629777041
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A giraffe bending down to drink water from a river_2.mp4",
+                "video_results": 0.9806092234664049
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is brushing teeth_0.mp4",
+                "video_results": 0.9558720350933342
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is brushing teeth_1.mp4",
+                "video_results": 0.9491966553874154
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is brushing teeth_2.mp4",
+                "video_results": 0.9487274369383171
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is crawling baby_0.mp4",
+                "video_results": 0.9846017953283202
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is crawling baby_1.mp4",
+                "video_results": 0.9372270749730557
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is crawling baby_2.mp4",
+                "video_results": 0.9771573633929483
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is driving car_0.mp4",
+                "video_results": 0.9706201177573894
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is driving car_1.mp4",
+                "video_results": 0.9399016963556256
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is driving car_2.mp4",
+                "video_results": 0.979871037872343
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sticking tongue out_0.mp4",
+                "video_results": 0.9933427862315174
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sticking tongue out_1.mp4",
+                "video_results": 0.9754822617930636
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is sticking tongue out_2.mp4",
+                "video_results": 0.9888162571954238
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shaking head_0.mp4",
+                "video_results": 0.9819676275458099
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shaking head_1.mp4",
+                "video_results": 0.8730770371096029
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is shaking head_2.mp4",
+                "video_results": 0.9547836667015438
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is using computer_0.mp4",
+                "video_results": 0.9584915346346872
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is using computer_1.mp4",
+                "video_results": 0.9863461292313149
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is using computer_2.mp4",
+                "video_results": 0.9928801414568106
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is arranging flowers_0.mp4",
+                "video_results": 0.9790360700961699
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is arranging flowers_1.mp4",
+                "video_results": 0.9592785476413873
+            },
+            {
+                "video_path": "./sampled_videos/action/lavie/A person is arranging flowers_2.mp4",
+                "video_results": 0.9608710722651691
+            }
+        ]
+    ]
+}
