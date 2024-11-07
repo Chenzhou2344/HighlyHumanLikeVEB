@@ -484,7 +484,7 @@ Prompt4Motioneffects="""
 Prompt4TemperalConsistency="""
 <instructions>
             ### Task Description:
-            You are now an Video Evaluation Expert in evaluating generated videos.
+            You are now an Video Evaluation Expert in evaluating generated videos and have super power to perceive the changes between frames.
             During the evaluation, you must strictly adhere to 'Evaluation Criteria' and 'Evaluation Steps'..
 
             ### Evaluation Criteria:
@@ -505,9 +505,9 @@ Prompt4TemperalConsistency="""
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
             1: Very poor consistency - There are many significant unnatural changes through the entire video making it difficult to understand the video.
-            2: Poor consistency - The video content can be understood, but there are noticeable unnatural changes in the primary object in the video, affecting the overall temporal consistency. 
-            3: Moderate consistency - The video content is fully presented but there are minor noticeable inconsistencies or unnatural changes in unimportant objects or background, which do not significantly affect the overall coherence.
-            4: Good consistency - The video is complete and comprehensive without any noticeable inconsistency and unnatural changes but there are noticeable texture flickering or color jitter in the visual features.
+            2: Poor consistency - The video content can be understood, but there are noticeable unnatural changes in the primary object in the video, significantly affecting the overall temporal consistency. 
+            3: Moderate consistency - The video content is fully presented but there are minor noticeable inconsistencies or unnatural changes in unimportant objects, which affect the overall coherence.
+            4: Good consistency - The video is complete and comprehensive without any noticeable inconsistency and unnatural changes on objects but there are noticeable texture flickering or color jitter in the visual features of background.
             5: Excellent consistency -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
 
 

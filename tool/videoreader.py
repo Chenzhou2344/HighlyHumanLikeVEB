@@ -82,11 +82,11 @@ def process_video2gridview(datadir, videos_path, extract_frames_persecond=8):
             if not success:
                 break
             frames.append(frame)
-            if len(frames) == 8:
+            if len(frames) == extract_frames_persecond:
                 height, width, _ = frames[0].shape
-                grid_image = np.zeros((height, 8 * width, 3))
+                grid_image = np.zeros((height, extract_frames_persecond * width, 3))
 
-                for j in range(8):
+                for j in range(extract_frames_persecond):
                     grid_image[0:height, j * width:(j + 1) * width] = frames[j]
 
                 _, buffer = cv2.imencode(".jpg", grid_image)
