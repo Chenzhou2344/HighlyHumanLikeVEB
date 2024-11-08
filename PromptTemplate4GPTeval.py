@@ -459,16 +459,18 @@ Prompt4Motioneffects="""
                 4.Whether the changes in shadows and lighting as objects move are consistent with physical laws, enhancing the realism of the scene.
         
             ### Important Notes:
-            Note: The evaluation of motion effects does not need to care the action consistency too much. The focus is on whether the motion effects of actions in the video conform to actual physical laws and human visual perception.
-            
+            1.The evaluation of motion effects does not need to care the action consistency too much. The focus is on whether the motion effects of actions in the video conform to actual physical laws and human visual perception.
+            2.Image quality is not the focus of this evaluation. You should focus on the motion effects of the objects in the video.
+
             ###Scoring Range
             You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
             1: Very poor effects - The motion trajectories are significantly incorrect, or the main features of motion are so poorly generated that the motion is difficult to recognize. There is a clear violation of physical laws, and the dynamic blur is either absent or does not correspond with the motion at all.
-            2: Poor effects - The motion trajectories are generated poorly, and the motion can only be barely recognized. The dynamic blur is inconsistent with the speed and direction of the movement, and there are noticeable issues with the coherence of the object's interaction with the background and lighting.
+            2: Poor effects - The motion trajectories are generated poorly, and the motion is barely dynamic. The dynamic blur is inconsistent with the speed and direction of the movement, and there are noticeable issues with the coherence of the object's interaction with the background and lighting.
             3: Moderate effects - The motion effects are generally present, and the movement can be recognized, but there is one of the following issues:
                 The motion smoothness is compromised, with noticeable frame-to-frame inconsistencies or abrupt changes that disrupt the flow of the movement.
                 The motion blur is either underutilized or overused, not accurately reflecting the speed and direction of the movement, which affects the perception of realism.
                 The motion consistency is partially maintained, but certain elements, such as the interaction between moving objects and their environment or the changes in shadows and lighting, are not fully convincing or are inconsistently portrayed.
+                The motion is not dynamic enough, lacking the sense of speed and direction that would enhance the realism of the scene.
             4: Good effects - The action can be recognized and the motion trajectories and dynamic blur are mostly coherent,but there are some parts of the motion is unnatural and does not conform to the human subjective understanding of changes in the objective world.
             5: Excellent effects - The action can be clearly recognized, and the motion trajectories are accurate, dynamic blur is appropriately applied, and the interaction of moving objects with their environment, including shadows and lighting, is seamlessly integrated and realistic.
            
