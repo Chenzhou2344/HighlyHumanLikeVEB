@@ -12,7 +12,7 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 4,
             "videocrafter2": 4,
             "pika": 3,
@@ -234,12 +234,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -455,11 +455,11 @@
             "lavie": "overall_consistency/lavie/A storm trooper vacuuming the beach._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 4,
+            "cogvideox5b": 4,
+            "kling": 5,
             "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 4,
+            "videocrafter2": 5,
+            "pika": 5,
             "show1": 3,
             "lavie": 3
         },
@@ -677,11 +677,11 @@
             "lavie": "overall_consistency/lavie/A panda standing on a surfboard in the ocean in sunset._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 5,
             "gen3": 4,
             "videocrafter2": 4,
-            "pika": 4,
+            "pika": 5,
             "show1": 3,
             "lavie": 2
         },
@@ -899,12 +899,12 @@
             "lavie": "overall_consistency/lavie/An astronaut feeding ducks on a sunny afternoon, reflection from the water._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 2,
-            "show1": 3,
+            "show1": 4,
             "lavie": 2
         },
         "human_anno": {
@@ -1123,11 +1123,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 5,
             "kling": 4,
-            "gen3": 4,
+            "gen3": 5,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1347,7 +1347,7 @@
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 5,
-            "pika": 5,
+            "pika": 4,
             "show1": 3,
             "lavie": 3
         },
@@ -1568,10 +1568,10 @@
             "cogvideox5b": 4,
             "kling": 5,
             "gen3": 5,
-            "videocrafter2": 4,
+            "videocrafter2": 5,
             "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 1
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1792,7 +1792,7 @@
             "gen3": 5,
             "videocrafter2": 3,
             "pika": 4,
-            "show1": 3,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -2010,12 +2010,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 3
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2231,13 +2231,13 @@
             "lavie": "overall_consistency/lavie/Fireworks._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 3,
-            "show1": 2,
-            "lavie": 1
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4896,10 +4896,10 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
+            "pika": 4,
             "show1": 4,
             "lavie": 2
         },
@@ -5118,9 +5118,9 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 3,
             "lavie": 2
@@ -5339,11 +5339,11 @@
             "lavie": "overall_consistency/lavie/Golden fish swimming in the ocean._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
+            "cogvideox5b": 5,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 4,
+            "pika": 5,
             "show1": 3,
             "lavie": 2
         },
@@ -5564,10 +5564,10 @@
             "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 4,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5784,12 +5784,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 2,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6009,9 +6009,9 @@
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
+            "pika": 4,
             "show1": 3,
-            "lavie": 4
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6229,11 +6229,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 5,
             "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6449,13 +6449,13 @@
             "lavie": "overall_consistency/lavie/Campfire at night in a snowy forest with starry sky in the background._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 4,
+            "cogvideox5b": 4,
+            "kling": 5,
             "gen3": 5,
-            "videocrafter2": 4,
-            "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6671,12 +6671,12 @@
             "lavie": "overall_consistency/lavie/A fantasy landscape_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
+            "cogvideox5b": 5,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
-            "show1": 3,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -6893,12 +6893,12 @@
             "lavie": "overall_consistency/lavie/A 3d model of a 1800s victorian house._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 4,
-            "gen3": 3,
+            "cogvideox5b": 2,
+            "kling": 5,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 5,
-            "show1": 2,
+            "pika": 4,
+            "show1": 3,
             "lavie": 4
         },
         "human_anno": {
@@ -7115,7 +7115,7 @@
             "lavie": "overall_consistency/lavie/This is how i do makeup in the morning._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
+            "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 3,
@@ -7340,10 +7340,10 @@
             "cogvideox5b": 5,
             "kling": 3,
             "gen3": 4,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7562,7 +7562,7 @@
             "cogvideox5b": 2,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 3,
             "lavie": 2
@@ -7782,7 +7782,7 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 3,
             "pika": 4,
@@ -8004,10 +8004,10 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 4,
             "lavie": 3
         },
@@ -8228,10 +8228,10 @@
             "cogvideox5b": 4,
             "kling": 3,
             "gen3": 5,
-            "videocrafter2": 4,
-            "pika": 3,
+            "videocrafter2": 5,
+            "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8449,11 +8449,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 4,
             "pika": 5,
             "show1": 4,
-            "lavie": 3
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8669,10 +8669,10 @@
             "lavie": "overall_consistency/lavie/Sewing machine, old sewing machine working._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
+            "cogvideox5b": 5,
             "kling": 4,
-            "gen3": 3,
-            "videocrafter2": 2,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 4,
             "show1": 3,
             "lavie": 3
@@ -8891,13 +8891,13 @@
             "lavie": "overall_consistency/lavie/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "pika": 4,
+            "show1": 5,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9113,13 +9113,13 @@
             "lavie": "overall_consistency/lavie/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
+            "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 5,
             "show1": 2,
-            "lavie": 3
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9336,7 +9336,7 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 4,
+            "kling": 5,
             "gen3": 4,
             "videocrafter2": 4,
             "pika": 4,
@@ -9557,10 +9557,10 @@
             "lavie": "overall_consistency/lavie/Pacific coast, carmel by the sea ocean and waves._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 4,
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 5,
             "pika": 2,
             "show1": 3,
             "lavie": 4
@@ -9782,10 +9782,10 @@
             "cogvideox5b": 3,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 4,
+            "videocrafter2": 5,
             "pika": 5,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10004,9 +10004,9 @@
             "cogvideox5b": 3,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 4,
-            "show1": 3,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -10224,10 +10224,10 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 4,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 3,
             "lavie": 4
         },
@@ -10448,10 +10448,10 @@
             "cogvideox5b": 4,
             "kling": 5,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 2,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10669,9 +10669,9 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 5,
-            "gen3": 4,
-            "videocrafter2": 3,
-            "pika": 3,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 2,
             "lavie": 2
         },
@@ -10891,10 +10891,10 @@
         "gpt4o_eval": {
             "cogvideox5b": 5,
             "kling": 4,
-            "gen3": 3,
-            "videocrafter2": 4,
+            "gen3": 4,
+            "videocrafter2": 5,
             "pika": 3,
-            "show1": 3,
+            "show1": 4,
             "lavie": 4
         },
         "human_anno": {
@@ -11336,9 +11336,9 @@
             "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 5,
-            "pika": 3,
-            "show1": 2,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
             "lavie": 3
         },
         "human_anno": {
@@ -11555,10 +11555,10 @@
             "lavie": "overall_consistency/lavie/A mars rover moving on mars_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 2,
             "show1": 3,
             "lavie": 4
@@ -11779,11 +11779,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 5,
             "kling": 5,
-            "gen3": 4,
+            "gen3": 5,
             "videocrafter2": 3,
             "pika": 4,
             "show1": 3,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11999,11 +11999,11 @@
             "lavie": "overall_consistency/lavie/A space shuttle launching into orbit, with flames and smoke billowing out from the engines_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 4,
             "lavie": 2
         },
@@ -14666,8 +14666,8 @@
             "cogvideox5b": 4,
             "kling": 3,
             "gen3": 4,
-            "videocrafter2": 3,
-            "pika": 5,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 3,
             "lavie": 2
         },
@@ -14887,11 +14887,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 4,
-            "videocrafter2": 5,
+            "gen3": 5,
+            "videocrafter2": 4,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15107,12 +15107,12 @@
             "lavie": "overall_consistency/lavie/A cat wearing sunglasses at a pool_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 4,
+            "cogvideox5b": 5,
+            "kling": 5,
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 5,
-            "show1": 3,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -15332,10 +15332,10 @@
             "cogvideox5b": 4,
             "kling": 5,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -15555,8 +15555,8 @@
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 2,
+            "pika": 4,
+            "show1": 3,
             "lavie": 3
         },
         "human_anno": {
@@ -15776,8 +15776,8 @@
             "cogvideox5b": 3,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 4,
-            "pika": 4,
+            "videocrafter2": 5,
+            "pika": 5,
             "show1": 4,
             "lavie": 4
         },
@@ -15995,13 +15995,13 @@
             "lavie": "overall_consistency/lavie/A cute raccoon playing guitar in a boat on the ocean_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 4,
+            "cogvideox5b": 4,
+            "kling": 5,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 4,
-            "show1": 2,
-            "lavie": 3
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16217,10 +16217,10 @@
             "lavie": "overall_consistency/lavie/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
+            "cogvideox5b": 5,
             "kling": 5,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 3,
             "show1": 4,
             "lavie": 3
@@ -16439,13 +16439,13 @@
             "lavie": "overall_consistency/lavie/A lightning striking atop of eiffel tower, dark clouds in the sky_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16661,13 +16661,13 @@
             "lavie": "overall_consistency/lavie/A modern art museum, with colorful paintings_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
+            "cogvideox5b": 5,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
+            "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -16884,11 +16884,11 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 4,
-            "show1": 3,
+            "pika": 5,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -17106,12 +17106,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 4,
+            "kling": 5,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "pika": 5,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17328,11 +17328,11 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 3,
             "pika": 4,
-            "show1": 2,
+            "show1": 3,
             "lavie": 2
         },
         "human_anno": {
@@ -17550,12 +17550,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 4,
             "show1": 4,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -17772,11 +17772,11 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
+            "pika": 4,
+            "show1": 2,
             "lavie": 3
         },
         "human_anno": {
@@ -17993,10 +17993,10 @@
             "lavie": "overall_consistency/lavie/A shark swimming in clear caribbean ocean_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
+            "cogvideox5b": 5,
+            "kling": 5,
             "gen3": 5,
-            "videocrafter2": 4,
+            "videocrafter2": 5,
             "pika": 2,
             "show1": 3,
             "lavie": 2
@@ -18215,12 +18215,12 @@
             "lavie": "overall_consistency/lavie/A super robot protecting city_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
-            "show1": 3,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -18438,11 +18438,11 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 4,
-            "show1": 2,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 3,
             "lavie": 3
         },
         "human_anno": {
@@ -18662,9 +18662,9 @@
             "cogvideox5b": 4,
             "kling": 5,
             "gen3": 5,
-            "videocrafter2": 4,
-            "pika": 3,
-            "show1": 2,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
             "lavie": 3
         },
         "human_anno": {
@@ -18881,9 +18881,9 @@
             "lavie": "overall_consistency/lavie/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 4,
             "pika": 3,
             "show1": 2,
@@ -19107,7 +19107,7 @@
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 3,
-            "pika": 4,
+            "pika": 3,
             "show1": 2,
             "lavie": 4
         },
@@ -19326,12 +19326,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 4,
+            "kling": 5,
             "gen3": 5,
-            "videocrafter2": 4,
+            "videocrafter2": 5,
             "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -19548,12 +19548,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -19772,10 +19772,10 @@
             "cogvideox5b": 4,
             "kling": 5,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [

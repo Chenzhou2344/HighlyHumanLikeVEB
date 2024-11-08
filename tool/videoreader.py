@@ -14,7 +14,6 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
     base64Frames = {"cogvideox5b": [],"kling": [],"gen3": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
     for key in base64Frames.keys():
         video = cv2.VideoCapture(os.path.join(datadir,videos_path[key]))
-
         if not video.isOpened():
             print(f"Error: Cannot open video file {datadir+videos_path[key]}")
             continue
