@@ -327,7 +327,7 @@ Prompt4Action = """
 </instructions>
 """
 
-Prompt4ImagingQuality = ["""
+Prompt4ImagingQuality = """
 <instructions>
         ### Task Description:
         You are now an Video Evaluation Expert in evaluating generated videos and need to evaluate the videos from different models.
@@ -348,16 +348,9 @@ Prompt4ImagingQuality = ["""
         3. **Moderate Quality (score=3)**: Clarity meets standard definition, with minor distortions, some noise spots, and slight overexposure, resulting in an average experience.
         4. **Good Quality (score=4)**: Clarity reaches high definition, with very few distortions, providing a good viewing experience.
         5. **Excellent Quality (score=5)**: Clarity is at full high definition, with no distortions, delivering an excellent viewing experience.
-        
-        ### Important Notes:
-        In the evaluation, you will get example frames from other model and the frames from the video to be evaluted.
-        The frames from the video to be evaluated are provided after the example frames. 
-        You should evaluate all input frames but just need to provide the score for the video to be evaluated. 
-
-
 
 """
-]
+
 Prompt4AestheticQuality = """
 <instructions>
         ### Task Description:
@@ -375,58 +368,20 @@ Prompt4AestheticQuality = """
 
         ### Scoring Range:
         Assign a score from 1 to 5 for each video based strictly on the 'Evaluation Criteria', with 5 representing the highest quality:
-
         1. **Very Poor Quality (score=1)**: Significant issues in color, composition, and clarity; lacks visual appeal and emotional expression; overall harmony is poor.
         2. **Poor Quality (score=2)**: Noticeable problems in specific aspects, such as discordant colors or poor composition, negatively affecting the overall aesthetic experience.
         3. **Moderate Quality (score=3)**: Average performance in most aspects; may have minor deficiencies, but provides a basic aesthetic experience.
         4. **Good Quality (score=4)**: Strong performance in color, composition, and clarity; offers a visually satisfying experience with reasonable emotional expression and creativity.
         5. **Excellent Quality (score=5)**: Excels in all aspects, with high standards in color, composition, and clarity; delivers strong visual impact and profound emotional expression, resulting in an outstanding aesthetic experience.
 
-        ### Output Format:
-        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
-        For four videos, the format is:
-        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
-
-        <output format>  
-        Final Scores:  
-        - A: x, because ...  
-        - B: y, because ...  
-        - C: z, because ...  
-        - D: w, because ...  
-        </output format>
-
-        <example>
-        Final Scores:
-        - gen2: x , because ...
-        - sora: y, because ...
-        - T2V: z, because ...
-        - videocrafter1: w, because...
-        </example>
-
-        ### Evaluation Steps:
-        1. **Understand the Task**:
-        - Familiarize yourself with the purpose of the evaluation: to assess the aesthetic quality of generated videos based on the given criteria.
-        2. **Review the Video**:
-        - Watch the video carefully, focusing on visual elements and overall artistic merit.
-        3. **Evaluate Structure**:
-        - Evaluate whether the arrangement of people or objects is reasonable and pleasing, avoiding any psychological discomfort.
-        4. **Evaluate Color Use**:
-        - Analyze the appropriateness and effectiveness of color choices, noting any discordant colors.
-        5. **Check Composition**:
-        - Determine if the composition effectively presents all necessary information and is visually appealing.
-        6. **Evaluate Visual Appeal**:
-        - Assess the overall visual appeal of the video and its ability to convey emotional expression.
-        7. **Evaluate Overall Harmony**:
-        - Evaluate the cohesiveness of the video as a whole, ensuring all elements work together harmoniously.
-        8. **Assign a Score**:
-        - Based on your assessment, assign a score from 1 to 5 for each video according to the 'Scoring Range'.
-        9. **Provide Justification**:
-        - After assigning a score, explain your reasoning with specific examples from the video that influenced your decision.
-        10. **Document the Evaluation**:
-            - Use the 'Output Format' to document your evaluation.
 
 """
-
+extraPrompt4Quality = """
+        ### Important Notes:
+        In the evaluation, you will get example frames from other model and the frames from the video to be evaluted.
+        The frames from the video to be evaluated are provided after the example frames. 
+        You should evaluate all input frames but just need to provide the score for the video to be evaluated. 
+"""
 
 
 Prompt4Motioneffects="""
@@ -501,8 +456,8 @@ Prompt4TemperalConsistency="""
             Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
             1: Very poor consistency - There are many significant unnatural changes through the entire video making it difficult to understand the video.
             2: Poor consistency - The video content can be understood, but there are noticeable unnatural changes in the primary object in the video, significantly affecting the overall temporal consistency. 
-            3: Moderate consistency - The video content is fully presented but there are minor noticeable inconsistencies or unnatural changes in unimportant objects, which affect the overall coherence.
-            4: Good consistency - The video is complete and comprehensive without any noticeable inconsistency and unnatural changes on objects but there are noticeable texture flickering or color jitter in the visual features of background.
+            3: Moderate consistency - The video content is fully presented but there are noticeable inconsistencies or unnatural changes in unimportant objects, which affect the overall coherence.
+            4: Good consistency - The video is complete and comprehensive with minor noticeable inconsistency and unnatural changes on objects or there are noticeable texture flickering or color jitter in the visual features of background.
             5: Excellent consistency -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
 
 
