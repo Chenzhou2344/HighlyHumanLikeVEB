@@ -59,6 +59,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 2,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -121,6 +130,15 @@
             "pika": 4,
             "show1": 3,
             "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -236,6 +254,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 2,
+            "gen3": 2,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -296,6 +323,15 @@
             "gen3": 4,
             "videocrafter2": 3,
             "pika": 4,
+            "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 4,
             "lavie": 3
         }
@@ -413,6 +449,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -474,6 +519,15 @@
             "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 3,
             "lavie": 4
         }
     },
@@ -590,6 +644,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -652,6 +715,15 @@
             "pika": 3,
             "show1": 4,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 4
         }
     },
     {
@@ -767,6 +839,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -824,6 +905,15 @@
         "multiagent_score": {
             "cogvideox5b": 5,
             "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
             "gen3": 5,
             "videocrafter2": 5,
             "pika": 4,
@@ -944,6 +1034,15 @@
             "pika": 5,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -1004,6 +1103,15 @@
             "gen3": 4,
             "videocrafter2": 4,
             "pika": 4,
+            "show1": 3,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 3,
             "lavie": 4
         }
@@ -1121,6 +1229,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -1177,6 +1294,15 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
             "kling": 5,
             "gen3": 5,
             "videocrafter2": 4,
@@ -1298,6 +1424,15 @@
             "pika": 5,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -1360,6 +1495,15 @@
             "pika": 5,
             "show1": 4,
             "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 5
         }
     },
     {
@@ -1475,6 +1619,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -1533,6 +1686,15 @@
             "cogvideox5b": 4,
             "kling": 5,
             "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
             "videocrafter2": 5,
             "pika": 4,
             "show1": 4,
@@ -1652,6 +1814,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 2,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -1707,6 +1878,15 @@
             "lavie": 0.9240397135416667
         },
         "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3
+        },
+        "multiagent_socre": {
             "cogvideox5b": 5,
             "kling": 5,
             "gen3": 5,
@@ -1829,6 +2009,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -1886,6 +2075,15 @@
         "multiagent_score": {
             "cogvideox5b": 3,
             "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
@@ -2006,6 +2204,15 @@
             "pika": 5,
             "show1": 5,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 2
         }
     },
     {
@@ -2068,6 +2275,15 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 5
         }
     },
     {
@@ -2183,6 +2399,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -2245,6 +2470,15 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         }
     },
     {
@@ -2360,6 +2594,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 2,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -2415,6 +2658,15 @@
             "lavie": 0.8994303385416667
         },
         "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 3
+        },
+        "multiagent_socre": {
             "cogvideox5b": 4,
             "kling": 5,
             "gen3": 5,
@@ -2537,6 +2789,15 @@
             "pika": 2,
             "show1": 5,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 2
         }
     },
     {
@@ -2599,6 +2860,15 @@
             "pika": 4,
             "show1": 4,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         }
     },
     {
@@ -2714,6 +2984,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -2772,6 +3051,15 @@
             "cogvideox5b": 4,
             "kling": 4,
             "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
             "videocrafter2": 5,
             "pika": 5,
             "show1": 4,
@@ -2891,6 +3179,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -2952,6 +3249,15 @@
             "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 5,
             "lavie": 3
         }
     },
@@ -3068,6 +3374,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -3130,6 +3445,15 @@
             "pika": 5,
             "show1": 4,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -3245,6 +3569,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -3304,6 +3637,15 @@
             "kling": 4,
             "gen3": 4,
             "videocrafter2": 4,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
             "pika": 3,
             "show1": 4,
             "lavie": 4
@@ -3422,6 +3764,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -3480,6 +3831,15 @@
             "cogvideox5b": 4,
             "kling": 4,
             "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
@@ -3599,6 +3959,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -3661,7 +4030,8 @@
             "pika": 5,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is rock climbing",
@@ -3776,6 +4146,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 5
         }
     },
     {
@@ -3838,7 +4217,8 @@
             "pika": 3,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is hula hooping",
@@ -3953,6 +4333,15 @@
             "pika": 3,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -4015,7 +4404,8 @@
             "pika": 3,
             "show1": 4,
             "lavie": 3
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is jogging",
@@ -4130,6 +4520,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -4192,7 +4591,8 @@
             "pika": 5,
             "show1": 3,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is motorcycling",
@@ -4307,6 +4707,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -4369,7 +4778,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is driving car",
@@ -4484,6 +4894,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -4543,6 +4962,15 @@
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 3,
             "pika": 4,
             "show1": 4,
             "lavie": 3
@@ -4661,6 +5089,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -4718,6 +5155,15 @@
         "multiagent_score": {
             "cogvideox5b": 4,
             "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
             "gen3": 4,
             "videocrafter2": 5,
             "pika": 4,
@@ -4838,6 +5284,15 @@
             "pika": 5,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -4894,6 +5349,15 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
             "kling": 5,
             "gen3": 5,
             "videocrafter2": 4,
@@ -5015,6 +5479,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -5076,6 +5549,15 @@
             "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 5,
             "lavie": 3
         }
     },
@@ -5192,6 +5674,15 @@
             "pika": 3,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -5252,6 +5743,15 @@
             "gen3": 4,
             "videocrafter2": 5,
             "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 5,
             "show1": 4,
             "lavie": 4
         }
@@ -5369,6 +5869,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -5430,6 +5939,15 @@
             "videocrafter2": 4,
             "pika": 5,
             "show1": 4,
+            "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
             "lavie": 2
         }
     },
@@ -5546,6 +6064,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -5605,6 +6132,15 @@
             "kling": 5,
             "gen3": 4,
             "videocrafter2": 4,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
             "pika": 4,
             "show1": 5,
             "lavie": 3
@@ -5723,6 +6259,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -5782,6 +6327,15 @@
             "kling": 3,
             "gen3": 4,
             "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 4,
             "show1": 4,
             "lavie": 4
@@ -5900,6 +6454,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -5962,6 +6525,15 @@
             "pika": 4,
             "show1": 5,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         }
     },
     {
@@ -6077,6 +6649,15 @@
             "pika": 3,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -6135,6 +6716,15 @@
             "cogvideox5b": 5,
             "kling": 4,
             "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 5,
             "videocrafter2": 4,
             "pika": 5,
             "show1": 4,
@@ -6254,6 +6844,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -6316,7 +6915,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 3
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is milking cow",
@@ -6431,6 +7031,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -6493,7 +7102,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is making snowman",
@@ -6608,6 +7218,15 @@
             "pika": 2,
             "show1": 5,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 5
         }
     },
     {
@@ -6670,7 +7289,8 @@
             "pika": 5,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person is sailing",
@@ -6785,6 +7405,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 2,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -6847,7 +7476,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person swimming in ocean",
@@ -6962,6 +7592,15 @@
             "pika": 5,
             "show1": 5,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 3
         }
     },
     {
@@ -7024,7 +7663,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A person giving a presentation to a room full of colleagues",
@@ -7139,6 +7779,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -7198,6 +7847,15 @@
             "kling": 4,
             "gen3": 4,
             "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
             "pika": 4,
             "show1": 4,
             "lavie": 4
@@ -7316,6 +7974,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -7376,6 +8043,15 @@
             "gen3": 4,
             "videocrafter2": 4,
             "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 5,
             "show1": 4,
             "lavie": 4
         }
@@ -7493,6 +8169,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -7553,6 +8238,15 @@
             "gen3": 4,
             "videocrafter2": 4,
             "pika": 3,
+            "show1": 5,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 4,
             "show1": 5,
             "lavie": 4
         }
@@ -7670,6 +8364,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 5
         }
     },
     {
@@ -7725,6 +8428,15 @@
             "lavie": 0.94365234375
         },
         "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
             "cogvideox5b": 5,
             "kling": 5,
             "gen3": 4,
@@ -7847,6 +8559,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -7904,6 +8625,15 @@
         "multiagent_score": {
             "cogvideox5b": 5,
             "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
             "gen3": 5,
             "videocrafter2": 5,
             "pika": 4,
@@ -8024,6 +8754,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -8086,6 +8825,15 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         }
     },
     {
@@ -8201,6 +8949,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -8263,6 +9020,15 @@
             "pika": 5,
             "show1": 4,
             "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -8378,6 +9144,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 5
         }
     },
     {
@@ -8435,6 +9210,15 @@
         "multiagent_score": {
             "cogvideox5b": 4,
             "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
             "gen3": 5,
             "videocrafter2": 5,
             "pika": 4,
@@ -8555,6 +9339,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -8615,6 +9408,15 @@
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 4,
             "lavie": 4
         }
@@ -8732,6 +9534,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -8787,6 +9598,15 @@
             "lavie": 0.90859375
         },
         "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 4
+        },
+        "multiagent_socre": {
             "cogvideox5b": 5,
             "kling": 5,
             "gen3": 4,
@@ -8909,6 +9729,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -8970,6 +9799,15 @@
             "videocrafter2": 5,
             "pika": 5,
             "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
             "lavie": 3
         }
     },
@@ -9086,6 +9924,15 @@
             "pika": 5,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -9146,6 +9993,15 @@
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
+            "show1": 5,
+            "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 3,
             "show1": 5,
             "lavie": 5
         }
@@ -9263,6 +10119,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 5
         }
     },
     {
@@ -9324,6 +10189,15 @@
             "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
             "lavie": 3
         }
     },
@@ -9440,6 +10314,15 @@
             "pika": 3,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 2,
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -9500,6 +10383,15 @@
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
+            "show1": 5,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 5,
             "show1": 5,
             "lavie": 3
         }
@@ -9617,6 +10509,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -9678,6 +10579,15 @@
             "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
             "lavie": 4
         }
     },
@@ -9794,6 +10704,15 @@
             "pika": 3,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -9856,7 +10775,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A truck turning a corner",
@@ -9971,6 +10891,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 5
         }
     },
     {
@@ -10033,7 +10962,8 @@
             "pika": 4,
             "show1": 5,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A truck anchored in a tranquil bay",
@@ -10148,6 +11078,15 @@
             "pika": 5,
             "show1": 3,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 5
         }
     },
     {
@@ -10210,7 +11149,8 @@
             "pika": 5,
             "show1": 4,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A boat sailing smoothly on a calm lake",
@@ -10325,6 +11265,15 @@
             "pika": 3,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -10387,7 +11336,8 @@
             "pika": 4,
             "show1": 5,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A bird soaring gracefully in the sky",
@@ -10502,6 +11452,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -10564,7 +11523,8 @@
             "pika": 4,
             "show1": 5,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A cat grooming itself meticulously with its tongue",
@@ -10679,6 +11639,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -10741,7 +11710,8 @@
             "pika": 5,
             "show1": 4,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A cat playing in park",
@@ -10856,6 +11826,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -10918,7 +11897,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A dog enjoying a peaceful walk",
@@ -11033,6 +12013,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -11095,7 +12084,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A dog running happily",
@@ -11210,6 +12200,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 5
         }
     },
     {
@@ -11272,7 +12271,8 @@
             "pika": 4,
             "show1": 5,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A horse bending down to drink water from a river",
@@ -11387,6 +12387,15 @@
             "pika": 3,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -11449,7 +12458,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A horse galloping across an open field",
@@ -11564,6 +12574,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -11626,7 +12645,8 @@
             "pika": 5,
             "show1": 4,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A sheep taking a peaceful walk",
@@ -11741,6 +12761,15 @@
             "pika": 5,
             "show1": 3,
             "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 5
         }
     },
     {
@@ -11803,7 +12832,8 @@
             "pika": 4,
             "show1": 5,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A cow chewing cud while resting in a tranquil barn",
@@ -11918,6 +12948,15 @@
             "pika": 2,
             "show1": 3,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -11980,7 +13019,8 @@
             "pika": 4,
             "show1": 5,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "An elephant spraying itself with water using its trunk to cool down",
@@ -12095,6 +13135,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -12157,7 +13206,8 @@
             "pika": 4,
             "show1": 4,
             "lavie": 5
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A bear catching a salmon in its powerful jaws",
@@ -12272,6 +13322,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -12334,7 +13393,8 @@
             "pika": 5,
             "show1": 4,
             "lavie": 4
-        }
+        },
+        "multiagent_socre": {}
     },
     {
         "prompt_en": "A bear climbing a tree",
@@ -12449,6 +13509,15 @@
             "pika": 3,
             "show1": 3,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -12511,6 +13580,15 @@
             "pika": 4,
             "show1": 5,
             "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 5
         }
     },
     {
@@ -12626,6 +13704,15 @@
             "pika": 5,
             "show1": 5,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 5,
+            "lavie": 2
         }
     },
     {
@@ -12686,6 +13773,15 @@
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
+            "show1": 5,
+            "lavie": 5
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
             "show1": 5,
             "lavie": 5
         }
@@ -12803,6 +13899,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -12863,6 +13968,15 @@
             "gen3": 4,
             "videocrafter2": 4,
             "pika": 3,
+            "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 4,
             "lavie": 3
         }
@@ -12980,6 +14094,15 @@
             "pika": 2,
             "show1": 5,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 5,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 2
         }
     },
     {
@@ -13041,6 +14164,15 @@
             "videocrafter2": 4,
             "pika": 5,
             "show1": 4,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
             "lavie": 3
         }
     },
@@ -13157,6 +14289,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 2,
+            "kling": 2,
+            "gen3": 2,
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -13218,6 +14359,15 @@
             "videocrafter2": 4,
             "pika": 5,
             "show1": 3,
+            "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 5,
             "lavie": 3
         }
     },
@@ -13334,6 +14484,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 2,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -13395,6 +14554,15 @@
             "videocrafter2": 3,
             "pika": 4,
             "show1": 4,
+            "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 5,
+            "show1": 3,
             "lavie": 2
         }
     },
@@ -13511,6 +14679,15 @@
             "pika": 5,
             "show1": 2,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 5,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -13573,6 +14750,15 @@
             "pika": 4,
             "show1": 5,
             "lavie": 3
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         }
     },
     {
@@ -13688,6 +14874,15 @@
             "pika": 2,
             "show1": 2,
             "lavie": 2
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -13748,6 +14943,15 @@
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 4,
+            "show1": 4,
+            "lavie": 4
+        },
+        "multiagent_socre": {
+            "cogvideox5b": 5,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
             "show1": 4,
             "lavie": 4
         }
