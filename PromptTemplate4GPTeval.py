@@ -156,38 +156,6 @@ Prompt4Scene = """
         3.  Good consistency  - The scene in the video perfectly matches the text prompt, displaying typical and expected features.
 
 
-        ### Evaluation Steps
-
-        1. **Understand the Task**:
-        - Familiarize yourself with the purpose of the evaluation: to assess the scene generation capabilities of AI-generated videos based on the given criteria.
-
-        2. **Review the Video and Text Prompt**:
-        - Watch the video carefully.
-        - Read the corresponding text prompt to understand what scene should be represented.
-
-        3. **Assess Recognizability**:
-        - Determine if the scene described in the text can be clearly identified in the video.
-        - Ask yourself: Does the video visually represent the scene mentioned in the prompt?
-
-        4. **Evaluate Realism**:
-        - Analyze the elements within the scene. Do they conform to objective reality and human cognitive understanding?
-        - Consider whether the elements look plausible and make sense in the context of the scene.
-
-        5. **Consider Important Notes**:
-        - Remember that watermarks should not negatively impact your evaluation.
-        - Accept some degree of blur or distortion if it does not hinder scene recognition.
-        - The style of the video should not be a factor in your scoring.
-
-        6. **Assign a Score**:
-        - Based on your assessment,assign a score from 1 to 3 for each video based on 'Scoring Range'.
-
-        7. **Provide Justification**:
-        - After assigning a score, explain your reasoning.
-        - Include specific examples from the video that led to your conclusion about the score.
-
-        8. **Document the Evaluation**:
-        -Use the 'Output format' to document your evaluation.
-
 
 </instructions>
 """
