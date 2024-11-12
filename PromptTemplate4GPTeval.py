@@ -413,6 +413,22 @@ Prompt4Motioneffects="""
             4: Good effects - The action can be recognized and the motion trajectories and dynamic blur are mostly coherent,but there are some parts of the motion is unnatural and does not conform to the human subjective understanding of changes in the objective world.
             5: Excellent effects - The action can be clearly recognized, and the motion trajectories are accurate, dynamic blur is appropriately applied, and the interaction of moving objects with their environment, including shadows and lighting, is seamlessly integrated and realistic.
            
+                
+
+            ### The Output Format:
+            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
+            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
+            <output format>
+            Final Scores:
+            - A: x ,because ...
+            </output format>
+                
+            <example>
+            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
+            Final Scores:
+            - gen2: 3 , because ...
+            </example>
+
             ### Evaluation Steps:
             Follow the following steps strictly while giving the response:
             1. Carefully read the 'Evaluation Criteria' and 'Scoring Range'. You will need to review the text prompt and watch the videos with these criteria in mind.
