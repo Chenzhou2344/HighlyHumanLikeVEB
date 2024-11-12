@@ -13,11 +13,11 @@ Prompt4Overconsistency = """
 
             ### Scoring Range
             You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
-            1: Very poor consistency- more than half of the key elements, and the consistency is very weak,or the visual quality is too poor to understand the video.
-            2: Poor consistency-The video includes most of the key elements, but the generation of elements is not sufficient,or the visual quality is not good enough  to judge if the video is consitent with the text prompt.
-            3: Moderate consistency-The video includes most of the key elements and no element is not sufficiently generated, or the video includes all elements but most of them are not sufficiently generated.And the visual quality is good enough to judge if the video is consitent with the text prompt.
-            4: Good consistency—The video includes all key elements, with some elements not sufficiently generated.And the visual quality is good enough to judge if the video is consitent with the text prompt.
-            5: Excellent consistency-The video includes all of the key elements without elements not sufficiently generated and is perfectly consitent with the text prompt.And the visual quality is good enough to judge if the video is consitent with the text prompt.
+            1. Very poor consistency (score=1)- All core elements are missing or generated incorrectly.
+            2. Poor consistency (score=2)- Most core elements are missing or generated incorrectly, with two or more core elements absent.
+            3. Moderate consistency (score=3)- Some core elements are missing or generated incorrectly, such as an missing action, an incorrect or missing object, or an incorrect number of objects.
+            4. Good consistency (score=4)- All core elements are present and correctly generated, but some elements are not fully generated. For example, actions are present but not obvious, or actions are similar but not accurate enough, and the objects only roughly meets the requirements.
+            5. Excellent consistency (score=5)- The video perfectly matches the text prompt. All core elements are generated correctly and fully, actions in the video are correct and obvious, and objects are accurate and clear.
             
             Notes for scoring to emphasize:
             1.Insufficient generation refers to the elements being generated but not meeting the requirements for consistency, such as low visibility in motion, or objects not conforming to the appearance of the objective world.
@@ -143,14 +143,17 @@ Prompt4Scene = """
         2. Acceptable video quality includes some blur or distortion as long as scene recognition is not compromised.  
         3. The style of the video should not be a negative factor in the evaluation.
 
-        ### Scoring Range:
-        1. **Poor Consistency (score=1)**: The scene is unrecognizable and disconnected from the text, making identification difficult.  
-        2. **Moderate Consistency (score=2)**: The scene is recognizable but has issues, such as:
-        - Showing only a part of the scene(e.g.,a bathroom showing only a sink and mirror).
-        - Presenting a too broad view (e.g., generating a hospital building instead of the interior of a hospital).
-        - Highlighting only specific features in close-up (e.g., a bakery showing only bread;a laboratory showing tubes).
-        - Similarity to the scene but lacking complete accuracy.  
-        3. **Good Consistency (score=3)**: The scene is clearly identifiable and matches human understanding of the objective world.
+        ### Scoring Range
+        Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
+
+        1. Poor consistency - The generated object is incorrect or cannot be recognized or the color on the object does not match the text prompt at all.(e.g., yellow instead of red).
+        2. Moderate consistency - The scene is barely recognizable or imperfectly generated, meeting one or more of the following conditions:
+            - Condition 1 : The scene lacks the most typical features (e.g., a bathroom without a shower).
+            - Condition 2 : Only a close-up of an object within the scene is shown, with a very limited perspective (e.g., only a close-up of a single loaf of bread in a bakery).
+            - Condition 3 : The scene is too vague or overly broad in perspective, lacking specific identifiers (e.g., a hospital is represented by just a building with no clear signage instead of the interior of a hospital).
+            - Condition 4 : The scene resembles the text prompt but lacks accuracy (e.g., an aquarium without a glass enclosure).
+            - Condition 5 : The scene abruptly shifts to a different, less fitting scene, without consistently showing the primary characteristics of the scene (e.g., a football field shifts to a close-up of a football player).
+        3.  Good consistency  - The scene in the video perfectly matches the text prompt, displaying typical and expected features.
 
 
         ### Evaluation Steps
