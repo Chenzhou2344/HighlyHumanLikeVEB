@@ -209,7 +209,6 @@ Prompt4Action = """
         1. Watermarks in the video should not negatively impact your evaluation.  
         2. Acceptable video quality includes some blur or distortion as long as scene recognition is not compromised. 
         3. Focus on action consistency, without needing to evaluate dynamic performance or motion effects.
-            Note: The evaluation of motion effects does not need to care the action consistency too much. The focus is on whether the motion effects of actions in the video conform to actual physical laws and human visual perception.
 
 
         ### Scoring Range:
