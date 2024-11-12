@@ -41,7 +41,7 @@ Prompt4Color = """
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos.
-            During the evaluation, you must strictly adhere to 'Evaluation Criteria' and 'Evaluation Steps'..
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria' .
 
             ### Evaluation Criteria:
             You will evaluate the color consistency between the video and the text prompt. 
@@ -357,7 +357,39 @@ Prompt4TemperalConsistency="""
 <instructions>
             ### Task Description:
             You are now an Video Evaluation Expert in evaluating generated videos and have super power to perceive the changes between frames.
-            During the evaluation, you must strictly adhere to 'Evaluation Criteria' and 'Evaluation Steps'..
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria' .
+
+            ### Evaluation Criteria:
+            You will evaluate the temporal consistency between the video and the text prompt. 
+            Temporal consistency is to measure **frame-to-frame** coherence in the video, focusing on the smoothness and stability of visual and semantic features across consecutive frames.
+            The visual features includes color, brightness, texture and details.
+            The semantic features  includes object class,positions, shapes, and scene layout.
+            To evaluate this metric, you should focus on the following aspects:
+                1.whether the frame flickering in the video is noticeable.
+                2.Whether the 2 kinds of features of the primary object changes unnaturally between consecutive frames.
+                3.Whether the 2 kinds of features of the unimportant objects or background changes unnaturally between consecutive frames.
+                
+            ###Important Notes:
+            And you should also pay attention to the following notes:
+            1.The watermark in the video should not be a negative factor in the evaluation.
+            2.The style of the video should not be a negative factor in the evaluation.            
+
+            ### Scoring Range
+            Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
+            1: Very poor consistency - The video content can be understood, but there are noticeable unnatural changes in the primary object in the video, significantly affecting the overall temporal consistency. 
+            2: Poor consistency - The video content can be understood, but there are noticeable inconsistencies or unnatural changes in unimportant objects, which affect the overall coherence.
+            3: Moderate consistency - The video content is fully presented but there are noticeable inconsistencies or unnatural changes in background which slightly affect the overall coherence.
+            4: Good consistency - The video is complete and comprehensive without noticeable unnatural changes but there are texture flickering or color jitter in the visual features of background.
+            5: Excellent consistency -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
+
+
+</instructions>
+"""
+Prompt4TemperalConsistency_test="""
+<instructions>
+            ### Task Description:
+            You are now an Video Evaluation Expert in evaluating generated videos and have super power to perceive the changes between frames.
+            During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
 
             ### Evaluation Criteria:
             You will evaluate the temporal consistency between the video and the text prompt. 

@@ -73,13 +73,13 @@
             "lavie": "action/lavie/A person is marching_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 2,
-            "gen3": 4,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -135,9 +135,9 @@
             "lavie": "action/lavie/A person is marching_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
+            "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 2,
+            "gen3": 3,
             "videocrafter2": 4,
             "pika": 3,
             "show1": 4,
@@ -260,12 +260,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 2,
+            "kling": 3,
             "gen3": 5,
             "videocrafter2": 3,
             "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -322,12 +322,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
+            "kling": 3,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 3,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -448,10 +448,10 @@
             "cogvideox5b": 4,
             "kling": 3,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 1,
             "show1": 4,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -508,12 +508,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
+            "kling": 3,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 3,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -632,12 +632,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 3,
-            "videocrafter2": 4,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -694,12 +694,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 1,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -817,13 +817,13 @@
             "lavie": "action/lavie/A person is stretching leg_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 2,
+            "cogvideox5b": 3,
             "kling": 2,
             "gen3": 4,
             "videocrafter2": 3,
-            "pika": 1,
-            "show1": 3,
-            "lavie": 2
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -879,13 +879,13 @@
             "lavie": "action/lavie/A person is stretching leg_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
+            "cogvideox5b": 3,
             "kling": 3,
-            "gen3": 3,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1004,12 +1004,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1066,12 +1066,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
+            "kling": 3,
             "gen3": 5,
             "videocrafter2": 3,
             "pika": 4,
-            "show1": 3,
-            "lavie": 1
+            "show1": 4,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1132,7 +1132,7 @@
             "gen3": 4,
             "videocrafter2": 3,
             "pika": 4,
-            "show1": 1,
+            "show1": 4,
             "lavie": 4
         },
         "human_anno": {
@@ -1190,12 +1190,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1251,13 +1251,13 @@
             "lavie": "action/lavie/A person is skydiving_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
+            "cogvideox5b": 4,
             "kling": 1,
             "gen3": 5,
             "videocrafter2": 4,
             "pika": 3,
-            "show1": 2,
-            "lavie": 3
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1376,12 +1376,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 3,
             "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1438,12 +1438,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1562,12 +1562,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 5,
-            "kling": 4,
-            "gen3": 5,
+            "kling": 5,
+            "gen3": 4,
             "videocrafter2": 3,
             "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1624,12 +1624,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1749,11 +1749,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 1
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1809,13 +1809,13 @@
             "lavie": "action/lavie/A person is laughing_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 4,
-            "gen3": 5,
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 4,
             "pika": 2,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1933,13 +1933,13 @@
             "lavie": "action/lavie/A person is digging_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
+            "cogvideox5b": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -1998,10 +1998,10 @@
             "cogvideox5b": 3,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2121,11 +2121,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 5,
             "kling": 3,
-            "gen3": 4,
-            "videocrafter2": 4,
-            "pika": 3,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 4,
             "show1": 4,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2183,11 +2183,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 4,
-            "videocrafter2": 3,
-            "pika": 3,
-            "show1": 4,
-            "lavie": 3
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2305,13 +2305,13 @@
             "lavie": "action/lavie/A person is shooting basketball_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
+            "cogvideox5b": 3,
             "kling": 2,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2368,12 +2368,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "show1": 2,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2491,13 +2491,13 @@
             "lavie": "action/lavie/A person is bending back_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
+            "cogvideox5b": 4,
             "kling": 1,
-            "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 2,
-            "lavie": 1
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 1,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2553,13 +2553,13 @@
             "lavie": "action/lavie/A person is bending back_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 2,
+            "cogvideox5b": 4,
+            "kling": 3,
             "gen3": 4,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 3,
-            "lavie": 1
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2679,11 +2679,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 2,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
             "show1": 3,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2739,12 +2739,12 @@
             "lavie": "action/lavie/A person is shaking hands_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 1,
+            "show1": 2,
             "lavie": 3
         },
         "human_anno": {
@@ -2864,12 +2864,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 4,
-            "lavie": 1
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -2927,11 +2927,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 5,
-            "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 3,
-            "show1": 4,
-            "lavie": 3
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3049,13 +3049,13 @@
             "lavie": "action/lavie/A person is throwing axe_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 2,
+            "cogvideox5b": 3,
             "kling": 4,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
-            "lavie": 1
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3111,13 +3111,13 @@
             "lavie": "action/lavie/A person is throwing axe_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 3,
-            "videocrafter2": 2,
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 4,
-            "lavie": 2
+            "show1": 3,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3237,9 +3237,9 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 2,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
             "show1": 4,
             "lavie": 3
         },
@@ -3299,11 +3299,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 1,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
             "show1": 2,
-            "lavie": 1
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3421,13 +3421,13 @@
             "lavie": "action/lavie/A person is planting trees_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3484,12 +3484,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 3,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3608,12 +3608,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3671,11 +3671,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3796,10 +3796,10 @@
             "cogvideox5b": 4,
             "kling": 3,
             "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 3,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3856,12 +3856,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -3979,13 +3979,13 @@
             "lavie": "action/lavie/A person is hula hooping_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4043,11 +4043,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4166,12 +4166,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4228,12 +4228,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 1,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4352,12 +4352,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 2,
-            "lavie": 3
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4414,12 +4414,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 2,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4538,12 +4538,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 4,
+            "kling": 3,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4600,12 +4600,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4724,10 +4724,10 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 3,
             "lavie": 3
         },
@@ -4785,13 +4785,13 @@
             "lavie": "action/lavie/A person is sword fighting_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 4,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -4910,10 +4910,10 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 2,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 4,
             "lavie": 3
         },
@@ -4972,12 +4972,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 2,
+            "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5098,10 +5098,10 @@
             "cogvideox5b": 4,
             "kling": 3,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5158,12 +5158,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 1,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5282,12 +5282,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
             "show1": 4,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5346,10 +5346,10 @@
             "cogvideox5b": 4,
             "kling": 3,
             "gen3": 5,
-            "videocrafter2": 2,
+            "videocrafter2": 4,
             "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5468,12 +5468,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 5,
+            "kling": 1,
+            "gen3": 4,
             "videocrafter2": 3,
             "pika": 4,
             "show1": 3,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5530,8 +5530,8 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 5,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 4,
@@ -5658,8 +5658,8 @@
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5715,13 +5715,13 @@
             "lavie": "action/lavie/A person is catching or throwing baseball_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 3,
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 3
+            "pika": 3,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5839,13 +5839,13 @@
             "lavie": "action/lavie/A person is dancing ballet_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 5,
+            "cogvideox5b": 3,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 4,
-            "lavie": 3
+            "pika": 4,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -5904,10 +5904,10 @@
             "cogvideox5b": 4,
             "kling": 3,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6026,8 +6026,8 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 2,
-            "gen3": 5,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 4,
             "pika": 4,
             "show1": 3,
@@ -6088,12 +6088,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6212,12 +6212,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6275,11 +6275,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6401,9 +6401,9 @@
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "pika": 3,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6459,13 +6459,13 @@
             "lavie": "action/lavie/A person is barbequing_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
+            "cogvideox5b": 3,
             "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6586,10 +6586,10 @@
             "cogvideox5b": 4,
             "kling": 2,
             "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 2
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 1,
+            "lavie": 1
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6646,12 +6646,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 3,
-            "videocrafter2": 2,
+            "kling": 1,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 2
+            "show1": 3,
+            "lavie": 1
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6770,12 +6770,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -6833,9 +6833,9 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 3,
             "lavie": 3
         },
@@ -6956,12 +6956,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 3,
-            "show1": 2,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7018,12 +7018,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 4,
-            "show1": 3,
-            "lavie": 3
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7084,7 +7084,7 @@
             "gen3": 4,
             "videocrafter2": 4,
             "pika": 4,
-            "show1": 1,
+            "show1": 4,
             "lavie": 4
         },
         "human_anno": {
@@ -7142,12 +7142,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7204,12 +7204,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 2,
             "show1": 4,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7329,11 +7329,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7393,9 +7393,9 @@
             "kling": 3,
             "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "pika": 3,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7514,12 +7514,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7576,12 +7576,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7700,12 +7700,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7762,12 +7762,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7885,13 +7885,13 @@
             "lavie": "action/lavie/A person drinking coffee in a cafe_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 2,
-            "gen3": 5,
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 2,
+            "pika": 3,
             "show1": 1,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -7949,11 +7949,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 2,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 3,
+            "pika": 4,
             "show1": 1,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8072,12 +8072,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 3,
-            "gen3": 4,
-            "videocrafter2": 2,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 2
+            "kling": 1,
+            "gen3": 3,
+            "videocrafter2": 1,
+            "pika": 1,
+            "show1": 1,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8135,11 +8135,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 1,
             "kling": 1,
-            "gen3": 1,
+            "gen3": 3,
             "videocrafter2": 1,
-            "pika": 2,
+            "pika": 3,
             "show1": 1,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8259,9 +8259,9 @@
         "gpt4o_eval": {
             "cogvideox5b": 1,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "gen3": 3,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 3,
             "lavie": 3
         },
@@ -8319,13 +8319,13 @@
             "lavie": "action/lavie/A bicycle gliding through a snowy field_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 5,
+            "cogvideox5b": 3,
+            "kling": 4,
             "gen3": 4,
             "videocrafter2": 2,
             "pika": 1,
-            "show1": 2,
-            "lavie": 3
+            "show1": 3,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8443,13 +8443,13 @@
             "lavie": "action/lavie/A car stuck in traffic during rush hour_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 2,
-            "kling": 4,
-            "gen3": 3,
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 3
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8506,11 +8506,11 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 3,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 2,
             "pika": 2,
-            "show1": 3,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -8629,13 +8629,13 @@
             "lavie": "action/lavie/A car turning a corner_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 2,
-            "gen3": 2,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 3,
-            "lavie": 3
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8692,12 +8692,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 3,
-            "videocrafter2": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 2,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8816,12 +8816,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -8878,12 +8878,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9002,12 +9002,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 4,
             "show1": 5,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9064,12 +9064,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 4,
-            "pika": 2,
+            "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9187,13 +9187,13 @@
             "lavie": "action/lavie/An airplane soaring through a clear blue sky_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 2,
-            "kling": 3,
-            "gen3": 4,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 2
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 1,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9250,12 +9250,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 2,
-            "gen3": 4,
-            "videocrafter2": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 4,
             "pika": 2,
             "show1": 2,
-            "lavie": 1
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9375,11 +9375,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 2,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 1,
             "show1": 3,
-            "lavie": 1
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9436,12 +9436,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 2,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9561,11 +9561,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 3,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
             "show1": 3,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9621,13 +9621,13 @@
             "lavie": "action/lavie/A bus turning a corner_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 2,
+            "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
+            "gen3": 4,
             "videocrafter2": 3,
             "pika": 4,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9746,12 +9746,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 3
+            "show1": 1,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9808,12 +9808,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 1,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
             "show1": 3,
-            "lavie": 4
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9932,12 +9932,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 4,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -9994,10 +9994,10 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 3,
             "lavie": 1
         },
@@ -10119,11 +10119,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 3,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10182,10 +10182,10 @@
             "cogvideox5b": 3,
             "kling": 4,
             "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 3,
-            "show1": 2,
-            "lavie": 2
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10304,9 +10304,9 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 4,
             "lavie": 2
@@ -10368,10 +10368,10 @@
             "cogvideox5b": 3,
             "kling": 4,
             "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10489,13 +10489,13 @@
             "lavie": "action/lavie/A truck anchored in a tranquil bay_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
+            "cogvideox5b": 3,
             "kling": 1,
-            "gen3": 5,
+            "gen3": 2,
             "videocrafter2": 3,
             "pika": 1,
-            "show1": 2,
-            "lavie": 2
+            "show1": 1,
+            "lavie": 1
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10552,12 +10552,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 2,
-            "gen3": 4,
-            "videocrafter2": 1,
+            "kling": 1,
+            "gen3": 2,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 2
+            "show1": 1,
+            "lavie": 1
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10675,12 +10675,12 @@
             "lavie": "action/lavie/A boat sailing smoothly on a calm lake_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 4,
+            "cogvideox5b": 4,
+            "kling": 5,
             "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
             "lavie": 3
         },
         "human_anno": {
@@ -10738,12 +10738,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 5,
-            "kling": 3,
-            "gen3": 3,
+            "kling": 5,
+            "gen3": 5,
             "videocrafter2": 4,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 1
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10862,12 +10862,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 3,
-            "show1": 1,
-            "lavie": 2
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -10924,12 +10924,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 2
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11047,13 +11047,13 @@
             "lavie": "action/lavie/A cat grooming itself meticulously with its tongue_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
-            "lavie": 1
+            "show1": 4,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11110,11 +11110,11 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
+            "show1": 3,
             "lavie": 3
         },
         "human_anno": {
@@ -11234,12 +11234,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 5,
+            "kling": 3,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "pika": 3,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11296,12 +11296,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11420,10 +11420,10 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 4,
+            "pika": 3,
             "show1": 4,
             "lavie": 1
         },
@@ -11482,12 +11482,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11606,12 +11606,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
+            "kling": 3,
             "gen3": 5,
-            "videocrafter2": 4,
-            "pika": 1,
-            "show1": 4,
-            "lavie": 3
+            "videocrafter2": 5,
+            "pika": 2,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11667,13 +11667,13 @@
             "lavie": "action/lavie/A dog running happily_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 2,
-            "show1": 4,
-            "lavie": 3
+            "pika": 3,
+            "show1": 5,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11791,12 +11791,12 @@
             "lavie": "action/lavie/A horse bending down to drink water from a river_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 4,
+            "cogvideox5b": 4,
+            "kling": 5,
             "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 4,
             "lavie": 4
         },
         "human_anno": {
@@ -11855,11 +11855,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 2,
             "kling": 4,
-            "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -11981,9 +11981,9 @@
             "kling": 5,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12039,13 +12039,13 @@
             "lavie": "action/lavie/A horse galloping across an open field_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 4,
+            "cogvideox5b": 4,
+            "kling": 5,
             "gen3": 5,
             "videocrafter2": 4,
-            "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12164,12 +12164,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 2,
+            "videocrafter2": 4,
             "pika": 3,
             "show1": 4,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12228,10 +12228,10 @@
             "cogvideox5b": 4,
             "kling": 4,
             "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 1
+            "videocrafter2": 3,
+            "pika": 1,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12349,12 +12349,12 @@
             "lavie": "action/lavie/A cow chewing cud while resting in a tranquil barn_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
-            "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 2,
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
+            "show1": 3,
             "lavie": 1
         },
         "human_anno": {
@@ -12412,12 +12412,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
+            "kling": 4,
+            "gen3": 4,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
-            "lavie": 2
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12536,12 +12536,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12598,12 +12598,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
             "show1": 4,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12722,12 +12722,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 4
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 5
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12784,12 +12784,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 3,
-            "lavie": 2
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12908,12 +12908,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -12971,11 +12971,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 3,
-            "gen3": 5,
-            "videocrafter2": 2,
-            "pika": 3,
-            "show1": 2,
-            "lavie": 3
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 1
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13093,13 +13093,13 @@
             "lavie": "action/lavie/A zebra bending down to drink water from a river_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 4,
             "kling": 4,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13156,12 +13156,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 3,
-            "videocrafter2": 2,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13280,12 +13280,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
-            "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 2,
-            "lavie": 1
+            "kling": 4,
+            "gen3": 2,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 1,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13342,11 +13342,11 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 3,
             "videocrafter2": 2,
             "pika": 3,
-            "show1": 2,
+            "show1": 1,
             "lavie": 1
         },
         "human_anno": {
@@ -13467,11 +13467,11 @@
         "gpt4o_eval": {
             "cogvideox5b": 4,
             "kling": 2,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 2,
+            "gen3": 4,
+            "videocrafter2": 2,
+            "pika": 3,
             "show1": 3,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13527,13 +13527,13 @@
             "lavie": "action/lavie/A person is brushing teeth_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 1,
+            "cogvideox5b": 4,
+            "kling": 2,
             "gen3": 4,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 3
+            "show1": 3,
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13651,13 +13651,13 @@
             "lavie": "action/lavie/A person is crawling baby_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 5,
-            "kling": 2,
+            "cogvideox5b": 4,
+            "kling": 1,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 4,
-            "show1": 5,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13714,12 +13714,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 3,
-            "videocrafter2": 3,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 4,
             "pika": 3,
-            "show1": 2,
-            "lavie": 2
+            "show1": 3,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13837,13 +13837,13 @@
             "lavie": "action/lavie/A person is sticking tongue out_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
-            "gen3": 2,
-            "videocrafter2": 2,
-            "pika": 1,
-            "show1": 1,
-            "lavie": 1
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -13899,13 +13899,13 @@
             "lavie": "action/lavie/A person is sticking tongue out_2.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
-            "kling": 3,
+            "cogvideox5b": 3,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 1
+            "show1": 3,
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14023,12 +14023,12 @@
             "lavie": "action/lavie/A person is shaking head_1.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 4,
+            "cogvideox5b": 3,
             "kling": 2,
-            "gen3": 3,
+            "gen3": 2,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 4,
+            "pika": 3,
+            "show1": 3,
             "lavie": 1
         },
         "human_anno": {
@@ -14086,12 +14086,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 1,
-            "gen3": 2,
+            "kling": 2,
+            "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 2,
-            "lavie": 1
+            "lavie": 2
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14212,10 +14212,10 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 4,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 2,
-            "lavie": 2
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14272,12 +14272,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 3,
-            "kling": 4,
+            "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
-            "lavie": 1
+            "show1": 3,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14396,12 +14396,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 5,
+            "kling": 4,
             "gen3": 4,
-            "videocrafter2": 3,
+            "videocrafter2": 4,
             "pika": 3,
-            "show1": 3,
-            "lavie": 2
+            "show1": 4,
+            "lavie": 3
         },
         "human_anno": {
             "cogvideox5b": [
@@ -14458,12 +14458,12 @@
         },
         "gpt4o_eval": {
             "cogvideox5b": 4,
-            "kling": 2,
-            "gen3": 5,
-            "videocrafter2": 3,
-            "pika": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
             "show1": 4,
-            "lavie": 3
+            "lavie": 4
         },
         "human_anno": {
             "cogvideox5b": [
