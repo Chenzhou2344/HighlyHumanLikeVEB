@@ -26,16 +26,6 @@ Prompt4Overconsistency = """
             2.All videos will be input at a rate of 2 frames per second. Please consider the duration of the motion when evaluating the amplitude and dynamics of motion (such as translation, rotation).
             3.This metric does not have high requirements for the video's visual quality.Excellent visual quality is not a necessary condition for a high score.
 
-            ### The Output Format:
-            For the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 4 videos input, the format is:
-            Final Scores:
-            - A: x ,because ...
-            - B: y ,because ...
-            - C: z ,because ...
-            - D: w ,because ...            
-            
-            How many score lines in this format is up to how many videos input.
 
             ### Evaluation Steps:
             Follow the following steps strictly while giving the response:
@@ -78,20 +68,7 @@ Prompt4Color = """
                 -Condition 5: Similarity (e.g., pink instead of purple).
             3.  Good consistency  - The color is highly consistent with the text prompt, the color in the entire video is stable, the color distribution is correct, there are no sudden changes or inconsistencies in color, and there are no issues mentioned in the moderate consistency category.
 
-            ### The Output Format:
-            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
-            <output format>
-            Final Scores:
-            - A: x ,because ...
-            </output format>
-                
-            <example>
-            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-            Final Scores:
-            - gen2: 3 , because ...
-            </example>
-                
+
             ### Evaluation Steps
             1. **Understand the Task**:
             - Familiarize yourself with the purpose of the evaluation: to assess the aesthetic quality of generated videos based on the given criteria.
@@ -147,19 +124,6 @@ Prompt4Object_class = """
             3. Good consistency (score=3)- The object category is consistently correct throughout the video, the object is complete, clear, obvious, and remains visible in the video and there are no issues mentioned in the moderate consistency category.
 
 
-            ### The Output Format:
-            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
-            <output format>
-            Final Scores:
-            - A: x ,because ...
-            </output format>
-                
-            <example>
-            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-            Final Scores:
-            - gen2: 3 , because ...
-            </example>
 """
 
 
@@ -189,26 +153,7 @@ Prompt4Scene = """
         - Highlighting only specific features in close-up (e.g., a bakery showing only bread;a laboratory showing tubes).
         - Similarity to the scene but lacking complete accuracy.  
         3. **Good Consistency (score=3)**: The scene is clearly identifiable and matches human understanding of the objective world.
-       
-        ### Output Format:
-        After evaluating, provide the scores along with your reasoning for each video. Specify which video corresponds to each score using descriptive labels.
-        For four videos, the format is:
-        A, B, C, D are the names of the video-generated models, and x, y, z, w are the scores assigned to each video.
 
-
-        ### The Output Format:
-        Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-        Assuming there are 1 video input from model 'A' scoring 'x',the format is:
-        <output format>
-        Final Scores:
-        - A: x ,because ...
-        </output format>
-            
-        <example>
-        Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-        Final Scores:
-        - gen2: 3 , because ...
-        </example>
 
         ### Evaluation Steps
 
@@ -275,19 +220,6 @@ Prompt4Action = """
         3. **Good Consistency (score = 3)**: The action is fully consistent with the prompt, with no identified issues.
         
 
-        ### The Output Format:
-        Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-        Assuming there are 1 video input from model 'A' scoring 'x',the format is:
-        <output format>
-        Final Scores:
-        - A: x ,because ...
-        </output format>
-            
-        <example>
-        Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-        Final Scores:
-        - gen2: 3 , because ...
-        </example>
 
         ### Evaluation Steps
 
@@ -413,6 +345,12 @@ Prompt4Motioneffects="""
             4: Good effects - The action can be recognized and the motion trajectories and dynamic blur are mostly coherent,but there are some parts of the motion is unnatural and does not conform to the human subjective understanding of changes in the objective world.
             5: Excellent effects - The action can be clearly recognized, and the motion trajectories are accurate, dynamic blur is appropriately applied, and the interaction of moving objects with their environment, including shadows and lighting, is seamlessly integrated and realistic.
            
+
+
+</instructions>
+"""
+
+extra_motion="""
                 
 
             ### The Output Format:
@@ -440,10 +378,7 @@ Prompt4Motioneffects="""
                 Whether the dynamic blur associated with the motion of objects is coherent with the speed and direction of the movement.
                 Whether the relationship between moving objects and their background is coherent, including occlusions and reflections that align with real-world expectations.
                 Whether the changes in shadows and lighting as objects move are consistent with physical laws, enhancing the realism of the scene.
-            6. Display the results in the specified 'Output Format'.
-
-</instructions>
-"""
+            6. Display the results in the specified 'Output Format'."""
 
 Prompt4TemperalConsistency="""
 <instructions>
