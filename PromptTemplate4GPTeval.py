@@ -205,21 +205,26 @@ Prompt4Action = """
         Action consistency involves:
         1. **Recognizability**: Can the action described in the text be identified in the video?
         2. **Realism**: Do the appearance and process of the actions align with objective reality and human understanding?  
-        
-        ### Important Notes:
-        1. Watermarks in the video should not negatively impact your evaluation.  
-        2. Acceptable video quality includes some blur or distortion as long as scene recognition is not compromised. 
-        3. Focus on action consistency, without needing to evaluate dynamic performance or motion effects.
+    
+        ###Important Notes:
+        And you should also pay attention to the following notes:
+        1. You only need to pay attention to the action of the subject in the video, not the number of subjects.
+        2. If the text prompt contains multiple actions, determine whether the subject in the video has completed all of them.
+        3. The style of the video should not be a negative factor in the evaluation.
 
 
-        ### Scoring Range:
-        1. **Poor Consistency (score = 1)**: The action is unrecognizable or incorrect, making it impossible to identify or is erroneous.  
-        2. **Moderate Consistency (score = 2)**: The action is recognizable but has issues, such as:
-        - Significant deviation from reality in appearance or process.
-        - Incomplete action, shown only partially in terms of perspective or timing.  
-        3. **Good Consistency (score = 3)**: The action is fully consistent with the prompt, with no identified issues.
-        
+        ### Scoring Range
+        Then based on the above considerations, you need to assign a specific score from 1 to 3 for each video(from 1 to 3, with 3 being the highest quality,using increments of 1) according to the 'Scoring Range':
 
+        1. Poor consistency - The subject's action does not match the text prompt at all, or the subject's action is not recognized, or the subject in the text prompt does not appear.
+        2. Moderate consistency - The main subject’s action is barely recognizable but imperfectly generated, specifically meeting one or more of the following conditions:
+            - Condition 1 : The main subject's action is incomplete and does not fully perform the action in the text prompt.
+            - Condition 2 : The main subject’s action has significant deviations in appearance or process compared to the real action, making it distorted and hard to recognize.
+            - Condition 3 : The subject's action changes into another action that is inconsistent with the action in the text prompt.
+            - Condition 4 : A similar action is generated, such as marching instead of parading.
+            - Condition 5 : The subject in the video did not complete all of the actions in the text prompt, but only partially completed them
+        3.  Good consistency  - The action fully aligns with the text prompt, is accurate, complete, and clearly recognizable, without any abrupt changes in the action.
+                
 
         ### Evaluation Steps
 
