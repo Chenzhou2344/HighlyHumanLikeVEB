@@ -6,12 +6,10 @@ Prompt4Overconsistency = """
             During the evaluation, you must strictly adhere to 'Evaluation Criteria'.
 
             ### Evaluation Criteria:
-            You are required to evaluate the overall consistency between the videos and the text prompt.
-            Overall consistency refers to the consistency in content and style between the video and the provided text prompt.
-            You should focus on the changes between frames to perceive the degree of motion when motion mentioned in the text prompt.
-            About how to evaluate this metric,onsider the following:
-            1. Whether the video displays all core elements mentioned in the text prompt.(Core elements includes human,animal,action,object,scene,style,spatial relation,number relation and so on.) 
-            2. Whether the imaging quality of the video interferes with your understanding of this video.
+            You need to evaluate the overall consistency between the video and the text prompt. Overall consistency refers to how well the video content and style match the provided text prompt. 
+            When evaluating this metric, consider the following:
+            1. What are the core elements included in a text prompt? (Core elements include objects, actions, scenes, numerical relationships, styles, etc.)
+            2. Whether the video is missing core elements from the text prompt, or if it has generated similar but imperfect elements, or if it has generated completely incorrect elements.
 
             ### Scoring Range
             You need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) based strictly on the 'Evaluation Criteria':
