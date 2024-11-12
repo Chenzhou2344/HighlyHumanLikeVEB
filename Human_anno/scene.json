@@ -71,6 +71,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -293,6 +302,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 0.8125
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -515,6 +533,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -737,6 +764,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -959,6 +995,15 @@
             "pika": 0.5,
             "show1": 0.90625,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -1181,6 +1226,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -1403,6 +1457,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -1625,6 +1688,15 @@
             "pika": 1.0,
             "show1": 0.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -1847,6 +1919,15 @@
             "pika": 0.1875,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -2069,6 +2150,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -2291,6 +2381,15 @@
             "pika": 0.0,
             "show1": 0.1875,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -2513,6 +2612,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -2735,6 +2843,15 @@
             "pika": 1.0,
             "show1": 0.3125,
             "lavie": 0.625
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -2957,6 +3074,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -3179,6 +3305,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -3401,6 +3536,15 @@
             "pika": 0.0,
             "show1": 0.90625,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -3623,6 +3767,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -3845,6 +3998,15 @@
             "pika": 0.21875,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -4067,6 +4229,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -4289,6 +4460,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -4511,6 +4691,15 @@
             "pika": 0.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -4733,6 +4922,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -4955,6 +5153,15 @@
             "pika": 0.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -5177,6 +5384,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.9375
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -5399,6 +5615,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -5621,6 +5846,15 @@
             "pika": 0.0,
             "show1": 0.5,
             "lavie": 0.1875
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -5843,6 +6077,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -6065,6 +6308,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -6287,6 +6539,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -6509,6 +6770,15 @@
             "pika": 1.0,
             "show1": 0.0,
             "lavie": 0.8125
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -6731,6 +7001,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -6953,6 +7232,15 @@
             "pika": 0.0,
             "show1": 0.59375,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -7175,6 +7463,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -7397,6 +7694,15 @@
             "pika": 0.0,
             "show1": 1.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -7619,6 +7925,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -7841,6 +8156,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -8063,6 +8387,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -8285,6 +8618,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -8507,6 +8849,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -8729,6 +9080,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -8951,6 +9311,15 @@
             "pika": 0.625,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -9173,6 +9542,15 @@
             "pika": 0.0,
             "show1": 1.0,
             "lavie": 0.4375
+        },
+        "combench_style": {
+            "cogvideox5b": 2,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -9395,6 +9773,15 @@
             "pika": 0.28125,
             "show1": 1.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -9617,6 +10004,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 0.1875
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -9839,6 +10235,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -10061,6 +10466,15 @@
             "pika": 0.0,
             "show1": 0.90625,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -10283,6 +10697,15 @@
             "pika": 0.0,
             "show1": 0.3125,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -10505,6 +10928,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -10727,6 +11159,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -10949,6 +11390,15 @@
             "pika": 0.59375,
             "show1": 0.8125,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -11171,6 +11621,15 @@
             "pika": 1.0,
             "show1": 0.71875,
             "lavie": 0.375
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -11393,6 +11852,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -11615,6 +12083,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 1
         }
     },
     {
@@ -11837,6 +12314,15 @@
             "pika": 1.0,
             "show1": 0.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 1,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -12059,6 +12545,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -12281,6 +12776,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -12503,6 +13007,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2
         }
     },
     {
@@ -12725,6 +13238,15 @@
             "pika": 1.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -12947,6 +13469,15 @@
             "pika": 1.0,
             "show1": 0.59375,
             "lavie": 0.75
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -13169,6 +13700,15 @@
             "pika": 1.0,
             "show1": 0.40625,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 1,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -13391,6 +13931,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -13613,6 +14162,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -13835,6 +14393,15 @@
             "pika": 0.0,
             "show1": 0.40625,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 1,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -14057,6 +14624,15 @@
             "pika": 0.28125,
             "show1": 0.90625,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -14279,6 +14855,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -14501,6 +15086,15 @@
             "pika": 0.78125,
             "show1": 0.03125,
             "lavie": 0.8125
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 1,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -14723,6 +15317,15 @@
             "pika": 1.0,
             "show1": 0.28125,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -14945,6 +15548,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 1
         }
     },
     {
@@ -15167,6 +15779,15 @@
             "pika": 1.0,
             "show1": 0.46875,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -15389,6 +16010,15 @@
             "pika": 0.0,
             "show1": 0.1875,
             "lavie": 0.375
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -15611,6 +16241,15 @@
             "pika": 0.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 1,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -15833,6 +16472,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -16055,6 +16703,15 @@
             "pika": 0.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -16277,6 +16934,15 @@
             "pika": 0.625,
             "show1": 0.625,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -16499,6 +17165,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -16721,6 +17396,15 @@
             "pika": 0.625,
             "show1": 0.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 1,
+            "lavie": 3
         }
     },
     {
@@ -16943,6 +17627,15 @@
             "pika": 1.0,
             "show1": 0.90625,
             "lavie": 0.9375
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 2,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -17165,6 +17858,15 @@
             "pika": 0.1875,
             "show1": 1.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -17387,6 +18089,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -17609,6 +18320,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -17831,6 +18551,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -18053,6 +18782,15 @@
             "pika": 0.0,
             "show1": 0.0,
             "lavie": 0.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -18275,6 +19013,15 @@
             "pika": 0.0,
             "show1": 1.0,
             "lavie": 0.4375
+        },
+        "combench_style": {
+            "cogvideox5b": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -18497,6 +19244,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -18719,6 +19475,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
@@ -18941,6 +19706,15 @@
             "pika": 1.0,
             "show1": 1.0,
             "lavie": 1.0
+        },
+        "combench_style": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3
         }
     },
     {
