@@ -772,5 +772,1553 @@
         "pika": "The frames depict a windmill against a clear blue sky with scattered clouds and a bright sun.",
         "show1": "The frames depict a wind turbine rotating against a clear evening sky, with a silhouette on the horizon.",
         "lavie": "The frames show a windmill with rotating blades against a clear blue sky, featuring a tall metal structure."
+    },
+    "1": {
+        "cogvideox5b": "A cobblestone alley with ivy-covered brick walls, hanging plants, and street lamps. A black cat walks through.",
+        "kling": "Narrow alleyway with tall buildings, closed windows, doors, trash bins, and a distant blue barrier under clear daylight.",
+        "gen3": "A person walks down a narrow, dimly lit alley with brick walls, debris, and a distant tower in the background.",
+        "videocrafter2": "Narrow alleyway with brick and concrete walls, overhead cables, greenery above, and a smooth, slightly worn path.",
+        "pika": "The frames depict a serene, sunlit street with colorful houses, lush greenery, and a clear sky with fluffy clouds.",
+        "show1": "The frames depict a narrow, empty street with tall buildings, muted colors, and shadows, creating a quiet, urban atmosphere.",
+        "lavie": "The frames depict a narrow, dimly lit alleyway with high walls, small windows, and a cobblestone path."
+    },
+    "4": {
+        "cogvideox5b": "The frames depict a vibrant amusement park at night with a Ferris wheel, roller coaster, carousel, and colorful lights.",
+        "kling": "The frames show a busy amusement park with a large Ferris wheel, various rides, and many people walking around.",
+        "gen3": "The frames depict a vibrant amusement park at sunset, featuring roller coasters, a carousel, and people enjoying rides.",
+        "videocrafter2": "The frames depict a vibrant amusement park with Ferris wheels, colorful tents, rides, and surrounding greenery.",
+        "pika": "The frames depict a colorful amusement park ride with vibrant structures, railings, and a canopy, featuring whimsical designs.",
+        "show1": "The frames depict a nighttime amusement park with a Ferris wheel, roller coaster, and swing ride, reflected in water.",
+        "lavie": "The frames show a colorful amusement park with a spinning ride, Ferris wheel, and roller coaster against a clear sky."
+    },
+    "7": {
+        "cogvideox5b": "The frames depict a vibrant underwater scene with colorful coral reefs, various fish species, and a sea turtle.",
+        "kling": "The frames show a large aquarium with colorful fish, blue water, sandy bottom, and two rock formations.",
+        "gen3": "The frames depict a vibrant aquarium with colorful fish, coral reefs, clear blue water, and diverse marine life.",
+        "videocrafter2": "The frames show a vibrant aquarium with colorful fish, green and orange coral, pink coral, and rocks.",
+        "pika": "The frames depict a vibrant aquarium with colorful coral, a large fish, a small blue fish, and sandy substrate.",
+        "show1": "The frames depict an underwater aquarium scene with various fish, a textured wall, and a tiled floor.",
+        "lavie": "The frames depict an underwater scene with rocks, green plants, and small fish swimming in a blue-lit aquarium."
+    },
+    "10": {
+        "cogvideox5b": "The frames depict a stone archway with intricate carvings, surrounded by lush green foliage and trees under bright sunlight.",
+        "kling": "The frames show a stone archway with intricate carvings, viewed from below against a clear blue sky.",
+        "gen3": "The frames depict a rocky archway with a desert landscape, mountains, and a bright sun, transitioning to a bird flying overhead.",
+        "videocrafter2": "The frames show a stone archway over a tree-lined pathway, with grass and trees on both sides.",
+        "pika": "The frames depict an ornate, domed ceiling with intricate patterns, arched windows, and decorative details, viewed from below.",
+        "show1": "The frames depict a rocky desert landscape with unique formations, under a clear blue sky and bright sunlight.",
+        "lavie": "The frames depict a stone archway with textured walls, surrounded by greenery, leading to a view of trees beyond."
+    },
+    "13": {
+        "cogvideox5b": "The frames depict an art gallery with wooden floors, white walls, various paintings, spotlights, and several visitors observing the artwork.",
+        "kling": "Art gallery with red carpet, sculptures, paintings, ornate furniture, ceiling fans, and visitors observing the exhibits.",
+        "gen3": "The frames depict an art gallery with paintings, wooden floors, white walls, ceiling lights, and people walking.",
+        "videocrafter2": "The frames depict an art gallery with paintings on white walls, track lighting, and a polished floor.",
+        "pika": "The frames depict a gallery with blue walls, classical architecture, columns, paintings, and a bright ceiling with spotlights.",
+        "show1": "The frames show a gallery wall with six paintings in various sizes and styles, all in dark frames.",
+        "lavie": "The frames show six abstract paintings in black frames on a white wall, with reflections on a glossy floor."
+    },
+    "16": {
+        "cogvideox5b": "The frames show a modern bathroom with a freestanding tub, stacked towels, large window, floating vanity, and illuminated mirror.",
+        "kling": "The frames show a bathroom with a marble sink, mirror, shower, beige walls, artwork, and towels.",
+        "gen3": "The frames show a modern bathroom with a glass shower, tiled walls, a large mirror, and a sleek white sink.",
+        "videocrafter2": "The frames show a green-tiled bathroom with a sink, mirror, toilet, and a chrome towel rack.",
+        "pika": "The frames depict a bathroom with a double sink, checkered backsplash, large mirror, teal cabinets, and neatly folded towels.",
+        "show1": "The frames show a bathroom with a bathtub, shower, toilet, towel rack, and marble tiles. The lighting is soft.",
+        "lavie": "The frames depict a small bathroom with beige tiles, a sink, a mirror, a toilet, and overhead lighting."
+    },
+    "19": {
+        "cogvideox5b": "The frames show a bakery display with various pastries, including croissants, and a person in a white apron.",
+        "kling": "The frames show a bakery with shelves of bread, tables, chairs, and large windows in a bright setting.",
+        "gen3": "The frames depict a bakery with shelves of bread, cake decoration, and pastries in a display case.",
+        "videocrafter2": "The frames depict a bakery interior with various bread displays, warm lighting, tiled floor, and a \"Bakery\" sign.",
+        "pika": "The frames show a bakery display with various pastries, including a chocolate-covered treat, buns, and bread rolls.",
+        "show1": "The frames show a bakery display with various pastries and bread on multiple shelves, including rolls and sweet treats.",
+        "lavie": "The frames show multiple shelves filled with freshly baked bread rolls, arranged neatly on metal racks."
+    },
+    "22": {
+        "cogvideox5b": "Elegant ballroom dance with couples in formal attire, chandeliers, ornate decor, and musicians in the background.",
+        "kling": "A grand ballroom with chandeliers, elegant decor, and an audience watching a couple dancing on a large, illuminated floor.",
+        "gen3": "Luxurious hall with ornate columns, chandeliers, red carpet, gold accents, draped curtains, floral arrangements, and intricate ceiling design.",
+        "videocrafter2": "The frames depict an elegant banquet hall with chandeliers, draped tables, soft lighting, and large windows.",
+        "pika": "The frames depict an opulent hallway with a grand chandelier, ornate gold details, mirrored doors, and a red carpet.",
+        "show1": "The frames depict a dimly lit, symmetrical hallway with chandeliers, reflective flooring, and dark walls, creating an elegant ambiance.",
+        "lavie": "The frames depict an opulent ballroom with grand chandeliers, marble floors, and elegant drapery, exuding luxury and sophistication."
+    },
+    "25": {
+        "cogvideox5b": "A dimly lit bar with hanging lights, a bartender mixing drinks, and patrons seated at the counter.",
+        "kling": "The frames depict a cozy bar with wooden stools, a well-stocked backlit shelf, pendant lights, and a neon sign.",
+        "gen3": "Dimly lit bar with wooden decor, bottles on shelves, stools, hanging lamps, patrons seated, and a neon \"LINKS\" sign.",
+        "videocrafter2": "The frames depict a bar with shelves full of various liquor bottles, a counter, and warm lighting.",
+        "pika": "The frames show a vintage-style \"Bar Bar\" sign with ornate woodwork and warm lighting in the background.",
+        "show1": "The frames depict a dimly lit bar with shelves of bottles, a counter, bar stools, and hanging lights.",
+        "lavie": "The frames show a close-up of a glass with swirling smoke inside, set against a warm, dimly lit background."
+    },
+    "28": {
+        "cogvideox5b": "The frames depict a red barn at sunrise, surrounded by hay bales and a misty field, viewed through a wooden structure.",
+        "kling": "The frames show a wooden barn with a metal roof, open door, and adjacent fenced grassy field under a cloudy sky.",
+        "gen3": "Sunset over a rural landscape with a barn, tractor, and flock of birds flying across the sky.",
+        "videocrafter2": "The frames show a wooden fence in front of a barn, with green grass and trees in the background.",
+        "pika": "The frames depict a serene lakeside scene at sunrise, featuring a wooden building, calm water, mist, and silhouetted trees.",
+        "show1": "The frames show a red barn with a rusted roof on a grassy field, under a clear sky.",
+        "lavie": "The frames show a red barn in a grassy field with trees in the background under a clear sky."
+    },
+    "31": {
+        "cogvideox5b": "The frames depict a dimly lit, cluttered room with cobwebs, an armchair, clocks, and a mysterious, eerie atmosphere.",
+        "kling": "The frames show a small, carpeted room with wooden paneling, low ceiling, and recessed lighting.",
+        "gen3": "Dimly lit basement with shelves, stairs leading to a bright exit, peeling walls, scattered items, and atmospheric light beams.",
+        "videocrafter2": "The frames depict a dimly lit, tiled room with cracked walls, a purple light, and a small object on the floor.",
+        "pika": "The frames depict a dimly lit hallway with a chandelier, two armchairs, red cushions, and framed artwork on the wall.",
+        "show1": "The frames depict a dimly lit, empty room with a concrete floor, metal table, and striped curtain on the right.",
+        "lavie": "The frames depict a dimly lit, narrow brick corridor with a flat ceiling and recessed lighting, featuring a side doorway."
+    },
+    "34": {
+        "cogvideox5b": "Sunny beach scene with blue sky, ocean, sailboat, seagulls, palm trees, colorful umbrella, flip-flops, and towel on sand.",
+        "kling": "The frames depict a sunny beach with people, clear blue water, a boat, and a distant shoreline.",
+        "gen3": "Golden beach at sunset, palm trees, gentle waves, birds flying, serene atmosphere, distant hills, warm sunlight, lens flare.",
+        "videocrafter2": "The frames show a sandy beach with waves, footprints, and a person lying on the sand near the shoreline.",
+        "pika": "The frames depict a serene beach at sunset with palm trees, golden sand, ocean waves, and a vibrant sky.",
+        "show1": "The frames depict a serene beach with golden sand, turquoise water, gentle waves, and a clear blue sky.",
+        "lavie": "The frames depict a serene beach scene with clear blue sky, turquoise ocean waves, and sandy shore."
+    },
+    "37": {
+        "cogvideox5b": "The frames show a cozy bedroom with blue walls, a white bed, sheer curtains, wooden dresser, and soft lighting.",
+        "kling": "The frames depict a cozy bedroom with a large bed, wooden furniture, lamps, a ceiling light, and a window.",
+        "gen3": "The frames show a sunlit room with wooden floors, sheer curtains, a wooden desk, a lamp, and a wall painting.",
+        "videocrafter2": "A modern bedroom with a large bed, nightstands, a dresser, a rug, and a window with sheer curtains.",
+        "pika": "A cozy bedroom with a bed, patterned blanket, two lamps, three framed artworks, and a chair against paneled walls.",
+        "show1": "The frames show a neatly made bed with white bedding, gray headboard, wooden floor, and minimalistic decor in a bedroom.",
+        "lavie": "The frames show a minimalistic bedroom with a bed, white bedding, a lamp, a window, and beige walls."
+    },
+    "40": {
+        "cogvideox5b": "The frames depict a stone bridge over a river, surrounded by lush greenery, with a vibrant sunset sky.",
+        "kling": "The frames depict a sunset over a bridge, with mountains, trees, and a river reflecting the sky's colors.",
+        "gen3": "The frames depict a suspension bridge over a river, with a city skyline and tall buildings at sunset.",
+        "videocrafter2": "The frames show a stone bridge over a calm river, surrounded by lush green trees and a clear sky.",
+        "pika": "The frames depict a suspension bridge with red railings, blue sky, white clouds, and green foliage below.",
+        "show1": "The frames show a cable-stayed bridge over calm water, with moving vehicles and a partly cloudy sky.",
+        "lavie": "The frames show a concrete bridge over a river, surrounded by lush green trees and dense vegetation."
+    },
+    "43": {
+        "cogvideox5b": "Lush tropical garden with vibrant flowers, dense greenery, stone path, sunlight filtering through trees, and a butterfly.",
+        "kling": "The frames depict a lush, vibrant garden with diverse flowers, greenery, and a reflective pond, creating a serene landscape.",
+        "gen3": "The frames depict a vibrant garden with colorful flowers, lush greenery, and a pond featuring a koi fish.",
+        "videocrafter2": "The frames depict a symmetrical garden with vibrant flowers, manicured hedges, a central pathway, and a fountain.",
+        "pika": "The frames depict a close-up of a red flower bud with green leaves against a dark, leafy background.",
+        "show1": "The frames depict a lush garden with vibrant green foliage, neatly trimmed bushes, and a winding pathway.",
+        "lavie": "The frames depict a lush garden with vibrant green and red foliage, neatly arranged bushes, and a stone pathway."
+    },
+    "46": {
+        "cogvideox5b": "A cozy caf\u00e9 with people sitting and chatting, warm lighting, wooden chairs, tables, and a pastry display.",
+        "kling": "A table with plates, glasses, lemons, sliced cucumbers, mixed salads, and various fruits on a red tablecloth.",
+        "gen3": "The frames depict a busy cafeteria with people carrying trays of food, large windows, and tables filled with diners.",
+        "videocrafter2": "The frames depict an empty cafeteria with red tables and chairs, yellow walls, and a stainless steel serving area.",
+        "pika": "The frames depict a narrow alley between two buildings with numerous windows, under a dramatic sunset sky.",
+        "show1": "The frames depict a cafeteria with tables, chairs, overhead lights, a serving counter, and various food items displayed.",
+        "lavie": "The frames depict a spacious, empty restaurant with wooden ceiling, modern lighting, large windows, and neatly arranged tables and chairs."
+    },
+    "49": {
+        "cogvideox5b": "The frames depict a nighttime forest campsite with a tent, campfire, table, cooking pot, and starry sky.",
+        "kling": "The frames show a campfire in front of a tent, surrounded by trees, in a grassy, forested area at dusk.",
+        "gen3": "The frames depict a campsite with an orange tent, backpacks, and a campfire in a forest and lakeside setting.",
+        "videocrafter2": "The frames show a grassy field with two blue tents, a red sleeping bag, and trees in the background.",
+        "pika": "The frames depict a serene mountain landscape with campers, trees, and a reflective lake under a clear blue sky.",
+        "show1": "The frames depict a serene campsite with two tents, trees, mountains, and a clear sky at dusk or dawn.",
+        "lavie": "The frames show a campsite with two tents, one yellow and one red, set in a sunlit forest clearing."
+    },
+    "52": {
+        "cogvideox5b": "The frames depict a campus with brick buildings, ivy, people walking, sitting, trees, flowers, and a pond with reflections.",
+        "kling": "The frames show an aerial view of a large, red-brick building complex surrounded by trees and greenery.",
+        "gen3": "The frames depict a campus with a clock tower, autumn trees, people walking, and historic brick buildings under a bright sky.",
+        "videocrafter2": "The frames show a modern, rectangular building surrounded by lush greenery, with pathways and a distant structure.",
+        "pika": "The frames show a brick building corner with arched windows, featuring a zigzag pattern under a partly cloudy sky.",
+        "show1": "The frames depict a modern building with large windows, white and gray facade, and a bright green lawn under a blue sky.",
+        "lavie": "The frames show an aerial view of a campus with brick buildings, green trees, pathways, and a distant cityscape."
+    },
+    "55": {
+        "cogvideox5b": "The frames depict a brightly lit carousel with colorful horses, set against a clear night sky at a fairground.",
+        "kling": "The frames show a stationary carousel with decorative horses, ornate central column, and overcast sky in the background.",
+        "gen3": "The frames show a vibrant carousel with illuminated horses, a colorful Ferris wheel, and a sunset sky at a fairground.",
+        "videocrafter2": "The frames show a colorful carousel with horses, ornate decorations, and a clear blue sky in the background.",
+        "pika": "The frames depict a brightly lit carousel with ornate decorations and horses, set against a dark, cloudy night sky.",
+        "show1": "The frames show a colorful carousel with horses, set on a grassy area under a clear blue sky.",
+        "lavie": "The frames show a brightly lit carousel with ornate decorations, featuring horses and vibrant lights in a festive setting."
+    },
+    "58": {
+        "cogvideox5b": "The frames depict a medieval castle with towers, stone walls, and an interior featuring chandeliers, stairs, and wall paintings.",
+        "kling": "The frames depict a medieval stone castle with towers, a drawbridge, and a surrounding moat under a cloudy sky.",
+        "gen3": "The frames depict a stone castle with towers, flags, and surrounding landscape, including hills, trees, and a river.",
+        "videocrafter2": "The frames depict an aerial view of a medieval castle with towers, surrounded by lush green fields and trees.",
+        "pika": "The frames depict a floating, medieval-style tower with turrets, greenery, and a bright, cloudy sky background.",
+        "show1": "The frames depict a large, medieval-style castle with towers, spires, and a dark blue sky in the background.",
+        "lavie": "The frames depict a large stone castle with multiple round towers, set against a clear blue sky and green grass."
+    },
+    "61": {
+        "cogvideox5b": "The frames depict a misty graveyard with a wrought iron gate, stone pillars, statues, and tombstones under a blue night sky.",
+        "kling": "The frames depict a cemetery with numerous tombstones, green grass, and surrounding trees under an overcast sky.",
+        "gen3": "The frames depict a foggy graveyard with tombstones, bare trees, and a crow perched on a headstone.",
+        "videocrafter2": "The frames depict a cemetery with various tombstones, green grass, and trees in the background under a cloudy sky.",
+        "pika": "The frames depict a nighttime cemetery scene with a candle-lit path, gravestones, and a distant illuminated church.",
+        "show1": "The frames depict a cemetery with numerous tombstones on a grassy field under a cloudy sky.",
+        "lavie": "The frames depict a cemetery with numerous tombstones, lush green grass, and dense trees creating a serene atmosphere."
+    },
+    "64": {
+        "cogvideox5b": "A classroom with students seated at desks, a teacher pointing at a world map, large windows, and bookshelves.",
+        "kling": "A classroom with students seated at desks, a teacher at the front, maps and charts on the walls, bright windows.",
+        "gen3": "A classroom with children, a teacher, desks, chairs, sunlight streaming through windows, and a whiteboard with notes.",
+        "videocrafter2": "The frames show an empty classroom with yellow walls, pink and blue desks, a whiteboard, and a projector screen.",
+        "pika": "The frames depict an empty classroom with teal walls, yellow chairs, desks, a large chalkboard, and sunlight through a door.",
+        "show1": "Children are sitting at desks in a classroom, focused on writing or drawing, with a plain background.",
+        "lavie": "The frames depict a classroom with red chairs, green walls, a large whiteboard, and a yellow floor."
+    },
+    "67": {
+        "cogvideox5b": "The frames depict a coastal scene at sunset with rocky sea stacks, ocean waves, grassy cliffs, and flying seagulls.",
+        "kling": "The frames depict a vast, elevated plateau with steep cliffs, surrounded by lush greenery and expansive fields under a cloudy sky.",
+        "gen3": "The frames depict a rocky cliff with two trees on top, under a cloudy sky, with a gradual zoom out.",
+        "videocrafter2": "The frames depict a rugged cliffside with lush green forested valleys and steep rock formations under a clear sky.",
+        "pika": "The frames depict a serene coastal scene with cliffs, ocean waves, and a setting sun casting warm light.",
+        "show1": "The frames depict a coastal cliff with layered rock formations, green vegetation on top, and a vast blue ocean.",
+        "lavie": "The frames depict a rugged cliff with sparse vegetation, overlooking a vast, calm ocean under a clear blue sky."
+    },
+    "70": {
+        "cogvideox5b": "The frames depict a busy crosswalk with blurred pedestrians, showcasing movement, diverse clothing, and a city street setting.",
+        "kling": "The frames show a pedestrian crossing with white stripes and an arrow on an asphalt road surface.",
+        "gen3": "Urban crosswalk scene with pedestrians, cars, skyscrapers, traffic lights, and trees. Busy city atmosphere with modern architecture.",
+        "videocrafter2": "The frames show a pedestrian crosswalk with white stripes on a dark road, featuring manholes and slight surface wear.",
+        "pika": "The frames show a city intersection with moving cars, crosswalk, traffic lights, trees, and buildings in the background.",
+        "show1": "Urban intersection with multiple cars, tall buildings, traffic lights, and crosswalks. Busy city atmosphere with blurred vehicle motion.",
+        "lavie": "The frames show a road with white painted lines and markings on a gray asphalt surface."
+    },
+    "73": {
+        "cogvideox5b": "Construction site at sunset, cranes, workers in safety vests, steel beams, dust, and machinery in the background.",
+        "kling": "Construction site with cranes, buildings under construction, green scaffolding, dirt roads, heavy machinery, and surrounding residential area.",
+        "gen3": "The frames depict a construction site at sunset, featuring cranes, scaffolding, and a hazy, golden sky.",
+        "videocrafter2": "The frames show a construction site with a building framework, scaffolding, sand, and construction equipment in a cleared area.",
+        "pika": "The frames depict a construction site at sunset, featuring unfinished buildings, scaffolding, and cranes against an orange sky.",
+        "show1": "A yellow excavator operates at a construction site, lifting debris near a partially constructed building under a clear blue sky.",
+        "lavie": "The frames depict a construction site with cranes, workers, unfinished buildings, and excavation equipment amidst dirt and debris."
+    },
+    "76": {
+        "cogvideox5b": "The frames depict a dimly lit, narrow hallway with tiled floors, fluorescent lights, and framed pictures on the walls.",
+        "kling": "The frames depict a long, narrow hallway with beige walls, red carpet, and ceiling lights, leading to a distant door.",
+        "gen3": "The frames depict a dimly lit, narrow, and long concrete corridor with a wet floor and fluorescent ceiling lights.",
+        "videocrafter2": "The frames depict a long, empty hallway with closed doors, beige walls, and a reflective floor under fluorescent lighting.",
+        "pika": "The frames depict a dimly lit, ornate hallway with wooden paneling, decorative arches, and a glass door at the end.",
+        "show1": "The frames depict a long, dimly lit hallway with closed doors, overhead lighting, and shadows on the floor.",
+        "lavie": "The frames depict a dark, narrow hallway with bright light at the end, creating a high-contrast, eerie atmosphere."
+    },
+    "79": {
+        "cogvideox5b": "The frames depict a sunlit courtyard with a stone path, benches, a fountain, blooming cherry blossom tree, and vibrant greenery.",
+        "kling": "The frames depict a traditional Chinese courtyard with red pillars, ornate roof, stone pavement, and surrounding trees.",
+        "gen3": "The frames depict a stone courtyard with a central fountain, ivy-covered walls, arched doorways, and wooden benches.",
+        "videocrafter2": "The frames depict a serene courtyard with arched doorways, a tiled roof, manicured greenery, and potted plants.",
+        "pika": "The frames depict a courtyard with a large, intricate, circular tree sculpture, surrounded by traditional buildings under a blue sky.",
+        "show1": "The frames show a stone courtyard with a tiled area, adjacent to a building, surrounded by manicured grass and hedges.",
+        "lavie": "The frames depict a sunlit, narrow courtyard with stone flooring, archways, and lush greenery lining the path."
+    },
+    "82": {
+        "cogvideox5b": "The frames depict a desert landscape transitioning from day to night, featuring sand dunes, a bright sun, and a starry sky.",
+        "kling": "The frames depict a desert landscape with sand dunes, a cactus, sparse vegetation, and a bright sun in the sky.",
+        "gen3": "The frames depict a desert landscape with sand dunes, a distant plateau, and a sky transitioning from day to night.",
+        "videocrafter2": "The frames depict a vast desert landscape with sand dunes, sparse vegetation, and distant mountains under a clear sky.",
+        "pika": "The frames depict silhouetted cacti against a setting sun, with a clear sky and soft light creating a serene atmosphere.",
+        "show1": "The frames depict a vast desert landscape with undulating sand dunes, intricate patterns, and a warm, golden hue.",
+        "lavie": "The frames depict a vast desert landscape with smooth sand dunes under a clear blue sky, creating a serene atmosphere."
+    },
+    "85": {
+        "cogvideox5b": "The frames depict a bustling city street at sunset, with tall buildings, yellow taxis, and numerous pedestrians.",
+        "kling": "Aerial view of a cityscape with modern skyscrapers, diverse buildings, and a clear sky in the background.",
+        "gen3": "The frames depict a cityscape at sunset, featuring skyscrapers, a central road, and changing sky colors from day to night.",
+        "videocrafter2": "The frames depict a city street flanked by tall buildings, traffic lights, and a distant skyline under a clear sky.",
+        "pika": "The frames depict a cityscape at sunset, featuring tall buildings, a busy street, and a vibrant orange sky.",
+        "show1": "The frames depict a stylized urban street scene with tall buildings, streetlights, power lines, and parked cars under a blue sky.",
+        "lavie": "The frames depict a cityscape with tall skyscrapers, clear blue sky, and shadows cast on the buildings."
+    },
+    "88": {
+        "cogvideox5b": "The frames depict a house with ivy, autumn trees, a bicycle, a driveway, and colorful flower beds.",
+        "kling": "The frames depict a serene mountain landscape at dusk, with rolling hills, a valley, and a colorful sky.",
+        "gen3": "The frames show a suburban house with a wide driveway, green lawns, trees, and a parked car under clear skies.",
+        "videocrafter2": "The frames show a driveway leading to a garage, flanked by green and gray fences, with surrounding trees and bushes.",
+        "pika": "The frames depict a suburban neighborhood with brick houses, manicured lawns, trees, and a clear sky.",
+        "show1": "The frames depict a straight, tree-lined road with lush green foliage under a clear blue sky.",
+        "lavie": "The frames depict a sunlit, tree-lined path with lush greenery, a lamppost, and a fence along the right side."
+    },
+    "91": {
+        "cogvideox5b": "Animated farm scene with a barn, chickens, farmer, crops, windmill, trees, tractor, and a water feature under a sunset.",
+        "kling": "The frames show a lush green pasture with grazing cows, a small barn, and distant trees under a clear sky.",
+        "gen3": "The frames depict a tractor in a golden field, with cows grazing, under a clear sky and rolling hills.",
+        "videocrafter2": "The frames depict vast, layered fields with alternating green and brown crops, showcasing agricultural patterns and textures.",
+        "pika": "The frames depict a rural scene with two horses, a wooden structure, a fence, and two barns under a clear sky.",
+        "show1": "The frames depict a stylized landscape with two red barns, green hills, a yellow path, and distant blue mountains.",
+        "lavie": "The frames show a vast, green field with rows of crops, a small structure, and a distant tree line."
+    },
+    "94": {
+        "cogvideox5b": "The frames depict a busy restaurant with people dining, a counter with food displays, and vibrant red and green decor.",
+        "kling": "The frames depict a bustling indoor food market with people dining, vibrant signage, and various food stalls.",
+        "gen3": "The frames depict a bustling indoor market with food stalls, vibrant lighting, people dining, and a central produce display.",
+        "videocrafter2": "The frames show a food court with various food stalls, a central table, and people walking around.",
+        "pika": "The frames depict an outdoor caf\u00e9 with people seated, red umbrellas, a sign reading \"French Croissant,\" and a modern design.",
+        "show1": "The frames show a food court with tables, chairs, and food displays. People are walking in the background.",
+        "lavie": "The frames depict a brightly lit, spacious shopping mall interior with green pillars, ceiling lights, and various store signs."
+    },
+    "97": {
+        "cogvideox5b": "The frames depict a vibrant football field with green grass, goalposts, a packed stadium, and colorful flags under a clear sky.",
+        "kling": "The frames show a grassy sports field with a central circle, goalposts, and two people standing near the center.",
+        "gen3": "The frames depict an empty, well-lit football stadium with green turf, white yard lines, and surrounding seating areas.",
+        "videocrafter2": "The frames show an aerial view of a green sports field with white markings, numbers, and boundary lines.",
+        "pika": "The frames depict a modern, empty stadium with a green field, large roof, and bright light at the center.",
+        "show1": "The frames show an aerial view of a sports field with people walking, marked lines, and shadows.",
+        "lavie": "The frames show a green football field with a white yard line running vertically down the center."
+    },
+    "100": {
+        "cogvideox5b": "A serene forest path with dense green trees, dappled sunlight, and a gravel road lined with fallen leaves.",
+        "kling": "The frames depict a straight road flanked by dense pine trees, with two parked cars on either side.",
+        "gen3": "The frames depict a winding forest road with lush green trees, dappled sunlight, and a serene, natural atmosphere.",
+        "videocrafter2": "The frames depict a serene forest road, lined with tall trees and lush green foliage, under a bright canopy.",
+        "pika": "The frames depict a serene lake with clear reflections, surrounded by tall trees under a bright blue sky.",
+        "show1": "The frames depict a winding road through a dense forest with tall trees, soft lighting, and a misty atmosphere.",
+        "lavie": "A sunlit forest path surrounded by dense, tall green trees with a leaf-covered ground, creating a serene atmosphere."
+    },
+    "103": {
+        "cogvideox5b": "The frames show a fountain with flowing water, pigeons in the basin, red flowers, and people in the background.",
+        "kling": "The frames show a multi-tiered fountain with flowing water, surrounded by greenery and a brick-paved area.",
+        "gen3": "The frames depict a large, ornate fountain with water jets, surrounded by trees and buildings, during a sunset.",
+        "videocrafter2": "The frames show a stone fountain with water jets, surrounded by hedges, a building, and people walking nearby.",
+        "pika": "The frames depict a sunny garden with a fountain, water jets, manicured bushes, and distant mountains under a clear sky.",
+        "show1": "The frames depict a decorative fountain with multiple water jets, surrounded by greenery and a stone structure.",
+        "lavie": "The frames show a white fountain with water streams, surrounded by greenery and a blurred background."
+    },
+    "106": {
+        "cogvideox5b": "A vintage gas station at sunset, with a red car driving by and an attendant in white overalls.",
+        "kling": "The frames show a gas station at sunset, with cars, pumps, and a clear sky in the background.",
+        "gen3": "The frames depict a foggy gas station at night with a car approaching, stopping, and a person exiting.",
+        "videocrafter2": "The frames show a gas station with multiple pumps, a \"GASAS\" sign, and a rural background with trees.",
+        "pika": "The frames depict a gas station with red and white canopies, multiple pumps, two cars, and a cloudy sky.",
+        "show1": "The frames depict a stylized gas station with yellow canopy, pumps, cars, and a clear blue sky background.",
+        "lavie": "The frames show a gas station with multiple pumps, a large canopy, trees, and a clear sky in the background."
+    },
+    "109": {
+        "cogvideox5b": "The frames depict a vast icy landscape with deep crevasses, snow falling, and a distant waterway.",
+        "kling": "The frames depict a vast glacier with blue ice, surrounded by snow-covered mountains and a cloudy sky.",
+        "gen3": "The frames depict a vast, icy glacier with jagged ice formations, surrounded by snow-capped mountains and a misty lake.",
+        "videocrafter2": "The frames depict a jagged, blue glacier against a rocky, mountainous landscape, showcasing sharp ice formations and rugged terrain.",
+        "pika": "The frames depict icy landscapes with blue skies, large ice formations, and reflective water surfaces, showcasing serene, cold environments.",
+        "show1": "The frames depict a glacier landscape with jagged ice formations, mountains, and a blue sky with clouds.",
+        "lavie": "The frames depict a massive, jagged glacier with icy blue hues and deep crevices under a cloudy sky."
+    },
+    "112": {
+        "cogvideox5b": "The frames depict a sunny golf course with palm trees, a lake, and a clear blue sky.",
+        "kling": "The frames depict a lush golf course with sand bunkers, surrounded by dense trees and a well-maintained green landscape.",
+        "gen3": "The frames depict a sunlit golf course with lush green fairways, sand bunkers, trees, and a flag on the green.",
+        "videocrafter2": "The frames depict a golf course with lush green grass, sand bunkers, trees, and a red flag on the green.",
+        "pika": "The frames depict a serene golf course at sunrise, featuring a reflective water hazard, sand bunkers, and distant mountains.",
+        "show1": "The frames depict a sunny golf course with green grass, sand bunkers, trees, and a blue sky with clouds.",
+        "lavie": "The frames depict a lush golf course with green fairways, sand bunkers, and surrounding trees under a clear sky."
+    },
+    "115": {
+        "cogvideox5b": "The frames show a spacious gym with treadmills, wooden flooring, high ceilings, bright lighting, and large windows.",
+        "kling": "The frames show an empty indoor basketball court with wooden flooring, blue walls, a scoreboard, and ceiling lights.",
+        "gen3": "The frames depict a crowded indoor sports arena with spectators, athletes, and volleyballs in mid-air, under dramatic lighting.",
+        "videocrafter2": "The frames show an empty indoor basketball court with wooden flooring, blue and white walls, and a high ceiling.",
+        "pika": "The frames depict an empty gymnasium with blue and orange flooring, basketball hoops, exercise balls, and large windows.",
+        "show1": "The frames depict an empty indoor sports court with a high ceiling, overhead lights, and marked flooring.",
+        "lavie": "The frames depict an empty indoor sports hall with a blue floor, wooden ceiling, large windows, and bright lighting."
+    },
+    "118": {
+        "cogvideox5b": "The frames depict a harbor at sunset with boats, seagulls, people, crates, and a distant lighthouse.",
+        "kling": "The frames show a marina with boats, a dock, calm water, a coastal town, and a clear sky.",
+        "gen3": "The frames depict a harbor at sunset transitioning to night, with boats, birds, a pier, and reflections on water.",
+        "videocrafter2": "The frames depict a marina with several docked sailboats, calm water, and a mountainous backdrop.",
+        "pika": "The frames depict a marina with sailboats, a large brick building, trees, and a calm body of water.",
+        "show1": "The frames depict a serene ocean scene with a clear blue sky and scattered fluffy clouds, creating a tranquil atmosphere.",
+        "lavie": "The frames depict a marina with numerous docked boats, calm water, and a clear blue sky in the background."
+    },
+    "121": {
+        "cogvideox5b": "The frames depict a sunny highway scene with moving cars, green hills, distant mountains, and a clear blue sky.",
+        "kling": "The frames show a multi-lane highway with moving vehicles, surrounded by greenery and urban buildings in the background.",
+        "gen3": "The frames depict a straight road leading into distant mountains, with a clear sky and sparse roadside vegetation.",
+        "videocrafter2": "Aerial view of a multi-lane highway with moving cars, bordered by fields and a barrier, under clear skies.",
+        "pika": "The frames depict a highway with moving vehicles, trees lining the road, and a clear, sunny sky.",
+        "show1": "The frames depict a straight road leading to distant mountains under a blue sky with scattered clouds.",
+        "lavie": "The frames show a multi-lane highway with vehicles, surrounded by trees, under a clear sky, and utility poles."
+    },
+    "124": {
+        "cogvideox5b": "Hospital corridor transitions to a bright room with large windows, medical staff, chairs, plants, and outdoor view.",
+        "kling": "The frames show an aerial view of a large, modern building with a parking lot, surrounded by other structures.",
+        "gen3": "The frames depict a hospital scene with medical staff, patients in beds, monitors, and medical equipment in a bright room.",
+        "videocrafter2": "The frames show a hospital corridor with yellow walls, ceiling lights, doors, and empty hospital beds on the side.",
+        "pika": "The frames depict a distorted, abstract structure with layered elements, railings, and blue accents against a clear sky.",
+        "show1": "A patient lies on a hospital bed, covered with a sheet, in a medical room with equipment and monitors.",
+        "lavie": "The frames depict a hospital corridor with empty beds, IV stand, overhead lights, and a distant exit sign."
+    },
+    "127": {
+        "cogvideox5b": "The frames show a cozy yellow house with a white picket fence, blooming flowers, and a warm, inviting interior.",
+        "kling": "Aerial view of a brown house with a triangular roof, surrounded by lush green trees and a landscaped garden.",
+        "gen3": "The frames depict a sunlit house with a manicured lawn, vibrant flower beds, and a stone pathway leading to the entrance.",
+        "videocrafter2": "The frames depict a white house with a red roof surrounded by dense greenery and hills in a rural setting.",
+        "pika": "The frames depict a detailed, multi-story house with a stone chimney, arched windows, and a porch, surrounded by greenery.",
+        "show1": "The frames depict a modern two-story house with a dark roof, large windows, and a well-manicured lawn.",
+        "lavie": "The frames show a two-story house with a red roof, surrounded by lush green trees and grass."
+    },
+    "130": {
+        "cogvideox5b": "The frames depict a large iceberg with blue hues, surrounded by calm water, and birds flying overhead.",
+        "kling": "The frames show a large, flat iceberg floating in calm, blue ocean waters under a clear sky.",
+        "gen3": "The frames depict a large turquoise iceberg in calm waters, surrounded by snowy mountains and flying birds under a cloudy sky.",
+        "videocrafter2": "The frames depict a cold, gray ocean with floating icebergs and choppy waves under an overcast sky.",
+        "pika": "The frames show a pink iceberg with a flagpole, yellow and red flags, surrounded by floating ice in the ocean.",
+        "show1": "The frames depict a large iceberg floating in calm, blue ocean waters under a partly cloudy sky.",
+        "lavie": "The frames depict a large iceberg floating in calm water under a clear blue sky, showcasing icy textures and reflections."
+    },
+    "133": {
+        "cogvideox5b": "The frames depict an industrial setting with a factory exterior, workers welding, sparks flying, and machinery inside a large facility.",
+        "kling": "The frames depict an industrial complex with warehouses, factories, and greenery in the background, viewed from an aerial perspective.",
+        "gen3": "The frames depict an industrial area with cranes, warehouses, smoke, and construction equipment under a cloudy sky.",
+        "videocrafter2": "The frames depict an industrial complex with large cylindrical structures, smokestacks, and surrounding greenery, viewed from above.",
+        "pika": "The frames depict an industrial complex with smokestacks, pipes, metal structures, and a clear sky with scattered clouds.",
+        "show1": "The frames depict an industrial complex with large warehouses, metal structures, and surrounding infrastructure under a clear sky.",
+        "lavie": "The frames depict an aerial view of an industrial complex with large buildings, machinery, and surrounding fields."
+    },
+    "136": {
+        "cogvideox5b": "The frames depict a dimly lit prison cell with barred windows, two toilets, and a bed with a blanket.",
+        "kling": "The frames depict a dimly lit, sparse room with a bed, desk, chair, and barred window, featuring concrete walls.",
+        "gen3": "The frames depict a dimly lit, abandoned room with a metal bed, dirty floor, and barred windows, creating an eerie atmosphere.",
+        "videocrafter2": "The frames depict a dimly lit, empty prison cell with metal bars, tiled walls, and a concrete floor.",
+        "pika": "The frames depict a dimly lit, tiled room with a metal cage in the corner, featuring red and gray walls.",
+        "show1": "The frames depict a dimly lit, empty cell with metal bars and a brick wall in the background.",
+        "lavie": "The frames depict a dark, dimly lit metal prison cell door with vertical bars and a shadowy background."
+    },
+    "139": {
+        "cogvideox5b": "A rusty car in a junkyard, surrounded by tires and debris, with a person in a leather jacket approaching.",
+        "kling": "The frames depict a landfill with piles of garbage, plastic bags, and debris scattered across a dirt path.",
+        "gen3": "The frames depict a junkyard with wrecked cars, scattered tires, scrap metal, and a yellow truck amidst a desolate landscape.",
+        "videocrafter2": "The frames depict a junkyard with rusted cars, debris, dilapidated buildings, and a desolate, overcast atmosphere.",
+        "pika": "The frames show a close-up of a rusty, blue vintage car with exposed wiring and three round headlights.",
+        "show1": "The frames depict a rusted, damaged vintage car with a broken front, set in a dilapidated environment.",
+        "lavie": "The frames depict a junkyard filled with numerous wrecked cars, surrounded by trees and a clear sky."
+    },
+    "142": {
+        "cogvideox5b": "A cozy kitchen with a double sink, lace curtains, hanging copper pots, fresh produce, bread, and a coffee maker.",
+        "kling": "A modern kitchen with wooden cabinets, stainless steel appliances, countertop items, and a door leading outside. Bright and organized.",
+        "gen3": "Modern kitchen with large windows, island, stools, pendant lights, and a person cooking with vegetables and smoke visible.",
+        "videocrafter2": "The frames show a kitchen with a stove, two pots, a range hood, and potted herbs on the counter.",
+        "pika": "The frames depict a modern kitchen with white cabinets, stainless steel appliances, wooden floor, and a central dining table.",
+        "show1": "The frames depict a modern kitchen with white cabinets, a countertop, a sink, a stove, and fruit on the counter.",
+        "lavie": "The frames show a kitchen with white cabinets, black countertops, a stainless steel dishwasher, and light wood flooring."
+    },
+    "145": {
+        "cogvideox5b": "The frames depict a grand library with high bookshelves, red velvet chairs, a long wooden table, and ornate chandeliers.",
+        "kling": "The frames depict a cozy library with wooden bookshelves, a table stacked with books, and a ceiling light.",
+        "gen3": "The frames depict a grand library with high ceilings, chandeliers, stained glass windows, bookshelves, and people walking.",
+        "videocrafter2": "The frames depict a library with wooden bookshelves, filled with books, and a carpeted floor, creating a cozy atmosphere.",
+        "pika": "The frames depict a luxurious library with wooden shelves, red chairs, columns, and a fireplace, all warmly lit.",
+        "show1": "The frames depict a cozy library with wooden shelves, books, a wooden floor, and a triangular window.",
+        "lavie": "The frames depict a library aisle with wooden bookshelves filled with books, a tiled floor, and a ceiling light."
+    },
+    "148": {
+        "cogvideox5b": "The frames depict a lighthouse on a rocky island at night, with seagulls flying and a transition to sunrise.",
+        "kling": "A white lighthouse with a red top stands on a rocky cliff by the ocean under a clear blue sky.",
+        "gen3": "The frames depict a lighthouse at sunset by the ocean, with waves crashing and seagulls flying around.",
+        "videocrafter2": "The frames show a red and white lighthouse on a grassy hill by the ocean, with waves crashing on rocks.",
+        "pika": "The frames depict a coastal scene with a red and white striped lighthouse, adjacent buildings, and a cloudy sky.",
+        "show1": "The frames depict a lighthouse on a coastal cliff at dusk, with a building and a calm sea in the background.",
+        "lavie": "The frames show a white lighthouse with a red top on a rocky cliff under a clear blue sky."
+    },
+    "151": {
+        "cogvideox5b": "The frames depict a laboratory with scientists in white coats, test tubes, microscopes, computers, and robotic arms.",
+        "kling": "The frames depict a laboratory with a long table, chairs, equipment, glassware, and overhead lighting, with people working.",
+        "gen3": "The frames depict a futuristic laboratory with scientists in protective gear, advanced equipment, glass surfaces, and glowing chemical reactions.",
+        "videocrafter2": "The frames depict a laboratory with white countertops, test tubes filled with blue liquid, and overhead fluorescent lighting.",
+        "pika": "The frames depict a dimly lit laboratory with glass cabinets, test tubes, beakers, and warm overhead lighting.",
+        "show1": "The frames depict a sterile laboratory corridor with metallic doors, blue accents, and scientific equipment, including a microscope.",
+        "lavie": "The frames show a laboratory setting with a focus on a conical flask containing blue liquid, surrounded by equipment."
+    },
+    "154": {
+        "cogvideox5b": "The frames depict a grand, ivy-covered mansion with multiple turrets, surrounded by manicured gardens under a vibrant sunset sky.",
+        "kling": "The frames depict a large, symmetrical, two-story house with columns, a gabled roof, and a landscaped front yard.",
+        "gen3": "The frames depict a grand mansion with ornate architecture, fountains, lush gardens, and a scenic sunset backdrop.",
+        "videocrafter2": "The frames depict a large, elegant mansion with columns, a manicured lawn, symmetrical design, and lush greenery.",
+        "pika": "The frames depict a detailed, ornate Victorian-style house with turrets, intricate windows, and a vibrant, colorful sky backdrop.",
+        "show1": "The frames depict a large, elegant mansion with a gray roof, surrounded by palm trees and a bright blue sky.",
+        "lavie": "The frames show a large, white, three-story house with a balcony, surrounded by trees and a well-kept lawn."
+    },
+    "157": {
+        "cogvideox5b": "The frames depict a serene sunset over a lake with water lilies, reeds, and birds, creating a tranquil atmosphere.",
+        "kling": "The frames depict a serene wetland with lush green grass, still water, and distant trees under a cloudy sky.",
+        "gen3": "The frames depict a misty wetland landscape with tall grass, a spider web, water droplets, and a serene atmosphere.",
+        "videocrafter2": "The frames depict a serene marshland with tall green grasses, calm reflective water, and a distant tree line.",
+        "pika": "The frames depict a serene landscape with a calm water body, lush green trees, and a vibrant, cloudy sky.",
+        "show1": "The frames depict a serene landscape with a green hilly background, a calm body of water, and a rocky foreground.",
+        "lavie": "The frames show tall green grass or reeds growing in shallow water, with a consistent natural and serene setting."
+    },
+    "160": {
+        "cogvideox5b": "Mountainous landscape with snow-capped peaks, rocky cliffs, and green valleys under a clear blue sky. Rugged terrain and panoramic views.",
+        "kling": "The frames depict a serene mountain landscape with snow-capped peaks, lush green valleys, and a clear sky.",
+        "gen3": "The frames depict a snowy mountain peak with rugged terrain, climbers, and a vast, cloudy sky in the background.",
+        "videocrafter2": "The frames show a large rock surrounded by smaller stones on a grassy landscape with hills in the background.",
+        "pika": "The frames depict a rugged mountain peak with sharp ridges, surrounded by green forest under a clear, deep blue sky.",
+        "show1": "The frames depict a mountain landscape with green slopes, rocky peaks, and patches of snow under a clear blue sky.",
+        "lavie": "The frames depict a mountainous landscape with rugged peaks, sparse trees, and a clear blue sky."
+    },
+    "163": {
+        "cogvideox5b": "The frames show a crowded theater with ornate decor, featuring a black-and-white film of a man speaking onscreen.",
+        "kling": "The frames show a dimly lit theater with a large screen displaying a cityscape at dusk, featuring mountains.",
+        "gen3": "The frames depict a dimly lit, ornate theater with red seats, showing a screen transitioning from white to colorful visuals.",
+        "videocrafter2": "The frames depict an empty movie theater with red seats, a large screen, and a decorative ceiling light.",
+        "pika": "The frames depict an empty, dimly lit theater with blue and orange lighting, plush seats, and decorative ceiling lights.",
+        "show1": "The frames depict an empty movie theater with red seats, a large blank screen, and dim lighting.",
+        "lavie": "The frames depict an empty theater with red seats, orange walls, decorative lights, and a blank screen."
+    },
+    "166": {
+        "cogvideox5b": "The frames depict a museum gallery with sculptures, paintings, glass cases, visitors, and dim lighting on a polished floor.",
+        "kling": "The frames depict a grand museum hall with high ceilings, glass display cases, wooden walls, and a central walkway.",
+        "gen3": "The frames depict a grand art gallery with a central painting, marble floors, arches, and people observing.",
+        "videocrafter2": "The frames depict a long art gallery hallway with paintings on both walls and people walking through.",
+        "pika": "The frames depict an ornate, illuminated architectural structure with intricate details, columns, and decorative elements against a dark sky.",
+        "show1": "The frames depict a long, arched hallway in a museum with sculptures, columns, and paintings lining the walls.",
+        "lavie": "The frames depict a gallery with curved walls, displaying numerous framed photographs and paintings under warm lighting."
+    },
+    "169": {
+        "cogvideox5b": "The frames depict a recording studio with a mixing console, multiple monitors, a microphone, piano, and shelves of records.",
+        "kling": "The frames show a recording studio with red lighting, musicians, instruments, sound equipment, and people seated at consoles.",
+        "gen3": "The frames depict a music studio with musicians playing guitar and drums, surrounded by keyboards, cymbals, and audio equipment.",
+        "videocrafter2": "The frames show a keyboard synthesizer with multiple speakers and microphones, arranged symmetrically against a plain background.",
+        "pika": "The frames show a music studio setup with a keyboard, mixing console, and various audio equipment in a wooden setting.",
+        "show1": "The frames depict a dimly lit music studio with blue lighting, featuring monitors, speakers, a keyboard, and a microphone.",
+        "lavie": "The frames show a close-up of a synthesizer keyboard with illuminated control knobs and buttons, creating a musical atmosphere."
+    },
+    "172": {
+        "cogvideox5b": "The frames depict a cozy nursery with a crib, rocking chair, wall decals, mobile, curtains, and a plush toy.",
+        "kling": "A cozy children's room with wooden furniture, toys, plants, a large window, and a ceiling fan. Bright and tidy.",
+        "gen3": "The frames depict a cozy nursery with a wooden crib, soft toys, a lamp, and curtains adorned with cheerful decorations.",
+        "videocrafter2": "A nursery with a crib, pink stuffed animal, wall decals, white dresser, and window blinds. Consistent decor throughout.",
+        "pika": "The frames depict a colorful nursery with cribs, plush toys, vibrant decor, a chandelier, and animal-themed wall art.",
+        "show1": "The frames depict a nursery with green walls, tree mural, pink furniture, and wooden flooring, creating a whimsical atmosphere.",
+        "lavie": "The frames depict a pastel-colored nursery with a crib, wall decorations, stuffed animals, a window, and a changing table."
+    },
+    "175": {
+        "cogvideox5b": "The frames depict a serene ocean, colorful coral reef, and a whale breaching dramatically through the water's surface.",
+        "kling": "The frames depict a vast, calm ocean with deep blue water and gentle waves under a clear sky.",
+        "gen3": "The frames depict a calm ocean with gentle waves, overcast sky, and birds flying above the water.",
+        "videocrafter2": "The frames depict a beach scene with crashing waves, sandy shore, and a clear blue sky.",
+        "pika": "The frames depict a serene ocean sunset with vibrant colors, calm water, and silhouetted clouds on the horizon.",
+        "show1": "The frames depict a calm ocean with clear blue and turquoise water, showing subtle waves and underwater features.",
+        "lavie": "The frames depict a vast, calm ocean with a clear blue horizon, showing gentle waves and a serene atmosphere."
+    },
+    "178": {
+        "cogvideox5b": "Modern office with large windows, desks, people working on laptops, plants, a couch, and a presentation screen.",
+        "kling": "The frames depict a sunset over a suburban area with trees, buildings, and a grassy field in the foreground.",
+        "gen3": "Modern office with large windows, city view, multiple people working at desks, computers, glass walls, and casual interactions.",
+        "videocrafter2": "The frames depict a modern office with green dividers, desks, computers, chairs, large windows, and overhead lighting.",
+        "pika": "The frames depict a sophisticated office with wooden bookshelves, leather chairs, a large desk, and modern lighting.",
+        "show1": "The frames depict a modern office with two chairs, a desk, computers, and large windows providing natural light.",
+        "lavie": "The frames show a blurred, neutral-colored background with a hint of a dark object on the right and papers on the left."
+    },
+    "181": {
+        "cogvideox5b": "The frames depict a grand palace with golden domes, lush gardens, fountains, and an opulent interior with chandeliers.",
+        "kling": "The frames depict a grand, traditional Chinese palace with tiered roofs, red columns, stone steps, and expansive courtyard.",
+        "gen3": "The frames depict a golden-domed temple with intricate architecture, surrounded by lush gardens and a red flag atop.",
+        "videocrafter2": "The frames depict an ornate, empty ballroom with a large chandelier, gold detailing, and two people in the center.",
+        "pika": "The frames depict a long, ornate building with spires, reflected in a calm body of water, under a clear sky.",
+        "show1": "The frames depict a large, historic building with towers, surrounded by manicured hedges, under a clear blue sky.",
+        "lavie": "The frames depict a grand, ornate building with tall columns, intricate carvings, and a golden dome on top."
+    },
+    "184": {
+        "cogvideox5b": "The frames show a parking lot filled with cars, trees, and a large building in the background under a clear sky.",
+        "kling": "The frames show a parking lot with six cars, a brick building, and marked parking spaces on an asphalt surface.",
+        "gen3": "The frames show a parking lot with white lines, a triangular road sign, and shifting shadows on the asphalt.",
+        "videocrafter2": "The frames show an aerial view of a large parking lot with rows of parked cars and surrounding roads.",
+        "pika": "The frames depict a parking lot with cars, light poles, trees, and a cloudy sky. The scene is static.",
+        "show1": "The frames show a basketball court, surrounded by trees and parked cars, with a clear sky above.",
+        "lavie": "The frames show a large parking lot with numerous parked cars, surrounded by trees under a partly cloudy sky."
+    },
+    "187": {
+        "cogvideox5b": "The frames depict a pharmacy with shelves of products, posters, and two people interacting, one in a white coat.",
+        "kling": "A car drives down a tree-lined road with lush green foliage, dappled sunlight, and a yellow center line.",
+        "gen3": "The frames depict a pharmacy with shelves of medicine, two people in blue uniforms, and a \"Pharmacy\" sign.",
+        "videocrafter2": "The frames depict a pharmacy shelf filled with various medicine bottles and boxes, organized neatly against a green background.",
+        "pika": "The frames depict a pharmacy interior with blue shelves, various medicine boxes, and a wooden table displaying products.",
+        "show1": "Two people in lab coats, likely pharmacists or doctors, examine medication boxes in a pharmacy setting with shelves.",
+        "lavie": "The frames depict a pharmacy aisle with shelves stocked with various colorful medicine boxes and bright overhead lighting."
+    },
+    "190": {
+        "cogvideox5b": "The frames depict a red phone booth on a rainy street, with a rotary phone inside and a person entering.",
+        "kling": "The frames show a vintage phone booth with a modern device inside, labeled \"A YI TESIA,\" outdoors near a road.",
+        "gen3": "The frames show a red phone booth, a busy city street, pedestrians, cars, and a man entering the booth.",
+        "videocrafter2": "The frames show a red British phone booth on a road, casting a long shadow, with greenery in the background.",
+        "pika": "The frames show a vintage phone booth with a coiled cord, yellow tiled wall, and a nearby trash bin.",
+        "show1": "The frames depict a row of illuminated, yellow and black parking meters or kiosks against a dark background.",
+        "lavie": "The frames depict a classic red British telephone booth with glass panels and a metal handle, set against a neutral background."
+    },
+    "193": {
+        "cogvideox5b": "The frames depict a high-speed race car on a track, showcasing curves, barriers, grandstands, and another car in motion.",
+        "kling": "The frames show an aerial view of a racetrack with green fields, curving roads, and surrounding buildings.",
+        "gen3": "The frames depict a sunset car race on a track, with dust clouds, spectators, and advertising banners in the background.",
+        "videocrafter2": "The frames depict a distorted racetrack with colorful barriers, a blue section, and green grass in the background.",
+        "pika": "The frames show a futuristic yellow race car on a track with bold, colorful graphics and racing stripes.",
+        "show1": "The frames depict a racetrack with cars, tire marks, barriers, grass, and a distant building under a clear sky.",
+        "lavie": "The frames depict a race track with multiple lanes, surrounded by fencing, and a vehicle moving along the curve."
+    },
+    "196": {
+        "cogvideox5b": "A cozy restaurant with wooden tables, candles, flowers, fairy lights, and two waiters serving food. Warm, intimate atmosphere.",
+        "kling": "A dining room with a wooden table, chairs, sideboard, floral centerpiece, paintings, lamps, curtains, and a rug.",
+        "gen3": "Elegant restaurant setting, diners conversing, chefs working, bartender creating a flaming drink, modern decor, ambient lighting, glassware.",
+        "videocrafter2": "The frames depict a cozy restaurant with red booths, white tablecloths, wooden chairs, plants, and warm lighting.",
+        "pika": "The frames depict a dining setting with a warm fire, plates of food, glasses, and a cozy ambiance.",
+        "show1": "The frames depict a dimly lit restaurant with neatly arranged tables, white tablecloths, orange napkins, and large windows.",
+        "lavie": "The frames depict a warmly lit, elegant restaurant with neatly set tables, red cushioned seating, and framed wall art."
+    },
+    "199": {
+        "cogvideox5b": "The frames depict a serene forest stream with lush green trees, flowing water, rocks, and a tranquil atmosphere.",
+        "kling": "The frames depict a serene river at sunset, surrounded by hills and trees, with a colorful sky reflecting on water.",
+        "gen3": "A serene river flows through a lush, green forest with rocks and floating yellow leaves under sunlight.",
+        "videocrafter2": "The frames depict a muddy stream with gentle rapids, surrounded by lush green vegetation and a forested background.",
+        "pika": "The frames depict a serene forest stream with flowing water, surrounded by lush greenery and dappled sunlight filtering through trees.",
+        "show1": "The frames depict a flowing river with small waterfalls, surrounded by lush green foliage and rocks in a serene setting.",
+        "lavie": "The frames depict a flowing river surrounded by lush green trees, with a mountainous background under a clear sky."
+    },
+    "202": {
+        "cogvideox5b": "The frames depict an aquarium-like exhibit with digital displays, a large globe, and a child conducting colorful experiments.",
+        "kling": "The frames depict a futuristic exhibition with illuminated displays, digital screens, and a modern, circular ceiling fixture.",
+        "gen3": "The frames depict a futuristic, glass-domed interior with a central illuminated column, interactive displays, and people observing.",
+        "videocrafter2": "The frames show a museum exhibit with a large, dome-shaped cage, surrounded by people and framed artworks.",
+        "pika": "The frames depict a futuristic, metallic interior with intricate sculptures, blue panels, and a complex, woven ceiling design.",
+        "show1": "The frames depict a futuristic building labeled \"SCIENCE\" with a dome, columns, and people walking in front.",
+        "lavie": "The frames depict a modern, angular glass and metal building with a large overhanging roof against a cloudy sky."
+    },
+    "205": {
+        "cogvideox5b": "The frames show a showerhead with running water, a white towel hanging nearby, and a tiled bathroom wall.",
+        "kling": "A person with a towel on their head is showering, standing under running water in a tiled bathroom.",
+        "gen3": "The frames depict a shower with water flowing, tiled walls and floor, a drain, and a window with condensation.",
+        "videocrafter2": "The frames show a showerhead with water flowing, set against a tiled wall in a bathroom.",
+        "pika": "The frames depict a close-up of a metallic faucet with intricate designs, set against a softly lit background.",
+        "show1": "The frames show a close-up of a showerhead with water streaming down, highlighting droplets and a tiled background.",
+        "lavie": "The frames show a chrome showerhead with water flowing against a beige wall, creating a bright, illuminated effect."
+    },
+    "208": {
+        "cogvideox5b": "Snowy mountain landscape with skiers, pine trees, a wooden cabin, and clear blue skies.",
+        "kling": "Snow-covered mountain landscape with ski tracks, scattered rocks, skiers, and a clear blue sky with a few clouds.",
+        "gen3": "A skier descends a snowy mountain slope, surrounded by snow-covered trees and distant mountain ranges under a clear blue sky.",
+        "videocrafter2": "The frames show a snowy slope with ski tracks, surrounded by snow-covered evergreen trees under a clear blue sky.",
+        "pika": "The frames show colorful skis on a snowy slope, with a clear blue sky, trees, and a ski lift in the background.",
+        "show1": "The frames show a sunny ski slope with skiers, ski tracks, a chairlift, and snow-covered trees under a clear blue sky.",
+        "lavie": "The frames show skiers on a snowy slope surrounded by dense, snow-covered evergreen trees under an overcast sky."
+    },
+    "211": {
+        "cogvideox5b": "The frames transition from a bright blue sky with fluffy clouds to a vivid, starry night sky with the Milky Way.",
+        "kling": "The frames show a clear blue sky with scattered white clouds, creating a serene and bright atmosphere.",
+        "gen3": "The frames show a clear blue sky above clouds, with lens flares and a flock of birds flying.",
+        "videocrafter2": "The frames depict a vast, dense forest landscape with scattered, fluffy clouds floating above.",
+        "pika": "The frames depict a vibrant sky with dramatic clouds, sunlight peeking through, and a colorful horizon above a cloud layer.",
+        "show1": "The frames depict a serene ocean horizon with a clear blue sky and scattered small clouds.",
+        "lavie": "The frames show a clear blue sky with scattered white clouds, creating a serene and peaceful atmosphere."
+    },
+    "214": {
+        "cogvideox5b": "The frames depict a tall, glass skyscraper at sunset, transitioning to night, with illuminated windows and a visible entrance.",
+        "kling": "The frames show a tall skyscraper with numerous windows, viewed from below against a clear blue sky.",
+        "gen3": "The frames depict a futuristic skyscraper in a dense urban skyline, showcasing modern architecture and a vast cityscape.",
+        "videocrafter2": "The frames depict a close-up of a modern building facade with repetitive windows and vertical architectural elements.",
+        "pika": "The frames depict a futuristic cityscape with tall, curved buildings, a bright sun, blue sky, and a reflective surface.",
+        "show1": "The frames depict a tall, futuristic skyscraper with a dark, metallic facade against a clear blue sky.",
+        "lavie": "The frames depict a tall, twisting skyscraper against a clear blue sky, showcasing its unique architectural design."
+    },
+    "217": {
+        "cogvideox5b": "The frames depict a baseball game with a player in a blue cap and a large, crowded stadium at sunset.",
+        "kling": "The frames depict a sunny baseball stadium with a full crowd, players on the field, and a clear sky.",
+        "gen3": "The frames depict a baseball stadium at sunset, with empty stands, a well-maintained field, and a large scoreboard.",
+        "videocrafter2": "The frames depict a baseball stadium with a green field, bases, pitcher's mound, and surrounding stands filled with spectators.",
+        "pika": "The frames depict a baseball stadium with a ball caught in a net, surrounded by empty stands and a scoreboard.",
+        "show1": "The frames depict an aerial view of a baseball stadium with green field, red seats, and surrounding trees.",
+        "lavie": "The frames depict a baseball stadium with a well-maintained field, empty stands, bright lights, and a clear sky."
+    },
+    "220": {
+        "cogvideox5b": "The frames depict a grand staircase with red carpet, ornate railing, stained glass windows, and a large chandelier.",
+        "kling": "The frames depict a dimly lit staircase with brown carpet, yellow walls, wooden handrails, and a light at the top.",
+        "gen3": "The frames show a grand staircase with ornate railings, red carpet, stained glass windows, chandeliers, and framed artwork.",
+        "videocrafter2": "The frames show a curved wooden staircase with carpeted steps, ornate railing, and neutral-colored walls in a well-lit area.",
+        "pika": "The frames depict a grand staircase with red carpet, ornate railings, chandelier, wood paneling, and a hallway.",
+        "show1": "The frames depict a dimly lit staircase with ornate railings, featuring multiple steps and a person partially visible at the top.",
+        "lavie": "The frames depict a staircase with wooden steps, beige walls, white trim, and a window on the right side."
+    },
+    "223": {
+        "cogvideox5b": "Busy city street with yellow taxis, bustling pedestrians, flower stalls, and tall buildings. Vibrant urban atmosphere and motion blur.",
+        "kling": "The frames depict a tree-lined urban street with parked cars, buildings, and a central road leading into the distance.",
+        "gen3": "The frames depict a busy city street with skyscrapers, cars, motorcycles, and pedestrians during sunset, showcasing urban life.",
+        "videocrafter2": "The frames show a road with white lane markings, a sidewalk, and a fence along the side.",
+        "pika": "Nighttime city street, illuminated buildings, moving cars, blurred motion, yellow road lines, red traffic light, vibrant urban atmosphere.",
+        "show1": "A narrow, empty street with closely packed buildings and a small black vehicle moving away in the center.",
+        "lavie": "The frames depict a narrow street with old buildings, people walking, and a clear blue sky."
+    },
+    "226": {
+        "cogvideox5b": "The frames depict a supermarket aisle with shoppers, shelves of products, a checkout counter, and a variety of produce.",
+        "kling": "The frames depict a supermarket aisle with shelves stocked with various products, bright lighting, and a few shoppers.",
+        "gen3": "The frames depict a supermarket aisle with shoppers, grocery shelves, products, shopping carts, and overhead signs in a well-lit environment.",
+        "videocrafter2": "The frames show a supermarket aisle with neatly arranged fruits, vegetables, and packaged goods on both sides.",
+        "pika": "The frames depict a supermarket with people shopping, shelves stocked with produce, and shopping carts in a well-lit aisle.",
+        "show1": "A woman shops in a grocery aisle, holding a basket and plastic bag, surrounded by packaged goods and produce.",
+        "lavie": "The frames depict a supermarket aisle with shelves stocked with various products, under bright fluorescent lighting."
+    },
+    "229": {
+        "cogvideox5b": "The frames depict an indoor pool with chandeliers, palm trees, lounge chairs, and large windows, creating a luxurious ambiance.",
+        "kling": "The frames show a clear blue swimming pool with lounge chairs, a tiled deck, and reflections on the water surface.",
+        "gen3": "The frames show a swimmer in a clear blue pool, surrounded by lounge chairs, modern architecture, and greenery.",
+        "videocrafter2": "The frames show an indoor pool with lounge chairs, tiled flooring, ceiling lights, and large windows.",
+        "pika": "The frames depict an indoor pool with blue tiles, lounge chairs, and overhead lights, creating a serene atmosphere.",
+        "show1": "The frames depict an indoor swimming pool with blue tiles, ceiling lights, and a calm water surface in a dimly lit room.",
+        "lavie": "The frames show an indoor swimming pool with blue water, tiled edges, large windows, and seating areas."
+    },
+    "232": {
+        "cogvideox5b": "The frames depict a stone tower covered in ivy, with a sunset sky and decorative statues around the structure.",
+        "kling": "The frames show a stone tower with a flag on top, under a clear blue sky, viewed from below.",
+        "gen3": "The frames show a tall metal tower structure against a vast landscape, with birds flying in a clear sky.",
+        "videocrafter2": "The frames show a stone tower with battlements, surrounded by trees and a low wall, under a clear sky.",
+        "pika": "The frames depict a fantastical architectural scene with ornate arches, towers, and a bright blue sky with clouds.",
+        "show1": "The frames show a tall cylindrical tower in a rural landscape with trees, fields, and a clear sky.",
+        "lavie": "The frames show a tall, narrow stone tower against a clear blue sky, with visible scaffolding on its sides."
+    },
+    "235": {
+        "cogvideox5b": "The frames show a track race with athletes running on a red track, surrounded by trees and a clear sky.",
+        "kling": "A person in a red shirt runs on a curved outdoor track surrounded by grass and trees.",
+        "gen3": "The frames show a sports field with a running track, goalposts, trees, bleachers, and overcast sky.",
+        "videocrafter2": "The frames show a green sports field with white lines and a red running track in the background.",
+        "pika": "The frames depict a sunlit, winding road with white lines, surrounded by greenery and a warm, golden glow.",
+        "show1": "The frames depict a stadium with a red seating area, green field, and cloudy sky, viewed from a distance.",
+        "lavie": "The frames show a red running track with white lane markings, surrounded by green grass and trees."
+    },
+    "238": {
+        "cogvideox5b": "A steam train crosses a bridge in a lush countryside, with golden fields, green hills, and a clear sky.",
+        "kling": "The frames depict a railway track surrounded by trees, power lines, buildings, and a clear sky with clouds.",
+        "gen3": "The frames depict a train track at sunset, with a steam train approaching, surrounded by hills and open countryside.",
+        "videocrafter2": "The frames show a high-speed train on parallel tracks, surrounded by lush green fields and dense trees.",
+        "pika": "The frames show a train approaching on tracks between two stationary blue trains, with overhead power lines and greenery.",
+        "show1": "A train moves along tracks through a lush, green landscape with overhead power lines and a distant mountain.",
+        "lavie": "The frames depict parallel railway tracks surrounded by green foliage, power lines, and clear skies, suggesting a rural setting."
+    },
+    "241": {
+        "cogvideox5b": "The frames depict a train station platform with people walking, a train arriving, and warm lighting.",
+        "kling": "A silver train with blue and red stripes moves through a station, under overcast skies, with visible passengers.",
+        "gen3": "The frames depict a train station with a moving train, overhead wires, platform, signs, and a cloudy sky.",
+        "videocrafter2": "The frames show a train station platform with a red train, arched roof, tiled floor, and a few people.",
+        "pika": "The frames depict a blue train with the number 2314, overhead wires, and a clear blue sky background.",
+        "show1": "The frames depict a train station platform with people walking, a blue train, arched roof, and overhead signs.",
+        "lavie": "The frames depict a railway track with overhead power lines, surrounded by greenery and a platform on both sides."
+    },
+    "244": {
+        "cogvideox5b": "The frames depict a vibrant underwater scene with colorful coral reefs, diverse fish species, and a turtle swimming.",
+        "kling": "The frames depict an underwater coral reef scene with diverse corals, fish swimming above, and clear blue water.",
+        "gen3": "The frames depict a vibrant underwater coral reef scene with diverse fish species, colorful corals, and clear blue water.",
+        "videocrafter2": "The frames depict a vibrant underwater coral reef with diverse corals, colorful fish, and clear blue water.",
+        "pika": "The frames depict vibrant underwater coral formations with diverse textures, surrounded by clear blue water and small fish.",
+        "show1": "The frames depict an underwater scene with vibrant coral reefs, various fish, and clear blue water, showcasing marine biodiversity.",
+        "lavie": "The frames depict an underwater scene with vibrant coral reefs, clear blue water, and scattered bubbles."
+    },
+    "247": {
+        "cogvideox5b": "The frames depict a serene valley at sunset, with lush greenery, a winding river, distant mountains, and vibrant sky.",
+        "kling": "The frames depict a picturesque valley with green fields, a small village, surrounding mountains, and a distant snowy peak.",
+        "gen3": "The frames depict a sunlit, grassy landscape with rolling hills, scattered trees, distant mountains, and a flowing river.",
+        "videocrafter2": "The frames depict a lush, green valley with rolling hills, dense forests, and a winding river under soft light.",
+        "pika": "The frames depict a serene sunrise over a misty valley with cliffs, trees, and a warm, glowing sky.",
+        "show1": "The frames depict a serene landscape with rolling hills, a distant horizon, and soft lighting, creating a tranquil atmosphere.",
+        "lavie": "The frames depict a lush green valley with mountains, clear blue sky, and scattered clouds, showcasing a serene landscape."
+    },
+    "250": {
+        "cogvideox5b": "The frames depict an erupting volcano with flowing lava, glowing orange smoke, and a dark landscape in the foreground.",
+        "kling": "The frames depict a volcanic eruption with lava flow, ash clouds, and fiery explosions against a cloudy sky.",
+        "gen3": "The frames depict a volcanic eruption with fiery lava, thick smoke, and a mountainous landscape in the background.",
+        "videocrafter2": "The frames depict an erupting volcano with smoke, ash, and lava flowing down its slopes under a clear sky.",
+        "pika": "The frames depict an erupting volcano with glowing lava, smoke, and a dark sky, surrounded by green vegetation.",
+        "show1": "The frames depict a volcanic eruption with smoke, ash, and glowing lava spewing from the volcano's summit against a dark sky.",
+        "lavie": "The frames depict a volcanic eruption with red lava spewing from the crater against a clear sky."
+    },
+    "253": {
+        "cogvideox5b": "The frames depict a powerful waterfall cascading down a lush, green cliffside, surrounded by trees and foliage.",
+        "kling": "The frames depict a waterfall cascading over a rocky cliff, surrounded by greenery, with water splashing into a pool below.",
+        "gen3": "The frames depict a majestic waterfall cascading down lush green cliffs, surrounded by mist, with a distant mountain backdrop.",
+        "videocrafter2": "The frames depict a serene waterfall cascading over rocks, surrounded by lush green foliage and a calm pool.",
+        "pika": "The frames depict a cascading waterfall surrounded by lush greenery and trees, with mist and sunlight filtering through.",
+        "show1": "The frames depict a lush, green landscape with cascading waterfalls, flowing water, and vibrant vegetation.",
+        "lavie": "The frames depict a cascading waterfall surrounded by lush greenery, with water flowing over multiple rock tiers."
+    },
+    "256": {
+        "cogvideox5b": "The frames depict a golden wheat field at sunset, transitioning to a dark sky with a bright star or planet.",
+        "kling": "The frames show wind turbines with metal towers and spinning blades against a clear blue sky with wispy clouds.",
+        "gen3": "The frames depict a windmill in a vast, golden field under a partly cloudy sky, with rotating blades.",
+        "videocrafter2": "The frames show a white windmill with rotating blades in a vast, green and brown agricultural landscape.",
+        "pika": "The frames show a windmill with a rustic building in the background, featuring stone walls, windows, and red foliage.",
+        "show1": "The frames depict a rural landscape with fields and two large wind turbines under a clear blue sky.",
+        "lavie": "The frames show a windmill with metal blades in a grassy field under a clear blue sky."
+    },
+    "2": {
+        "cogvideox5b": "The frames depict a narrow, cobblestone alley with brick walls, hanging lamps, potted plants, and a silhouetted cat.",
+        "kling": "Narrow alleyway with yellow and white buildings, trash bins, cobblestone path, and overhead wires under a clear sky.",
+        "gen3": "Narrow, cobblestone street with red and beige brick buildings, balconies, hanging lanterns, and scattered debris. Overcast sky, urban decay.",
+        "videocrafter2": "Narrow alley with brick walls, gray doors, overgrown plants, and a bright light at the end.",
+        "pika": "The frames depict a sunny, tree-lined street with brick buildings, a tall structure in the background, and clear blue sky.",
+        "show1": "The frames depict a narrow alley with shadowed buildings, a distant figure, street lamps, and a clear blue sky.",
+        "lavie": "The frames depict a narrow, dimly lit alleyway with textured walls, a concrete path, and greenery at the far end."
+    },
+    "5": {
+        "cogvideox5b": "The frames depict a vibrant amusement park with a carousel, roller coaster, colorful lights, and people enjoying the rides.",
+        "kling": "The frames show a busy amusement park with Ferris wheels, a roller coaster, people, and vendor stalls under a clear sky.",
+        "gen3": "The frames depict a vibrant amusement park at sunset, featuring roller coasters, a spinning ride, and joyful visitors.",
+        "videocrafter2": "The frames depict a colorful amusement park ride with pink and white decorations, surrounded by trees and pathways.",
+        "pika": "The frames depict a vibrant amusement park ride with colorful lights, tents, and a roller coaster track, set against trees.",
+        "show1": "The frames depict a vibrant amusement park with a Ferris wheel, colorful tents, trees, and various rides under a clear sky.",
+        "lavie": "The frames show a colorful Ferris wheel at an amusement park, with bright colors, clear skies, and surrounding trees."
+    },
+    "8": {
+        "cogvideox5b": "Vibrant underwater scene with colorful coral reefs, various fish species, and a sea turtle swimming in clear blue water.",
+        "kling": "The frames show an aquarium with a turtle, various fish, blue water, sandy bottom, and rocks.",
+        "gen3": "The frames depict an underwater scene with colorful fish, a turtle, coral reefs, and bubbles in a vibrant aquarium.",
+        "videocrafter2": "The frames show a fish tank with colorful fish, rocks, and vibrant coral against a clear water background.",
+        "pika": "The frames depict a vibrant underwater scene with colorful corals, sponges, and sea plants in various shapes and hues.",
+        "show1": "The frames depict an underwater scene with fish swimming among rocks, illuminated by sunlight filtering through the water.",
+        "lavie": "The frames depict an aquarium with blue lighting, green plants, rocks, and small fish swimming around."
+    },
+    "11": {
+        "cogvideox5b": "The frames depict a lush, green forest with sunlight filtering through, featuring an ancient, ivy-covered stone archway.",
+        "kling": "The frames show a stone archway with intricate carvings, set against a clear blue sky, captured from a low angle.",
+        "gen3": "The frames depict a sunrise over a canyon with rocky formations, birds flying, and a clear sky.",
+        "videocrafter2": "The frames depict a symmetrical stone archway with intricate carvings, leading to a bright, open space beyond.",
+        "pika": "The frames depict a serene lake view with distant islands, mountains, and a decorative arch in the foreground.",
+        "show1": "The frames depict a desert landscape with rock formations, a clear blue sky, and a single cloud.",
+        "lavie": "The frames depict a rocky archway opening to a bright sky and calm sea, with jagged cliffs in the background."
+    },
+    "14": {
+        "cogvideox5b": "The frames depict an art gallery with colorful abstract paintings, wooden floors, white walls, and a few visitors.",
+        "kling": "The frames depict an art gallery with paintings, ornate frames, sculptures, red carpet, and visitors in the background.",
+        "gen3": "The frames depict a modern art gallery with paintings, a sculpture, a reflective floor, and a person walking.",
+        "videocrafter2": "The frames depict an art gallery with paintings on white walls, wooden floor, and ceiling track lighting.",
+        "pika": "The frames depict an ornate room with green walls, elaborate ceiling decorations, framed paintings, and classical sculptures.",
+        "show1": "The frames depict an art gallery with abstract paintings on dark walls, wooden flooring, and soft lighting.",
+        "lavie": "The frames depict abstract, colorful, elongated shapes with a mix of red, yellow, and green hues on a light background."
+    },
+    "17": {
+        "cogvideox5b": "The frames show a modern bathroom with a freestanding tub, large window, plants, shelves, towels, and sleek fixtures.",
+        "kling": "The frames depict a bathroom with a wooden vanity, sink, mirror, toilet, shower, beige tiles, and decorative flowers.",
+        "gen3": "The frames show a bathroom with a sink, towel, and water cascading from a lighted mirror onto the sink.",
+        "videocrafter2": "The frames show a modern bathroom with a freestanding tub, glass shower, vanity, mirror, and patterned floor tiles.",
+        "pika": "The frames depict a modern bathroom with a sink, illuminated mirror, bathtub, artwork, and dark blue and brown decor.",
+        "show1": "The frames show a modern bathroom with a rectangular sink, wall-mounted faucet, large mirror, and frosted window.",
+        "lavie": "The frames show a small bathroom with a toilet, pedestal sink, mirror, towel holder, and overhead light."
+    },
+    "20": {
+        "cogvideox5b": "The frames show a bakery with shelves of various breads and pastries, a person in an apron arranging items.",
+        "kling": "The frames depict a bakery with shelves of bread, pastries, tables, chairs, large windows, and ceiling fans.",
+        "gen3": "The frames depict a bakery with a display of various pastries, a customer, and a staff member arranging items.",
+        "videocrafter2": "The frames depict a bakery with shelves of bread, warm lighting, tiled floor, and a \"Bakery\" sign.",
+        "pika": "The frames depict a sunlit street with two buildings, a streetlamp, and greenery on the rooftops.",
+        "show1": "The frames show a bakery display with various types of bread and pastries arranged on shelves and trays.",
+        "lavie": "The frames show a bakery display filled with powdered sugar-topped doughnuts, arranged in rows under warm lighting."
+    },
+    "23": {
+        "cogvideox5b": "Elegant ballroom scene with dancers in colorful gowns, chandeliers, ornate decor, and a seated orchestra in the background.",
+        "kling": "The frames depict a ballroom with chandeliers, a large dance floor, seated audience, and performers in formal attire.",
+        "gen3": "The frames depict an opulent, ornate hall with grand chandeliers, intricate flooring, gold accents, columns, and luxurious drapery.",
+        "videocrafter2": "Elegant ballroom with chandeliers, wooden floor, ornate walls, large windows with curtains, and warm lighting.",
+        "pika": "The frames depict an elegant, dimly lit ballroom with large arched windows, ornate chandeliers, and intricate architectural details.",
+        "show1": "The frames depict silhouetted dancers in flowing dresses performing under dramatic lighting on a stage, creating a moody atmosphere.",
+        "lavie": "The frames depict an opulent ballroom with grand chandeliers, red velvet chairs, ornate curtains, and a polished wooden floor."
+    },
+    "26": {
+        "cogvideox5b": "A bartender serves drinks in a dimly lit bar with hanging lights, shelves of bottles, and patrons seated at the counter.",
+        "kling": "The frames depict a cozy bar with wooden stools, shelves of bottles, pendant lights, and a neon \"Salus\" sign.",
+        "gen3": "A bar setting with various bottles, two large glasses, a martini glass, stools, and people moving in the background.",
+        "videocrafter2": "The frames depict a bar with shelves of bottles, hanging lights, a long counter, and red stools.",
+        "pika": "The frames show a wooden cabinet with intricate carvings, a glossy finish, and decorative elements, set against a dark background.",
+        "show1": "The frames depict a bar with shelves of various liquor bottles, a wooden counter, and hanging glasses.",
+        "lavie": "The frames show a dimly lit bar setting with a glass of beer and a straw on a reflective surface."
+    },
+    "29": {
+        "cogvideox5b": "The frames depict a rustic barn at sunset, surrounded by fields, with hay bales and warm, golden light.",
+        "kling": "The frames show a wooden barn with a pitched roof, surrounded by green grass and a clear blue sky.",
+        "gen3": "The frames depict a rustic barn, tractor, wheat field, cows, and chickens under a clear sky with sunlight.",
+        "videocrafter2": "The frames show a red barn with a metal roof, surrounded by green fields and rolling hills in the background.",
+        "pika": "The frames depict a red barn and silo under a clear blue sky, surrounded by grass and trees.",
+        "show1": "The frames depict a red barn with a gray roof, cupola, and green field, under a clear blue sky.",
+        "lavie": "The frames show a red barn with a large door, surrounded by green grass and trees under a cloudy sky."
+    },
+    "32": {
+        "cogvideox5b": "The frames depict a dimly lit, cluttered room with cobwebs, scattered papers, a staircase, and a closed door.",
+        "kling": "The frames show a wooden-paneled room with a recessed ceiling light and a white bathtub.",
+        "gen3": "The frames depict a dim, dusty room with a damaged wall, scattered debris, and photos pinned to a corkboard.",
+        "videocrafter2": "The frames depict an empty, dimly lit room with yellow walls, patterned lower trim, ceiling cameras, and a central fixture.",
+        "pika": "The frames depict a dimly lit, narrow room with wooden shelves, blue walls, and a textured floor.",
+        "show1": "The frames depict a dimly lit, unfinished staircase with wooden steps, a small bucket, and a textured wall.",
+        "lavie": "The frames depict a dimly lit stone corridor with overhead lights, rough-textured walls, and a slightly open door."
+    },
+    "35": {
+        "cogvideox5b": "The frames depict a sunny beach with a sailboat, palm trees, seagulls, colorful umbrella, and sandals on the sand.",
+        "kling": "The frames depict a sunny beach with white sand, clear blue water, people, greenery, and a rocky pier.",
+        "gen3": "Golden sandy beach, turquoise ocean waves, white foam, clear blue sky, flock of birds flying over the shoreline.",
+        "videocrafter2": "The frames show a sandy beach with gentle waves approaching, featuring ripples and some scattered debris on the sand.",
+        "pika": "The frames depict a coastal scene with a sandy beach, turquoise water, rocky cliffs, greenery, and blue beach chairs.",
+        "show1": "The frames depict a serene beach with white sand, gentle waves, lush greenery, and a distant boat under a blue sky.",
+        "lavie": "The frames depict a tropical beach with palm trees, white sand, blue ocean, and clear sky, conveying a serene atmosphere."
+    },
+    "38": {
+        "cogvideox5b": "The frames show a cozy bedroom with blue walls, sheer curtains, a fluffy bed, pillows, and a wooden nightstand.",
+        "kling": "The frames show a cozy bedroom with a bed, nightstands, lamps, curtains, a TV, and a window.",
+        "gen3": "The frames depict a cozy bedroom with a wooden bed, fluffy bedding, nightstands, lamps, curtains, and a window.",
+        "videocrafter2": "Modern bedroom with a bed, side tables, lamps, plants, clock, and a large window casting light on the floor.",
+        "pika": "The frames depict a bedroom with ornate wallpaper, wooden furniture, a bed, lamps, and a rug on wooden flooring.",
+        "show1": "The frames show a bedroom with a bed, floral pillows, a white headboard, a lamp, and a striped wall.",
+        "lavie": "The frames show a bedroom with a bed, pillows, beige walls, a window, ceiling fan, and wooden furniture."
+    },
+    "41": {
+        "cogvideox5b": "The frames depict a stone bridge over a river, surrounded by greenery, transitioning to a sunset view with birds.",
+        "kling": "The frames depict a serene mountain landscape at dusk, with silhouetted trees, a valley, and a colorful horizon.",
+        "gen3": "The frames depict a bridge over a river at sunset, with city skyline, cars, and autumn trees in the background.",
+        "videocrafter2": "The frames depict a white bridge over a flowing river, surrounded by lush green trees and foliage.",
+        "pika": "The frames depict a large bridge over a calm river, surrounded by lush green trees under a partly cloudy sky.",
+        "show1": "The frames depict a bridge over calm water, with vehicles moving across, under a cloudy sky.",
+        "lavie": "The frames show a long bridge over a wide river, surrounded by lush greenery and distant hills under a cloudy sky."
+    },
+    "44": {
+        "cogvideox5b": "Lush tropical garden with vibrant flowers, dense foliage, palm trees, and a reflective pond under dappled sunlight.",
+        "kling": "Lush garden with vibrant flowers, manicured shrubs, a central pond, stone pathways, and surrounding greenery under a clear sky.",
+        "gen3": "The frames depict a lush greenhouse with a central fountain, vibrant red flowers, green foliage, and a glass ceiling.",
+        "videocrafter2": "The frames show a lush, symmetrical garden with hedges, colorful flowers, and people walking on a path.",
+        "pika": "The frames depict a vibrant garden scene with purple and pink flowers, green stems, and soft lighting.",
+        "show1": "The frames depict lush green foliage with rounded, bush-like shapes and dense, leafy textures in a natural setting.",
+        "lavie": "The frames depict a lush garden with vibrant green grass, various colorful flowers, and dense surrounding foliage."
+    },
+    "47": {
+        "cogvideox5b": "The frames depict a cozy caf\u00e9 with people seated, a pastry display, large windows, and warm lighting.",
+        "kling": "A table with various colorful dishes, fruits, and vegetables on a red tablecloth, surrounded by chairs and glasses.",
+        "gen3": "Students in a cafeteria, carrying trays with diverse meals, sit by large windows, engaging and smiling in a bright setting.",
+        "videocrafter2": "The frames depict an empty cafeteria with green walls, red booths, square tables, chairs, and overhead fluorescent lighting.",
+        "pika": "A burger with lettuce, cheese, and sauce is topped with a melting cheese net, set against a dark background.",
+        "show1": "The frames depict an empty cafeteria with long tables, red chairs, bright ceiling lights, and a tiled floor.",
+        "lavie": "The frames depict an empty cafeteria with yellow ceiling, metal tables and chairs, large windows, and ceiling fans."
+    },
+    "50": {
+        "cogvideox5b": "The frames depict a nighttime forest campsite with a green tent, campfire, picnic table, hammock, and starry sky.",
+        "kling": "The frames show a nighttime campsite with a large campfire, a tent, and surrounding trees in a forest setting.",
+        "gen3": "The frames depict a serene lakeside sunset with an orange tent, surrounded by trees and reflecting water.",
+        "videocrafter2": "The frames show a grassy field with six tents, a table, and surrounding trees under a clear sky.",
+        "pika": "The frames depict a cozy log cabin with a blue roof, surrounded by a campfire, chairs, and trees at dusk.",
+        "show1": "The frames show a blue tent on grassy terrain with a clear sky and horizon in the background.",
+        "lavie": "The frames show a sunny campsite with two tents, surrounded by lush green trees and a mountain in the background."
+    },
+    "53": {
+        "cogvideox5b": "The frames depict a vibrant campus scene with a brick building, blooming trees, flowers, people walking, and a pond.",
+        "kling": "The frames show a campus with red-brick buildings, green trees, a tower, and a clear blue sky.",
+        "gen3": "The frames depict a bustling university campus with a clock tower, red brick building, green lawns, trees, and people walking.",
+        "videocrafter2": "The frames show a symmetrical building with red facade, surrounded by trees, a pathway, and a grassy area.",
+        "pika": "The frames depict a white building with arched windows, surrounded by colorful flowers and trees under a clear sky.",
+        "show1": "The frames depict a symmetrical building with a central entrance, surrounded by trees, a courtyard, and a clear blue sky.",
+        "lavie": "The frames depict a symmetrical campus with red brick buildings, green lawns, pathways, and a central domed structure."
+    },
+    "56": {
+        "cogvideox5b": "The frames depict a brightly lit carousel with colorful horses, spinning against a deep blue evening sky.",
+        "kling": "The frames depict a rotating carousel with horse figures, ornate decorations, and a two-tiered structure under a cloudy sky.",
+        "gen3": "The frames show a brightly lit, colorful carousel with horses, spinning at night against a dark sky.",
+        "videocrafter2": "The frames show a brightly lit carousel with ornate decorations, featuring horses and a rotating platform.",
+        "pika": "The frames depict a colorful, ornate carousel ride at night, with bright lights and a deep blue sky.",
+        "show1": "The frames show a colorful carousel with horses, decorative panels, and a striped canopy, set outdoors with trees visible.",
+        "lavie": "The frames show a brightly lit carousel at night, featuring ornate decorations, horses, and intricate light patterns."
+    },
+    "59": {
+        "cogvideox5b": "The frames depict a medieval castle exterior at sunset and an ornate interior with chandeliers, arches, and a grand staircase.",
+        "kling": "The frames depict a medieval stone castle with towers, battlements, a central gate, surrounded by a moat and landscape.",
+        "gen3": "The frames depict a stone castle with flags, rolling hills, a river, and a cloudy sky transitioning to sunset.",
+        "videocrafter2": "The frames depict a stone castle with multiple towers, flags, and a grassy hill under a clear sky.",
+        "pika": "The frames depict a large, medieval-style castle with multiple towers, set on a hill under a dramatic, cloudy sky.",
+        "show1": "The frames depict a castle with multiple towers and flags, set against a clear blue sky and surrounded by greenery.",
+        "lavie": "The frames depict a stone castle with round towers, battlements, and a clear blue sky in the background."
+    },
+    "62": {
+        "cogvideox5b": "The frames depict a dimly lit cemetery with tombstones, a mausoleum, statues, and a path covered in fallen leaves.",
+        "kling": "The frames depict a cemetery with numerous gravestones, green grass, trees, and a cloudy sky.",
+        "gen3": "The frames depict a misty graveyard at dusk with tombstones, bare trees, and birds flying in a purple-hued sky.",
+        "videocrafter2": "The frames depict a cemetery with various tombstones and crosses, surrounded by green grass and dense trees.",
+        "pika": "The frames depict a serene cemetery with numerous gravestones, crosses, flowers, and surrounding trees under a clear sky.",
+        "show1": "The frames depict a cemetery with numerous tombstones and a prominent stone archway, set against a clear sky.",
+        "lavie": "The frames depict a cemetery with numerous tombstones, green grass, and trees under a clear blue sky."
+    },
+    "65": {
+        "cogvideox5b": "A classroom with students raising hands, a teacher at the whiteboard, desks, books, and a world map.",
+        "kling": "A classroom with students seated at desks, a teacher at the front, books open, and educational posters on walls.",
+        "gen3": "Children in a sunlit classroom, sitting at desks, writing in notebooks, with large windows and a bright atmosphere.",
+        "videocrafter2": "Children in a classroom, sitting at desks, writing in notebooks. Brightly lit room with windows and a chalkboard.",
+        "pika": "The frames depict a classroom with children, desks, chairs, a teacher, bookshelves, and a bright, well-lit environment.",
+        "show1": "Children in a classroom, seated at desks, wearing uniforms. The room has a simple, beige interior with minimal decor.",
+        "lavie": "The frames depict a cartoon child holding a gift in a room with a green board, door, and shelves."
+    },
+    "68": {
+        "cogvideox5b": "The frames depict a coastal scene with towering rock formations, cliffs, ocean waves, and grassy foreground under a colorful sky.",
+        "kling": "The frames depict a lush, green forested landscape with steep cliffs, rocky formations, and a small cave opening.",
+        "gen3": "The frames depict a rocky cliff with sparse trees on top, overlooking a vast landscape and distant water body under a cloudy sky.",
+        "videocrafter2": "The frames depict a rocky cliff with layers of stone, surrounded by lush green grass and dense foliage.",
+        "pika": "The frames depict a rocky cliff with red and beige layers, green vegetation, and a clear blue sky.",
+        "show1": "The frames depict a coastal cliff with layered rock formations, dense greenery on top, and a vast blue ocean.",
+        "lavie": "The frames depict a rugged cliffside with patches of vegetation, overlooking a vast, calm ocean under a clear blue sky."
+    },
+    "71": {
+        "cogvideox5b": "The frames depict a busy city crosswalk with numerous pedestrians, diverse clothing, and surrounding urban buildings and traffic lights.",
+        "kling": "The frames show a quiet urban intersection with a crosswalk, traffic lights, trees, buildings, and a few cars.",
+        "gen3": "People crossing a city street at sunset, surrounded by tall buildings, trees, and moving vehicles. Urban, busy atmosphere.",
+        "videocrafter2": "The frames show a road intersection with white crosswalk lines, a yellow dividing line, and road markings.",
+        "pika": "The frames show two people crossing a street with a striped pedestrian crossing and yellow road markings.",
+        "show1": "The frames show a road with a pedestrian crossing, featuring a textured design and a star emblem.",
+        "lavie": "The frames show a road with white and yellow markings, including arrows and lines, indicating traffic directions."
+    },
+    "74": {
+        "cogvideox5b": "Construction site at sunrise, cranes, excavators, workers in safety gear, dust in the air, steel structures, and equipment.",
+        "kling": "Construction site with cranes, green scaffolding, dirt piles, trucks, and buildings in the background. Busy, active development area.",
+        "gen3": "The frames depict a construction site with cranes, transitioning to a reflective glass building against a cityscape backdrop.",
+        "videocrafter2": "The frames depict a construction site with a large foundation, wooden beams, sand, and a worker in blue.",
+        "pika": "The frames depict a construction site with multiple cranes, partially built structures, and steel beams under a clear sky.",
+        "show1": "The frames depict a construction site with cranes, partially built structures, scaffolding, and a cloudy sky.",
+        "lavie": "The frames show a high-rise building under construction with cranes, scaffolding, and multiple floors."
+    },
+    "77": {
+        "cogvideox5b": "The frames depict a dimly lit, narrow hallway with tiled floors, fluorescent lights, and framed pictures on the walls.",
+        "kling": "The frames depict a narrow, dimly lit hallway with beige walls, a red carpet, and a closed wooden door at the end.",
+        "gen3": "The frames depict a dimly lit, long, narrow concrete corridor with a series of overhead lights and a distant vanishing point.",
+        "videocrafter2": "The frames depict a long, symmetrical hallway with closed doors, bright overhead lights, and a reflective floor.",
+        "pika": "The frames depict a dimly lit, ornate wooden staircase with intricate railings and a patterned carpet runner.",
+        "show1": "The frames depict a dimly lit, narrow hallway with patterned carpet, wall art, and ceiling lights.",
+        "lavie": "The frames depict a narrow, long hallway with wooden flooring, white walls, and a distant doorway."
+    },
+    "80": {
+        "cogvideox5b": "The frames depict a sunlit courtyard with cherry blossoms, stone walls, ivy, benches, and a decorative wrought iron centerpiece.",
+        "kling": "The frames depict a courtyard with brick walls, tiled roofs, a central tree, and stone pavement, under soft lighting.",
+        "gen3": "The frames depict a courtyard with arches, ivy-covered walls, fountains, stone pathways, and people walking around.",
+        "videocrafter2": "The frames depict a symmetrical garden courtyard with trimmed hedges, potted plants, arched doorways, and a stone pathway.",
+        "pika": "The frames depict a courtyard with a central fountain, surrounded by white buildings with red-tiled roofs and arched walkways.",
+        "show1": "The frames depict a courtyard with arched doorways, stone walls, and a clear sky, creating a serene, historical atmosphere.",
+        "lavie": "The frames depict a historic courtyard with a stone path, lush greenery, and an aged, multi-story building facade."
+    },
+    "83": {
+        "cogvideox5b": "The frames depict a desert landscape with sand dunes, clear skies, and a transition to a starry night sky.",
+        "kling": "Desert landscape with sand dunes, two cacti, scattered bushes, and a setting sun creating a warm, serene atmosphere.",
+        "gen3": "The frames depict a solitary tree on sand dunes, with a clear sky and scattered particles or debris in motion.",
+        "videocrafter2": "The frames depict a vast desert landscape with sand dunes, sparse vegetation, distant mountains, and a clear blue sky.",
+        "pika": "The frames depict a desert landscape at sunset with silhouetted cacti, dark sand dunes, and a colorful sky.",
+        "show1": "The frames depict vast, undulating desert dunes under a clear blue sky, with distant mountains on the horizon.",
+        "lavie": "The frames depict vast, smooth sand dunes under a clear blue sky, showcasing a serene desert landscape."
+    },
+    "86": {
+        "cogvideox5b": "The frames depict a bustling city street with yellow taxis, skyscrapers, pedestrians, and vibrant lighting, suggesting a busy urban environment.",
+        "kling": "Aerial view of a cityscape with tall buildings, streets, and a distant waterfront under a clear blue sky.",
+        "gen3": "The frames depict a cityscape at sunset transitioning to night, featuring skyscrapers, a busy road, and vibrant lights.",
+        "videocrafter2": "The frames depict a cityscape with modern skyscrapers, tree-lined streets, moving vehicles, and distant hills under a clear sky.",
+        "pika": "The frames depict a city street at sunset, featuring skyscrapers, a bus, a car, and vibrant sky colors.",
+        "show1": "The frames depict a cityscape with tall buildings, streetlights, and a hazy sky, creating an urban atmosphere.",
+        "lavie": "The frames depict a city street with tall buildings, glass facades, and a clear blue sky."
+    },
+    "89": {
+        "cogvideox5b": "The frames depict a tree-lined street in autumn, with a bicycle, hedges, flowers, and a car approaching.",
+        "kling": "A winding road flanked by lush green trees and bushes, with a clear sky and no visible vehicles.",
+        "gen3": "The frames show a suburban house with a driveway, parked car, bicycles, basketball, and surrounding trees in a neighborhood.",
+        "videocrafter2": "The frames show a curved concrete path bordered by grass and mulch, with fallen leaves scattered along the edges.",
+        "pika": "The frames depict a modern house with a circular driveway, landscaped garden, and unique stone-patterned path, under clear skies.",
+        "show1": "The frames depict a sunny, tree-lined road with a green fence, palm trees, and lush vegetation on both sides.",
+        "lavie": "The frames depict a serene, tree-lined path with lush green foliage, creating a peaceful, natural atmosphere."
+    },
+    "92": {
+        "cogvideox5b": "The frames depict a farm scene with a tractor, chickens, cows, a barn, a farmer, carrots, and a windmill.",
+        "kling": "The frames show a green pasture with cows, a barn, fences, and a dirt path in a rural setting.",
+        "gen3": "Golden wheat field, red barn, distant trees, sunset glow, lens flare, man walking, truck and trailer, serene rural landscape.",
+        "videocrafter2": "A white cow stands in a lush, green, and brown striped field, surrounded by rows of crops.",
+        "pika": "The frames depict a serene farm scene with red barns, a silo, trees, and a vibrant sunset sky.",
+        "show1": "The frames depict a stylized landscape with green hills, trees, a red tractor, and a small red machine.",
+        "lavie": "The frames show a plowed field with a green pasture in the background and a cow grazing."
+    },
+    "95": {
+        "cogvideox5b": "The frames depict a busy food court with people dining, vibrant menu boards, and a lively atmosphere.",
+        "kling": "The frames depict a bustling night market with red signage, food stalls, outdoor seating, and people dining.",
+        "gen3": "The frames depict a bustling food court with diners, vibrant displays, and a large pan of steaming food being prepared.",
+        "videocrafter2": "The frames show a food court with red stools, a pizza counter, and people walking and ordering food.",
+        "pika": "The frames depict ornate, illuminated lanterns with intricate designs, featuring warm colors and a dark, atmospheric background.",
+        "show1": "The frames depict a bustling indoor food court with people seated and walking, featuring bright signage and various food stalls.",
+        "lavie": "The frames show a food court with yellow geometric ceiling lights, tables, chairs, and various food stalls in the background."
+    },
+    "98": {
+        "cogvideox5b": "The frames depict a vibrant football field with yard lines, goalposts, a packed stadium, and a clear blue sky.",
+        "kling": "The frames show a football field with yard lines, a central circle, and a person standing on the center line.",
+        "gen3": "The frames depict an empty, well-lit football stadium with goalposts, seating, and advertising banners, under a domed roof.",
+        "videocrafter2": "The frames show an aerial view of a green sports field with white markings, goal areas, and boundary lines.",
+        "pika": "The frames show a sports field with marked lines, logos, numbers, and a blue track surrounding the green turf.",
+        "show1": "The frames show a green sports field with white lines, markings, and a central dividing line, viewed from above.",
+        "lavie": "The frames show a green soccer field with white boundary lines, featuring a corner area and part of the penalty box."
+    },
+    "101": {
+        "cogvideox5b": "A sunlit forest path with tall trees lining both sides, casting shadows on the road covered with scattered leaves.",
+        "kling": "The frames depict a winding road through a dense forest with tall trees and cloudy skies, featuring a moving car.",
+        "gen3": "The frames depict a winding forest road with tall trees, dappled sunlight, and a serene, lush green atmosphere.",
+        "videocrafter2": "The frames depict a straight road through a dense, tall forest with lush green trees and soft sunlight.",
+        "pika": "The frames depict an aerial view of a forested landscape with a winding road, under a clear blue sky.",
+        "show1": "A winding forest road with dense green trees, overcast sky, and wet, muddy tracks. The scene is serene and lush.",
+        "lavie": "The frames depict a narrow road surrounded by dense green forest, with sunlight filtering through the tree canopy."
+    },
+    "104": {
+        "cogvideox5b": "The frames show a fountain with flowing water, colorful flowers, people walking, and birds flying around.",
+        "kling": "The frames show a stone fountain with flowing water, surrounded by grass, flowers, and a paved walkway.",
+        "gen3": "The frames depict a fountain with water jets, surrounded by trees and historic buildings under a clear blue sky.",
+        "videocrafter2": "The frames show a multi-tiered fountain with flowing water, surrounded by greenery and a circular stone basin.",
+        "pika": "The frames depict a serene fountain display with water jets, sunlight, and reflections on a calm water surface.",
+        "show1": "The frames show a circular fountain with water jets and a central spray, surrounded by greenery and sunlight.",
+        "lavie": "The frames show a symmetrical fountain with multiple water streams, surrounded by greenery and a paved area."
+    },
+    "107": {
+        "cogvideox5b": "The frames depict a vintage gas station at sunset, with old pumps, a weathered sign, and a red car arriving.",
+        "kling": "The frames show a gas station with a blue canopy, multiple pumps, cars, and surrounding commercial buildings under a clear sky.",
+        "gen3": "The frames depict a dimly lit, foggy parking garage with gas pumps, where a car arrives and a person exits.",
+        "videocrafter2": "The frames show a gas station with multiple pumps, a colorful canopy, and a forested background.",
+        "pika": "The frames depict a gas station with multiple fuel pumps, a silver car, and a bright, well-lit interior.",
+        "show1": "The frames depict a gas station with multiple cars, fuel pumps, a yellow and white canopy, and surrounding greenery.",
+        "lavie": "The frames show a gas pump nozzle inserted into a fuel dispenser, with a blurred background and visible branding."
+    },
+    "110": {
+        "cogvideox5b": "The frames depict a deep icy crevasse with towering blue ice walls, snowflakes falling, and a distant horizon.",
+        "kling": "The frames depict a glacier with blue ice, surrounded by mountains and a turquoise glacial lake under a cloudy sky.",
+        "gen3": "The frames depict a stunning icy landscape with turquoise glaciers, jagged ice formations, and a reflective, serene water surface.",
+        "videocrafter2": "The frames depict a glacier with jagged, turquoise ice formations set against a rocky, gray landscape.",
+        "pika": "The frames depict a close-up of layered blue ice with textured ridges and varying shades of blue and white.",
+        "show1": "The frames depict a vast, jagged glacier under a clear blue sky, surrounded by distant mountains and snow.",
+        "lavie": "The frames depict a serene landscape with blue glaciers, rocky terrain, and a clear sky reflected in calm water."
+    },
+    "113": {
+        "cogvideox5b": "The frames depict a sunny golf course with palm trees, a pond, green fairways, and a clear blue sky.",
+        "kling": "The frames depict a lush golf course with sand bunkers, surrounded by dense trees under a clear blue sky.",
+        "gen3": "The frames depict a sunlit golf course with lush green fairways, sand bunkers, trees, and a flagstick.",
+        "videocrafter2": "The frames depict a golf course with a green, sand bunkers, a flag, and surrounding brown grass.",
+        "pika": "The frames depict a scenic golf course with rolling hills, sand traps, trees, and a small water feature under a clear sky.",
+        "show1": "The frames depict a lush golf course with rolling hills, sand traps, flags, and a clear blue sky.",
+        "lavie": "The frames depict a lush green golf course with trees, a sand bunker, and a well-maintained putting green."
+    },
+    "116": {
+        "cogvideox5b": "The frames show a gym with treadmills, wooden flooring, and people exercising or walking in a spacious, well-lit area.",
+        "kling": "The frames show an empty indoor basketball court with wooden flooring, high ceiling, basketball hoops, and a scoreboard.",
+        "gen3": "The frames depict a basketball game in a large indoor arena, focusing on a basketball approaching the hoop.",
+        "videocrafter2": "The frames show an empty indoor basketball court with wooden flooring, high ceiling, red and white walls, and windows.",
+        "pika": "The frames depict an indoor space with a large ice pillar, metal poles, blue flooring, and a high ceiling.",
+        "show1": "The frames depict an empty indoor basketball court with wooden flooring, blue and red markings, and overhead lighting.",
+        "lavie": "The frames show an empty indoor basketball court with wooden flooring, purple walls, and overhead lighting."
+    },
+    "119": {
+        "cogvideox5b": "The frames depict a harbor at sunset with boats, a lighthouse, seagulls flying, and a person in a small boat.",
+        "kling": "The frames depict a marina with boats, clear blue sky, calm water, docks, and buildings in the background.",
+        "gen3": "The frames depict a serene harbor at sunset, with numerous boats, calm water, seagulls, and a glowing horizon.",
+        "videocrafter2": "The frames depict a calm sea with gentle waves, distant ships, and a reflective, sunlit water surface.",
+        "pika": "The frames depict a serene harbor at sunrise, with numerous sailboats, calm water, and misty hills in the background.",
+        "show1": "The frames depict a calm ocean with several boats, distant islands, and a clear blue sky.",
+        "lavie": "The frames depict a marina with numerous docked sailboats, calm water, and a clear blue sky in the background."
+    },
+    "122": {
+        "cogvideox5b": "The frames depict a sunny highway scene with cars, green hills, blue sky, clouds, road signs, and birds flying.",
+        "kling": "The frames show a highway with multiple lanes, vehicles including trucks and cars, surrounded by trees and buildings.",
+        "gen3": "The frames depict a highway with moving vehicles, surrounded by vast, open fields and distant hills under a clear sky.",
+        "videocrafter2": "The frames depict a winding highway through hilly terrain, with multiple cars, a barrier, and lush greenery.",
+        "pika": "The frames depict a highway at sunset with cars and a large truck, featuring glowing headlights and a serene sky.",
+        "show1": "The frames depict a vast, flat landscape with a long, straight road, distant hills, and scattered trees under a cloudy sky.",
+        "lavie": "The frames show a straight, empty highway with two cars, surrounded by greenery and distant hills under a clear sky."
+    },
+    "125": {
+        "cogvideox5b": "The frames show a hospital corridor with staff and patients, followed by a vibrant indoor garden with flowers and trees.",
+        "kling": "The frames show a large building with a parking lot, clear sky, and surrounding industrial structures.",
+        "gen3": "The frames depict a hospital corridor with medical staff in scrubs and lab coats, pushing gurneys and holding documents.",
+        "videocrafter2": "The frames show hospital staff in scrubs moving empty beds down a long, well-lit corridor with yellow walls.",
+        "pika": "The frames depict a hospital room with empty beds, medical staff in blue scrubs, wooden partitions, and a wall clock.",
+        "show1": "An elderly person lies in a hospital bed, wearing a gown, with medical equipment and monitors visible around them.",
+        "lavie": "The frames depict a hospital corridor with empty beds, bright lighting, white walls, and a red digital sign."
+    },
+    "128": {
+        "cogvideox5b": "The frames show a charming yellow house with green shutters, white picket fence, lush garden, and surrounding trees.",
+        "kling": "A house on a lush green hillside, surrounded by dense forests and mountains under a clear sky.",
+        "gen3": "A house with a red door, beige siding, manicured lawn, shrubs, and trees, captured in a sequence of close-up frames.",
+        "videocrafter2": "The frames depict a small house with a sloped roof, surrounded by hedges and trees, set in a grassy area.",
+        "pika": "The frames depict a festive, illuminated house with a wreath, surrounded by purple trees against a vibrant sunset sky.",
+        "show1": "The frames depict a single-story house with a chimney, porch, and manicured lawn, surrounded by trees under a clear sky.",
+        "lavie": "The frames show a house with red-tiled roofs, white walls, and a grassy lawn, set against a tree-filled background."
+    },
+    "131": {
+        "cogvideox5b": "The frames depict a massive iceberg calving, with ice chunks falling into the ocean, surrounded by a cold, icy landscape.",
+        "kling": "The frames show a large iceberg in the ocean under a clear blue sky with scattered clouds.",
+        "gen3": "The frames depict a large, textured iceberg in calm, blue ocean waters under a cloudy sky, with distant ice formations.",
+        "videocrafter2": "The frames depict a cold ocean scene with floating icebergs, varying in size and shape, under a cloudy sky.",
+        "pika": "The frames depict a large, snow-covered iceberg with blue ice, floating in calm, dark water under a clear sky.",
+        "show1": "The frames depict a large iceberg floating in a calm ocean under a clear blue sky, with subtle lighting changes.",
+        "lavie": "The frames depict a large iceberg floating in calm water under a clear blue sky, with consistent lighting."
+    },
+    "134": {
+        "cogvideox5b": "Industrial setting with cranes, warehouses, a worker in a hard hat, welding sparks, and a forklift on a road.",
+        "kling": "The frames depict an industrial area with warehouses, factories, roads, and a distant cityscape under a clear sky.",
+        "gen3": "Industrial landscape with smokestacks, cranes, pipelines, and metal structures under a hazy sky, emitting smoke and steam.",
+        "videocrafter2": "The frames depict an industrial complex with large warehouses, chimneys, and surrounding green fields, viewed from above.",
+        "pika": "The frames depict an industrial landscape with smokestacks emitting smoke under a dramatic, cloudy sky at sunset.",
+        "show1": "The frames depict an industrial complex with large warehouses, chimneys, and distant mountains under a partly cloudy sky.",
+        "lavie": "The frames depict an industrial complex with large buildings, chimneys, and surrounding greenery, viewed from an aerial perspective."
+    },
+    "137": {
+        "cogvideox5b": "The frames depict a dimly lit prison cell with barred windows, a metal bed frame, and a thin mattress.",
+        "kling": "The frames depict a dimly lit, concrete room with a bed, window, desk, chair, and minimal furnishings.",
+        "gen3": "The frames depict a dimly lit, narrow cell with a barred window, a single bed, and peeling walls.",
+        "videocrafter2": "The frames depict a dimly lit prison cell with metal bars, brick walls, and a concrete floor.",
+        "pika": "The frames depict a dimly lit, tiled room with barred windows, casting shadows on the walls, creating a somber atmosphere.",
+        "show1": "A man is behind bars in a dimly lit setting, with changing facial expressions and shadows across his face.",
+        "lavie": "The frames depict a dark, vertical metal grate or bars with a black background, suggesting a prison or cage setting."
+    },
+    "140": {
+        "cogvideox5b": "The frames depict a junkyard with old cars, a tall stack of tires, and a person walking through.",
+        "kling": "The frames depict a barren landscape with scattered piles of garbage, dirt paths, and a distant horizon.",
+        "gen3": "The frames depict a junkyard with piles of wrecked cars, debris, and power lines under a bright sky.",
+        "videocrafter2": "The frames depict a junkyard with rusted, stacked cars surrounded by overgrown greenery and scattered debris.",
+        "pika": "The frames show two old, green, rusted vans with open doors, set against a clear blue sky and trees.",
+        "show1": "The frames depict a junkyard with rusted, abandoned cars, chains, and a corrugated metal building in the background.",
+        "lavie": "The frames depict a junkyard with rusted, stacked cars, scattered debris, and overgrown vegetation in the background."
+    },
+    "143": {
+        "cogvideox5b": "The frames depict a cozy kitchen with wooden cabinets, a farmhouse sink, copper pots, a gas stove, and fresh produce.",
+        "kling": "The frames show a kitchen with wooden cabinets, a stove, countertop appliances, utensils, and a window.",
+        "gen3": "Modern kitchen with granite countertops, stainless steel appliances, large window, outdoor view, person cooking with a steaming pot.",
+        "videocrafter2": "Modern kitchen with stove, cutting board, vegetables, herbs, sink, and cabinets. Consistent lighting and arrangement throughout frames.",
+        "pika": "The frames depict a modern kitchen with dark cabinets, a central island, fruits, a teapot, and a window view.",
+        "show1": "The frames depict a modern kitchen with white cabinets, a central island, range hood, and wooden flooring.",
+        "lavie": "The frames depict a kitchen with beige cabinets, a stove, open shelves, dishes, and a countertop with appliances."
+    },
+    "146": {
+        "cogvideox5b": "The frames depict a grand library with tall arched windows, red chairs, wooden bookshelves, chandeliers, and tables with books.",
+        "kling": "The frames depict a cozy library with wooden shelves, numerous books, a table, chairs, and warm lighting.",
+        "gen3": "The frames depict a grand library with tall wooden bookshelves, arched windows, ornate ceiling, and a large chandelier.",
+        "videocrafter2": "The frames depict a long, elegant library corridor with wooden bookshelves, carpeted floor, and circular ceiling lights.",
+        "pika": "The frames depict a dimly lit, elegant library with tall bookshelves, a wooden table, large windows, and a chandelier.",
+        "show1": "The frames depict a cozy library with wooden shelves, filled with books, and a chair in the background.",
+        "lavie": "The frames depict a narrow library aisle with tall bookshelves on both sides and a bright light at the end."
+    },
+    "149": {
+        "cogvideox5b": "The frames depict a red and white lighthouse on a rocky hill, with a rotating light beam against a starry night sky.",
+        "kling": "The frames show a red and white lighthouse on a cliff by the sea, under a clear blue sky.",
+        "gen3": "The frames show a lighthouse by the sea, with birds flying in the sky during a serene sunset.",
+        "videocrafter2": "The frames show a lighthouse on a rocky island, surrounded by calm ocean waters, with a red-roofed building.",
+        "pika": "The frames depict a wooden pier with two red-and-white lighthouses by the sea under a blue sky with clouds.",
+        "show1": "The frames show a lighthouse on a small rocky base surrounded by calm ocean waters under a clear sky.",
+        "lavie": "The frames show a white lighthouse on a grassy hill with a clear blue sky in the background."
+    },
+    "152": {
+        "cogvideox5b": "The frames depict a modern laboratory with scientists in lab coats, microscopes, test tubes, and a digital display.",
+        "kling": "The frames depict a laboratory with blue shelves, storage cabinets, tables, various lab equipment, and supplies neatly organized.",
+        "gen3": "The frames depict a modern laboratory with equipment, a microscope, and a scientist wearing gloves and protective gear.",
+        "videocrafter2": "The frames depict a laboratory with test tubes on illuminated tables, surrounded by equipment and a light green wall.",
+        "pika": "A laboratory with large windows, metal cabinets, various glassware, and a person in a lab coat working.",
+        "show1": "The frames depict a sterile, futuristic corridor with white walls, bright overhead lighting, and a digital screen on the right.",
+        "lavie": "A scientist in protective gear works with test tubes containing blue liquid in a laboratory setting."
+    },
+    "155": {
+        "cogvideox5b": "The frames depict a grand ivy-covered mansion with ornate architecture, surrounded by manicured gardens and a vibrant sunset sky.",
+        "kling": "The frames show a symmetrical, beige mansion with large windows, a red door, columns, and a brick driveway.",
+        "gen3": "The frames depict a grand mansion at sunset, featuring symmetrical architecture, manicured gardens, statues, and reflecting pools.",
+        "videocrafter2": "The frames depict a large, elegant mansion with a manicured lawn, symmetrical hedges, and a forested backdrop.",
+        "pika": "The frames depict a large, ornate house with multiple balconies, surrounded by greenery, under a bright blue sky.",
+        "show1": "The frames depict a large, ornate mansion with a symmetrical facade, multiple windows, and a well-manicured lawn.",
+        "lavie": "The frames depict a grand, three-story mansion with columns, balconies, and surrounding trees, viewed from the front."
+    },
+    "158": {
+        "cogvideox5b": "The frames depict a serene wetland at sunset with birds wading in shallow water, surrounded by tall grasses.",
+        "kling": "The frames depict a vast grassy wetland with patches of water, under a cloudy sky, surrounded by distant trees.",
+        "gen3": "The frames depict a serene, misty landscape with tall grass, bare trees, a calm lake, and birds flying.",
+        "videocrafter2": "The frames depict a serene marshland with tall green grasses, calm water, and a distant tree line.",
+        "pika": "The frames depict a serene, blurred landscape with trees, a grassy field, and a reflective water body under a blue sky.",
+        "show1": "The frames depict a large, moss-covered rock in a vast grassy field under a blue sky with scattered clouds.",
+        "lavie": "The frames show close-up views of vibrant green grass blades, densely packed and swaying slightly, with natural lighting."
+    },
+    "161": {
+        "cogvideox5b": "Snow-capped mountains, lush green valleys, a winding river, and a bird soaring in a clear blue sky.",
+        "kling": "Mountain range with rocky peaks, green forests, and clear blue sky. Sunlight casts shadows, creating a serene landscape.",
+        "gen3": "The frames depict rugged, snow-capped mountains under a clear blue sky, with distant valleys and peaks visible in the background.",
+        "videocrafter2": "The frames show a white bird with a black tail among large gray rocks on a grassy, mountainous terrain.",
+        "pika": "The frames depict a serene landscape with a rocky mountain, a calm lake, and a bright sun in a clear sky.",
+        "show1": "The frames depict a silhouette of a mountain range against a clear sky, with visible ridges and peaks.",
+        "lavie": "The frames depict a rugged mountain landscape with rocky peaks and lush green vegetation under a clear blue sky."
+    },
+    "164": {
+        "cogvideox5b": "The frames depict a grand, ornate theater with a large audience, intricate decor, and a screen displaying a film.",
+        "kling": "The frames show a dark theater with empty seats, featuring a large screen displaying an outdoor landscape scene.",
+        "gen3": "The frames depict an ornate theater with a large screen, empty red seats, intricate ceiling, and dim lighting.",
+        "videocrafter2": "The frames show an empty cinema with red seats, a large blank screen, and ceiling lights.",
+        "pika": "The frames depict an empty, ornate theater with red seats, blue walls, patterned carpet, and a stage with curtains.",
+        "show1": "The frames depict a dimly lit cinema with purple and orange lighting, featuring rows of seats and a large screen.",
+        "lavie": "The frames show an empty movie theater with red seats and a blank screen, creating a dimly lit atmosphere."
+    },
+    "167": {
+        "cogvideox5b": "The frames depict a museum gallery with sculptures, display cases, paintings, and visitors walking on a polished floor.",
+        "kling": "The frames depict a museum gallery with wooden beams, display cases, artifacts, paintings on walls, and a high ceiling.",
+        "gen3": "The frames depict a grand gallery with ornate ceilings, chandeliers, a central statue, and framed artwork on the walls.",
+        "videocrafter2": "The frames depict a museum gallery with paintings and sculptures on both walls, under a curved, skylit ceiling.",
+        "pika": "The frames depict a dimly lit, ornate interior with columns, sculptures, and a reflective surface, under a blue-toned ceiling.",
+        "show1": "The frames depict an art gallery with various paintings, arched doorway, and soft lighting, creating a serene atmosphere.",
+        "lavie": "The frames depict a narrow, dimly lit hallway adorned with numerous framed pictures and artworks on both walls."
+    },
+    "170": {
+        "cogvideox5b": "The frames depict a recording studio with a mixing console, three monitors, a microphone, piano, and bookshelves.",
+        "kling": "The frames show a music studio with a drummer, drum set, amplifiers, microphones, and sound equipment on a wooden floor.",
+        "gen3": "The frames depict a music studio with guitars, drums, keyboards, microphones, and a musician playing guitar and drums.",
+        "videocrafter2": "The frames show a synthesizer and keyboard setup with large speakers in a minimalistic room.",
+        "pika": "The frames depict a music studio with a mixing console, keyboard, guitar, speakers, and illuminated panels.",
+        "show1": "The frames depict a dimly lit music studio with drums, keyboards, monitors, and a microphone stand, creating a moody ambiance.",
+        "lavie": "The frames show a synthesizer keyboard with various knobs, buttons, and a music stand against a plain wall."
+    },
+    "173": {
+        "cogvideox5b": "The frames depict a cozy nursery with a crib, rocking chair, plush toys, star mobile, and soft lighting.",
+        "kling": "The frames show a bright, colorful playroom with toys, a rocking chair, plants, and a large window.",
+        "gen3": "The frames depict a cozy nursery with animal wall decals, a teddy bear on a chair, and soft lighting.",
+        "videocrafter2": "The frames show a nursery with a crib, pink decorations, wall art, and plush animal heads on a gray wall.",
+        "pika": "Two babies sit in a colorful, whimsical garden, exchanging toys under a bright, dreamy sky with fluffy clouds.",
+        "show1": "The frames show pink and white flowers against a wavy, abstract background with yellow accents, creating a soft, blurred effect.",
+        "lavie": "The frames show a nursery with a crib, wall decorations, toys, storage units, and a window with curtains."
+    },
+    "176": {
+        "cogvideox5b": "The frames depict a dolphin leaping from a vibrant blue ocean into a colorful sunset sky with scattered leaves.",
+        "kling": "The frames show a vast, calm ocean with a small, indistinct object moving through the water, under a clear sky.",
+        "gen3": "The frames depict a serene ocean scene at sunset, with gentle waves, a clear horizon, and scattered clouds.",
+        "videocrafter2": "The frames depict ocean waves crashing onto a sandy beach under a cloudy sky, with varying wave heights and foam.",
+        "pika": "The frames depict a serene ocean scene with gentle waves, distant rocky formations, and a calm, misty atmosphere.",
+        "show1": "The frames depict a serene ocean scene with clear blue water, a pinkish horizon, and a cloudy sky.",
+        "lavie": "The frames depict a serene ocean scene with sunlight reflecting on the water's surface, creating a shimmering effect."
+    },
+    "179": {
+        "cogvideox5b": "The frames depict a modern office with glass walls, people working at desks, and a meeting in progress.",
+        "kling": "The frames depict a bright office with desks, chairs, computers, large windows, plants, and three people working.",
+        "gen3": "The frames depict a modern office with people in business attire, computers, large windows, and a collaborative meeting.",
+        "videocrafter2": "The frames show a grid-like architectural plan with the word \"office\" at the top, featuring lines and numbers.",
+        "pika": "The frames show a modern ceiling with wavy patterns, recessed lighting, and three orange pendant lights.",
+        "show1": "The frames depict a modern office with two chairs, a desk, shelves, large windows, and minimal decor.",
+        "lavie": "The frames show a frosted glass office door with the word \"Office\" and a blurred interior with furniture."
+    },
+    "182": {
+        "cogvideox5b": "The frames depict a grand palace with golden domes, lush gardens, and an opulent interior featuring chandeliers and ornate ceilings.",
+        "kling": "The frames depict a traditional Chinese palace with ornate architecture, red and gold roofs, stone walls, and a central pathway.",
+        "gen3": "The frames depict a detailed, ornate building with multiple spires, surrounded by lush greenery and a distant cityscape.",
+        "videocrafter2": "The frames depict a neoclassical building with a domed roof, columns, and a lush green forest backdrop.",
+        "pika": "The frames depict a grand, ornate building with intricate architecture, golden accents, and a clear blue sky.",
+        "show1": "The frames depict a grand, symmetrical building with two ornate towers, set against a clear blue sky.",
+        "lavie": "The frames depict a grand, historic building with columns, arches, and a dome, surrounded by palm trees under a clear sky."
+    },
+    "185": {
+        "cogvideox5b": "The frames show a busy parking lot with various cars, a modern glass building, and surrounding trees under a clear sky.",
+        "kling": "The frames show a parking lot with seven parked cars, cracked pavement, and a building in the background.",
+        "gen3": "Empty parking lot, two cars moving, distant trees, light poles, overcast sky, horizon, road markings, and industrial background.",
+        "videocrafter2": "The frames show an aerial view of a parking lot with parked cars and two cars moving on a road.",
+        "pika": "The frames show a parking lot with cars and a glowing sign that reads \"PARKKNG\" in the center.",
+        "show1": "The frames depict a parking lot with parked cars, trees, streetlights, and a clear sky in the background.",
+        "lavie": "The frames show a parking lot with multiple cars, a long building, and a cloudy sky in the background."
+    },
+    "188": {
+        "cogvideox5b": "The frames depict a pharmacy with shelves of products, a counter, and staff in white coats assisting a customer.",
+        "kling": "The frames depict a road cutting through a dense, colorful forest with vehicles traveling along it under a cloudy sky.",
+        "gen3": "A pharmacy setting with shelves of medical supplies; a masked woman in scrubs examines bottles and containers.",
+        "videocrafter2": "The frames depict a pharmacy interior with shelves stocked with various products, bright lighting, and tiled flooring.",
+        "pika": "The frames depict a pharmacy interior with shelves of products, a counter with bottles, and decorative vases.",
+        "show1": "Two people in lab coats exchange a medication box in a pharmacy, surrounded by shelves of medicine.",
+        "lavie": "A pharmacist in a white coat stands in a pharmacy, surrounded by shelves filled with various medications and products."
+    },
+    "191": {
+        "cogvideox5b": "A red phone booth in a rainy street, featuring an old rotary phone and a person in a trench coat.",
+        "kling": "The frames show a closed, well-lit elevator door with a sign, surrounded by dark trim and beige walls.",
+        "gen3": "Red phone booth in a rainy city street, with pedestrians and cars passing by. Urban, overcast, and dynamic atmosphere.",
+        "videocrafter2": "The frames show a classic red British phone booth on a paved road with grass and greenery in the background.",
+        "pika": "The frames depict a colorful, ornate phone booth with red, blue, and yellow panels, featuring intricate gold detailing.",
+        "show1": "The frames show a yellow phone booth with \"Ponhool\" above it, set against a modern, industrial-style background.",
+        "lavie": "The frames show a red telephone booth labeled \"THOMPSON\" beside a road, with grass and trees in the background."
+    },
+    "194": {
+        "cogvideox5b": "The frames depict a high-speed race car on a track, with a crowd, checkered flags, and a clear sky.",
+        "kling": "The frames show an aerial view of a racetrack with green fields, roads, buildings, and a cloudy sky.",
+        "gen3": "The frames depict a car race on a track with a large crowd, advertising banners, and multiple racing cars.",
+        "videocrafter2": "The frames depict a distorted racetrack with winding roads, barriers, grass, and advertising banners.",
+        "pika": "The frames depict a distorted racetrack with vibrant colors, grandstands, and a large crowd in the background.",
+        "show1": "The frames depict a racetrack with green, red, and white markings, surrounded by grassy areas and a cloudy sky.",
+        "lavie": "The frames depict a complex network of winding roads or tracks, surrounded by green fields and utility poles."
+    },
+    "197": {
+        "cogvideox5b": "Two waiters in a cozy, warmly lit restaurant set tables with pasta dishes, flowers, candles, and wall decorations.",
+        "kling": "A dining room with a wooden table, chairs, chandelier, sideboard, large window, decorative items, and a red rug.",
+        "gen3": "Elegant restaurant with panoramic views, stylish lighting, buffet, patrons dining and socializing, chefs preparing food, and a vibrant atmosphere.",
+        "videocrafter2": "The frames depict a cozy restaurant with red booths, white tablecloths, elegant table settings, and warm lighting.",
+        "pika": "The frames depict a cozy caf\u00e9 with arched windows, hanging lanterns, and people dining outside in a lush, green setting.",
+        "show1": "The frames depict an empty restaurant with round tables, chairs, green curtains, warm lighting, and a cozy atmosphere.",
+        "lavie": "The frames depict a warmly lit restaurant with red tablecloths, elegant chandeliers, wooden beams, and neatly set tables."
+    },
+    "200": {
+        "cogvideox5b": "The frames depict a serene forest stream with lush green trees arching overhead, creating a tranquil, natural tunnel effect.",
+        "kling": "The frames depict a serene river flanked by lush green forests under a partly cloudy sky, creating a tranquil landscape.",
+        "gen3": "The frames depict a river with rapids, surrounded by lush green trees, an island, and birds flying overhead.",
+        "videocrafter2": "The frames depict a flowing river with rocks, grassy banks, and a cloudy sky in a natural landscape.",
+        "pika": "The frames depict a serene river with golden sunlight reflecting on the water, surrounded by lush green trees.",
+        "show1": "The frames depict a serene river scene with calm water, lush green vegetation, and trees lining the riverbanks.",
+        "lavie": "The frames depict a serene river flowing through dense, lush green forest under an overcast sky."
+    },
+    "203": {
+        "cogvideox5b": "The frames depict a futuristic exhibit with holographic displays, a large globe, digital visuals, and people observing.",
+        "kling": "The frames depict a modern exhibition hall with blue lighting, digital displays, architectural models, and a high ceiling.",
+        "gen3": "Futuristic interior with blue lighting, spherical displays, glass walls, people observing, and dynamic light effects transitioning to purple.",
+        "videocrafter2": "The frames depict a futuristic museum with glass displays, a central spherical exhibit, and people walking under a vaulted ceiling.",
+        "pika": "The frames depict a modern building interior with a large circular skylight and \"Science Moin\" signage, featuring glass walls.",
+        "show1": "The frames depict a futuristic, sleek interior with curved architecture, ambient lighting, and a modern, spacious design.",
+        "lavie": "The frames show a modern building with large windows, columns, and a sign against a clear blue sky."
+    },
+    "206": {
+        "cogvideox5b": "The frames show a showerhead with running water in a tiled bathroom, and a white towel hanging nearby.",
+        "kling": "A person with a towel around their neck stands under a running shower in a tiled bathroom.",
+        "gen3": "The frames show a shower with water streaming down, featuring light green tiled walls and a ceiling-mounted showerhead.",
+        "videocrafter2": "The frames show a modern showerhead with water flowing, set against beige tiled walls.",
+        "pika": "The frames show multiple showerheads with water flowing, set against a tiled bathroom wall with a modern design.",
+        "show1": "The frames show water droplets and streams falling from a showerhead against a blurred, neutral-colored background.",
+        "lavie": "The frames show a showerhead with water flowing, a handheld shower, and beige tiled bathroom walls."
+    },
+    "209": {
+        "cogvideox5b": "Skiers on a snowy mountain slope, surrounded by pine trees and distant peaks under a clear blue sky with sunlight.",
+        "kling": "Snowy mountain landscape with clear blue sky, ski tracks, scattered rocks, and distant skiers descending the slope.",
+        "gen3": "A skier in a red jacket descends a snowy mountain slope, surrounded by snow-covered trees and distant mountain peaks.",
+        "videocrafter2": "A skier in a bright green jacket descends a snowy slope bordered by trees and a fence under clear skies.",
+        "pika": "The frames depict a snowy mountain slope with dense evergreen trees, casting long shadows under clear blue skies.",
+        "show1": "A skier in bright clothing descends a snowy slope under a clear blue sky, leaving tracks in the snow.",
+        "lavie": "The frames show a snowy ski slope with skiers, surrounded by trees and mountains under a cloudy sky."
+    },
+    "212": {
+        "cogvideox5b": "The frames depict a transition from a bright sky with clouds to a starry night sky featuring the Milky Way.",
+        "kling": "The frames show a clear blue sky with scattered white clouds and a small white object in the center.",
+        "gen3": "The frames show a sunset sky with clouds and a flock of birds flying in formation.",
+        "videocrafter2": "The frames depict leafless tree branches against a cloudy sky, suggesting a winter or early spring setting.",
+        "pika": "The frames depict a vibrant sunset over a coastline, with dramatic clouds, vivid colors, and reflections on the water.",
+        "show1": "The frames show a clear blue sky with a few wispy clouds, creating a serene and open atmosphere.",
+        "lavie": "The frames depict a bright sky with scattered clouds, a glowing sun, and a dark, silhouetted landscape below."
+    },
+    "215": {
+        "cogvideox5b": "The frames depict a tall, reflective skyscraper with colorful lights, transitioning to a golden entrance with people entering.",
+        "kling": "The frames show a tall, symmetrical skyscraper with numerous windows, balconies, and a clear sky background.",
+        "gen3": "The frames depict a tall, modern skyscraper with a pointed top, surrounded by a vast urban cityscape under a cloudy sky.",
+        "videocrafter2": "The frames depict a close-up of modern skyscrapers with glass facades, vertical lines, and reflective surfaces.",
+        "pika": "The frames depict a modern building with glass walls, surrounded by lush greenery, under a clear blue sky.",
+        "show1": "The frames depict a tall, modern skyscraper in a futuristic cityscape with a clear blue sky and distant buildings.",
+        "lavie": "The frames depict a tall, dark skyscraper against a clear blue sky, viewed from a low angle."
+    },
+    "218": {
+        "cogvideox5b": "The frames depict a baseball stadium at sunset, with a pitcher on the mound, surrounded by a large crowd.",
+        "kling": "The frames show a baseball stadium with a game in progress, featuring players, spectators, and a sunny sky.",
+        "gen3": "The frames depict a baseball stadium at sunset, with a well-maintained field, empty stands, and a visible scoreboard.",
+        "videocrafter2": "The frames depict an aerial view of a baseball field with a crowd, bases, pitcher's mound, and batter's box.",
+        "pika": "The frames depict a modern stadium with a unique roof design, blue seating, and a baseball field at sunset.",
+        "show1": "The frames depict an aerial view of a large, empty baseball stadium with green grass, surrounded by seating and lights.",
+        "lavie": "The frames depict a baseball stadium with a green field, pitcher's mound, full stands, and flags under a clear sky."
+    },
+    "221": {
+        "cogvideox5b": "The frames depict an ornate staircase with red carpet, golden railings, chandeliers, and a ceiling with decorative artwork.",
+        "kling": "The frames show a carpeted staircase with wooden handrails, white balusters, and beige walls, leading to a bright landing.",
+        "gen3": "The frames depict an ornate staircase with red carpet, intricate railings, chandeliers, and a large circular window above.",
+        "videocrafter2": "The frames show a staircase with wooden steps, white railing, beige walls, and brown carpet in a hallway.",
+        "pika": "The frames depict a wooden staircase with ornate railings, white paneling, and a curved design, captured from various angles.",
+        "show1": "The frames show a wooden staircase with a curved handrail, beige walls, and a patterned carpet on the side.",
+        "lavie": "The frames show a narrow, carpeted staircase with beige walls, leading up to a small landing area."
+    },
+    "224": {
+        "cogvideox5b": "Busy city street with taxis, pedestrians, flower stands, and tall buildings. Motion blur suggests bustling activity and movement.",
+        "kling": "A tree-lined street with parked cars, historic buildings, and a cobblestone road under a clear sky.",
+        "gen3": "The frames depict a bustling city street at sunset, with pedestrians, cars, tall buildings, shops, and streetlights.",
+        "videocrafter2": "The frames depict a narrow street flanked by buildings, trees, and signs, with a distant vehicle moving away.",
+        "pika": "Narrow street with colorful buildings, trees, parked cars, and a horse-drawn carriage moving through the scene.",
+        "show1": "The frames depict a deserted, narrow street with old buildings, street lamps, and a distant vanishing point under a gray sky.",
+        "lavie": "The frames depict a narrow, cobblestone street lined with old buildings, street lamps, and greenery, with a car approaching."
+    },
+    "227": {
+        "cogvideox5b": "A woman shops in a grocery aisle, holding a basket. People pass by, shelves are stocked with various products.",
+        "kling": "The frames depict a supermarket aisle with shelves stocked with various products, including beverages, snacks, and household items.",
+        "gen3": "The frames depict a supermarket aisle with shoppers, carts, produce displays, bright lighting, and a person on a scooter.",
+        "videocrafter2": "The frames show a supermarket aisle with fruits, vegetables, packaged goods, and three people in the distance.",
+        "pika": "The frames depict a supermarket produce section with fruits, vegetables, shelves, overhead lighting, and two people shopping.",
+        "show1": "The frames show a grocery store aisle with shelves of colorful fruits, vegetables, and packaged goods, including a hanging sign.",
+        "lavie": "The frames depict a supermarket aisle with fully stocked shelves, featuring various products and bright overhead lighting."
+    },
+    "230": {
+        "cogvideox5b": "Luxurious indoor pool with chandeliers, palm trees, turquoise walls, arched ceiling, and lounge chairs by large windows.",
+        "kling": "The frames show a clear blue swimming pool with tiled edges, water reflections, and a small diving board.",
+        "gen3": "The frames show an indoor swimming pool with a swimmer in motion, splashing water, under a glass roof with lane dividers.",
+        "videocrafter2": "The frames show an indoor swimming pool with tiled flooring, large windows, potted plants, and ambient lighting.",
+        "pika": "A person in a swimsuit leans over a pool edge in an indoor swimming facility with blue tiles and lighting.",
+        "show1": "The frames depict an indoor swimming pool with blue water, surrounded by large windows, beige walls, and wooden accents.",
+        "lavie": "The frames depict an indoor swimming pool with blue water, tiled edges, handrails, windows, and curtains."
+    },
+    "233": {
+        "cogvideox5b": "The frames depict a stone tower at sunset, with a small window, vines, and a flag visible.",
+        "kling": "The frames show a stone tower with small windows against a clear blue sky, viewed from a low angle.",
+        "gen3": "The frames depict a tall, ornate tower with intricate windows, surrounded by a vast cityscape under a sunset sky.",
+        "videocrafter2": "The frames show a tall stone tower with a red roof, surrounded by dense green forest under a cloudy sky.",
+        "pika": "The frames depict a serene, reflective lake with a Gothic-style castle, surrounded by lush greenery and a colorful sunset sky.",
+        "show1": "The frames depict a tall, white tower with vertical text, set against a clear blue sky, viewed from below.",
+        "lavie": "The frames show a tall, brick clock tower against a clear blue sky, viewed from a low angle."
+    },
+    "236": {
+        "cogvideox5b": "Runners on a red track, surrounded by trees, mountains, and spectators, under a clear blue sky.",
+        "kling": "A person is running on a red track surrounded by green grass and trees under a cloudy sky.",
+        "gen3": "The frames depict an empty racetrack with lanes, barriers, trees, and a distant bridge under a clear sky.",
+        "videocrafter2": "The frames show a track and field area with red running lanes and green grass, viewed from above.",
+        "pika": "The frames depict an aerial view of a large geoglyph resembling an insect, surrounded by green and brown terrain.",
+        "show1": "The frames show a red running track with white lane markings, surrounded by green grass and distant trees.",
+        "lavie": "The frames show a red running track with white lane markings, surrounded by green grass and trees in the background."
+    },
+    "239": {
+        "cogvideox5b": "A train travels through a sunlit countryside with fields, tracks, smoke, and distant hills under a golden sky.",
+        "kling": "The frames show railway tracks, power lines, greenery, buildings, and a partly cloudy sky during daylight.",
+        "gen3": "The frames depict a railway track with overhead power lines, surrounded by grassy hills and a partly cloudy sky.",
+        "videocrafter2": "The frames show a moving train on parallel tracks, surrounded by lush green trees and a hilly landscape.",
+        "pika": "The frames depict a railway track with overhead power lines, surrounded by greenery and a distant horizon under a clear sky.",
+        "show1": "Two trains pass each other on parallel tracks, with green and blue carriages, under a clear sky.",
+        "lavie": "The frames depict railway tracks curving through a lush, green forested area with clear skies and distant hills."
+    },
+    "242": {
+        "cogvideox5b": "The frames show a train station platform with people walking alongside a stationary train under a covered structure.",
+        "kling": "A train moves along tracks at a station, with passengers visible inside and people waiting on the platform.",
+        "gen3": "A modern train station with a sleek train, arched glass roof, platform, passengers, and luggage. The train is arriving.",
+        "videocrafter2": "The frames show a stationary train at a covered platform, with tiled flooring and overhead lighting.",
+        "pika": "A moving train on a platform with a covered roof, yellow lines, and distant greenery.",
+        "show1": "The frames depict a train station platform with a train, arched roof, people waiting, and tracks curving away.",
+        "lavie": "The frames depict an empty train station platform with tracks, overhead lights, and a covered waiting area on a clear day."
+    },
+    "245": {
+        "cogvideox5b": "Vibrant coral reef with diverse corals, colorful fish, and a sea turtle swimming in clear blue water.",
+        "kling": "Underwater scene with vibrant coral reef, diverse fish swimming, clear blue water, and sunlight filtering through.",
+        "gen3": "The frames depict a vibrant underwater coral reef scene with diverse fish species, colorful corals, and clear blue water.",
+        "videocrafter2": "The frames depict a vibrant underwater coral reef with diverse corals, colorful fish, and clear blue water.",
+        "pika": "The frames depict a vibrant underwater coral reef with diverse corals, colorful fish, and clear blue water.",
+        "show1": "The frames depict an underwater scene with vibrant coral formations, clear blue water, and small fish swimming around.",
+        "lavie": "The frames depict an underwater scene with vibrant coral reefs, diverse marine life, and clear blue water."
+    },
+    "248": {
+        "cogvideox5b": "The frames depict a serene landscape with a winding river, lush green hills, mist, vibrant flowers, and a sunset.",
+        "kling": "The frames depict a picturesque valley with green fields, scattered houses, dense forests, and snow-capped mountains under a cloudy sky.",
+        "gen3": "The frames depict a sunlit valley with rolling hills, lush greenery, yellow flowers, distant mountains, and a reflective river.",
+        "videocrafter2": "The frames depict a lush, green valley with rolling hills, dense forests, and a winding river under a clear sky.",
+        "pika": "The frames depict a mountainous landscape with rugged peaks, dense forests, and a clear, deep blue sky.",
+        "show1": "The frames depict a serene landscape of rolling green hills under a clear blue sky, with distant mountains.",
+        "lavie": "The frames depict a lush, green valley surrounded by steep, rocky mountains under a clear sky."
+    },
+    "251": {
+        "cogvideox5b": "The frames depict an erupting volcano with flowing lava, smoke, and a vibrant sky, surrounded by lush greenery.",
+        "kling": "The frames depict a volcanic eruption with lava, ash clouds, and smoke billowing from the crater against a cloudy sky.",
+        "gen3": "The frames depict an active volcano with flowing lava, smoke, and ash, surrounded by dark rocky terrain and sparse vegetation.",
+        "videocrafter2": "The frames show a volcanic eruption with lava flow, ash clouds, and smoke against a clear sky.",
+        "pika": "The frames depict a fiery, erupting volcano with glowing lava cracks and dark smoke against a dimly lit sky.",
+        "show1": "The frames depict a volcanic eruption with smoke and lava, set against a clear blue sky and dark foreground.",
+        "lavie": "The frames depict an erupting volcano with dark ash, red lava, and smoke against a pale sky."
+    },
+    "254": {
+        "cogvideox5b": "The frames depict a large waterfall cascading down a cliff, surrounded by lush greenery and mist at the base.",
+        "kling": "The frames depict a waterfall cascading over a rocky cliff into a pool, surrounded by lush greenery and moss.",
+        "gen3": "The frames depict a majestic waterfall cascading down a rocky cliff, surrounded by lush green foliage and sunlight.",
+        "videocrafter2": "The frames depict a serene waterfall cascading into a pool, surrounded by lush green foliage and moss-covered rocks.",
+        "pika": "The frames depict a vibrant turquoise waterfall with lush greenery, rocks, and cascading water, creating a serene natural scene.",
+        "show1": "The frames depict a lush forest waterfall cascading over rocks, surrounded by greenery and a prominent tree trunk.",
+        "lavie": "The frames depict a cascading waterfall over rocky terrain, surrounded by lush green foliage and a serene atmosphere."
+    },
+    "257": {
+        "cogvideox5b": "A windmill stands in a sunlit wheat field, with birds flying nearby. The scene gradually darkens, focusing on wheat.",
+        "kling": "The frames show wind turbines in a green field under a clear blue sky with scattered clouds.",
+        "gen3": "The frames depict a windmill in a golden wheat field under a clear blue sky with scattered clouds.",
+        "videocrafter2": "The frames show a white windmill with rotating blades, set against a backdrop of green fields and dense forests.",
+        "pika": "The frames depict a brick windmill with metal and orange blades against a blue sky with clouds.",
+        "show1": "The frames show wind turbines in a field, with one turbine's blades appearing damaged against a clear blue sky.",
+        "lavie": "The frames show a windmill with red and white blades rotating against a clear blue sky and grassy landscape."
     }
 }
