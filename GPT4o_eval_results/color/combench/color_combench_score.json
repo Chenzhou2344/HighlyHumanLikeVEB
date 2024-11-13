@@ -2548,5 +2548,5105 @@
             "score": 3,
             "explanation": "The vase is consistently white and correctly portrayed in all frames."
         }
+    },
+    "1": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red across all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red across all frames, matching the text prompt perfectly."
+        }
+    },
+    "4": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green throughout all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green across all frames, matching the text prompt perfectly."
+        }
+    },
+    "7": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames, matching the text prompt perfectly."
+        }
+    },
+    "10": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow with no color inconsistencies or issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow, matching the text prompt without inconsistencies."
+        }
+    },
+    "13": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange with no color issues."
+        }
+    },
+    "16": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple throughout the frames."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "Color is pink, not purple; similar but not exact match."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "Purple bicycle visible, but background color blending occurs."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "19": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "22": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black throughout all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black and clearly visible in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "25": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white throughout the frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white with no color inconsistencies."
+        }
+    },
+    "28": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently red with no color issues."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently red throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently red with no color issues."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The car is not red; it appears black or dark-colored."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently red across all frames with no color issues."
+        }
+    },
+    "31": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently green, matching the text prompt without inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently green across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently green across all frames, matching the text prompt perfectly."
+        }
+    },
+    "34": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Blue car is visible, but interior and some frames lack color consistency."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently blue with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently blue with no color inconsistencies."
+        }
+    },
+    "37": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently yellow, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently yellow throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently yellow with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "40": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently orange throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently orange across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently orange throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently orange with no color issues."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The car is blue, not orange, which is incorrect."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently orange across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently orange with no color issues."
+        }
+    },
+    "43": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently purple throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently purple with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently purple with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently purple with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently purple across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "46": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently pink throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently pink with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently pink and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cars are consistently pink, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "49": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently black across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently black with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently black with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently black with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "52": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently white throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently white with no color inconsistencies or issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames, matching the text prompt perfectly."
+        }
+    },
+    "55": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently red and clearly portrayed throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently red with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently red with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently red, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently red, matching the text prompt perfectly."
+        }
+    },
+    "58": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently green throughout the frames, matching the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently green, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently green with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently green, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently green with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently green, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently green, matching the text prompt perfectly."
+        }
+    },
+    "61": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently blue throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently blue throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently blue, matching the text prompt without inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently blue, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently blue throughout the frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently blue, matching the text prompt perfectly."
+        }
+    },
+    "64": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt accurately."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        }
+    },
+    "67": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently orange throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently orange throughout the frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt without inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The orange bird is consistently portrayed with stable color and correct distribution."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently orange and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt perfectly."
+        }
+    },
+    "70": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently purple throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently purple with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently purple throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently purple across all frames, matching the text prompt well."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently purple across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "73": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt accurately."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently pink with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The birds are consistently pink, matching the text prompt without any color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt without inconsistencies."
+        }
+    },
+    "76": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently black throughout the frames, matching the text prompt."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently black throughout the frames, matching the text prompt."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently black, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently black, matching the text prompt perfectly."
+        }
+    },
+    "79": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently white, matching the text prompt accurately."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently white across all frames."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "The bird is mostly white, but wings show darker colors inconsistently."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently white, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently white, matching the text prompt perfectly."
+        }
+    },
+    "82": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The cat is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently black, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The cat is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The cat is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cat is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The black cat is consistently portrayed with stable color throughout."
+        }
+    },
+    "85": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently white, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "Cat has white but also brown patches, not fully consistent with 'A white cat'."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cat is consistently white with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt perfectly."
+        }
+    },
+    "88": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The orange cat is consistently portrayed with stable color and correct distribution."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        }
+    },
+    "91": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow throughout the frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow with no color inconsistencies."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The cats are orange, not yellow, indicating color similarity issues."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow with no color issues."
+        }
+    },
+    "94": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The red umbrella is consistently portrayed with stable color distribution."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The red umbrella is consistently portrayed with stable color and correct distribution."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "Red umbrellas are consistently portrayed with stable color distribution."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red and correctly portrayed in all frames."
+        }
+    },
+    "97": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green in all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green across all frames, matching the text prompt perfectly."
+        }
+    },
+    "100": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        }
+    },
+    "103": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The yellow umbrella is consistently portrayed with stable color across all frames."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The umbrella is pink, not yellow, which is incorrect."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "106": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange across all frames, matching the text prompt perfectly."
+        }
+    },
+    "109": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The umbrella is pink, not purple, indicating color similarity issue."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Purple is present but not dominant; yellow is more prominent."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames."
+        }
+    },
+    "112": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The pink umbrella is consistently portrayed across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "115": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black throughout all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black across all frames."
+        }
+    },
+    "118": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The umbrella is black, not white, which doesn't match the text prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white and correctly portrayed in all frames."
+        }
+    },
+    "121": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red and clearly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red and stable across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red across all frames, matching the text prompt perfectly."
+        }
+    },
+    "124": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green and matches the text prompt perfectly."
+        }
+    },
+    "127": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue across all frames, matching the text prompt."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue and matches the text prompt perfectly."
+        }
+    },
+    "130": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Yellow is present but not dominant; green is more prominent."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "133": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange throughout the frames, matching the text prompt."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange across all frames."
+        }
+    },
+    "136": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple and stable across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "139": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink and correctly portrayed throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink, matching the text prompt accurately."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Pink is present but not dominant; suitcase is mostly purple."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "142": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcases are black, consistent with the text prompt, with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "145": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white throughout the frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white with no color inconsistencies."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The suitcase appears gray, not white, indicating color similarity issue."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white across all frames, matching the text prompt perfectly."
+        }
+    },
+    "148": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently red throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "Color changes from red to brown, indicating instability."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "Red is present but not dominant; green is more prominent inside the bowl."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The red bowl is consistently portrayed with stable color and correct distribution."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently red and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently red across all frames, matching the text prompt perfectly."
+        }
+    },
+    "151": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently green, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently green with no color issues."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently green with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently green with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The green bowl is consistently portrayed with stable color and correct distribution."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently green, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently green with no color inconsistencies."
+        }
+    },
+    "154": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue across all frames, matching the text prompt perfectly."
+        }
+    },
+    "157": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "160": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is orange and consistent with the text prompt."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange with no color issues."
+        },
+        "videocrafter2": {
+            "score": 1,
+            "explanation": "The object is an orange, not an orange bowl."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange and matches the text prompt well."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange across all frames, matching the text prompt perfectly."
+        }
+    },
+    "163": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple with no color issues."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "Purple is present but not dominant; green is the main color."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple with no color issues."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "166": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink and matches the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink, matching the text prompt perfectly."
+        }
+    },
+    "169": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently black and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently black throughout the frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently black and correctly portrayed in all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently black and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The black bowl is consistently portrayed with stable color and correct distribution."
+        },
+        "show1": {
+            "score": 1,
+            "explanation": "The bowl is brown, not black, inconsistent with the text prompt."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently black and correctly portrayed in all frames."
+        }
+    },
+    "172": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently white across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently white across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently white and correctly portrayed in all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently white and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently white and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently white across all frames, matching the text prompt perfectly."
+        }
+    },
+    "175": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently red and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently red across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently red and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently red and stable across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently red across all frames, matching the text prompt perfectly."
+        }
+    },
+    "178": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently green, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently green throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently green and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently green and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 1,
+            "explanation": "The chair is orange, not green, contradicting the text prompt."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently green and matches the text prompt perfectly."
+        }
+    },
+    "181": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently blue and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently blue, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The blue chair is consistently portrayed across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently blue with no color inconsistencies."
+        }
+    },
+    "184": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow throughout the frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 1,
+            "explanation": "The chair is not yellow; the background is yellow instead."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "187": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and correctly portrayed in all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chairs are consistently orange and match the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently orange across all frames, matching the text prompt."
+        }
+    },
+    "190": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently purple with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently purple across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently purple throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently purple, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently purple with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently purple across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently purple across all frames, matching the text prompt."
+        }
+    },
+    "193": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently pink, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently pink with no color issues."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently pink throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently pink and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently pink and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 1,
+            "explanation": "The chair is barely visible and indistinct in the frames."
+        }
+    },
+    "196": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently black throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently black and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently black with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently black and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The chair is brown, not black, which doesn't match the text prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently black and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently black and stable across all frames."
+        }
+    },
+    "199": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently white and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently white in all frames, matching the text prompt."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently white throughout the frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently white and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently white and stable across all frames."
+        }
+    },
+    "202": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently red with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently red with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently red with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently red, matching the text prompt perfectly across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently red with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently red with no color inconsistencies."
+        }
+    },
+    "205": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently green, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        }
+    },
+    "208": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently blue and stable across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently blue, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently blue with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently blue with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently blue throughout all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently blue with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently blue with no color inconsistencies."
+        }
+    },
+    "211": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow with no color inconsistencies or issues."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow, matching the text prompt accurately."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The yellow clock is consistently portrayed across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Yellow is on the background, not the clock itself."
+        }
+    },
+    "214": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently orange, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently orange with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently orange with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently orange and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently orange with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 1,
+            "explanation": "The clock is not visible; only an orange background is shown."
+        }
+    },
+    "217": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently purple with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently purple with no color issues."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently purple with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently purple in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently purple with no color issues."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently purple with no color issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "220": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently pink and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently pink, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently pink with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently pink and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently pink and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently pink, matching the text prompt perfectly."
+        }
+    },
+    "223": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently black with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently black and correctly portrayed throughout the frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is black and consistent across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently black and stable throughout the frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently black with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is black and consistent across all frames."
+        }
+    },
+    "226": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently white with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently white and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently white with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is white and consistent across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is white and consistently portrayed across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently white with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently white with no color inconsistencies."
+        }
+    },
+    "229": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently red and clearly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently red and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently red and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently red with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently red with no color inconsistencies or issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently red and stable across all frames."
+        }
+    },
+    "232": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently green and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently green with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently green with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently green and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vases are consistently green, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently green and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently green and matches the text prompt perfectly."
+        }
+    },
+    "235": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently blue and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently blue with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently blue and matches the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently blue with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The blue vases are consistently colored and clearly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently blue and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently blue with no color issues."
+        }
+    },
+    "238": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow and stable across all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow and stable across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Vase is not yellow; it appears dark, blending with background."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow and correctly portrayed in all frames."
+        }
+    },
+    "241": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently orange and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently orange and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently orange and stable throughout the frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The orange vase is consistently portrayed with stable color and correct distribution."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The orange vase is consistently colored and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently orange with no color issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently orange and stable across all frames."
+        }
+    },
+    "244": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color inconsistencies or issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently purple across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "247": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and matches the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and matches the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and matches the text prompt perfectly."
+        }
+    },
+    "250": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently black with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently black with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "Color instability and blending with background observed."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently black and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently black and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently black and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "253": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently white throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently white and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently white with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently white and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The white vases are consistently portrayed across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently white and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently white across all frames."
+        }
+    },
+    "2": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The red bicycles are consistently portrayed across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red and stable across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently red across all frames, matching the text prompt perfectly."
+        }
+    },
+    "5": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 1,
+            "explanation": "The bicycle is black, not green; background is green instead."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently green across all frames, matching the text prompt perfectly."
+        }
+    },
+    "8": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Blue color is present but unstable and blends with background."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue throughout all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently blue across all frames, matching the text prompt perfectly."
+        }
+    },
+    "11": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow with no color issues."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "14": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Orange is present but not dominant; teal is more prominent."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycles are consistently orange throughout all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently orange throughout all frames."
+        }
+    },
+    "17": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple throughout all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Purple color blends with background, causing moderate consistency issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently purple across all frames."
+        }
+    },
+    "20": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "23": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "26": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 1,
+            "explanation": "The bicycle is not white; it appears silver or metallic."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The bicycle is not visible in the frames provided."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bicycle is consistently white across all frames."
+        }
+    },
+    "29": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Sudden color change in one frame; otherwise, red car is consistent."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently red with no color issues throughout the frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently red with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently red and stable across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently red with no color issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently red across all frames, matching the text prompt perfectly."
+        }
+    },
+    "32": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently green, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently green and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently green with no color inconsistencies."
+        }
+    },
+    "35": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Color is correct but unstable across frames, with sudden changes in visibility."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently blue with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently blue with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently blue with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently blue across all frames, matching the text prompt perfectly."
+        }
+    },
+    "38": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently yellow throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently yellow across all frames with no color issues."
+        }
+    },
+    "41": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently orange throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently orange with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently orange throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently orange across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The car is blue, not orange, which is incorrect per the prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently orange and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently orange, matching the text prompt perfectly."
+        }
+    },
+    "44": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently purple throughout the frames, matching the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently purple with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently purple with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently purple across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently purple across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently purple with no color issues."
+        }
+    },
+    "47": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently pink throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently pink, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "50": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently black in all frames, matching the text prompt."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently black with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently black with no color inconsistencies."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The car is gray, not black, which is incorrect."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "53": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The car is consistently white throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The car is consistently white with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The car is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The car is consistently white with no color inconsistencies."
+        }
+    },
+    "56": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently red, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently red with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently red, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently red, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently red, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently red, matching the text prompt perfectly."
+        }
+    },
+    "59": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Green bird is visible, but blending with background and some instability in color."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently green, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently green throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently green throughout all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently green, matching the text prompt without inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently green across all frames, matching the text prompt perfectly."
+        }
+    },
+    "62": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently blue throughout the frames, matching the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently blue, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently blue throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The blue bird is consistently portrayed with stable color throughout."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently blue, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently blue across all frames, matching the text prompt perfectly."
+        }
+    },
+    "65": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt without inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow throughout the frames, matching the text prompt."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently yellow, matching the text prompt perfectly."
+        }
+    },
+    "68": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt without inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt without any inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently orange, matching the text prompt perfectly."
+        }
+    },
+    "71": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently purple throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently purple with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently purple across all frames, matching the text prompt well."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently purple with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently purple throughout the frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently purple across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently purple across all frames."
+        }
+    },
+    "74": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt accurately."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bird is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt without any color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently pink, matching the text prompt perfectly."
+        }
+    },
+    "77": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently black, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "Black bird appears, but color changes and blending occur in frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently black, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently black, matching the text prompt perfectly."
+        }
+    },
+    "80": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bird is consistently white throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bird is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "The bird is mostly white, but some parts are darker."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bird is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bird is consistently white throughout the frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bird is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bird is consistently white across all frames, matching the text prompt perfectly."
+        }
+    },
+    "83": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The black cat is consistently portrayed with stable color throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently black throughout all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The cat is consistently black throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The black cat is consistently portrayed with stable color and correct distribution."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cat is black, consistent with the text prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently black, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cat is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "86": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The cat is consistently white throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The cat is consistently white with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cat is consistently white across all frames, matching the text prompt perfectly."
+        }
+    },
+    "89": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The cat is orange and consistently portrayed across frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cat is consistently orange, matching the text prompt perfectly."
+        }
+    },
+    "92": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow throughout the frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow throughout the frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow across all frames, matching the text prompt."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow across all frames, matching the text prompt."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cat is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "95": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The red umbrella is consistently portrayed across all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The red umbrella is consistently portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently red and matches the text prompt perfectly."
+        }
+    },
+    "98": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green throughout all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green with no color issues."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Green is on handle, not umbrella canopy."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently green, matching the text prompt perfectly."
+        }
+    },
+    "101": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Blue is present but not dominant; white is the main color."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently blue across all frames, matching the text prompt perfectly."
+        }
+    },
+    "104": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrellas are consistently yellow, matching the text prompt without inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently yellow across all frames."
+        }
+    },
+    "107": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The orange color is consistent and stable across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently orange across all frames, matching the text prompt perfectly."
+        }
+    },
+    "110": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "113": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "116": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black across all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The umbrellas are consistently black, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black throughout all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently black across all frames."
+        }
+    },
+    "119": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The umbrella is blue, not white, which doesn't match the text prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The umbrella is consistently white across all frames."
+        }
+    },
+    "122": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red with no color issues."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "Red is present but not dominant; gray is the main color."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red and stable across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently red across all frames, matching the text prompt perfectly."
+        }
+    },
+    "125": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently green across all frames, matching the text prompt perfectly."
+        }
+    },
+    "128": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue throughout the frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue across all frames, matching the text prompt."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently blue across all frames."
+        }
+    },
+    "131": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow and stable across all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The yellow suitcase is consistently portrayed with correct color and stability."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently yellow, matching the text prompt perfectly."
+        }
+    },
+    "134": {
+        "cogvideox5b": {
+            "score": 1,
+            "explanation": "The suitcase is orange, but unrelated frames disrupt consistency."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange throughout all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently orange and correctly portrayed in all frames."
+        }
+    },
+    "137": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple with no color issues."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently purple across all frames."
+        }
+    },
+    "140": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Color is purple, not pink; similar but not exact match."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently pink across all frames."
+        }
+    },
+    "143": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The suitcase is dark, but appears blue, not black."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The suitcase is brown, not black, which doesn't match the text prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently black across all frames, matching the text prompt perfectly."
+        }
+    },
+    "146": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white and stable across all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white across all frames, matching the text prompt."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The suitcases are blue, not white, which doesn't match the text prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The suitcase is consistently white across all frames, matching the text prompt perfectly."
+        }
+    },
+    "149": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently red throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently red across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently red with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The red bowl is consistently portrayed with stable color throughout."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently red and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently red and correctly portrayed in all frames."
+        }
+    },
+    "152": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently green, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently green and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently green with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently green with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently green, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently green with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently green, matching the text prompt perfectly."
+        }
+    },
+    "155": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently blue across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowls are consistently blue, matching the text prompt perfectly."
+        }
+    },
+    "158": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow with no color inconsistencies."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "No yellow bowl is visible; landscape scene instead."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "161": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 1,
+            "explanation": "The bowl is white, not orange, which doesn't match the text prompt."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently orange and correctly portrayed in all frames."
+        }
+    },
+    "164": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple with no color issues."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple across all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "167": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The pink bowl is consistently portrayed with stable color and correct distribution."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "170": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently black throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently black and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The black bowl is consistently portrayed with stable color and correct distribution."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The black bowl is consistently portrayed with stable color and correct distribution."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently black across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bowl is consistently black in all frames, matching the text prompt."
+        }
+    },
+    "173": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bowl is consistently white and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bowl is consistently white across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bowl is consistently white across all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bowl is consistently white and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bowl is consistently white and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bowl is consistently white across all frames."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Bowl is white, but disappears in some frames, indicating instability."
+        }
+    },
+    "176": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently red and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently red and stable across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently red and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently red with no color inconsistencies."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Chair is not fully red; background dominates, causing blending issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently red and matches the text prompt perfectly."
+        }
+    },
+    "179": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently green across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently green and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently green and correctly portrayed in all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently green and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently green with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently green across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently green with no color inconsistencies."
+        }
+    },
+    "182": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently blue throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently blue with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently blue with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently blue with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently blue across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently blue across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently blue and matches the text prompt perfectly."
+        }
+    },
+    "185": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Yellow is present but not dominant; stripes cause confusion."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently yellow across all frames, matching the text prompt perfectly."
+        }
+    },
+    "188": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently orange, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and matches the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and correctly portrayed in all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently orange with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently orange and correctly portrayed in all frames."
+        }
+    },
+    "191": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently purple with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently purple across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently purple throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently purple with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently purple across all frames, matching the text prompt perfectly."
+        }
+    },
+    "194": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently pink and matches the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently pink and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently pink with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently pink and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chairs are consistently pink, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently pink and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently pink across all frames, matching the text prompt perfectly."
+        }
+    },
+    "197": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently black and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently black across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently black and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently black throughout all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chair is consistently black across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently black and correctly portrayed in all frames."
+        }
+    },
+    "200": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The chair is consistently white across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The chair is consistently white and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The chair is consistently white throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The chair is consistently white and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The chair is consistently white across all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The chairs are consistently white, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The chair is consistently white and matches the text prompt perfectly."
+        }
+    },
+    "203": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently red, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently red with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently red throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently red and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently red throughout all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently red and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently red and correctly portrayed in all frames."
+        }
+    },
+    "206": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently green throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently green throughout all frames, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently green and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently green, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently green with no color inconsistencies."
+        }
+    },
+    "209": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently blue throughout all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently blue with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently blue throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently blue with no color inconsistencies."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The object is not recognizable as a clock; color is incorrect."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently blue with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently blue, matching the text prompt perfectly."
+        }
+    },
+    "212": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow, matching the text prompt without inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently yellow with no color inconsistencies."
+        }
+    },
+    "215": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently orange throughout the frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently orange and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently orange throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently orange, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The clock is red and blue, not orange as described."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently orange and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently orange with no color inconsistencies."
+        }
+    },
+    "218": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently purple across all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently purple and stable across frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently purple throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently purple with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently purple throughout all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently purple throughout all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently purple, matching the text prompt perfectly."
+        }
+    },
+    "221": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently pink and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently pink and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently pink with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently pink and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The clock is consistently pink, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently pink with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently pink and matches the text prompt perfectly."
+        }
+    },
+    "224": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently black with no color issues."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently black and stable across all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently black with no color inconsistencies."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The clock is blue, not black, inconsistent with the text prompt."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The clock is consistently black with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently black in all frames, matching the text prompt."
+        }
+    },
+    "227": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The clock is consistently white and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The clock is consistently white and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The clock is consistently white with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The clock is consistently white with no color inconsistencies."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The clock is not white; it appears black, indicating incorrect color allocation."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Clock is white, but yellow rim causes color confusion."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The clock is consistently white and matches the text prompt perfectly."
+        }
+    },
+    "230": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently red and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently red and matches the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently red with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently red and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently red and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently red and matches the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently red with no color issues."
+        }
+    },
+    "233": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently green and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently green with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently green with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vases are consistently green with no color inconsistencies."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently green with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently green with no color issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently green with no color inconsistencies."
+        }
+    },
+    "236": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently blue throughout all frames, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently blue with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently blue with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently blue and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently blue and matches the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently blue with no color inconsistencies."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently blue with no color inconsistencies."
+        }
+    },
+    "239": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow and matches the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow with no color inconsistencies."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow with no color issues."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is yellow and consistently portrayed across frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow across all frames, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently yellow with no color inconsistencies."
+        }
+    },
+    "242": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently orange and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently orange with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently orange throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vases are consistently orange and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The orange vase is consistently portrayed with stable color and correct distribution."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently orange and stable across all frames."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "The vase is orange, but background blending affects color consistency."
+        }
+    },
+    "245": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently purple across all frames, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The vase is green, not purple, which is incorrect."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently purple with no color issues."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently purple across all frames, matching the text prompt."
+        }
+    },
+    "248": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and correctly portrayed in all frames."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently pink with no color issues."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and matches the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The pink vase is consistently colored and stable throughout the frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently pink across all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently pink and correctly portrayed in all frames."
+        }
+    },
+    "251": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently black, matching the text prompt perfectly."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently black with no color inconsistencies."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently black throughout all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently black and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vases are consistently black throughout all frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently black and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently black and correctly portrayed in all frames."
+        }
+    },
+    "254": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The vase is consistently white with no color inconsistencies."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The vase is consistently white and correctly portrayed in all frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The vase is consistently white and correctly portrayed in all frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The vase is consistently white and correctly portrayed in all frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The vase is consistently white with no color inconsistencies."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The vase is consistently white and correctly portrayed in all frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The vase is consistently white and stable across all frames."
+        }
     }
 }
