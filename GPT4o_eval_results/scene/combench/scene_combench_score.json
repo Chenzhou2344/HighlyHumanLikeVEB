@@ -2578,5 +2578,5165 @@
             "score": 3,
             "explanation": "The windmill is clearly depicted with typical features."
         }
+    },
+    "1": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Alley' with typical features like cobblestones and narrow passage."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical features and perspective."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts an alley with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts an alley with typical features and perspective."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Alley' with typical features like narrow path and buildings."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical narrow passage features."
+        }
+    },
+    "4": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an amusement park with typical features like rides and lights."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with typical features like rides and crowds."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with rides and attractions visible."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with typical rides and features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an amusement park with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows typical amusement park features like rides and lights."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows typical amusement park rides and features."
+        }
+    },
+    "7": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with fish and coral."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with fish and typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with fish and coral, showing expected features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The aquarium scene is accurately depicted with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with fish and coral."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an aquarium with fish and water."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with fish and plants."
+        }
+    },
+    "10": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and details."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and structure."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with expected features and landscape."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and consistency."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with detailed and typical features."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene lacks clear arch features, appearing more like natural rock formations."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and consistency."
+        }
+    },
+    "13": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an art gallery with paintings and proper lighting."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an art gallery with paintings and sculptures."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an art gallery with paintings and proper lighting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an art gallery with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene matches an art gallery with paintings and architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames show typical art gallery features with paintings on display."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames show typical art gallery features with paintings on display."
+        }
+    },
+    "16": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bathroom with typical features like a tub and mirror."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bathroom with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene shows a typical bathroom with a shower and sink."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene matches the text prompt with typical bathroom features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bathroom with typical features like sink and mirror."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows a typical bathroom with expected features like a toilet and shower."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows typical bathroom features like a sink, mirror, and toilet."
+        }
+    },
+    "19": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bakery shop with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bakery shop with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bakery shop with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Bakery shop' with typical features and clear signage."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Close-up of pastries lacks broader bakery shop context."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Close-up of bakery items, lacks broader shop context."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Close-up of bread lacks broader bakery context."
+        }
+    },
+    "22": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with dancers and chandeliers."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with typical features and decor."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and elegant decor."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and tables."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and elegant decor."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene matches a ballroom with typical features like chandeliers and open space."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and elegant decor."
+        }
+    },
+    "25": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "Scene perfectly matches a bar with typical features like drinks and lighting."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The text 'Bar' is unclear and resembles 'AARLE'."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bar with typical features and ambiance."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bar scene is accurately depicted with typical features and signage."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The text 'Bar' is clear and accurately portrayed in the image."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bar setting with expected features."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Scene lacks typical bar features, focusing only on a close-up of a drink."
+        }
+    },
+    "28": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The barn is clearly depicted with typical features and correct color."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The barn is accurately depicted with typical features and structure."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The barn is clearly depicted with typical features and setting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The barn is accurately depicted with typical features and structure."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The barn is clearly depicted with typical features and appropriate colors."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The barn is clearly depicted with typical features and red color."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The barn is clearly depicted with typical features and red color."
+        }
+    },
+    "31": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical basement environment."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical basement with wood paneling and low ceiling."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a basement with typical features like shelves and stairs."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical basement with tiled walls and floor."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene matches a typical basement with expected features like furniture and lighting."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a basement with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical basement with brick walls and low lighting."
+        }
+    },
+    "34": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Beach' with sand, sea, and umbrella."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a beach with sand and ocean."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Beach' with sand, ocean, and palm trees."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a beach with sand and waves."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a beach with sand, palm trees, and ocean."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a beach with sand and ocean."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Beach' with sand, sea, and sky."
+        }
+    },
+    "37": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bedroom with typical features like bed and dresser."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bedroom with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene shows typical bedroom features: curtains, wooden floor, and furniture."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bedroom with expected features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bedroom with expected features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows a typical bedroom with a bed and pillows."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows a typical bedroom with expected features."
+        }
+    },
+    "40": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and accurate representation."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bridge is clearly visible and accurately depicted in the frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and structure."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and consistency."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and accurate representation."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and structure."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and structure."
+        }
+    },
+    "43": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with lush plants and flowers."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with diverse plants and water features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with diverse plants and water features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with typical features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Close-up of a plant lacks broader botanical garden context."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames show lush greenery typical of a botanical garden."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with lush greenery and diverse plants."
+        }
+    },
+    "46": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a cafeteria with typical features."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The scene shows food but lacks typical cafeteria features like trays or serving counters."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a cafeteria with typical features and people dining."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cafeteria with typical features like tables and serving area."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Scene lacks clear cafeteria features or signage."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a cafeteria with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene matches a typical cafeteria with tables and chairs."
+        }
+    },
+    "49": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "Scene perfectly matches 'Campsite' with tent, campfire, and forest."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a campsite with a tent and campfire."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Campsite' with a tent, forest, and camping gear."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene shows tents and a sleeping bag, typical features of a campsite."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Campsite' with typical features like tents and nature."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "Scene shows tents and nature, matching typical campsite features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows a tent in a forest, typical of a campsite."
+        }
+    },
+    "52": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The campus scene is well-represented with typical features like buildings and greenery."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a campus with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a campus with typical features like buildings and pathways."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene consistently depicts a campus with typical features like buildings and greenery."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The building is shown, but lacks clear campus identifiers."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a campus with typical architectural features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a campus with typical features."
+        }
+    },
+    "55": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The carousel is vibrant and accurately depicted with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and details."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and vibrant colors."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and colors."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and details."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and vibrant colors."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The carousel is perfectly depicted with typical features and vibrant colors."
+        }
+    },
+    "58": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features and details."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features and structure."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The castle is well-defined with typical features and consistent portrayal."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The castle is well-rendered with typical features and consistent design."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features and consistency."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features and structure."
+        }
+    },
+    "61": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with typical features like tombstones and gates."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with typical features like tombstones and greenery."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with tombstones and mist."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a cemetery with typical gravestones and greenery."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a cemetery with tombstones and a somber atmosphere."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with visible gravestones."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a cemetery with typical features like tombstones and greenery."
+        }
+    },
+    "64": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a classroom with students and a teacher."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical classroom setting."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a classroom with students and educational materials."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene matches a classroom with desks, chairs, and a whiteboard."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical classroom setting with desks and a blackboard."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows children in a classroom setting, matching the text prompt well."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene matches a classroom with chairs and a screen."
+        }
+    },
+    "67": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a cliff with typical features and perspective."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing a clear cliff landscape."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a cliff with expected features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cliff with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a cliff with typical features and consistency."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing a clear cliff."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing a clear cliff with expected features."
+        }
+    },
+    "70": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a crosswalk with people crossing."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical features and markings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical features and context."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly and accurately depicted with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly visible and accurately depicted in the frames."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly visible and accurately depicted in the frames."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical markings and features."
+        }
+    },
+    "73": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with cranes and workers."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with cranes and buildings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene shows cranes and structures typical of a construction site."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with cranes and building structures."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with typical features."
+        }
+    },
+    "76": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical corridor with expected features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical corridor with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames consistently depict a typical corridor with expected features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a corridor with typical features like doors and a long hallway."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a corridor with typical features and perspective."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a corridor with expected features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames depict a typical corridor with expected features."
+        }
+    },
+    "79": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Courtyard' with typical features like benches and a fountain."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a courtyard with typical architectural features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a courtyard with typical features like stone walls and a fountain."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a courtyard with typical architectural features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The courtyard is clearly depicted with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a courtyard with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a courtyard with typical features like arches and greenery."
+        }
+    },
+    "82": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The frames depict a desert with sand dunes and a clear sky."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with sand dunes and cacti."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames show a desert with dunes and a clear sky, matching the text perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with sand, sparse vegetation, and distant mountains."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "Cacti and sun perfectly depict a desert scene."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with typical sand dunes."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with typical sand dunes and arid landscape."
+        }
+    },
+    "85": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a downtown area with typical urban features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Downtown' with typical urban features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Downtown' with skyscrapers and urban layout."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a downtown area with tall buildings."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Downtown' with typical urban features and skyline."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a downtown area with typical urban features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Downtown' with typical skyscrapers and urban features."
+        }
+    },
+    "88": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical driveway with expected features."
+        },
+        "kling": {
+            "score": 1,
+            "explanation": "The scene does not depict a driveway at all."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The driveway is clearly depicted with typical features and context."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical driveway with expected features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a driveway with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a driveway with typical features and perspective."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical driveway with expected features."
+        }
+    },
+    "91": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a farm with typical features like a barn and crops."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a farm with typical features like cows and fields."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a farm with fields, tractor, and animals."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames show typical farm fields, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a farm with typical features like barns and horses."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Farm' with barns and rural landscape."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a farm with expansive green fields."
+        }
+    },
+    "94": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a food court with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a food court with typical features and dining activity."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a food court with typical features."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The text 'Food court' is incomplete, showing 'FOD'."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The text 'Food court' is not clearly readable or accurate."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Text 'Food court' is inconsistent and partially readable."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene matches a food court with typical features and signage."
+        }
+    },
+    "97": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a football field with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a football field with clear markings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a football field with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames clearly depict a football field with typical markings."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a football field with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a football field with typical features."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Close-up of field lines, lacks broader football field context."
+        }
+    },
+    "100": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees and a path."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees lining a road."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees and a road."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with typical features and clear depiction."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The scene shows a lake, not a forest road."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees and a winding path."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames show a forest road with typical features, matching the text prompt well."
+        }
+    },
+    "103": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and flowing water."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water jets."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water jets."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        }
+    },
+    "106": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a gas station with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a gas station with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a gas station with typical features."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The scene resembles a gas station but has incorrect signage text."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a gas station with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a gas station with pumps and canopy."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a gas station with typical features."
+        }
+    },
+    "109": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Glacier' with typical icy features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing typical glacier features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The glacier is accurately depicted with typical icy features and landscape."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing typical glacier features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The images depict a glacier with typical icy features and colors."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing typical glacier features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The glacier is accurately depicted with typical icy features and color."
+        }
+    },
+    "112": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features like greens and trees."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features like greens and sand traps."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features like greens and sand traps."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features."
+        }
+    },
+    "115": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an indoor gymnasium with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an indoor gymnasium with typical features and audience."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an indoor gymnasium with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        }
+    },
+    "118": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a harbor with boats and a lighthouse."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a harbor with boats and docks."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Harbor' with ships and water, showing typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Harbor' with boats and docks clearly visible."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a harbor with boats and water."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene is too vague, lacking specific harbor features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a harbor with boats and water, matching the text prompt perfectly."
+        }
+    },
+    "121": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a highway with typical features like cars and road signs."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a highway with multiple lanes and vehicles."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Highway' with typical features and clear perspective."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The highway scene is clear, with typical features like lanes and vehicles."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a highway with typical features like lanes and vehicles."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a highway with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a highway with typical features."
+        }
+    },
+    "124": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The hospital scene is clear with typical features like staff and medical environment."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The building lacks clear hospital signage, making it moderately consistent with the prompt."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a hospital with medical staff and equipment."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a hospital corridor with typical features."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The object is unrecognizable and lacks any hospital-related features."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene shows a hospital bed but lacks clear signage or identifiers."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a hospital corridor with typical features."
+        }
+    },
+    "127": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features and interior details."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'House' with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical house with expected features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features and consistency."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The house is well-defined with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing a typical house."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features."
+        }
+    },
+    "130": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and colors."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and color."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and color."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "Icebergs are clearly depicted with typical features in the ocean setting."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "Iceberg is incorrectly colored pink, not matching typical iceberg appearance."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and color."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and color."
+        }
+    },
+    "133": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "Frames show typical industrial features like factories and machinery."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an industrial area with typical structures and layout."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an industrial area with cranes and warehouses."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an industrial area with typical features like factories and chimneys."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an industrial area with typical features like factories and smokestacks."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an industrial area with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an industrial area with typical features."
+        }
+    },
+    "136": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a jail cell with bars and minimal furnishings."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a jail cell with typical features like bars and sparse furnishings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene shows typical jail cell features: barred windows, sparse bed, and minimal furnishings."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a jail cell with bars and typical features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Scene lacks typical jail cell features, resembling a small enclosure instead."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a jail cell with bars and a concrete wall."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Close-up of bars; lacks full jail cell context."
+        }
+    },
+    "139": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Scene resembles a junkyard but includes a close-up of hands, limiting perspective."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a junkyard with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a junkyard with typical features like scrap vehicles and debris."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Junkyard' with typical features like old cars and debris."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Close-up of car part; lacks broader junkyard context."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Junkyard' with typical features like a rusty, damaged car."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a junkyard with typical features."
+        }
+    },
+    "142": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical kitchen setting."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical kitchen with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a kitchen with typical features and appliances."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene shows typical kitchen features like pots and a stove."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical kitchen with expected features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a kitchen with typical features like cabinets and a stove."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical kitchen with expected features."
+        }
+    },
+    "145": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "Scene perfectly matches 'Indoor library' with bookshelves and reading tables."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor library with bookshelves and tables."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor library with bookshelves and typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Indoor library' with bookshelves and typical library features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor library with bookshelves and seating."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Indoor library' with bookshelves and typical library features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor library with bookshelves and typical features."
+        }
+    },
+    "148": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and colors."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and correct colors."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and setting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and correct colors."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The lighthouse scene is perfectly depicted with typical features and colors."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The lighthouse is clearly depicted with typical features and accurate representation."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and colors."
+        }
+    },
+    "151": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features like equipment and workspaces."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows typical laboratory features with equipment and glassware."
+        }
+    },
+    "154": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The image perfectly matches a mansion with typical architectural features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a mansion with typical architectural features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Mansion' with typical architectural features and grandeur."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Mansion' with typical architectural features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a mansion with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a mansion with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Mansion' with typical features like size and architecture."
+        }
+    },
+    "157": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with typical features like water and vegetation."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with water and vegetation."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a marsh with typical features like water and grass."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene consistently depicts a marsh with typical features like water and vegetation."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene is vague, lacking clear marsh features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames clearly depict marsh vegetation, matching the text prompt accurately."
+        }
+    },
+    "160": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Mountain' with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the 'Mountain' text prompt with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames show a clear mountain with typical features."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The scene shows rocks, lacking typical mountain features like peaks or elevation."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a mountain with typical features and clear visibility."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a mountain with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Mountain' with typical features."
+        }
+    },
+    "163": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with seats and a large screen."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical seating and lighting."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows typical indoor movie theater features with rows of seats."
+        }
+    },
+    "166": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an indoor museum with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an indoor museum with display cases and exhibits."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor museum with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames show a typical indoor museum with art displays."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks typical museum features, resembling more of a decorative interior."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an indoor museum with typical features like sculptures and arches."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows typical museum features with framed art on walls."
+        }
+    },
+    "169": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a music studio with typical equipment and setup."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a music studio with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a music studio with instruments and equipment."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a music studio with typical equipment."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows typical music studio equipment, matching the text prompt well."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a music studio with typical features."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Close-up of equipment, lacks broader studio context."
+        }
+    },
+    "172": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a nursery with typical features like crib and decor."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The room displays typical nursery features, matching the text prompt well."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a nursery with typical features like decor and furniture."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The nursery scene is accurately depicted with typical features like a crib and toys."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a nursery with typical features like cribs and toys."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a nursery with typical features like furniture and decor."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The nursery scene is accurately depicted with typical features like crib and decorations."
+        }
+    },
+    "175": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The frames depict ocean scenes with water, coral, and a whale, matching the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The frames clearly depict an ocean with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames perfectly depict an ocean with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames show a clear ocean scene with waves and beach."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts an ocean with typical features like water and horizon."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict an ocean with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames consistently depict a clear ocean scene with typical features."
+        }
+    },
+    "178": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an office with typical features like desks and computers."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The scene is outdoors, lacking typical office features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a modern office environment with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical office environment with desks and computers."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an office with typical features like desks and bookshelves."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical office environment with desks and chairs."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "The scene is too vague, lacking specific office identifiers."
+        }
+    },
+    "181": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features and opulent interiors."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the typical features of a palace."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a palace with ornate architecture and chandelier."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The building matches typical palace features, with towers and grand architecture."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features."
+        }
+    },
+    "184": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with cars and typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with parked cars."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames clearly depict a parking lot with visible markings."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a parking lot with cars and parking spaces."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Scene lacks typical parking lot features like cars or clear markings."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with multiple cars."
+        }
+    },
+    "187": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "The pharmacy scene lacks clear signage, making it moderately consistent."
+        },
+        "kling": {
+            "score": 1,
+            "explanation": "The frames show a road, not a pharmacy scene."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "Text 'Pharmacy' is partially visible and unclear in some frames."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a pharmacy with typical features and products."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a pharmacy with typical features and products."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a pharmacy with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a pharmacy with typical features like shelves and products."
+        }
+    },
+    "190": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The phone booth is accurately depicted with typical features."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The phone booth lacks typical features and has unclear signage."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "The phone booth is recognizable but text is incorrect."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The phone booth is accurately depicted with typical features and color."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The phone booth is stylized and lacks typical features like a glass door."
+        },
+        "show1": {
+            "score": 1,
+            "explanation": "The objects do not resemble a phone booth; they appear as digital kiosks."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The phone booth is accurately depicted with typical features and color."
+        }
+    },
+    "193": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a raceway with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a raceway with clear track features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The raceway scene is accurately depicted with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames clearly depict a raceway with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Raceway' with clear track and racing elements."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The text 'Raceway' is barely recognizable and lacks clarity."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a raceway with typical features."
+        }
+    },
+    "196": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a restaurant with typical features like tables and waitstaff."
+        },
+        "kling": {
+            "score": 1,
+            "explanation": "The scene depicts a dining room, not a restaurant."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a restaurant with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a restaurant with typical features like tables and chairs."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Scene lacks clear restaurant identifiers, focusing on food close-up."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a restaurant with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a restaurant with typical features like tables and dining setup."
+        }
+    },
+    "199": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a river with flowing water and surrounding trees."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a river with typical features and natural surroundings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames clearly depict a river with flowing water and natural surroundings."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a river with flowing water and natural surroundings."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a river with flowing water and surrounding greenery."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'River' with flowing water and natural surroundings."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt with typical river features."
+        }
+    },
+    "202": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "The scene resembles a science museum but lacks clear signage or specific identifiers."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a science museum with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene matches a science museum with typical features and exhibits."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The scene lacks clear 'Science museum' identifiers."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a science museum with typical features and exhibits."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Text 'Science' is misspelled; building resembles a museum but lacks clear identifiers."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "The building is recognizable, but lacks clear 'Science museum' signage."
+        }
+    },
+    "205": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Shower' with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly shows a shower with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a shower with water flowing, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt with typical shower features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Close-up of showerhead lacks broader bathroom context."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Close-up of shower lacks broader bathroom context."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The image clearly shows a shower with water flowing."
+        }
+    },
+    "208": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow, skiers, and mountains."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow and skiers."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow and mountains."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow and trees."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Ski slope' with snow, skis, and trees."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Ski slope' with typical features like snow and skiers."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow and skiers."
+        }
+    },
+    "211": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The frames show a clear sky and starry night, matching the 'Sky' prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The frames show a clear blue sky with clouds, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames show a clear sky with clouds, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "Clouds and sky are accurately depicted, matching the text prompt well."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Sky' with clouds and sunlight."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Sky' with blue color and clouds."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames show a clear sky with clouds, matching the text prompt perfectly."
+        }
+    },
+    "214": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with typical features and perspective."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with typical features and perspective."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with typical features and perspective."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames clearly depict a skyscraper with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts skyscrapers with typical features and perspective."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The skyscraper is clearly depicted with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with typical features and perspective."
+        }
+    },
+    "217": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a baseball stadium with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a baseball stadium with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a baseball stadium with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames show a clear baseball stadium with typical features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks typical features, focusing on a net and ball, not the stadium."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a baseball stadium with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a baseball stadium with typical features."
+        }
+    },
+    "220": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and details."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and details."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and good detail."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and details."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features."
+        }
+    },
+    "223": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a busy street with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical street with cars and buildings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical street with cars and buildings."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames clearly depict a street with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a street with typical features like buildings and cars."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a street with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a street with typical features."
+        }
+    },
+    "226": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a supermarket with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a supermarket with aisles and products."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a supermarket with typical features and products."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a supermarket with typical features and layout."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Text 'Supermarket' is misspelled, but scene resembles a supermarket environment."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a supermarket with typical features like shelves and products."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a supermarket with aisles and products visible."
+        }
+    },
+    "229": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly shows an indoor swimming pool with expected features."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "The pool lacks indoor features, resembling an outdoor setting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        }
+    },
+    "232": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and details."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and accurate representation."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with expected structural features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and consistency across frames."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts towers with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with expected features and context."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and consistency."
+        }
+    },
+    "235": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an outdoor track with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an outdoor track with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an outdoor track with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Outdoor track' with typical features visible."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an outdoor track with clear markings and surroundings."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an outdoor track with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Outdoor track' with typical features visible."
+        }
+    },
+    "238": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train on a railway with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train railway with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Train railway' with clear tracks and train visible."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The train and railway are accurately depicted with expected features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train railway with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train on a railway with expected features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames clearly depict a railway track, matching the text prompt perfectly."
+        }
+    },
+    "241": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "Scene matches 'Train station platform' with trains and passengers visible."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with typical features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Scene lacks platform features; focuses on train, not station environment."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with tracks and overhead structures."
+        }
+    },
+    "244": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with vibrant corals and diverse marine life."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with typical features and vibrant colors."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with vibrant corals and fish."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an underwater coral reef with vibrant corals and fish."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an underwater coral reef with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with typical features and vibrant marine life."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with typical features visible."
+        }
+    },
+    "247": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a valley with typical features and landscape."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Valley' with typical features like mountains and greenery."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames depict a valley with typical features and landscape."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Valley' with typical features and landscape."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The frames depict a valley with typical features and consistent scenery."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames consistently depict a valley with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames depict a valley with typical features, matching the text prompt well."
+        }
+    },
+    "250": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The image perfectly depicts a volcano with lava and smoke."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The volcano is accurately depicted with lava and smoke."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames clearly depict a volcanic eruption with lava and smoke."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The volcano is accurately depicted with lava and smoke."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The volcano is accurately depicted with lava and typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a volcano with smoke and lava, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The volcano is accurately depicted with typical features and eruption."
+        }
+    },
+    "253": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt with typical waterfall features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The waterfall is clearly depicted with typical features and flowing water."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a waterfall with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Waterfall' with typical features like cascading water and natural surroundings."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a waterfall with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Waterfall' with typical features and accurate portrayal."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the 'Waterfall' text prompt with typical features."
+        }
+    },
+    "256": {
+        "cogvideox5b": {
+            "score": 1,
+            "explanation": "Windmill is not visible; scene lacks typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "Windmills are clearly depicted with typical features and structure."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The windmill is accurately depicted with typical features and setting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The windmill is accurately depicted with typical features and landscape."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The windmill is clearly depicted with typical features and context."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "Windmills are clearly depicted with typical features in a rural landscape."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The windmill is clearly depicted with typical features and correct colors."
+        }
+    },
+    "2": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Alley' with typical features like narrow path and brick walls."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical alley with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical features and perspective."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical features like narrow path and brick walls."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical features like narrow path and buildings."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an alley with typical features."
+        }
+    },
+    "5": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an amusement park with rides and attractions."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with typical features like rides and crowds."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with typical rides and features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with typical rides and features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an amusement park with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with rides and vibrant colors."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Amusement park' with typical features like Ferris wheels."
+        }
+    },
+    "8": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with vibrant marine life."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with fish and a turtle."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with fish and coral."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The aquarium scene is accurately depicted with typical features like fish and plants."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an aquarium with vibrant coral and marine life."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene matches an aquarium with fish and water, showing typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene matches the text prompt, showing typical aquarium features."
+        }
+    },
+    "11": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and greenery."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and natural lighting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and structure."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with expected features and consistency."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and accurate colors."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The arch is clearly depicted with typical features and consistency."
+        }
+    },
+    "14": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an art gallery with paintings and typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an art gallery with paintings and sculptures."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an art gallery with paintings and sculptures."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an art gallery with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an art gallery with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an art gallery with paintings on the walls."
+        },
+        "lavie": {
+            "score": 1,
+            "explanation": "The frames do not depict an art gallery scene at all."
+        }
+    },
+    "17": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bathroom with typical features like a bathtub and sink."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bathroom with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene shows a bathroom with typical features like a sink and towel."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bathroom with typical features like a tub and sink."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows a typical bathroom with expected features like a sink and bathtub."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows a typical bathroom with expected features like a sink and mirror."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows typical bathroom features: toilet, sink, mirror."
+        }
+    },
+    "20": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bakery shop with typical features like bread and shelves."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bakery shop with typical features."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "The text 'Bakery shop' is unclear and partially obscured."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bakery shop with typical features and clear signage."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks clear bakery signage, making it barely recognizable."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Close-up of bread lacks broader bakery shop context."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Close-up of pastries lacks broader bakery shop context."
+        }
+    },
+    "23": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with dancers and chandeliers."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with dancers and chandeliers."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and ornate decor."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and elegant decor."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and large windows."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows dancers in a ballroom setting, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ballroom with chandeliers and seating."
+        }
+    },
+    "26": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a bar with typical features and ambiance."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The bar scene is accurately depicted with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bar with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bar with typical features and consistent portrayal."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks typical bar features, showing only a close-up of a counter."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bar with typical features like bottles and a counter."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Scene lacks typical bar features, showing only a close-up of a drink."
+        }
+    },
+    "29": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The barn is clearly depicted with typical features and setting."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The barn is accurately depicted with typical features and color."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The barn is accurately depicted with typical features and surroundings."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The barn is accurately depicted with typical features and color."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a barn with typical features and red color."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The barn is accurately depicted with typical features and correct color."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The barn is accurately depicted with typical features and color."
+        }
+    },
+    "32": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical basement environment."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The scene lacks typical basement features, resembling a bathroom with a tub."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical basement environment."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene matches typical basement features: low ceiling, plain walls, and minimal decor."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a basement with typical features like shelves and low lighting."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a basement with typical features like stairs and concrete walls."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene matches a typical basement with stone walls and dim lighting."
+        }
+    },
+    "35": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Beach' with sand, sea, palm trees, and umbrella."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a beach with sand and ocean."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Beach' with sand, waves, and seagulls."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene shows sand and water, typical features of a beach."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a beach with sand, water, and chairs."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a beach with sand, ocean, and sky."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Beach' with sand, ocean, and palm trees."
+        }
+    },
+    "38": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bedroom with expected features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bedroom with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical bedroom with expected features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a bedroom with typical features like a bed and lamps."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a bedroom with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows a typical bedroom with a bed and decor."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows a typical bedroom with expected features."
+        }
+    },
+    "41": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and accurate details."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The bridge is barely visible, lacking clear features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and structure."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and context."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and structure."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and structure."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The bridge is clearly depicted with typical features and perspective."
+        }
+    },
+    "44": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with diverse plants and vibrant colors."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with diverse plants and a pond."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with lush plants and a fountain."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with lush greenery and pathways."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with vibrant flowers."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene shows plants but lacks typical botanical garden features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a botanical garden with lush greenery and diverse plants."
+        }
+    },
+    "47": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a cafeteria with typical features."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The scene shows food but lacks clear cafeteria identifiers."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene matches a cafeteria with typical features and setting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cafeteria with typical features like tables and chairs."
+        },
+        "pika": {
+            "score": 1,
+            "explanation": "The scene shows a burger, not a cafeteria setting."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a cafeteria with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a cafeteria with typical features."
+        }
+    },
+    "50": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a campsite with a tent and campfire."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a campsite with a tent and campfire."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Campsite' with a tent and natural surroundings."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Campsite' with tents and outdoor setting."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a campsite with typical features like tents and a campfire."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows a tent, typical of a campsite setting."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Campsite' with tents and trees."
+        }
+    },
+    "53": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a campus with typical features like buildings and students."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a campus with typical features like buildings and greenery."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a campus with typical features like buildings and people."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a campus with typical features like buildings and pathways."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The building and surroundings match typical campus architecture and features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a campus with typical features like buildings and open space."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a campus with typical features like buildings and pathways."
+        }
+    },
+    "56": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The carousel is vibrant and clearly depicted with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and details."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The carousel is vividly depicted with typical features and vibrant colors."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and details."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features and vibrant colors."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The carousel is accurately depicted with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The carousel is perfectly depicted with typical features and vibrant lights."
+        }
+    },
+    "59": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The castle is well-rendered with typical features and interior details."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features and structure."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The castle is clearly depicted with typical features and structure."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features and structure."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The castle is well-defined with typical features and consistent portrayal."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The castle is clearly depicted with typical features and structure."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The castle is accurately depicted with typical features and structure."
+        }
+    },
+    "62": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with typical features like tombstones and statues."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with typical features like tombstones."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a cemetery with tombstones and trees."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with typical features like tombstones and crosses."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with gravestones and crosses."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cemetery with typical features like tombstones."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a cemetery with typical features like tombstones and greenery."
+        }
+    },
+    "65": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a classroom with students and a teacher."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a classroom with students and a teacher."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene shows a typical classroom with students and desks."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene shows a classroom with students and desks, matching the text prompt well."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a classroom with students and desks."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows typical classroom features with desks and students, matching the text prompt well."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "The scene lacks typical classroom features like desks and chairs."
+        }
+    },
+    "68": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing typical cliff features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing a clear cliff landscape."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cliff with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing typical cliff features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing a clear cliff with expected features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a cliff with expected features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The cliff is accurately depicted with typical features and clear visibility."
+        }
+    },
+    "71": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical features and pedestrian traffic."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly visible and accurately depicted in the frames."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a crosswalk with typical features and people crossing."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical features and markings."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical features and markings."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical features and accurate representation."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The crosswalk is clearly depicted with typical features and markings."
+        }
+    },
+    "74": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with cranes and machinery."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with cranes and building materials."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "Scene shifts from construction site to building, lacking consistency."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows cranes and structures typical of a construction site."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with cranes and unfinished buildings."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a construction site with cranes and building structure."
+        }
+    },
+    "77": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a corridor with typical features like walls and lighting."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical corridor with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene consistently depicts a typical corridor with expected features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The corridor is accurately depicted with typical features like doors and lighting."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene consistently depicts a corridor with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The corridor is clearly depicted with typical features and perspective."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a corridor with typical features."
+        }
+    },
+    "80": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Courtyard' with typical features like benches and trees."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical courtyard with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a courtyard with typical features like arches and greenery."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Courtyard' with typical features like plants and open space."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a courtyard with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The courtyard is accurately depicted with typical architectural features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a courtyard with typical features."
+        }
+    },
+    "83": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Desert scene shifts to space, lacking consistent desert features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with sand dunes and cacti."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with sand dunes and a lone tree."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with sand, sparse vegetation, and distant mountains."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows typical desert features like cacti and sand dunes."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames show a desert with sand dunes, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Desert' with sand dunes and clear sky."
+        }
+    },
+    "86": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a bustling downtown area with typical urban features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a downtown area with typical urban features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames clearly depict a downtown cityscape with skyscrapers and busy streets."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a downtown area with typical urban features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Downtown' with typical urban features and skyline."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a downtown area with typical urban features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a downtown area with tall buildings and urban features."
+        }
+    },
+    "89": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a driveway with typical features like trees and a path."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The scene shows a road, not a typical driveway."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a driveway with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a driveway with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a driveway with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a driveway with typical features."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "The scene resembles a driveway but lacks typical residential features."
+        }
+    },
+    "92": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Farm' with typical features like animals, crops, and a barn."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a farm with typical features like animals and fields."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a farm with fields and a barn."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene shows a farm with fields and a cow, matching typical farm features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a farm with typical features like barns and silos."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a farm with typical features like fields and machinery."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows a plowed field, typical of a farm setting."
+        }
+    },
+    "95": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a food court with typical features and dining activity."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a food court with typical features and signage."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a food court with typical features and signage."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a food court with typical features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks clear food court features, focusing on decorative elements instead."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly shows a food court with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a food court with typical features."
+        }
+    },
+    "98": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a football field with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a football field with clear markings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a football field with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a football field with clear markings and typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a football field with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a football field with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames clearly depict a football field with typical markings."
+        }
+    },
+    "101": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees lining a road."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees lining the road."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees and a winding road."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with typical features like trees and a road."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with typical features visible."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees and a winding path."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Forest road' with trees and a road visible."
+        }
+    },
+    "104": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The fountain is accurately depicted with typical features and water flow."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing typical fountain features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The fountain is clearly depicted with typical features and water flow."
+        }
+    },
+    "107": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a gas station with pumps and signage."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a gas station with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a gas station with pumps and a car."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a gas station with pumps and canopy."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a gas station with pumps and a car."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical gas station with pumps and cars."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "Close-up of gas pump, lacks broader gas station context."
+        }
+    },
+    "110": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The images clearly depict a glacier with typical icy features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The glacier is accurately depicted with typical features and colors."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Glacier' with typical icy features and landscape."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The glacier is accurately depicted with typical icy features and color."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The image accurately depicts a glacier with typical icy textures and colors."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Glacier' with typical icy features and landscape."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Glacier' with typical icy features and landscape."
+        }
+    },
+    "113": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features like greens and palm trees."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features like greens and sand traps."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features like greens and sand traps."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features like greens and sand traps."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a golf course with typical features."
+        }
+    },
+    "116": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an indoor gymnasium with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks typical gymnasium features, showing only poles and a vague interior."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features like basketball hoops and court lines."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor gymnasium with typical features."
+        }
+    },
+    "119": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a harbor with boats and seagulls."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a harbor with boats and water."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Harbor' with ships and water, showing typical features."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The scene shows water but lacks clear harbor features like docks or boats."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a harbor with boats and water."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "Scene shows water and boats, lacks typical harbor structures."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a harbor with boats and docks visible."
+        }
+    },
+    "122": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a highway with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a highway with typical features like lanes and vehicles."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a highway with typical features and perspective."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames clearly depict a highway with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a highway with vehicles and typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a highway with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The highway is clearly depicted with typical features."
+        }
+    },
+    "125": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "Hospital lacks clear signage; garden scene lacks typical hospital features."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The building lacks clear hospital signage, making it barely recognizable as a hospital."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a hospital with medical staff and equipment."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a hospital corridor with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a hospital with typical features like beds and medical staff."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene shows a hospital bed but lacks clear hospital signage."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a hospital corridor with typical features."
+        }
+    },
+    "128": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The house is perfectly depicted with typical features and colors."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features in a natural setting."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features and consistency."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features and consistent design."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The house is clearly depicted with typical features and structure."
+        }
+    },
+    "131": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The frames clearly depict an iceberg with typical features and colors."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and color."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and color."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "Icebergs are accurately depicted with typical features and colors."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and colors."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and colors."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The iceberg is accurately depicted with typical features and color."
+        }
+    },
+    "134": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The frames depict typical industrial features like cranes, warehouses, and machinery."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an industrial area with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Industrial area' with typical structures and machinery."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Industrial area' with typical structures and features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows typical industrial features like smokestacks and factories."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an industrial area with typical structures and features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an industrial area with typical features."
+        }
+    },
+    "137": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a jail cell with typical features."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "Room lacks typical jail cell features like bars or sparse furnishings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a jail cell with bars and a bed."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Jail cell' with typical bars and interior."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows typical jail cell features like bars and tiled walls."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a jail cell with bars and a confined space."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "Bars are clearly depicted, matching typical jail cell features."
+        }
+    },
+    "140": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a junkyard with typical features like scrap cars and tires."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a junkyard with typical features like scattered waste and debris."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a junkyard with typical features like piled cars and debris."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a junkyard with typical features like old, stacked cars."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows typical junkyard features with old, abandoned vehicles."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a junkyard with typical features like old, rusted cars."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Junkyard' with typical features like old, rusted cars and debris."
+        }
+    },
+    "143": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a kitchen with typical features like a stove and sink."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical kitchen with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a kitchen with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a kitchen with typical features like appliances and countertops."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical kitchen with expected features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a kitchen with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical kitchen with expected features."
+        }
+    },
+    "146": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Indoor library' with bookshelves, tables, and chairs."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor library with bookshelves and tables."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "Scene perfectly matches 'Indoor library' with bookshelves and typical library features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Indoor library' with typical features like bookshelves and lighting."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor library with bookshelves and a reading table."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows typical library features with bookshelves and books."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Indoor library' with bookshelves and typical library features."
+        }
+    },
+    "149": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The lighthouse is perfectly depicted with expected features and colors."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and correct colors."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and setting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and setting."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt with clear lighthouse features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The lighthouse is accurately depicted with typical features and colors."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The lighthouse is clearly depicted with typical features and consistency across frames."
+        }
+    },
+    "152": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features like equipment and workbenches."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features and equipment."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a laboratory with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene shows typical laboratory features like test tubes and a scientist."
+        }
+    },
+    "155": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The mansion is accurately depicted with typical features and grandeur."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The image perfectly matches 'Mansion' with typical architectural features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a mansion with typical architectural features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames depict a mansion with typical architectural features and surroundings."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Mansion' with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a mansion, displaying typical and expected features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames show a large, elegant mansion with typical architectural features."
+        }
+    },
+    "158": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with typical features like water and reeds."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with water and grassland."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with typical features like water and vegetation."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames accurately depict a marsh with typical features like water and grass."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with water and vegetation."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a marsh with typical features."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "The scene shows grass, lacking specific marsh features like water or wetland vegetation."
+        }
+    },
+    "161": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Mountain' with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Mountain' with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames clearly depict a mountain with typical features."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The scene lacks typical mountain features, focusing on rocks and a bird-like figure."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Mountain' with typical features and clear depiction."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a mountain with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Mountain' with clear, typical features."
+        }
+    },
+    "164": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene shows a typical indoor movie theater with seats and a screen."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical seating and screen."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor movie theater with typical seating and screen."
+        }
+    },
+    "167": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor museum with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor museum with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor museum with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Indoor museum' with typical features like paintings and sculptures."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene matches 'Indoor museum' with typical features like sculptures and architectural elements."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene matches 'Indoor museum' with typical features like framed art and gallery setting."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene matches 'Indoor museum' with typical features like framed art and a gallery setting."
+        }
+    },
+    "170": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a music studio with typical equipment and features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a music studio with instruments and equipment."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a music studio with instruments and equipment."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene shows typical music studio features like keyboards and speakers."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a music studio with typical equipment visible."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene shows typical music studio features like instruments and equipment."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a music studio with typical features."
+        }
+    },
+    "173": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The nursery scene is accurately depicted with typical features like crib and toys."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a nursery with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a nursery with typical features like toys and decor."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The nursery scene is accurately depicted with typical features like cribs and decorations."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Scene lacks typical nursery features; more like a fantasy setting with children."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene is vague and lacks clear nursery identifiers."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a nursery with typical features like a crib and toys."
+        }
+    },
+    "176": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "The ocean is shown, but the scene shifts to an unclear sunset view."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The frames show a clear ocean view with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames show a clear ocean scene with waves and horizon."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames clearly depict an ocean with waves, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Ocean' with waves and distant landforms."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames show a clear ocean scene with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames clearly depict an ocean with typical features."
+        }
+    },
+    "179": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a modern office environment with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an office with desks and chairs."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical office environment with desks and computers."
+        },
+        "videocrafter2": {
+            "score": 1,
+            "explanation": "The scene lacks typical office features, showing only abstract lines and grids."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks typical office features, showing only a ceiling with lights."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a typical office environment with expected features."
+        },
+        "lavie": {
+            "score": 1,
+            "explanation": "Text 'Office' is misspelled as 'Oforc', incorrect portrayal."
+        }
+    },
+    "182": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the typical features of a palace."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a palace with typical architectural features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The palace is accurately depicted with typical architectural features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Palace' with typical architectural features."
+        }
+    },
+    "185": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with cars and typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with parked cars."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene clearly shows a parking lot with parked cars."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Text 'PARKKNG' is misspelled, but scene resembles a parking lot."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with cars and typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a parking lot with multiple cars."
+        }
+    },
+    "188": {
+        "cogvideox5b": {
+            "score": 2,
+            "explanation": "The pharmacy lacks clear signage; interior is recognizable but not definitive."
+        },
+        "kling": {
+            "score": 1,
+            "explanation": "The frames show a road and forest, not a pharmacy scene."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a pharmacy with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a pharmacy with typical features and signage."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a pharmacy with typical features and products."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a pharmacy with typical features and staff."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a pharmacy with typical features."
+        }
+    },
+    "191": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The phone booth is accurately depicted with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a phone booth with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The red phone booth is accurately depicted with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The phone booth is accurately depicted with typical features and color."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The phone booth is accurately depicted with typical features and colors."
+        },
+        "show1": {
+            "score": 1,
+            "explanation": "Text 'Phone booth' is misspelled as 'Ponhool'."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The red phone booth is accurately depicted with typical features."
+        }
+    },
+    "194": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a raceway with typical features like track and stands."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a raceway with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a raceway with typical features and clear signage."
+        },
+        "videocrafter2": {
+            "score": 1,
+            "explanation": "The text 'Raceway' is distorted and unrecognizable."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene resembles a raceway but lacks clear signage or specific identifiers."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene resembles a raceway but lacks clear signage or specific identifiers."
+        },
+        "lavie": {
+            "score": 2,
+            "explanation": "The scene resembles a raceway but lacks clear identifiers or signage."
+        }
+    },
+    "197": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a restaurant with typical features like tables, chairs, and waitstaff."
+        },
+        "kling": {
+            "score": 2,
+            "explanation": "The scene resembles a dining room, not a restaurant."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a restaurant with typical features and ambiance."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a restaurant with typical features like tables and decor."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a restaurant setting with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a restaurant with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a restaurant with typical features like tables and decor."
+        }
+    },
+    "200": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a river with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a river with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'River' with typical features and flowing water."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'River' with flowing water and natural surroundings."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene consistently depicts a river with typical features and natural surroundings."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a river with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'River' with typical features."
+        }
+    },
+    "203": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a science museum with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene matches a science museum with typical features and exhibits."
+        },
+        "gen3": {
+            "score": 2,
+            "explanation": "The scene is futuristic but lacks clear 'Science museum' signage."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene matches a science museum with typical features and exhibits."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "Text reads 'Science Moin' instead of 'Science Museum'."
+        },
+        "show1": {
+            "score": 2,
+            "explanation": "The scene lacks clear signage identifying it as a science museum."
+        },
+        "lavie": {
+            "score": 1,
+            "explanation": "Text is not clearly readable or recognizable as 'Science museum'."
+        }
+    },
+    "206": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly shows a shower with water flowing."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly shows a shower with expected features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt with typical shower features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt, showing a typical shower with water flow."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly shows shower heads with water, matching the text prompt perfectly."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames clearly depict a shower with water droplets, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly shows a shower with typical features."
+        }
+    },
+    "209": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow, skiers, and mountains."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow and mountains."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow, skier, and mountains."
+        },
+        "videocrafter2": {
+            "score": 2,
+            "explanation": "The slope lacks snow, resembling grass, missing typical ski slope features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene shows a clear ski slope with snow and trees, matching the text prompt well."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with snow and skiers."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a ski slope with typical features."
+        }
+    },
+    "212": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The frames show a clear sky with clouds and stars, matching the text 'Sky'."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "Clear blue sky with clouds, perfectly matches the text prompt 'Sky'."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The sky is accurately depicted with clouds and birds."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The sky is clearly depicted with typical features and consistency."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The sky is vividly depicted with typical colors and features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The frames show a clear sky with clouds, matching the text prompt perfectly."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The sky is accurately depicted with typical features like clouds and blue color."
+        }
+    },
+    "215": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with typical features and perspective."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with expected features and perspective."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames clearly depict skyscrapers with typical features and consistent design."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The skyscraper is clearly depicted with typical features and context."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The skyscraper is clearly depicted with typical features and context."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The skyscraper is accurately depicted with typical features and perspective."
+        }
+    },
+    "218": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a baseball stadium with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a baseball stadium with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a baseball stadium with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames show a baseball stadium with typical features like field and stands."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a baseball stadium with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a baseball stadium with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a baseball stadium with typical features."
+        }
+    },
+    "221": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and details."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and details."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and details."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and perspective."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The staircase is clearly depicted with typical features and perspective."
+        }
+    },
+    "224": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a busy street with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Street' with typical features like cars and buildings."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a typical street with buildings, cars, and pedestrians."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a street with typical features and perspective."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a street with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a street with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the 'Street' text prompt with typical features."
+        }
+    },
+    "227": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a supermarket with typical features and products."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a supermarket with aisles and products visible."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a supermarket with aisles and products."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a supermarket with typical features and products."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a supermarket with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a supermarket with typical features like shelves and produce."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a supermarket with aisles and products visible."
+        }
+    },
+    "230": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly shows an indoor swimming pool with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an indoor swimming pool with expected features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an indoor swimming pool with typical features."
+        }
+    },
+    "233": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and structure."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and accurate representation."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and accurate representation."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and consistent design."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text prompt with clear tower features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and accurate perspective."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The tower is clearly depicted with typical features and structure."
+        }
+    },
+    "236": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an outdoor track with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly depicts an outdoor track with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an outdoor track with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an outdoor track with typical features."
+        },
+        "pika": {
+            "score": 2,
+            "explanation": "The scene lacks typical track features, appearing more like paths or trails."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches an outdoor track with clear lanes and surroundings."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene clearly shows an outdoor track with typical features."
+        }
+    },
+    "239": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train on a railway with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Train railway' with tracks and typical features visible."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The frames clearly depict a railway track, matching the text prompt perfectly."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train on a railway with expected features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train railway with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene clearly shows trains on a railway, matching the text prompt well."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Train railway' with clear tracks and surroundings."
+        }
+    },
+    "242": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene clearly depicts a train station platform with typical features."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene clearly shows a train station platform with a train."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene accurately depicts a train station platform with typical features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a train station platform with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a train station platform with typical features."
+        }
+    },
+    "245": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text with vibrant coral and fish."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with typical features."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with vibrant corals and fish."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an underwater coral reef with typical features."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Underwater coral reef' with vibrant corals and marine life."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an underwater coral reef with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene accurately depicts an underwater coral reef with typical features."
+        }
+    },
+    "248": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a valley with typical features like hills and a river."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Valley' with typical features like mountains and greenery."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a valley with typical features and landscape."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a valley with typical features and landscape."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Valley' with typical landscape features."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Valley' with typical landscape features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Valley' with typical features and landscape."
+        }
+    },
+    "251": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The volcano is accurately depicted with lava and smoke, matching the text prompt well."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The frames show a volcano with lava and smoke, matching the text prompt perfectly."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly depicts a volcano with lava and smoke."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The frames show a volcano with lava and smoke, matching the text prompt perfectly."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches a volcano with lava and smoke."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The volcano is accurately depicted with typical features and colors."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames clearly depict a volcano with lava, matching the text prompt perfectly."
+        }
+    },
+    "254": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The waterfall is clearly depicted with typical features and flowing water."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Waterfall' with typical features and clear depiction."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the 'Waterfall' text prompt with typical features."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The waterfall is clearly depicted with typical features and consistency."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The scene perfectly matches 'Waterfall' with typical features and flowing water."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The scene perfectly matches the text 'Waterfall' with typical features."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The frames clearly depict a waterfall with typical features."
+        }
+    },
+    "257": {
+        "cogvideox5b": {
+            "score": 3,
+            "explanation": "The windmill is clearly depicted with typical features in a field setting."
+        },
+        "kling": {
+            "score": 3,
+            "explanation": "Windmills are clearly depicted with typical features and accurate representation."
+        },
+        "gen3": {
+            "score": 3,
+            "explanation": "The windmill is accurately depicted with typical features and setting."
+        },
+        "videocrafter2": {
+            "score": 3,
+            "explanation": "The windmill is accurately depicted with typical features and context."
+        },
+        "pika": {
+            "score": 3,
+            "explanation": "The windmill is accurately depicted with typical features and structure."
+        },
+        "show1": {
+            "score": 3,
+            "explanation": "The windmill is accurately depicted with typical features and clear visibility."
+        },
+        "lavie": {
+            "score": 3,
+            "explanation": "The windmill is clearly depicted with typical features and structure."
+        }
     }
 }
