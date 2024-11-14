@@ -403,8 +403,14 @@ Prompt4TemperalConsistency_test="""
 
             ###Important Notes:
             And you should also pay attention to the following notes:
-            1.The metric is a sensitive metric, you need to pay attention to the changes between frames.
-            2.The minor unnatural changes in the video even matters if it is noticable for human eyes. 
+            1.Unnatural changes refer to changes that are inconsistent with the laws of physics or human visual perception, such as
+              -sudden shifts in color, texture, or position.
+              -objects appearing or disappearing abruptly.
+              -objects turning into other objects.
+              -sudden changes in lighting or shadows.
+              -sudden changes in the background or scene layout.
+            2.The metric is a sensitive metric, you need to pay attention to the changes between frames.
+            3.The minor unnatural changes in the video even matters if it is noticable for human eyes. 
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
