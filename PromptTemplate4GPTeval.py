@@ -420,19 +420,6 @@ Prompt4TemperalConsistency_test="""
             4: Good consistency - The video is complete and comprehensive with minor unnatural changes and there are noticeable frame flickering in the visual features.
             5: Excellent consistency -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
 
-            ### The Output Format:
-            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
-            <output format>
-            Final Scores:
-            - A: x ,because ...
-            </output format>
-                
-            <example>
-            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-            Final Scores:
-            - gen2: 3 , because ...
-            </example>
 
 </instructions>
 """

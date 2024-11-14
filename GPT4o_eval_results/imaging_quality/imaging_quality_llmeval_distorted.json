@@ -1,0 +1,821 @@
+{
+    "0": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is some noise present, but it does not significantly detract from the overall quality.",
+        "gen3": "- video: 3, because the frames show moderate quality. The images have some clarity but are affected by noticeable noise and slight blurriness. The brightness is reasonable, but the overall viewing experience is average due to these distortions.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with clarity. The brightness is uneven, leading to an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the brightness is uneven, resulting in noticeable distortions.",
+        "lavie": "- video: 2, because the frames show noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "3": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable blurriness and some noise. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The images are mostly clear, with only slight noise present. The brightness is well-balanced, avoiding overexposure, which provides a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 2, because the frames show noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall image quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "6": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is minimal noise, which does not significantly affect the overall quality.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the overall sharpness could be improved for a better viewing experience.",
+        "show1": "- video: 1, because the frames are significantly blurry, with noticeable noise throughout. The clarity is very poor, and the overall viewing experience is severely affected by these distortions.",
+        "lavie": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise and slight blurriness. The brightness is reasonable, but the overall image quality results in an average viewing experience."
+    },
+    "9": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is some minor noise, but it does not significantly impact the overall quality.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is generally reasonable, though there is some overexposure from the sun, especially in the earlier frames. Overall, the viewing experience is average.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is some noise present, but it does not significantly detract from the overall quality.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, with noticeable overexposure from the sun, resulting in a very poor viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant blurriness and noise, with excessive brightness that affects clarity, resulting in a very poor viewing experience."
+    },
+    "12": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is average, with noticeable noise throughout the images. The brightness is slightly overexposed, especially around the sun, which affects the overall viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, affecting the overall viewing experience. These factors contribute to a poor quality rating.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality results in a poor viewing experience due to the distortions and lack of sharpness.",
+        "lavie": "- video: 1, because the frames exhibit significant distortion and blurriness. There is a high level of noise throughout, and the brightness is excessive, leading to overexposure. This results in a very poor viewing experience."
+    },
+    "15": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is decent but not high definition, with some noticeable noise throughout the images. The brightness is generally reasonable, though there is slight overexposure in certain areas. Overall, the viewing experience is average.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience. However, there is a slight presence of noise that prevents it from achieving an excellent score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "18": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is inconsistent, with some frames appearing overexposed and others underexposed, leading to a poor viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and a lack of clarity, leading to a somewhat blurred appearance. The brightness is reasonable, but the overall quality is poor due to the interference from noise, resulting in an unnatural viewing experience.",
+        "gen3": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is generally reasonable, but there is some overexposure in the earlier frames. Overall, the viewing experience is average due to these factors.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the images. The brightness is slightly excessive, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is slightly excessive, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise throughout, which affects the clarity and overall viewing experience. The brightness is reasonable, but the noise creates a significant distortion, leading to a poor quality evaluation.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "21": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced. However, there is some noticeable noise, which slightly affects the overall quality.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience. The overall quality is high definition, though not perfect, which aligns with a score of 4.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and a lack of clarity. The images are somewhat blurry, and the brightness is uneven, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant distortion and blurriness, with numerous noise spots and excessive brightness, resulting in a very poor viewing experience."
+    },
+    "24": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is average, with noticeable noise throughout the images. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a pleasant viewing experience. The presence of noise is minimal, contributing to the overall quality.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the image. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which interferes with the clarity of the images. The brightness appears to be slightly overexposed, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "27": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, particularly around the astronaut's jetpack, leading to a poor viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness around the object is slightly overexposed, leading to a less natural viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is slightly overexposed, especially near the sun, which affects the overall viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise spots affects the overall viewing experience, resulting in an average quality score.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "lavie": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise affects the overall viewing experience, resulting in an average quality score."
+    },
+    "30": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is average, with noticeable noise throughout the images. The brightness is slightly overexposed in some areas, but the overall viewing experience is acceptable.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is slightly overexposed in some frames, particularly where the fireworks are brightest, leading to an average viewing experience.",
+        "videocrafter2": "- video: 1, because the frames exhibit significant distortion and blurriness, with numerous noise spots and excessive brightness, resulting in a very poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise and some overexposure. The viewing experience is average, with minor distortions present.",
+        "show1": "- video: 1, because the frames exhibit significant noise and lack clarity. The fireworks are not well-defined, and the overall brightness is low, resulting in a very poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with clarity. The brightness is uneven, with some areas appearing overexposed. Overall, the viewing experience is unnatural due to these distortions."
+    },
+    "33": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is decent but not high definition, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "kling": "- video: 5, because the frames exhibit excellent clarity with no noticeable distortions. The clouds are well-defined, and the colors are vibrant without any overexposure. There is minimal noise, resulting in a high-definition viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is standard, with some minor distortions and noise spots. The brightness is slightly overexposed, but it still provides an average viewing experience.",
+        "videocrafter2": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "show1": "- video: 3, because the frames show moderate quality. The clarity is standard, with some blurriness and noticeable noise. The brightness is reasonable, but the overall experience is average due to the slight distortions and noise present.",
+        "lavie": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present."
+    },
+    "36": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality with some noticeable noise and slight overexposure. The clarity is average, with minor distortions affecting the viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. However, there is a slight presence of noise, which prevents it from achieving an excellent score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, with noticeable distortions and overexposure, resulting in a very poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "39": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal, providing a good viewing experience. The brightness is well-balanced, with no overexposure.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with clarity. The brightness is also quite high, leading to overexposure and an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, with noticeable distortion and overexposure. The clarity is very poor, resulting in a subpar viewing experience.",
+        "lavie": "- video: 1, because the frames show significant distortion and blurriness, with numerous noise spots and excessive brightness, resulting in a very poor viewing experience."
+    },
+    "42": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise is minimal, providing a good viewing experience. The brightness is well-balanced, with no overexposure.",
+        "gen3": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames show noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 2, because the frames show noticeable distortions and blurriness, with interference from noise spots. The brightness is slightly excessive, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames show noticeable noise and blurriness, leading to a lack of clarity. The brightness is slightly overexposed, resulting in a poor viewing experience."
+    },
+    "45": {       
+    "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+    "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise is minimal, providing a good viewing experience. The brightness is well-balanced, with no overexposure.",
+    "gen3": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+    "videocrafter2": "- video: 2, because the frames show noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+    "pika": "- video: 2, because the frames show noticeable distortions and blurriness, with interference from noise spots. The brightness is slightly excessive, leading to an unnatural viewing experience.",
+    "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+    "lavie": "- video: 2, because the frames show noticeable noise and blurriness, leading to a lack of clarity. The brightness is slightly overexposed, resulting in a poor viewing experience."
+},
+    "48": {        
+    "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the significant distortions and noise, leading to an unnatural viewing experience.",
+    "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+    "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortion. The noise level is low, and the brightness is well-balanced, providing a high-definition viewing experience.",
+    "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+    "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+    "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+    "lavie": "- video: 1, because the frames exhibit significant blurriness and noise, with noticeable overexposure. The clarity is very poor, resulting in a subpar viewing experience."
+},
+    "51": {        
+    "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is slightly overexposed, affecting the overall viewing experience.",
+    "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+    "gen3": "- video: 4, because the frames show good clarity with minimal distortion. The teddy bear and water are well-defined, and the brightness is balanced, though there is a slight overexposure from the sunlight. Noise is present but not overly distracting, providing a good viewing experience.",
+    "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+    "pika": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is minimal noise, which does not significantly affect the overall quality.",
+    "show1": "- video: 2, because the frames exhibit noticeable blurriness and lack clarity. There is a significant amount of noise present, which affects the overall quality. The brightness is reasonable, but the distortions and noise lead to a poor viewing experience.",
+    "lavie": "- video: 2, because the frames show noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+},
+    "54": {        
+    "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but there is some blurriness and slight overexposure, resulting in an average viewing experience.",
+    "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+    "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The fish and underwater environment are well-defined, and the colors are vibrant. There is a slight presence of noise, but it does not significantly detract from the viewing experience. Brightness is well-balanced, with no overexposure. Overall, the video provides a good viewing experience.",
+    "videocrafter2": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity of the images. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+    "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with some noticeable blurriness and noise. The brightness is reasonable, but the overall image quality results in an average viewing experience.",
+    "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+    "lavie": "- video: 1, because the frames show significant blurriness and noise, with a lack of clarity and detail. The brightness is uneven, leading to a very poor viewing experience."
+},
+    "57": {       
+    "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a somewhat unnatural viewing experience.",
+    "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+    "gen3": "- video: 3, because the frames show moderate quality with some noise and slight blurriness. The clarity is average, and there is a bit of overexposure, but the overall viewing experience is acceptable.",
+    "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness appears slightly overexposed, leading to an unnatural viewing experience.",
+    "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+    "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness seems reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+    "lavie": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness seems reasonable, but the overall quality results in a poor viewing experience."
+},
+    "60": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the significant distortions and noise, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortion. The noise level is low, and the brightness is well-balanced, providing a high-definition viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant blurriness and noise, with noticeable overexposure. The clarity is very poor, resulting in a subpar viewing experience."
+    },
+    "63": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with the clarity of the images. The brightness is also quite high, leading to overexposure in some areas. These factors contribute to a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the overall sharpness and detail are lacking, resulting in an average viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The colors are vibrant, and the brightness is well-balanced, though there is a slight presence of noise. Overall, the video provides a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness seems slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant noise, leading to a very poor viewing experience. The clarity is low, with noticeable blurriness and distortion. The brightness is somewhat reasonable, but the overall quality is severely impacted by the noise.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with the clarity of the video. The brightness appears reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "66": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames show good clarity with minimal distortion. The teddy bear and water are well-defined, and the brightness is balanced, though there is a slight overexposure from the sunlight. Noise is present but not overly distracting, providing a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is minimal noise, which does not significantly affect the overall quality.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and lack clarity. There is a significant amount of noise present, which affects the overall quality. The brightness is reasonable, but the distortions and noise lead to a poor viewing experience.",
+        "lavie": "- video: 2, because the frames show noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "69": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat overexposed, especially in the frames with the sun, leading to a poor viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and some blurriness, particularly around the sun and clouds. The brightness is excessive, leading to overexposure in the sun area, which affects the overall clarity and viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is slightly overexposed, especially around the sun, which affects the overall viewing experience. There are minor distortions, but they do not severely impact the visibility of the landscape.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, though there is some overexposure around the light sources. Overall, the viewing experience is average.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise throughout, which affects the clarity. The brightness is somewhat overexposed, particularly around the sun, leading to a less natural viewing experience. Overall, the video quality is poor due to these distortions and noise interference.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and overexposure, particularly around the sun. The clarity is compromised, leading to a poor viewing experience."
+    },
+    "72": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but there is some blurriness and slight overexposure, resulting in an average viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The fish and underwater environment are well-defined, and the colors are vibrant. There is a slight presence of noise, but it does not significantly detract from the viewing experience. Brightness is well-balanced, with no overexposure. Overall, the video provides a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity of the images. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with some noticeable blurriness and noise. The brightness is reasonable, but the overall image quality results in an average viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 1, because the frames show significant blurriness and noise, with a lack of clarity and detail. The brightness is uneven, leading to a very poor viewing experience."
+    },
+    "75": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a somewhat unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 3, because the frames show moderate quality with some noise and slight blurriness. The clarity is average, and there is a bit of overexposure, but the overall viewing experience is acceptable.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness appears slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness seems reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness seems reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "78": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and lack clarity. The fireworks are somewhat blurred, and the overall brightness is low, making the viewing experience unnatural.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is average, with noticeable noise throughout the images. The brightness is generally reasonable, but there are some areas of overexposure, especially around the fireworks. Overall, the viewing experience is average with some room for improvement in reducing noise and enhancing clarity.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise spots affects the overall viewing experience, resulting in an average quality score.",
+        "show1": "- video: 1, because the frames exhibit significant noise and blurriness, leading to a very poor viewing experience. The clarity is low, and the brightness is not well-balanced, resulting in noticeable distortions.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity significantly. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience."
+    },
+    "81": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness seems reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "84": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the video frames show moderate quality. The clarity is standard, with some minor distortions and noise present. The brightness is slightly overexposed, but it does not severely impact the viewing experience. Overall, the video provides an average experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor due to the significant distortions and lack of definition.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is also excessive, leading to overexposure and a poor viewing experience."
+    },
+    "87": {
+        "cogvideox5b": "- video: 1, because the frames exhibit significant noise, reducing clarity. The brightness is low, making it difficult to discern details, and the overall image quality is poor, leading to a very poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout the images. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average, with some room for improvement in reducing noise and enhancing clarity.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience. The details in the night sky and the campfire are clear, indicating high-definition quality.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average with some room for improvement in reducing noise and enhancing clarity.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the significant noise and lack of sharpness, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "90": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall image quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is slightly overexposed, but the overall viewing experience is average.",
+        "gen3": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is generally reasonable, but there is some overexposure, particularly around the moon. Overall, the viewing experience is average with some room for improvement in clarity and noise reduction.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the overall experience is average due to the presence of noise and slight blurriness.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall image quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "93": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average due to the presence of noise and lack of sharpness.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is mostly reasonable, though there is some slight overexposure in certain areas. Overall, the viewing experience is average.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with the clarity of the video. The brightness appears reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the significant noise and lack of sharpness, leading to an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, with a lack of clarity and detail. The brightness is low, contributing to a very poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is significant noise present, which interferes with the clarity of the video. The brightness is reasonable, but the overall quality leads to an unnatural viewing experience."
+    },
+    "96": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality with some clarity, but there are noticeable noise spots and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "kling": "- video: 4, because the frames show good clarity with minimal distortions. The brightness is well-balanced, and there is only a slight presence of noise, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The brightness is well-balanced, and there is only a slight presence of noise, providing a pleasant viewing experience.",
+        "videocrafter2": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the brightness is not well-balanced, resulting in noticeable distortions.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly low, leading to a somewhat unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness seems slightly overexposed, leading to a poor viewing experience."
+    },
+    "99": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but there is some blurriness and slight overexposure, resulting in an average viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise and some blurriness. The brightness is reasonable, but the overall image quality results in an average viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the colors are vibrant without being overexposed. The noise level is minimal, providing a good viewing experience overall.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, leading to a poor viewing experience. The clarity is below standard, and the brightness is not well-balanced, resulting in an unnatural appearance.",
+        "pika": "- video: 2, because the frames exhibit noticeable distortions and blurriness, with a significant amount of noise present. The brightness is somewhat reasonable, but the overall clarity is lacking, leading to a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and lack of clarity. There is a significant amount of noise present, and the overall brightness is dull, leading to a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, leading to a lack of clarity. The brightness is consistent, but the overall image quality results in a poor viewing experience."
+    },
+    "102": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the video frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout the images. The brightness is slightly overexposed, especially in the background, which affects the overall viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average with some minor distortions.",
+        "show1": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which interferes with the clarity of the images. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant distortion and blurriness. There is a high level of noise present, and the brightness is excessive, leading to a very poor viewing experience."
+    },
+    "105": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality with some noise and slight blurriness. The clarity is average, and there is minor overexposure in certain areas, resulting in a standard viewing experience.",
+        "videocrafter2": "- video: 1, because the frames exhibit significant noise, leading to a grainy appearance. The clarity is poor, with noticeable blurriness, and the brightness is uneven, resulting in a very poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, leading to a poor viewing experience. The clarity is low, and the brightness is not well-balanced, resulting in an unnatural appearance.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the significant noise and lack of sharpness, leading to an unnatural viewing experience."
+    },
+    "108": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but there are some minor distortions. Overall, the viewing experience is average.",
+        "gen3": "- video: 4, because the frames show good clarity with minimal distortion. The images are mostly clear, though there is some noise present. The brightness is well-balanced, providing a good viewing experience overall.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness appears reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant blurriness and noise, with noticeable overexposure. The clarity is very poor, leading to a subpar viewing experience."
+    },
+    "111": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition, minimal distortions, and appropriate brightness. There is some noise present, but it does not significantly detract from the overall viewing experience.",
+        "videocrafter2": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not sharp, with noticeable blurriness. There is a significant amount of noise present, which affects the overall image quality. The brightness is reasonable, with no major overexposure issues. Overall, the video provides an average viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, with a lack of clarity and detail. The brightness is low, contributing to a very poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "114": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames show good clarity with minimal distortion. The coffee beans are well-defined, and the overall brightness is appropriate. There is some noise present, but it does not significantly detract from the viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality leads to a somewhat unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a somewhat unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "117": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The viewing experience is average, with minor distortions present.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity. The brightness seems slightly off, contributing to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames show noticeable noise and blurriness, which interfere with clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "120": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and distortion, which affects the clarity. The colors are vibrant, but the overexposure and noise create an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality with some clarity but noticeable noise throughout. The colors are vibrant, but there is slight overexposure and minor distortions, resulting in an average viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with vibrant colors and minimal distortion. There is some noise present, but it does not significantly detract from the overall quality. The brightness is well-balanced, providing a pleasant viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 3, because the frames show moderate quality with some noise present throughout. The clarity is standard, with minor distortions and slight overexposure, resulting in an average viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which interferes with the clarity. The brightness is also excessive, leading to an unnatural viewing experience."
+    },
+    "123": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a somewhat unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness appears reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 1, because the frames show significant blurriness and noise, with noticeable overexposure. The clarity is very poor, leading to a subpar viewing experience."
+    },
+    "126": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality leads to a poor viewing experience.",
+        "kling": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the noise level is minimal, providing a good viewing experience. The brightness is well-balanced, with no overexposure.",
+        "gen3": "- video: 4, because the frames exhibit high clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, particularly around the light source, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "lavie": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall experience is average due to these minor distortions."
+    },
+    "129": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, particularly in the areas where the sun reflects on the water, leading to an unnatural viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality with some clarity but noticeable noise and slight overexposure. The images are not very sharp, and the noise affects the overall viewing experience, making it average.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness appears slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness appears reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "132": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is uneven, with some overexposed areas, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition, minimal distortions, and appropriate brightness. There is some noise present, but it does not significantly detract from the viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall experience is average due to these minor distortions.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames show noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity. The brightness seems reasonable, but the overall quality leads to an unnatural viewing experience."
+    },
+    "135": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced. However, there is some noticeable noise, which slightly affects the overall quality, preventing it from reaching an excellent score.",
+        "gen3": "- video: 5, because the frames exhibit excellent clarity with no noticeable distortions. The image quality is high definition, with well-balanced brightness and minimal noise, providing an excellent viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable blurriness and some noise present. The brightness is reasonable, but the overall viewing experience is average due to these minor distortions.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall viewing experience is average due to these minor distortions."
+    },
+    "138": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality with some clarity, but there are noticeable noise spots and slight blurriness. The brightness is somewhat reasonable, but the overall experience is average due to these distortions.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, though there is a slight overexposure in some frames due to the bright light effects, but it does not significantly detract from the viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is slightly overexposed, affecting the overall viewing experience. There are minor distortions, but the video remains watchable.",
+        "show1": "- video: 2, because the frames exhibit noticeable distortions and blurriness. The presence of noise is significant, and the brightness is uneven, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "141": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality with some noise and slight overexposure. The clarity is average, with minor distortions, resulting in a standard viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is decent, but there are noticeable noise spots throughout the images. The brightness is reasonable, but the overall experience is average due to the presence of noise and slight distortions.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor due to the significant distortions and noise spots, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames show noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality leads to a poor viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant distortion and blurriness, with numerous noise spots. The clarity is poor, and the brightness is not well-balanced, resulting in a very poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "144": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The clarity is decent, but there are noticeable distortions and noise spots. The brightness is slightly overexposed, resulting in an average viewing experience.",
+        "kling": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is minimal noise, which does not significantly affect the overall quality.",
+        "gen3": "- video: 5, because the frames exhibit excellent clarity with vibrant colors and no noticeable distortions. The images are sharp, with no visible noise or overexposure, providing a high-definition viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with some noticeable distortions and noise spots. The brightness is slightly overexposed, but overall, it provides an average viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant distortion and blurriness, with numerous noise spots and excessive brightness, resulting in a very poor viewing experience.",
+        "lavie": "- video: 3, because the frames show moderate quality with some clarity, but there are noticeable distortions and noise. The brightness is slightly overexposed, resulting in an average viewing experience."
+    },
+    "147": {
+        "cogvideox5b": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced. The presence of noise is minimal, providing a good viewing experience overall.",
+        "kling": "- video: 4, because the frames show high definition clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with vibrant colors and minimal noise. The brightness is well-balanced, and there are very few distortions, providing a good viewing experience.",
+        "videocrafter2": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not sharp, with noticeable noise throughout. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not sharp, with noticeable blurriness. There is some noise present, and the brightness is slightly overexposed, resulting in an average viewing experience.",
+        "show1": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not high definition, with noticeable noise and slight overexposure. The overall viewing experience is average, with some distortions present.",
+        "lavie": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable blurriness and noise. The brightness is reasonable, but the overall image quality results in an average viewing experience."
+    },
+    "150": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which interferes with the clarity of the images. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is slightly overexposed, especially around the central light source, which affects the overall viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is decent but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise spots affects the overall viewing experience, resulting in an average quality score.",
+        "videocrafter2": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "pika": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. These factors result in an average viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which significantly affects clarity. The brightness is low, leading to a dark and unclear viewing experience. These factors contribute to a poor quality rating.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise throughout, which affects clarity. The images are somewhat blurry, and the brightness is low, leading to a poor viewing experience."
+    },
+    "153": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise spots affects the overall viewing experience, resulting in an average quality score.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The jellyfish is well-defined, and the colors are vibrant. There is some noise present, but it does not significantly detract from the viewing experience. The brightness is well-balanced, providing a clear and pleasant view.",
+        "videocrafter2": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise spots affects the overall viewing experience, resulting in an average quality score.",
+        "pika": "- video: 3, because the frames show moderate quality with some blurriness and noise. The clarity is standard, but there are noticeable distortions and slight overexposure, resulting in an average viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity of the jellyfish. The brightness is reasonable, but the overall quality is poor due to the significant noise and lack of sharpness, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "156": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise and slight blurriness affects the overall viewing experience, making it average.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames show good clarity with minimal noise and reasonable brightness. The video maintains a high-definition quality with very few distortions, providing a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 3, because the video has moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present."
+    },
+    "159": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality with some noise and slight blurriness. The clarity is standard, but there are noticeable distortions and overexposure, resulting in an average viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced. The noise is minimal, providing a good viewing experience overall.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant noise and blurriness, leading to a very poor viewing experience. The clarity is low, and the brightness is uneven, resulting in noticeable distortions."
+    },
+    "162": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is standard, with some blurriness and noticeable noise throughout. The brightness is slightly overexposed, especially around the flames, but it's not excessive. Overall, the viewing experience is average.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is some noise present, but it does not significantly detract from the overall quality.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a high-definition viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant distortion and blurriness, with numerous noise spots and excessive brightness, resulting in a very poor viewing experience."
+    },
+    "165": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The image is mostly sharp, and the colors are well-balanced, though there is a slight overexposure in some areas. Noise is present but not overly distracting, providing a good viewing experience overall.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness appears reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "168": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, and the brightness appears to be excessive, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average with some minor distortions.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced. However, there is some noticeable noise, which slightly affects the overall quality.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the significant distortions and noise, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is somewhat dull, contributing to an unnatural viewing experience. Overall, the quality is poor, with significant distortions present.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "171": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The clarity is average, with noticeable blurriness and some noise present. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, particularly around the sun, leading to an unnatural viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure, especially in the bright areas. The overall viewing experience is average, with minor distortions present.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant noise and blurriness, leading to a very poor viewing experience. The clarity is low, and the brightness is not well-balanced, resulting in noticeable distortions.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "174": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the image. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the colors are vibrant without noticeable noise or overexposure. The overall viewing experience is good, though not perfect, as there might be minor areas for improvement in sharpness or detail.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. However, there is a slight presence of noise, which prevents it from achieving an excellent score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the image. The brightness is uneven, contributing to a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. There is noticeable noise throughout, which affects clarity. The brightness is reasonable, but the noise and slight blurriness result in an average viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and distortion, leading to a lack of clarity. The brightness is uneven, contributing to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and distortion, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience."
+    },
+    "177": {
+        "cogvideox5b": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the brightness is not well-balanced, resulting in a distorted image.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noise present throughout the frames. The brightness is reasonable, but there are minor distortions and slight overexposure in some areas, resulting in an average viewing experience.",
+        "videocrafter2": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise affects the overall viewing experience, resulting in an average quality score.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is acceptable, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with the clarity of the video. The brightness is slightly overexposed, contributing to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "180": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, particularly in the details of the character and the background. The clarity is compromised, and there is some overexposure, especially in the brighter areas. This results in a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "gen3": "- video: 4, because the frames show good clarity with minimal noise and appropriate brightness. The images are clear and well-defined, providing a good viewing experience with very few distortions.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant noise and blurriness, making it difficult to discern details. The overall clarity is poor, and the brightness is low, resulting in a very poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality leads to a poor viewing experience."
+    },
+    "183": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is minimal noise, which does not significantly affect the overall quality.",
+        "gen3": "- video: 3, because the frames exhibit moderate quality. The clarity is decent, but there are noticeable distortions and noise spots throughout the images. The brightness is generally reasonable, though there is some slight overexposure in certain areas. Overall, the viewing experience is average.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, and the brightness appears slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is somewhat muted, contributing to an unnatural viewing experience. Overall, the quality is poor, with significant distortions present.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, leading to a lack of clarity. The brightness is also slightly excessive, contributing to an unnatural viewing experience."
+    },
+    "186": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a somewhat unnatural viewing experience.",
+        "gen3": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is slightly overexposed, especially around the light source, which affects the overall viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the brightness is uneven, contributing to the overall distortion.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "189": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise spots throughout the images. The brightness is reasonable, but the presence of noise affects the overall viewing experience, making it average.",
+        "kling": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is also slightly overexposed, leading to a poor viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The colors are vibrant, and there is no noticeable noise. The brightness is well-balanced, providing a pleasant viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+        "lavie": "- video: 3, because the frames show moderate quality with some noticeable noise and slight blurriness. The clarity is standard, and the brightness is reasonable, but the presence of noise affects the overall viewing experience."
+    },
+    "192": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The images have a painterly style with noticeable noise and some blurriness, which affects clarity. The brightness is reasonable, but the overall viewing experience is average due to these distortions.",
+        "kling": "- video: 3, because the frames show moderate quality with some blurriness and noise. The clarity is at a standard definition level, and there is slight overexposure, resulting in an average viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is minimal noise, which does not significantly impact the overall quality.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity. The brightness is somewhat reasonable, but the overall quality leads to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity and overall viewing experience. The brightness is somewhat reasonable, but the noise and lack of sharpness lead to a poor quality evaluation.",
+        "lavie": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, and the brightness appears excessive, leading to an unnatural viewing experience."
+    },
+    "195": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall experience is average due to these minor distortions.",
+        "gen3": "- video: 5, because the frames exhibit excellent clarity with no noticeable distortions or noise. The brightness is well-balanced, providing a high-definition viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant noise and blurriness, leading to a very poor viewing experience. The clarity is low, and the brightness is uneven, resulting in a distorted image.",
+        "lavie": "- video: 2, because the frames show noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "198": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, particularly around the headlights and background. The brightness from the headlights is excessive, causing overexposure and reducing clarity. These factors lead to a poor viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and lack clarity, leading to a poor viewing experience. The brightness is low, contributing to the overall distortion and blurriness.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is slightly low, contributing to a somewhat dull appearance. Overall, the viewing experience is average, with room for improvement in clarity and noise reduction.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality with some noise and slight blurriness. The clarity is standard, and there is a bit of overexposure from the headlights, resulting in an average viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable distortions and blurriness, with significant noise present throughout. The overall brightness is low, contributing to a poor viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant noise and blurriness, with noticeable overexposure from the streetlights. This results in a very poor viewing experience, similar to the examples from models 1 and 6."
+    },
+    "201": {
+        "cogvideox5b": "- video: 2, because the frames show noticeable blurriness and noise, with significant overexposure affecting the clarity and natural appearance of the video. The overall viewing experience is poor due to these distortions.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some blurriness and noticeable noise. The brightness is reasonable, but the overall viewing experience is average due to these distortions.",
+        "gen3": "- video: 4, because the frames show good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "204": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the overall experience is average due to the noise and slight blurriness.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a pleasant viewing experience. However, there is a slight presence of noise, which prevents it from achieving an excellent score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the brightness is not well-balanced, resulting in noticeable distortions.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "207": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable blurriness and noise. The brightness is mostly reasonable, but there is slight overexposure, resulting in an average viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall experience is average due to these minor distortions.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The images are mostly clear, though there is some noticeable noise. The brightness is well-balanced, providing a good viewing experience overall.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable blurriness and noise. The brightness is reasonable, but the overall viewing experience is average due to these minor distortions.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "210": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout the images. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average, with some room for improvement in reducing noise and enhancing clarity.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average.",
+        "gen3": "- video: 3, because the frames show moderate quality with some noise present. The clarity is standard, with minor distortions and slight overexposure, resulting in an average viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is slightly overexposed, affecting the overall viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "213": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but there is a bit of overexposure from the sunset, resulting in an average viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with vibrant colors and minimal distortion. The brightness is well-balanced, and there is little to no noticeable noise, providing a high-definition viewing experience.",
+        "videocrafter2": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not sharp, with noticeable noise throughout. The brightness is slightly overexposed, especially around the sun, which affects the overall viewing experience.",
+        "pika": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a less natural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience."
+    },
+    "216": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with some noticeable blurriness and noise. The brightness is reasonable, but the overall image quality results in an average viewing experience.",
+        "kling": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. Noise is minimal, contributing to the overall quality.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. There is minimal noise, which does not significantly impact the overall quality.",
+        "videocrafter2": "- video: 2, because the frames show noticeable distortions and blurriness. There is a significant amount of noise present, and the overall clarity is low, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall experience is average due to these minor distortions.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames show noticeable blurriness and noise, which interfere with the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "219": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality with some noise and slight blurriness. The clarity is average, and there is a bit of overexposure from the fire, resulting in a standard viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is reasonable, but the noise affects the overall viewing experience, resulting in an average quality score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which interferes with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant distortion and blurriness, with numerous noise spots and excessive brightness, resulting in a very poor viewing experience."
+    },
+    "222": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and some blurriness, particularly around the edges of the Eiffel Tower. The brightness is uneven, with some overexposure due to the lightning, leading to a somewhat unnatural viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is mostly reasonable, though some frames are slightly underexposed, especially in the darker scenes. Overall, the video provides an average viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which interferes with the clarity. The brightness is somewhat reasonable, but the overall quality leads to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is low, contributing to a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects clarity. The brightness is slightly excessive, leading to an unnatural viewing experience."
+    },
+    "225": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with noticeable blurriness and some noise present. The brightness is reasonable, but the overall viewing experience is average due to these distortions.",
+        "kling": "- video: 3, because the frames show moderate quality with some noticeable noise and slight blurriness. The clarity is average, and there is no significant overexposure, resulting in a standard viewing experience.",
+        "gen3": "- video: 3, because the frames show moderate quality with some clarity issues and noticeable noise. The brightness is generally reasonable, but there are slight distortions and overexposure in certain areas, resulting in an average viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The colors are vibrant, but the overall image quality is compromised by the distortions and noise, leading to a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness seems slightly overexposed, leading to a poor viewing experience."
+    },
+    "228": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but there is some slight overexposure, particularly in the background. Overall, the viewing experience is average.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the brightness is well-balanced. The noise is minimal, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The images are mostly clear, with some slight noise present. The brightness is well-balanced, providing a pleasant viewing experience.",
+        "videocrafter2": "- video: 2, because the frames show noticeable distortions and blurriness. There is a significant amount of noise present, which affects the clarity. The brightness seems reasonable, but the overall quality leads to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the overall image quality is distorted, fitting the criteria for a score of 1.",
+        "lavie": "- video: 2, because the frames show noticeable blurriness and noise, which interfere with clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "231": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall viewing experience is average due to these minor distortions.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience. However, there is a slight presence of noise that prevents it from achieving an excellent score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall viewing experience is average due to these minor distortions.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience."
+    },
+    "234": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is reasonable, but the overall image has some blurriness and slight distortions, resulting in an average viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience. The images are clear and detailed, though not at the highest definition possible.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat uneven, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and overexposure, leading to a lack of clarity. The brightness is excessive, which affects the overall viewing experience, resulting in poor quality."
+    },
+    "237": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is reasonable, but the overall image has some distortion, leading to an average viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition. There are very few distortions, and the brightness is well-balanced, providing a good viewing experience. However, there is some noticeable noise, which prevents it from achieving an excellent score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is slightly low, contributing to a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "240": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, which interferes with the clarity of the images. The brightness is also excessive, leading to an unnatural viewing experience.",
+        "kling": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is reasonable, but the overall quality results in a somewhat unnatural viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition, minimal noise, and appropriate brightness. There are very few distortions, providing a good viewing experience overall.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity of the image. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant distortion and blurriness, with numerous noise spots and excessive brightness, resulting in a very poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which interfere with clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "243": {
+        "cogvideox5b": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. There is some blurriness and slight overexposure, resulting in an average viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 5, because the frames exhibit excellent clarity with no noticeable distortions. The colors are vibrant, and there is no significant noise or overexposure. The overall viewing experience is of high quality, meeting full high-definition standards.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the image is not well-defined, which severely impacts the overall quality.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the distortions and lack of sharpness, leading to an unnatural viewing experience.",
+        "lavie": "- video: 1, because the frames are significantly blurry, with noticeable noise throughout. The clarity is poor, and the brightness is uneven, leading to a very poor viewing experience."
+    },
+    "246": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, with no significant overexposure. Overall, the viewing experience is average.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with high definition, though there is a noticeable level of noise present. The brightness is well-balanced, and there are minimal distortions, providing a good viewing experience overall.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness seems reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with noticeable noise throughout the images. The brightness is slightly overexposed, especially around the sunset, but it does not severely impact the viewing experience. Overall, the video provides an average experience with some room for improvement in clarity and noise reduction.",
+        "show1": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is uneven, with some areas appearing overexposed, leading to a poor viewing experience."
+    },
+    "249": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise is present but not overly distracting, and the brightness is well-balanced, providing a good viewing experience.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which interfere with the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality is poor due to the distortions and noise, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames show noticeable noise and some blurriness, which affects the clarity. The brightness seems reasonable, but the overall quality results in a poor viewing experience."
+    },
+    "252": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is somewhat reasonable, but the overall quality is poor due to the significant noise and lack of sharpness, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality with some clarity, but there are noticeable noise spots throughout. The brightness is slightly overexposed, especially in the areas with fire and clouds, which affects the overall viewing experience. The video meets standard definition but has room for improvement in reducing noise and enhancing clarity.",
+        "gen3": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the presence of noise spots affects the overall viewing experience, resulting in an average quality score.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable noise and some blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 1, because the frames exhibit significant noise, leading to a very poor viewing experience. The clarity is severely compromised, and the brightness is uneven, resulting in a low-quality video.",
+        "lavie": "- video: 1, because the frames exhibit significant noise, leading to a very poor viewing experience. The clarity is severely compromised, and the brightness is low, making it difficult to discern details."
+    },
+    "255": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is reasonable, though there is some slight overexposure. Overall, the viewing experience is average.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, but there are noticeable noise spots throughout. The brightness is slightly overexposed, especially around the umbrella, which affects the overall viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The noise level is low, and the brightness is well-balanced, providing a pleasant viewing experience. However, there is a slight presence of noise that prevents it from achieving an excellent score.",
+        "videocrafter2": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall experience is average due to these minor distortions.",
+        "pika": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with clarity. The brightness is also slightly overexposed, leading to a poor viewing experience.",
+        "lavie": "- video: 1, because the frames exhibit significant blurriness and noise, which severely impact clarity. The brightness is also uneven, contributing to a very poor viewing experience."
+    },
+    "258": {
+        "cogvideox5b": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not sharp, with noticeable blurriness and some noise present. The brightness is reasonable, but the overall image quality results in an average viewing experience.",
+        "kling": "- video: 4, because the frames show good clarity with high definition. There are very few distortions, and the noise level is minimal. The brightness is well-balanced, providing a good viewing experience.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with minimal distortions. The colors are vibrant, and the brightness is well-balanced, providing a pleasant viewing experience. There is some noise present, but it does not significantly detract from the overall quality.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The colors appear slightly overexposed, leading to an unnatural viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The colors appear slightly overexposed, leading to a less natural viewing experience. Overall, the quality is poor, with significant distortions present.",
+        "show1": "- video: 1, because the frames exhibit significant blurriness and noise, leading to a very poor viewing experience. The clarity is low, and the images are not well-defined, which aligns with the criteria for a very poor quality score.",
+        "lavie": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but there is some blurriness and slight overexposure, resulting in an average viewing experience."
+    },
+    "261": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight blurriness. The brightness is reasonable, but the overall experience is average due to these minor distortions.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout the images. The brightness is reasonable, but the overall experience is average due to the presence of noise and slight blurriness.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness appears reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality with some noise and slight blurriness. The clarity is standard, with minor distortions and slight overexposure, resulting in an average viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and a significant amount of noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable noise and blurriness, which affects clarity. The brightness is somewhat reasonable, but the overall quality leads to a poor viewing experience."
+    },
+    "264": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is somewhat reasonable, but the overall quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 4, because the frames exhibit good clarity with vibrant colors and minimal distortion. There is some noticeable noise, especially in the darker areas, but it does not significantly detract from the overall viewing experience. The brightness is well-balanced, and the images maintain a high-definition quality throughout.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and significant noise, which affects the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, and the brightness is excessive, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable distortions and blurriness. There is a significant amount of noise present, and the brightness appears excessive, leading to an unnatural viewing experience.",
+        "lavie": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the video. The brightness is somewhat dull, contributing to an unnatural viewing experience."
+    },
+    "267": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the images. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present.",
+        "gen3": "- video: 3, because the frames exhibit moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is generally reasonable, though there are areas of overexposure due to the light source. Overall, the video provides an average viewing experience with some room for improvement in clarity and noise reduction.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity. The brightness is somewhat reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 3, because the frames show moderate quality with some clarity, but there are noticeable distortions and noise. The brightness is reasonable, but the overall viewing experience is average due to the presence of noise and slight blurriness.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "lavie": "- video: 3, because the frames exhibit moderate quality. The clarity is standard, with some noticeable noise and slight overexposure. The overall viewing experience is average, with minor distortions present."
+    },
+    "270": {
+        "cogvideox5b": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity significantly. The brightness is reasonable, but the overall image quality is poor, leading to an unnatural viewing experience.",
+        "kling": "- video: 3, because the frames show moderate quality. The clarity is acceptable but not high definition, with noticeable noise throughout. The brightness is reasonable, but the presence of noise affects the overall viewing experience, resulting in an average quality score.",
+        "gen3": "- video: 3, because the frames show moderate quality. The clarity is decent but not high definition, with noticeable noise and slight overexposure due to the bright lighting. The overall viewing experience is average, with some minor distortions present.",
+        "videocrafter2": "- video: 2, because the frames exhibit noticeable blurriness and noise, which interfere with the clarity of the image. The brightness is reasonable, but the overall quality results in a poor viewing experience.",
+        "pika": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to an unnatural viewing experience.",
+        "show1": "- video: 2, because the frames exhibit noticeable blurriness and noise, which affects the clarity. The brightness is slightly overexposed, leading to a poor viewing experience.",
+        "lavie": "- video: 1, because the frames are significantly blurry, with noticeable noise and overexposure. The clarity is very poor, leading to a very poor viewing experience."
+    }
+}
