@@ -8,7 +8,7 @@ parser.add_argument(
     "--metric",
     type=str,
     default="aesthetic_quality",
-    choices=["aesthetic_quality", "imaging_quality", "color", "object_class", "scene", "action","motion_effects"],
+    choices=["aesthetic_quality", "imaging_quality", "color", "object_class", "scene", "action","motion_effects","overall_consistency"],
 )
 args = parser.parse_args()
 
@@ -60,7 +60,7 @@ def load_json_data(file_path):
 #data_1 = load_json_data(file_path)
 #file_path = 'imaging_quality_1.json'
 #data_2 = load_json_data(file_path)
-file_path = '../Human_anno/'+args.metric + '.json'
+file_path = '../Human_anno/final/'+args.metric + '.json'
 data = load_json_data(file_path)
 
 # Flatten the data into a single dictionary
@@ -76,6 +76,7 @@ def flatten_data(row):
         
     for key, subdict in row['baseline_score'].items():
         flattened[f'baseline_score_{key}'] = subdict
+
     for key, subdict in row['multiagent_score'].items():
         flattened[f'multiagent_score_{key}'] = subdict
     
