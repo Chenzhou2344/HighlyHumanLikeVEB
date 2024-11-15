@@ -1,0 +1,371 @@
+{
+    "overall_consistency": [
+        0.25118204607413364,
+        [
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Close up of grapes on a rotating table._0.mp4",
+                "video_results": 0.2047027051448822
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Turtle swimming in ocean._0.mp4",
+                "video_results": 0.26866304874420166
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A storm trooper vacuuming the beach._0.mp4",
+                "video_results": 0.27726295590400696
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A panda standing on a surfboard in the ocean in sunset._0.mp4",
+                "video_results": 0.37124040722846985
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An astronaut feeding ducks on a sunny afternoon, reflection from the water._0.mp4",
+                "video_results": 0.30703943967819214
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Two pandas discussing an academic paper._0.mp4",
+                "video_results": 0.24928545951843262
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Sunset time lapse at the beach with moving clouds and colors in the sky._0.mp4",
+                "video_results": 0.15644656121730804
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A fat rabbit wearing a purple robe walking through a fantasy landscape._0.mp4",
+                "video_results": 0.31815817952156067
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A koala bear playing piano in the forest._0.mp4",
+                "video_results": 0.3439566195011139
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An astronaut flying in space._0.mp4",
+                "video_results": 0.226106196641922
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Fireworks._0.mp4",
+                "video_results": 0.21807947754859924
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An animated painting of fluffy white clouds moving in sky._0.mp4",
+                "video_results": 0.26397302746772766
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Flying through fantasy landscapes._0.mp4",
+                "video_results": 0.15421584248542786
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A bigfoot walking in the snowstorm._0.mp4",
+                "video_results": 0.3114239275455475
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A squirrel eating a burger._0.mp4",
+                "video_results": 0.23218925297260284
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A cat wearing sunglasses and working as a lifeguard at a pool._0.mp4",
+                "video_results": 0.2907178997993469
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks._0.mp4",
+                "video_results": 0.1939542293548584
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Splash of turquoise water in extreme slow motion, alpha channel included._0.mp4",
+                "video_results": 0.18581616878509521
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An ice cream is melting on the table._0.mp4",
+                "video_results": 0.22942079603672028
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A drone flying over a snowy forest._0.mp4",
+                "video_results": 0.20384246110916138
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A shark is swimming in the ocean._0.mp4",
+                "video_results": 0.23543448746204376
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Aerial panoramic video from a drone of a fantasy land._0.mp4",
+                "video_results": 0.1743888109922409
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A teddy bear is swimming in the ocean._0.mp4",
+                "video_results": 0.29831355810165405
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Time lapse of sunrise on mars._0.mp4",
+                "video_results": 0.2342296838760376
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Golden fish swimming in the ocean._0.mp4",
+                "video_results": 0.18139192461967468
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An artist brush painting on a canvas close up._0.mp4",
+                "video_results": 0.2609418034553528
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A drone view of celebration with christmas tree and fireworks, starry sky - background._0.mp4",
+                "video_results": 0.12396885454654694
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background_0.mp4",
+                "video_results": 0.2304225116968155
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Origami dancers in white paper, 3d render, on white background, studio shot, dancing modern dance._0.mp4",
+                "video_results": 0.26934579014778137
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Campfire at night in a snowy forest with starry sky in the background._0.mp4",
+                "video_results": 0.31525495648384094
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A 3d model of a 1800s victorian house._0.mp4",
+                "video_results": 0.20603452622890472
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/This is how i do makeup in the morning._0.mp4",
+                "video_results": 0.20828571915626526
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A raccoon that looks like a turtle, digital art._0.mp4",
+                "video_results": 0.300363153219223
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Robot dancing in times square._0.mp4",
+                "video_results": 0.32249200344085693
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Busy freeway at night._0.mp4",
+                "video_results": 0.23287473618984222
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Balloon full of water exploding in extreme slow motion._0.mp4",
+                "video_results": 0.21698544919490814
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An astronaut is riding a horse in the space in a photorealistic style._0.mp4",
+                "video_results": 0.20902708172798157
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Macro slo-mo. slow motion cropped closeup of roasted coffee beans falling into an empty bowl._0.mp4",
+                "video_results": 0.2146170437335968
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Sewing machine, old sewing machine working._0.mp4",
+                "video_results": 0.22766658663749695
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink._0.mp4",
+                "video_results": 0.2063736468553543
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro._0.mp4",
+                "video_results": 0.19787605106830597
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Vampire makeup face of beautiful girl, red contact lenses._0.mp4",
+                "video_results": 0.26363298296928406
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Pacific coast, carmel by the sea ocean and waves._0.mp4",
+                "video_results": 0.2675607204437256
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A teddy bear is playing drum kit in nyc times square._0.mp4",
+                "video_results": 0.33832255005836487
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A corgi is playing drum kit._0.mp4",
+                "video_results": 0.32838112115859985
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An iron man is playing the electronic guitar, high electronic guitar._0.mp4",
+                "video_results": 0.1869596689939499
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A raccoon is playing the electronic guitar._0.mp4",
+                "video_results": 0.18777261674404144
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A boat sailing leisurely along the seine river with the eiffel tower in background by vincent van gogh_0.mp4",
+                "video_results": 0.23068121075630188
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A corgi's head depicted as an explosion of a nebula_0.mp4",
+                "video_results": 0.37271514534950256
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A fantasy landscape_0.mp4",
+                "video_results": 0.18828213214874268
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A future where humans have achieved teleportation technology_0.mp4",
+                "video_results": 0.16738855838775635
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A jellyfish floating through the ocean, with bioluminescent tentacles_0.mp4",
+                "video_results": 0.26864370703697205
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A mars rover moving on mars_0.mp4",
+                "video_results": 0.24053755402565002
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A panda drinking coffee in a cafe in paris_0.mp4",
+                "video_results": 0.28204166889190674
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A space shuttle launching into orbit, with flames and smoke billowing out from the engines_0.mp4",
+                "video_results": 0.2468787580728531
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A steam train moving on a mountainside_0.mp4",
+                "video_results": 0.24582837522029877
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A super cool giant robot in cyberpunk beijing_0.mp4",
+                "video_results": 0.20535892248153687
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground_0.mp4",
+                "video_results": 0.19539037346839905
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Cinematic shot of van gogh's selfie, van gogh style_0.mp4",
+                "video_results": 0.2918277382850647
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Gwen stacy reading a book_0.mp4",
+                "video_results": 0.20357505977153778
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Iron man flying in the sky_0.mp4",
+                "video_results": 0.27639955282211304
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/The bund shanghai, oil painting_0.mp4",
+                "video_results": 0.31017282605171204
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Yoda playing guitar on the stage_0.mp4",
+                "video_results": 0.28367167711257935
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A beautiful coastal beach in spring, waves lapping on sand by hokusai, in the style of ukiyo_0.mp4",
+                "video_results": 0.3125455677509308
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A beautiful coastal beach in spring, waves lapping on sand by vincent van gogh_0.mp4",
+                "video_results": 0.284496009349823
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A boat sailing leisurely along the seine river with the eiffel tower in background_0.mp4",
+                "video_results": 0.29971176385879517
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A car moving slowly on an empty street, rainy evening_0.mp4",
+                "video_results": 0.22644245624542236
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A cat eating food out of a bowl_0.mp4",
+                "video_results": 0.23534837365150452
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A cat wearing sunglasses at a pool_0.mp4",
+                "video_results": 0.31441640853881836
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A confused panda in calculus class_0.mp4",
+                "video_results": 0.20953845977783203
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A cute fluffy panda eating chinese food in a restaurant_0.mp4",
+                "video_results": 0.2579541802406311
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A cute happy corgi playing in park, sunset_0.mp4",
+                "video_results": 0.2843303084373474
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A cute raccoon playing guitar in a boat on the ocean_0.mp4",
+                "video_results": 0.3403494954109192
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background_0.mp4",
+                "video_results": 0.33686143159866333
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A lightning striking atop of eiffel tower, dark clouds in the sky_0.mp4",
+                "video_results": 0.2957545816898346
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A modern art museum, with colorful paintings_0.mp4",
+                "video_results": 0.17716719210147858
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A panda cooking in the kitchen_0.mp4",
+                "video_results": 0.2352791279554367
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A panda playing on a swing set_0.mp4",
+                "video_results": 0.29078876972198486
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A polar bear is playing guitar_0.mp4",
+                "video_results": 0.23316997289657593
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A raccoon dressed in suit playing the trumpet, stage background_0.mp4",
+                "video_results": 0.3316311240196228
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A robot dj is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy_0.mp4",
+                "video_results": 0.3477289080619812
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A shark swimming in clear caribbean ocean_0.mp4",
+                "video_results": 0.2722579836845398
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A super robot protecting city_0.mp4",
+                "video_results": 0.16326436400413513
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/A teddy bear washing the dishes_0.mp4",
+                "video_results": 0.2647436857223511
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An epic tornado attacking above a glowing city at night, the tornado is made of smoke_0.mp4",
+                "video_results": 0.20724116265773773
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas_0.mp4",
+                "video_results": 0.2947872281074524
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Clown fish swimming through the coral reef_0.mp4",
+                "video_results": 0.265377938747406
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Hyper-realistic spaceship landing on mars_0.mp4",
+                "video_results": 0.20417079329490662
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/The bund shanghai, vibrant color_0.mp4",
+                "video_results": 0.265921026468277
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Vincent van gogh is painting in the room_0.mp4",
+                "video_results": 0.23001021146774292
+            },
+            {
+                "video_path": "./sampled_videos/distorted_overall_consistency/show1/Yellow flowers swing in the wind_0.mp4",
+                "video_results": 0.22147171199321747
+            }
+        ]
+    ]
+}
