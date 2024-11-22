@@ -60,7 +60,7 @@ def load_json_data(file_path):
 #data_1 = load_json_data(file_path)
 #file_path = 'imaging_quality_1.json'
 #data_2 = load_json_data(file_path)
-file_path = '../Human_anno/final/'+args.metric + '.json'
+file_path = '../Human_anno/stable/'+args.metric + '_new.json'
 data = load_json_data(file_path)
 
 # Flatten the data into a single dictionary
