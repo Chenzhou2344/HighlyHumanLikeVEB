@@ -361,10 +361,10 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
+            "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         }
     },
     {
@@ -636,9 +636,9 @@
         "multiagent_score": {
             "cogvideox5b": 2,
             "kling": 3,
-            "gen3": 2,
+            "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 2,
             "lavie": 2
         }
@@ -910,7 +910,7 @@
             "lavie": 3
         },
         "multiagent_score": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "kling": 3,
             "gen3": 2,
             "videocrafter2": 3,
@@ -1190,8 +1190,8 @@
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 3,
-            "show1": 3,
+            "pika": 2,
+            "show1": 2,
             "lavie": 3
         }
     },
@@ -1466,7 +1466,7 @@
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 3,
+            "pika": 2,
             "show1": 2,
             "lavie": 2
         }
@@ -1742,7 +1742,7 @@
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 2,
             "lavie": 2
         }
@@ -2842,12 +2842,12 @@
             "lavie": 3
         },
         "multiagent_score": {
-            "cogvideox5b": 3,
-            "kling": 2,
+            "cogvideox5b": 2,
+            "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 2,
-            "show1": 3,
+            "show1": 2,
             "lavie": 3
         }
     },
@@ -3947,12 +3947,12 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 2,
-            "gen3": 2,
-            "videocrafter2": 2,
+            "kling": 3,
+            "gen3": 3,
+            "videocrafter2": 3,
             "pika": 2,
-            "show1": 3,
-            "lavie": 2
+            "show1": 2,
+            "lavie": 3
         }
     },
     {
@@ -4222,12 +4222,12 @@
             "lavie": 3
         },
         "multiagent_score": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "kling": 2,
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
+            "show1": 2,
             "lavie": 2
         }
     },
@@ -4501,7 +4501,7 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
             "lavie": 3
@@ -4777,10 +4777,10 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 3,
+            "videocrafter2": 2,
+            "pika": 2,
             "show1": 2,
-            "lavie": 2
+            "lavie": 3
         }
     },
     {
@@ -6436,7 +6436,7 @@
             "videocrafter2": 2,
             "pika": 2,
             "show1": 3,
-            "lavie": 3
+            "lavie": 2
         }
     },
     {
@@ -7534,11 +7534,11 @@
             "lavie": 3
         },
         "multiagent_score": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
             "lavie": 3
         }
@@ -7812,10 +7812,10 @@
         "multiagent_score": {
             "cogvideox5b": 3,
             "kling": 3,
-            "gen3": 3,
-            "videocrafter2": 2,
+            "gen3": 2,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
+            "show1": 3,
             "lavie": 3
         }
     },
@@ -8092,7 +8092,7 @@
             "videocrafter2": 3,
             "pika": 3,
             "show1": 2,
-            "lavie": 2
+            "lavie": 3
         }
     },
     {
@@ -8365,9 +8365,9 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
+            "videocrafter2": 2,
             "pika": 2,
-            "show1": 3,
+            "show1": 2,
             "lavie": 2
         }
     },
@@ -8642,7 +8642,7 @@
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
             "lavie": 2
         }
@@ -8920,7 +8920,7 @@
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
-            "lavie": 3
+            "lavie": 2
         }
     },
     {
@@ -9745,7 +9745,7 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
             "lavie": 2
@@ -10022,9 +10022,9 @@
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 3,
+            "pika": 2,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         }
     },
     {
@@ -10296,7 +10296,7 @@
         "multiagent_score": {
             "cogvideox5b": 3,
             "kling": 3,
-            "gen3": 3,
+            "gen3": 2,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
@@ -10576,7 +10576,7 @@
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         }
     },
     {
@@ -11402,8 +11402,8 @@
             "kling": 2,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 2,
+            "pika": 3,
+            "show1": 3,
             "lavie": 2
         }
     },
@@ -11677,7 +11677,7 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
+            "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
             "lavie": 3
@@ -11956,7 +11956,7 @@
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         }
     },
     {
@@ -12783,7 +12783,7 @@
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
+            "show1": 2,
             "lavie": 3
         }
     },
@@ -13059,7 +13059,7 @@
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
+            "show1": 2,
             "lavie": 3
         }
     },
@@ -13333,10 +13333,10 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
-            "lavie": 3
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2
         }
     },
     {
@@ -14158,7 +14158,7 @@
             "lavie": 3
         },
         "multiagent_score": {
-            "cogvideox5b": 2,
+            "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
@@ -14436,7 +14436,7 @@
         "multiagent_score": {
             "cogvideox5b": 3,
             "kling": 3,
-            "gen3": 3,
+            "gen3": 2,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 2,
@@ -15266,7 +15266,7 @@
             "kling": 2,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 3,
+            "pika": 2,
             "show1": 2,
             "lavie": 2
         }
@@ -15543,7 +15543,7 @@
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
+            "show1": 3,
             "lavie": 2
         }
     },
@@ -15816,11 +15816,11 @@
         "multiagent_score": {
             "cogvideox5b": 3,
             "kling": 3,
-            "gen3": 3,
+            "gen3": 2,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 2,
-            "lavie": 3
+            "lavie": 2
         }
     },
     {
@@ -16090,12 +16090,12 @@
             "lavie": 3
         },
         "multiagent_score": {
-            "cogvideox5b": 3,
+            "cogvideox5b": 2,
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 2,
-            "show1": 3,
+            "show1": 2,
             "lavie": 2
         }
     },
@@ -16372,7 +16372,7 @@
             "videocrafter2": 1,
             "pika": 3,
             "show1": 3,
-            "lavie": 2
+            "lavie": 3
         }
     },
     {
@@ -17198,7 +17198,7 @@
             "kling": 1,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
+            "pika": 3,
             "show1": 3,
             "lavie": 3
         }
@@ -17474,7 +17474,7 @@
             "kling": 2,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 3,
+            "pika": 2,
             "show1": 3,
             "lavie": 2
         }
@@ -17749,9 +17749,9 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
-            "pika": 3,
-            "show1": 2,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
             "lavie": 2
         }
     },
@@ -18023,10 +18023,10 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 2,
+            "kling": 1,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 3,
+            "pika": 2,
             "show1": 2,
             "lavie": 3
         }
@@ -18301,7 +18301,7 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
             "lavie": 3
@@ -18580,7 +18580,7 @@
             "videocrafter2": 2,
             "pika": 2,
             "show1": 2,
-            "lavie": 3
+            "lavie": 2
         }
     },
     {
@@ -18852,7 +18852,7 @@
         "multiagent_score": {
             "cogvideox5b": 3,
             "kling": 3,
-            "gen3": 2,
+            "gen3": 3,
             "videocrafter2": 2,
             "pika": 2,
             "show1": 2,
@@ -19129,8 +19129,8 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 3,
+            "videocrafter2": 2,
+            "pika": 2,
             "show1": 3,
             "lavie": 3
         }
@@ -19406,7 +19406,7 @@
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 1,
-            "pika": 3,
+            "pika": 2,
             "show1": 3,
             "lavie": 3
         }
@@ -19957,7 +19957,7 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
             "lavie": 3
@@ -20235,7 +20235,7 @@
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 3,
-            "show1": 3,
+            "show1": 2,
             "lavie": 3
         }
     },
@@ -20509,9 +20509,9 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 2,
+            "videocrafter2": 3,
             "pika": 3,
-            "show1": 2,
+            "show1": 3,
             "lavie": 3
         }
     },
@@ -20783,9 +20783,9 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 3,
+            "kling": 2,
             "gen3": 3,
-            "videocrafter2": 3,
+            "videocrafter2": 2,
             "pika": 2,
             "show1": 2,
             "lavie": 3
@@ -21337,8 +21337,8 @@
             "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 2,
+            "videocrafter2": 2,
+            "pika": 3,
             "show1": 3,
             "lavie": 2
         }
@@ -21892,7 +21892,7 @@
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
-            "lavie": 3
+            "lavie": 2
         }
     },
     {
@@ -22167,7 +22167,7 @@
             "gen3": 3,
             "videocrafter2": 3,
             "pika": 2,
-            "show1": 3,
+            "show1": 2,
             "lavie": 2
         }
     },
@@ -22718,8 +22718,8 @@
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
-            "pika": 2,
-            "show1": 3,
+            "pika": 3,
+            "show1": 2,
             "lavie": 3
         }
     },
@@ -22990,7 +22990,7 @@
             "lavie": 3
         },
         "multiagent_score": {
-            "cogvideox5b": 2,
+            "cogvideox5b": 3,
             "kling": 3,
             "gen3": 3,
             "videocrafter2": 3,
@@ -23543,11 +23543,11 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 2,
+            "kling": 3,
             "gen3": 3,
-            "videocrafter2": 3,
-            "pika": 3,
-            "show1": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 2,
             "lavie": 3
         }
     },

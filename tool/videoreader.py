@@ -20,7 +20,7 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
 
         total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
         fps = video.get(cv2.CAP_PROP_FPS)
-        if key == "gen3":
+        if key == "gen3" or key == "kling" or key == "cogvideox5b":
             frames_to_skip = int(2*fps/extract_frames_persecond)
         else:
             frames_to_skip = int(fps/extract_frames_persecond)

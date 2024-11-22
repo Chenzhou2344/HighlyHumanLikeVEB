@@ -308,7 +308,7 @@ Prompt4Motioneffects="""
 
             ###Scoring Range
             You need to assign a specific score from 1 to 5 for each video (from 1 to 5, with 5 being the highest quality, using increments of 1) based strictly on the 'Evaluation Criteria':
-            1: Very poor effects - The motion trajectories are significantly incorrect, or the main features of motion are so poorly generated that the motion is difficult to recognize. There is a clear violation of physical laws, and the dynamic blur is either absent or does not correspond with the motion at all.
+            1: Very poor effects - The motion trajectories are significantly incorrect.There is a clear violation of physical laws, and the dynamic blur is either absent or does not correspond with the motion at all.
             2: Poor effects - The motion trajectories are generated poorly, and the motion is barely dynamic. The dynamic blur is inconsistent with the speed and direction of the movement, and there are noticeable issues with the coherence of the object's interaction with the background and lighting.
             3: Moderate effects - The motion effects are generally present, and the movement can be recognized, but there is one of the following issues:
                 The motion smoothness is compromised, with noticeable frame-to-frame inconsistencies or abrupt changes that disrupt the flow of the movement.
@@ -414,25 +414,12 @@ Prompt4TemperalConsistency_test="""
 
             ### Scoring Range
             Then based on the above considerations, you need to assign a specific score from 1 to 5 for each video(from 1 to 5, with 5 being the highest quality,using increments of 1) according to the 'Scoring Range':
-            1: Very poor consistency - There are many  unnatural changes through the video.
+            1: Very poor consistency - There are many  unnatural changes through the whole video.
             2: Poor consistency -  There are noticeable unnatural changes in the primary object in the video, affecting the overall temporal consistency. 
             3: Moderate consistency - The video content is fully presented but there are noticeable unnatural changes in unimportant objects or background, which do not significantly affect the overall coherence.
             4: Good consistency - The video is complete and comprehensive with minor unnatural changes and there are noticeable frame flickering in the visual features.
             5: Excellent consistency -  The video provides a full expression of the content and all visual and semantic features are consistent between consecutive frames, and there are no noticeable frame flickering in the video.
 
-            ### The Output Format:
-            Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
-            <output format>
-            Final Scores:
-            - A: x ,because ...
-            </output format>
-                
-            <example>
-            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-            Final Scores:
-            - gen2: 3 , because ...
-            </example>
 
 </instructions>
 """

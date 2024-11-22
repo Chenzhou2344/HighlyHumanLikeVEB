@@ -1,0 +1,943 @@
+{
+    "human_action": [
+        1,
+        [
+            {
+                "video_path": "action/pika/A person is marching_0.mp4",
+                "score": 2
+            },
+            {
+                "video_path": "action/pika/A person is marching_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is marching_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is roller skating_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is roller skating_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is roller skating_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is skateboarding_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is skateboarding_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is skateboarding_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is dunking basketball_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is dunking basketball_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is dunking basketball_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is stretching leg_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is stretching leg_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is stretching leg_2.mp4",
+                "score": 2
+            },
+            {
+                "video_path": "action/pika/A person is riding scooter_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is riding scooter_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is riding scooter_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is skydiving_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is skydiving_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is skydiving_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is playing piano_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is playing piano_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is playing piano_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is canoeing or kayaking_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is canoeing or kayaking_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is canoeing or kayaking_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is laughing_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is laughing_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is laughing_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is digging_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is digging_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is digging_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is clay pottery making_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is clay pottery making_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is clay pottery making_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is shooting basketball_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is shooting basketball_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is shooting basketball_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is bending back_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is bending back_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is bending back_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is shaking hands_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is shaking hands_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is shaking hands_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is push up_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is push up_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is push up_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is throwing axe_0.mp4",
+                "score": 2
+            },
+            {
+                "video_path": "action/pika/A person is throwing axe_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is throwing axe_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is air drumming_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is air drumming_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is air drumming_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is planting trees_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is planting trees_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is planting trees_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is robot dancing_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is robot dancing_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is robot dancing_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is rock climbing_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is rock climbing_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is rock climbing_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is hula hooping_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is hula hooping_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is hula hooping_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is jogging_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is jogging_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is jogging_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is motorcycling_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is motorcycling_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is motorcycling_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sword fighting_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sword fighting_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sword fighting_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is doing aerobics_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is doing aerobics_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is doing aerobics_2.mp4",
+                "score": 2
+            },
+            {
+                "video_path": "action/pika/A person is strumming guitar_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is strumming guitar_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is strumming guitar_2.mp4",
+                "score": 2
+            },
+            {
+                "video_path": "action/pika/A person is riding or walking with horse_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is riding or walking with horse_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is riding or walking with horse_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is archery_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is archery_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is archery_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is catching or throwing baseball_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is catching or throwing baseball_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is catching or throwing baseball_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is dancing ballet_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is dancing ballet_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is dancing ballet_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is running on treadmill_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is running on treadmill_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is running on treadmill_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is kissing_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is kissing_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is kissing_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is barbequing_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is barbequing_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is barbequing_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is milking cow_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is milking cow_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is milking cow_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is making snowman_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is making snowman_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is making snowman_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sailing_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sailing_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sailing_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person swimming in ocean_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person swimming in ocean_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person swimming in ocean_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person giving a presentation to a room full of colleagues_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person giving a presentation to a room full of colleagues_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person giving a presentation to a room full of colleagues_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person washing the dishes_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person washing the dishes_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person washing the dishes_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person walking in the snowstorm_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person walking in the snowstorm_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person walking in the snowstorm_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person drinking coffee in a cafe_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person drinking coffee in a cafe_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person drinking coffee in a cafe_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bicycle leaning against a tree_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bicycle leaning against a tree_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bicycle leaning against a tree_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bicycle gliding through a snowy field_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bicycle gliding through a snowy field_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bicycle gliding through a snowy field_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A car stuck in traffic during rush hour_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A car stuck in traffic during rush hour_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A car stuck in traffic during rush hour_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A car turning a corner_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A car turning a corner_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A car turning a corner_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A motorcycle cruising along a coastal highway_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A motorcycle cruising along a coastal highway_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A motorcycle cruising along a coastal highway_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A motorcycle turning a corner_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A motorcycle turning a corner_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A motorcycle turning a corner_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An airplane soaring through a clear blue sky_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An airplane soaring through a clear blue sky_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An airplane soaring through a clear blue sky_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An airplane taking off_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An airplane taking off_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An airplane taking off_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bus turning a corner_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bus turning a corner_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bus turning a corner_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bus stuck in traffic during rush hour_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bus stuck in traffic during rush hour_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bus stuck in traffic during rush hour_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A train speeding down the tracks_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A train speeding down the tracks_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A train speeding down the tracks_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A train crossing over a tall bridge_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A train crossing over a tall bridge_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A train crossing over a tall bridge_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A truck turning a corner_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A truck turning a corner_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A truck turning a corner_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A truck anchored in a tranquil bay_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A truck anchored in a tranquil bay_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A truck anchored in a tranquil bay_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A boat sailing smoothly on a calm lake_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A boat sailing smoothly on a calm lake_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A boat sailing smoothly on a calm lake_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bird soaring gracefully in the sky_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bird soaring gracefully in the sky_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bird soaring gracefully in the sky_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cat grooming itself meticulously with its tongue_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cat grooming itself meticulously with its tongue_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cat grooming itself meticulously with its tongue_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cat playing in park_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cat playing in park_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cat playing in park_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A dog enjoying a peaceful walk_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A dog enjoying a peaceful walk_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A dog enjoying a peaceful walk_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A dog running happily_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A dog running happily_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A dog running happily_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A horse bending down to drink water from a river_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A horse bending down to drink water from a river_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A horse bending down to drink water from a river_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A horse galloping across an open field_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A horse galloping across an open field_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A horse galloping across an open field_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A sheep taking a peaceful walk_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A sheep taking a peaceful walk_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A sheep taking a peaceful walk_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cow chewing cud while resting in a tranquil barn_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cow chewing cud while resting in a tranquil barn_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A cow chewing cud while resting in a tranquil barn_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An elephant spraying itself with water using its trunk to cool down_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An elephant spraying itself with water using its trunk to cool down_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/An elephant spraying itself with water using its trunk to cool down_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bear catching a salmon in its powerful jaws_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bear catching a salmon in its powerful jaws_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bear catching a salmon in its powerful jaws_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bear climbing a tree_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bear climbing a tree_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A bear climbing a tree_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A zebra bending down to drink water from a river_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A zebra bending down to drink water from a river_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A zebra bending down to drink water from a river_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A giraffe bending down to drink water from a river_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A giraffe bending down to drink water from a river_1.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A giraffe bending down to drink water from a river_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is brushing teeth_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is brushing teeth_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is brushing teeth_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is crawling baby_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is crawling baby_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is crawling baby_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is driving car_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is driving car_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is driving car_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sticking tongue out_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sticking tongue out_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is sticking tongue out_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is shaking head_0.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is shaking head_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is shaking head_2.mp4",
+                "score": 1
+            },
+            {
+                "video_path": "action/pika/A person is using computer_0.mp4",
+                "score": 2
+            },
+            {
+                "video_path": "action/pika/A person is using computer_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is using computer_2.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is arranging flowers_0.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is arranging flowers_1.mp4",
+                "score": 3
+            },
+            {
+                "video_path": "action/pika/A person is arranging flowers_2.mp4",
+                "score": 3
+            }
+        ]
+    ]
+}
