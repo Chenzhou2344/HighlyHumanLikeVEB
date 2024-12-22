@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 
 def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,resize_fy=1):
-    base64Frames = {"cogvideox5b": [],"kling": [],"gen3": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[]}
+    base64Frames = {"cogvideox5b": [],"kling": [],"gen3": [],"lavie": [],"pika": [],"show1":[],"videocrafter2":[],'sora':[]}
     for key in base64Frames.keys():
         video = cv2.VideoCapture(os.path.join(datadir,videos_path[key]))
         if not video.isOpened():
@@ -59,7 +59,7 @@ def process_video(datadir,videos_path, extract_frames_persecond=2,resize_fx=1,re
     return base64Frames
 
 def process_video2gridview(datadir, videos_path, extract_frames_persecond=8):
-    base64Frames = {"cogvideox5b": [], "kling": [], "gen3": [], "lavie": [], "pika": [], "show1": [], "videocrafter2": []}
+    base64Frames = {"cogvideox5b": [], "kling": [], "gen3": [], "lavie": [], "pika": [], "show1": [], "videocrafter2": [],'sora': []}
 
     def process_video(key):
         frames = []

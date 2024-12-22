@@ -1,0 +1,242 @@
+[
+    {
+        "prompt": "A person is marching",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is roller skating",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is skateboarding",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is dunking basketball",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is stretching leg",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is riding scooter",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is skydiving",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is playing piano",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is canoeing or kayaking",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is laughing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is digging",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is clay pottery making",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is shooting basketball",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is bending back",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is shaking hands",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is push up",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is throwing axe",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is air drumming",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is planting trees",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is robot dancing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is rock climbing",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is hula hooping",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is jogging",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is motorcycling",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is driving car",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is sword fighting",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is doing aerobics",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is strumming guitar",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is riding or walking with horse",
+        "dimension": "action"
+    },
+    {
+        "prompt": "A person is archery",
+        "dimension": "action"
+    },
+    {
+        "prompt": "Close up of grapes on a rotating table.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Turtle swimming in ocean.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A storm trooper vacuuming the beach.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A panda standing on a surfboard in the ocean in sunset.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "An astronaut feeding ducks on a sunny afternoon, reflection from the water.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Two pandas discussing an academic paper.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Sunset time lapse at the beach with moving clouds and colors in the sky.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A fat rabbit wearing a purple robe walking through a fantasy landscape.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A koala bear playing piano in the forest.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "An astronaut flying in space.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Fireworks.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "An animated painting of fluffy white clouds moving in sky.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Flying through fantasy landscapes.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A bigfoot walking in the snowstorm.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A squirrel eating a burger.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A cat wearing sunglasses and working as a lifeguard at a pool.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Splash of turquoise water in extreme slow motion, alpha channel included.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "An ice cream is melting on the table.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A drone flying over a snowy forest.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A shark is swimming in the ocean.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Aerial panoramic video from a drone of a fantasy land.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A teddy bear is swimming in the ocean.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Time lapse of sunrise on mars.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Golden fish swimming in the ocean.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "An artist brush painting on a canvas close up.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "A drone view of celebration with christmas tree and fireworks, starry sky - background.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Origami dancers in white paper, 3d render, on white background, studio shot, dancing modern dance.",
+        "dimension": "overall_consistency"
+    },
+    {
+        "prompt": "Campfire at night in a snowy forest with starry sky in the background.",
+        "dimension": "overall_consistency"
+    }
+]

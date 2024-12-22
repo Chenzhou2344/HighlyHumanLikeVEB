@@ -1,0 +1,1292 @@
+[
+    {
+        "prompt_en": "A person is marching",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is marching_0.mp4",
+            "gen3": "action/gen3/A person is marching_0.mp4",
+            "kling": "action/kling/A person is marching_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is marching_0.mp4",
+            "pika": "action/pika/A person is marching_0.mp4",
+            "show1": "action/show1/A person is marching_0.mp4",
+            "lavie": "action/lavie/A person is marching_0.mp4",
+            "sora": "action/sora/A person is marching_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is roller skating",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is roller skating_0.mp4",
+            "gen3": "action/gen3/A person is roller skating_0.mp4",
+            "kling": "action/kling/A person is roller skating_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is roller skating_0.mp4",
+            "pika": "action/pika/A person is roller skating_0.mp4",
+            "show1": "action/show1/A person is roller skating_0.mp4",
+            "lavie": "action/lavie/A person is roller skating_0.mp4",
+            "sora": "action/sora/A person is roller skating_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is skateboarding",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is skateboarding_0.mp4",
+            "gen3": "action/gen3/A person is skateboarding_0.mp4",
+            "kling": "action/kling/A person is skateboarding_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is skateboarding_0.mp4",
+            "pika": "action/pika/A person is skateboarding_0.mp4",
+            "show1": "action/show1/A person is skateboarding_0.mp4",
+            "lavie": "action/lavie/A person is skateboarding_0.mp4",
+            "sora": "action/sora/A person is skateboarding_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is dunking basketball",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is dunking basketball_0.mp4",
+            "gen3": "action/gen3/A person is dunking basketball_0.mp4",
+            "kling": "action/kling/A person is dunking basketball_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is dunking basketball_0.mp4",
+            "pika": "action/pika/A person is dunking basketball_0.mp4",
+            "show1": "action/show1/A person is dunking basketball_0.mp4",
+            "lavie": "action/lavie/A person is dunking basketball_0.mp4",
+            "sora": "action/sora/A person is dunking basketball_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is stretching leg",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is stretching leg_0.mp4",
+            "gen3": "action/gen3/A person is stretching leg_0.mp4",
+            "kling": "action/kling/A person is stretching leg_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is stretching leg_0.mp4",
+            "pika": "action/pika/A person is stretching leg_0.mp4",
+            "show1": "action/show1/A person is stretching leg_0.mp4",
+            "lavie": "action/lavie/A person is stretching leg_0.mp4",
+            "sora": "action/sora/A person is stretching leg_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is riding scooter",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is riding scooter_0.mp4",
+            "gen3": "action/gen3/A person is riding scooter_0.mp4",
+            "kling": "action/kling/A person is riding scooter_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is riding scooter_0.mp4",
+            "pika": "action/pika/A person is riding scooter_0.mp4",
+            "show1": "action/show1/A person is riding scooter_0.mp4",
+            "lavie": "action/lavie/A person is riding scooter_0.mp4",
+            "sora": "action/sora/A person is riding scooter_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is skydiving",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is skydiving_0.mp4",
+            "gen3": "action/gen3/A person is skydiving_0.mp4",
+            "kling": "action/kling/A person is skydiving_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is skydiving_0.mp4",
+            "pika": "action/pika/A person is skydiving_0.mp4",
+            "show1": "action/show1/A person is skydiving_0.mp4",
+            "lavie": "action/lavie/A person is skydiving_0.mp4",
+            "sora": "action/sora/A person is skydiving_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is playing piano",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is playing piano_0.mp4",
+            "gen3": "action/gen3/A person is playing piano_0.mp4",
+            "kling": "action/kling/A person is playing piano_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is playing piano_0.mp4",
+            "pika": "action/pika/A person is playing piano_0.mp4",
+            "show1": "action/show1/A person is playing piano_0.mp4",
+            "lavie": "action/lavie/A person is playing piano_0.mp4",
+            "sora": "action/sora/A person is playing piano_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is canoeing or kayaking",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is canoeing or kayaking_0.mp4",
+            "gen3": "action/gen3/A person is canoeing or kayaking_0.mp4",
+            "kling": "action/kling/A person is canoeing or kayaking_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is canoeing or kayaking_0.mp4",
+            "pika": "action/pika/A person is canoeing or kayaking_0.mp4",
+            "show1": "action/show1/A person is canoeing or kayaking_0.mp4",
+            "lavie": "action/lavie/A person is canoeing or kayaking_0.mp4",
+            "sora": "action/sora/A person is canoeing or kayaking_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is laughing",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is laughing_0.mp4",
+            "gen3": "action/gen3/A person is laughing_0.mp4",
+            "kling": "action/kling/A person is laughing_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is laughing_0.mp4",
+            "pika": "action/pika/A person is laughing_0.mp4",
+            "show1": "action/show1/A person is laughing_0.mp4",
+            "lavie": "action/lavie/A person is laughing_0.mp4",
+            "sora": "action/sora/A person is laughing_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is digging",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is digging_0.mp4",
+            "gen3": "action/gen3/A person is digging_0.mp4",
+            "kling": "action/kling/A person is digging_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is digging_0.mp4",
+            "pika": "action/pika/A person is digging_0.mp4",
+            "show1": "action/show1/A person is digging_0.mp4",
+            "lavie": "action/lavie/A person is digging_0.mp4",
+            "sora": "action/sora/A person is digging_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is clay pottery making",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is clay pottery making_0.mp4",
+            "gen3": "action/gen3/A person is clay pottery making_0.mp4",
+            "kling": "action/kling/A person is clay pottery making_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is clay pottery making_0.mp4",
+            "pika": "action/pika/A person is clay pottery making_0.mp4",
+            "show1": "action/show1/A person is clay pottery making_0.mp4",
+            "lavie": "action/lavie/A person is clay pottery making_0.mp4",
+            "sora": "action/sora/A person is clay pottery making_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is shooting basketball",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is shooting basketball_0.mp4",
+            "gen3": "action/gen3/A person is shooting basketball_0.mp4",
+            "kling": "action/kling/A person is shooting basketball_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is shooting basketball_0.mp4",
+            "pika": "action/pika/A person is shooting basketball_0.mp4",
+            "show1": "action/show1/A person is shooting basketball_0.mp4",
+            "lavie": "action/lavie/A person is shooting basketball_0.mp4",
+            "sora": "action/sora/A person is shooting basketball_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is bending back",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is bending back_0.mp4",
+            "gen3": "action/gen3/A person is bending back_0.mp4",
+            "kling": "action/kling/A person is bending back_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is bending back_0.mp4",
+            "pika": "action/pika/A person is bending back_0.mp4",
+            "show1": "action/show1/A person is bending back_0.mp4",
+            "lavie": "action/lavie/A person is bending back_0.mp4",
+            "sora": "action/sora/A person is bending back_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is shaking hands",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is shaking hands_0.mp4",
+            "gen3": "action/gen3/A person is shaking hands_0.mp4",
+            "kling": "action/kling/A person is shaking hands_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is shaking hands_0.mp4",
+            "pika": "action/pika/A person is shaking hands_0.mp4",
+            "show1": "action/show1/A person is shaking hands_0.mp4",
+            "lavie": "action/lavie/A person is shaking hands_0.mp4",
+            "sora": "action/sora/A person is shaking hands_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is push up",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is push up_0.mp4",
+            "gen3": "action/gen3/A person is push up_0.mp4",
+            "kling": "action/kling/A person is push up_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is push up_0.mp4",
+            "pika": "action/pika/A person is push up_0.mp4",
+            "show1": "action/show1/A person is push up_0.mp4",
+            "lavie": "action/lavie/A person is push up_0.mp4",
+            "sora": "action/sora/A person is push up_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is throwing axe",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is throwing axe_0.mp4",
+            "gen3": "action/gen3/A person is throwing axe_0.mp4",
+            "kling": "action/kling/A person is throwing axe_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is throwing axe_0.mp4",
+            "pika": "action/pika/A person is throwing axe_0.mp4",
+            "show1": "action/show1/A person is throwing axe_0.mp4",
+            "lavie": "action/lavie/A person is throwing axe_0.mp4",
+            "sora": "action/sora/A person is throwing axe_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is air drumming",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is air drumming_0.mp4",
+            "gen3": "action/gen3/A person is air drumming_0.mp4",
+            "kling": "action/kling/A person is air drumming_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is air drumming_0.mp4",
+            "pika": "action/pika/A person is air drumming_0.mp4",
+            "show1": "action/show1/A person is air drumming_0.mp4",
+            "lavie": "action/lavie/A person is air drumming_0.mp4",
+            "sora": "action/sora/A person is air drumming_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is planting trees",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is planting trees_0.mp4",
+            "gen3": "action/gen3/A person is planting trees_0.mp4",
+            "kling": "action/kling/A person is planting trees_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is planting trees_0.mp4",
+            "pika": "action/pika/A person is planting trees_0.mp4",
+            "show1": "action/show1/A person is planting trees_0.mp4",
+            "lavie": "action/lavie/A person is planting trees_0.mp4",
+            "sora": "action/sora/A person is planting trees_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is robot dancing",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is robot dancing_0.mp4",
+            "gen3": "action/gen3/A person is robot dancing_0.mp4",
+            "kling": "action/kling/A person is robot dancing_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is robot dancing_0.mp4",
+            "pika": "action/pika/A person is robot dancing_0.mp4",
+            "show1": "action/show1/A person is robot dancing_0.mp4",
+            "lavie": "action/lavie/A person is robot dancing_0.mp4",
+            "sora": "action/sora/A person is robot dancing_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is rock climbing",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is rock climbing_0.mp4",
+            "gen3": "action/gen3/A person is rock climbing_0.mp4",
+            "kling": "action/kling/A person is rock climbing_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is rock climbing_0.mp4",
+            "pika": "action/pika/A person is rock climbing_0.mp4",
+            "show1": "action/show1/A person is rock climbing_0.mp4",
+            "lavie": "action/lavie/A person is rock climbing_0.mp4",
+            "sora": "action/sora/A person is rock climbing_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is hula hooping",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is hula hooping_0.mp4",
+            "gen3": "action/gen3/A person is hula hooping_0.mp4",
+            "kling": "action/kling/A person is hula hooping_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is hula hooping_0.mp4",
+            "pika": "action/pika/A person is hula hooping_0.mp4",
+            "show1": "action/show1/A person is hula hooping_0.mp4",
+            "lavie": "action/lavie/A person is hula hooping_0.mp4",
+            "sora": "action/sora/A person is hula hooping_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is jogging",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is jogging_0.mp4",
+            "gen3": "action/gen3/A person is jogging_0.mp4",
+            "kling": "action/kling/A person is jogging_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is jogging_0.mp4",
+            "pika": "action/pika/A person is jogging_0.mp4",
+            "show1": "action/show1/A person is jogging_0.mp4",
+            "lavie": "action/lavie/A person is jogging_0.mp4",
+            "sora": "action/sora/A person is jogging_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is motorcycling",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is motorcycling_0.mp4",
+            "gen3": "action/gen3/A person is motorcycling_0.mp4",
+            "kling": "action/kling/A person is motorcycling_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is motorcycling_0.mp4",
+            "pika": "action/pika/A person is motorcycling_0.mp4",
+            "show1": "action/show1/A person is motorcycling_0.mp4",
+            "lavie": "action/lavie/A person is motorcycling_0.mp4",
+            "sora": "action/sora/A person is motorcycling_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is driving car",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is driving car_0.mp4",
+            "gen3": "action/gen3/A person is driving car_0.mp4",
+            "kling": "action/kling/A person is driving car_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is driving car_0.mp4",
+            "pika": "action/pika/A person is driving car_0.mp4",
+            "show1": "action/show1/A person is driving car_0.mp4",
+            "lavie": "action/lavie/A person is driving car_0.mp4",
+            "sora": "action/sora/A person is driving car_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is sword fighting",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is sword fighting_0.mp4",
+            "gen3": "action/gen3/A person is sword fighting_0.mp4",
+            "kling": "action/kling/A person is sword fighting_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is sword fighting_0.mp4",
+            "pika": "action/pika/A person is sword fighting_0.mp4",
+            "show1": "action/show1/A person is sword fighting_0.mp4",
+            "lavie": "action/lavie/A person is sword fighting_0.mp4",
+            "sora": "action/sora/A person is sword fighting_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is doing aerobics",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is doing aerobics_0.mp4",
+            "gen3": "action/gen3/A person is doing aerobics_0.mp4",
+            "kling": "action/kling/A person is doing aerobics_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is doing aerobics_0.mp4",
+            "pika": "action/pika/A person is doing aerobics_0.mp4",
+            "show1": "action/show1/A person is doing aerobics_0.mp4",
+            "lavie": "action/lavie/A person is doing aerobics_0.mp4",
+            "sora": "action/sora/A person is doing aerobics_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is strumming guitar",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is strumming guitar_0.mp4",
+            "gen3": "action/gen3/A person is strumming guitar_0.mp4",
+            "kling": "action/kling/A person is strumming guitar_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is strumming guitar_0.mp4",
+            "pika": "action/pika/A person is strumming guitar_0.mp4",
+            "show1": "action/show1/A person is strumming guitar_0.mp4",
+            "lavie": "action/lavie/A person is strumming guitar_0.mp4",
+            "sora": "action/sora/A person is strumming guitar_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is riding or walking with horse",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is riding or walking with horse_0.mp4",
+            "gen3": "action/gen3/A person is riding or walking with horse_0.mp4",
+            "kling": "action/kling/A person is riding or walking with horse_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is riding or walking with horse_0.mp4",
+            "pika": "action/pika/A person is riding or walking with horse_0.mp4",
+            "show1": "action/show1/A person is riding or walking with horse_0.mp4",
+            "lavie": "action/lavie/A person is riding or walking with horse_0.mp4",
+            "sora": "action/sora/A person is riding or walking with horse_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    },
+    {
+        "prompt_en": "A person is archery",
+        "videos": {
+            "cogvideox5b": "action/cogvideox5b/A person is archery_0.mp4",
+            "gen3": "action/gen3/A person is archery_0.mp4",
+            "kling": "action/kling/A person is archery_0.mp4",
+            "videocrafter2": "action/videocrafter2/A person is archery_0.mp4",
+            "pika": "action/pika/A person is archery_0.mp4",
+            "show1": "action/show1/A person is archery_0.mp4",
+            "lavie": "action/lavie/A person is archery_0.mp4",
+            "sora": "action/sora/A person is archery_0.mp4"
+        },
+        "gpt4o_eval": {
+            "cogvideox5b": 0,
+            "gen3": 0,
+            "kling": 0,
+            "videocrafter2": 0,
+            "pika": 0,
+            "show1": 0,
+            "lavie": 0,
+            "sora": 0
+        },
+        "human_anno": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        },
+        "baseline_score": {
+            "cogvideox5b": [],
+            "gen3": [],
+            "kling": [],
+            "videocrafter2": [],
+            "pika": [],
+            "show1": [],
+            "lavie": [],
+            "sora": []
+        }
+    }
+]
