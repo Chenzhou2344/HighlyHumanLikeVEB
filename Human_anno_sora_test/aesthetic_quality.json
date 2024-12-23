@@ -12,34 +12,60 @@
             "sora": "overall_consistency/sora/Close up of grapes on a rotating table._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                2
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -55,34 +81,60 @@
             "sora": "overall_consistency/sora/Turtle swimming in ocean._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -98,34 +150,60 @@
             "sora": "overall_consistency/sora/A storm trooper vacuuming the beach._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -141,34 +219,60 @@
             "sora": "overall_consistency/sora/A panda standing on a surfboard in the ocean in sunset._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -184,34 +288,60 @@
             "sora": "overall_consistency/sora/An astronaut feeding ducks on a sunny afternoon, reflection from the water._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -227,34 +357,60 @@
             "sora": "overall_consistency/sora/Two pandas discussing an academic paper._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -270,34 +426,60 @@
             "sora": "overall_consistency/sora/Sunset time lapse at the beach with moving clouds and colors in the sky._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                5
+            ],
+            "pika": [
+                5
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 5,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -313,34 +495,60 @@
             "sora": "overall_consistency/sora/A fat rabbit wearing a purple robe walking through a fantasy landscape._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                5
+            ],
+            "videocrafter2": [
+                5
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -356,34 +564,60 @@
             "sora": "overall_consistency/sora/A koala bear playing piano in the forest._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -399,34 +633,60 @@
             "sora": "overall_consistency/sora/An astronaut flying in space._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -442,34 +702,60 @@
             "sora": "overall_consistency/sora/Fireworks._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                2
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -485,34 +771,60 @@
             "sora": "overall_consistency/sora/An animated painting of fluffy white clouds moving in sky._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                5
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -528,34 +840,60 @@
             "sora": "overall_consistency/sora/Flying through fantasy landscapes._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -571,34 +909,60 @@
             "sora": "overall_consistency/sora/A bigfoot walking in the snowstorm._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -614,34 +978,60 @@
             "sora": "overall_consistency/sora/A squirrel eating a burger._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -657,34 +1047,60 @@
             "sora": "overall_consistency/sora/A cat wearing sunglasses and working as a lifeguard at a pool._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -700,34 +1116,60 @@
             "sora": "overall_consistency/sora/Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                4
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 4,
+            "sora": 5
         }
     },
     {
@@ -743,34 +1185,60 @@
             "sora": "overall_consistency/sora/Splash of turquoise water in extreme slow motion, alpha channel included._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                5
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 5,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -786,34 +1254,60 @@
             "sora": "overall_consistency/sora/An ice cream is melting on the table._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -829,34 +1323,60 @@
             "sora": "overall_consistency/sora/A drone flying over a snowy forest._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -872,34 +1392,60 @@
             "sora": "overall_consistency/sora/A shark is swimming in the ocean._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -915,34 +1461,60 @@
             "sora": "overall_consistency/sora/Aerial panoramic video from a drone of a fantasy land._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                2
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -958,34 +1530,60 @@
             "sora": "overall_consistency/sora/A teddy bear is swimming in the ocean._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -1001,34 +1599,60 @@
             "sora": "overall_consistency/sora/Time lapse of sunrise on mars._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -1044,34 +1668,60 @@
             "sora": "overall_consistency/sora/Golden fish swimming in the ocean._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -1087,34 +1737,60 @@
             "sora": "overall_consistency/sora/An artist brush painting on a canvas close up._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                4
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 4,
+            "sora": 4
         }
     },
     {
@@ -1130,34 +1806,60 @@
             "sora": "overall_consistency/sora/A drone view of celebration with christmas tree and fireworks, starry sky - background._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 4,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                2
+            ],
+            "lavie": [
+                4
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 4,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 2,
+            "lavie": 4,
+            "sora": 5
         }
     },
     {
@@ -1173,34 +1875,60 @@
             "sora": "overall_consistency/sora/Happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 4,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -1216,34 +1944,60 @@
             "sora": "overall_consistency/sora/Origami dancers in white paper, 3d render, on white background, studio shot, dancing modern dance._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 4,
+            "kling": 3,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                5
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 4,
+            "kling": 3,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 5,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -1259,34 +2013,60 @@
             "sora": "overall_consistency/sora/Campfire at night in a snowy forest with starry sky in the background._0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                5
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     }
 ]
