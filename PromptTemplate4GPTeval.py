@@ -321,17 +321,14 @@ Prompt4Motioneffects="""
 
             ### The Output Format:
             Finally for the evaluation results, you should assign a score to each video and provide the reason behind the scores.
-            Assuming there are 1 video input from model 'A' scoring 'x',the format is:
+            Assuming there are 3 video input from model 'A','B','C',scoring 'x','y','z',the format is:
             <output format>
             Final Scores:
             - A: x ,because ...
+            - B: y ,because ...
+            - C: z ,because ...
             </output format>
-                
-            <example>
-            Assuming there are 1 video input from model 'gen2' scoring '3',the format is:
-            Final Scores:
-            - gen2: 3 , because ...
-            </example>
+
 
             ### Evaluation Steps:
             Follow the following steps strictly while giving the response:
