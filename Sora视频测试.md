@@ -9,11 +9,11 @@
 
 | VG Model      | Aesthetic Quality | Motion Effects | Video-text Consistency |
 | ------------- | ----------------- | -------------- | ---------------------- |
-| Sora          | 4.6               | 4.267          |                        |
-| CogVideoX     | 4                 | 3.933          |                        |
-| Kling         | 3.933             | 3.233          |                        |
-| Gen3          | 4.567             | 4.667          |                        |
-| videocrafter2 | 3.9               | 2.6            |                        |
-| pika          | 3.8               | 2.8            |                        |
-| show1         | 3.267             | 3.2            |                        |
-| lavie         | 2.867             | 2.3            |                        |
+| Sora          | 4.6               |                |    4.47                |
+| CogVideoX     | 4                 |                |    4.57                |
+| Kling         | 3.933             |                |    4.13                |
+| Gen3          | 4.567             |                |    4.27                |
+| videocrafter2 | 3.9               |                |    4.10                |
+| pika          | 3.8               |                |    3.67                |
+| show1         | 3.267             |                |    4.27                |
+| lavie         | 2.867             |                |    3.87                |
