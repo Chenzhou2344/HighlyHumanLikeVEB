@@ -12,34 +12,60 @@
             "sora": "action/sora/A person is marching_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 2,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                2
+            ],
+            "kling": [
+                2
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 2,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 2,
+            "gen3": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -55,34 +81,60 @@
             "sora": "action/sora/A person is roller skating_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -98,34 +150,60 @@
             "sora": "action/sora/A person is skateboarding_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 1,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                1
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 1,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 1,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -141,34 +219,60 @@
             "sora": "action/sora/A person is dunking basketball_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                2
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -184,34 +288,60 @@
             "sora": "action/sora/A person is stretching leg_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 1,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                1
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 1,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 1,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -227,34 +357,60 @@
             "sora": "action/sora/A person is riding scooter_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                2
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 2,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -270,34 +426,60 @@
             "sora": "action/sora/A person is skydiving_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 1,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                1
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 1,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 1,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -313,34 +495,60 @@
             "sora": "action/sora/A person is playing piano_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 2,
+            "pika": 1,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                5
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                1
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 2,
+            "pika": 1,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 1,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -356,34 +564,60 @@
             "sora": "action/sora/A person is canoeing or kayaking_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                2
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 2,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -399,34 +633,60 @@
             "sora": "action/sora/A person is laughing_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 1,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                2
+            ],
+            "lavie": [
+                1
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 1,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 2,
+            "lavie": 1,
+            "sora": 4
         }
     },
     {
@@ -442,34 +702,60 @@
             "sora": "action/sora/A person is digging_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 2
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                2
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 2
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 2
         }
     },
     {
@@ -485,34 +771,60 @@
             "sora": "action/sora/A person is clay pottery making_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 3,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 3,
+            "gen3": 4,
+            "videocrafter2": 3,
+            "pika": 2,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -528,34 +840,60 @@
             "sora": "action/sora/A person is shooting basketball_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 3
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                2
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                3
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 3
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 2,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 3
         }
     },
     {
@@ -571,34 +909,60 @@
             "sora": "action/sora/A person is bending back_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 2,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 1,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                4
+            ],
+            "kling": [
+                2
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                1
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 4,
+            "kling": 2,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 1,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 2,
+            "gen3": 4,
+            "videocrafter2": 2,
+            "pika": 2,
+            "show1": 1,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -614,34 +978,60 @@
             "sora": "action/sora/A person is shaking hands_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -657,34 +1047,60 @@
             "sora": "action/sora/A person is push up_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 3,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                3
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 3,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -700,34 +1116,60 @@
             "sora": "action/sora/A person is throwing axe_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 3,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 3
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                3
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                3
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 3,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 3
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 4,
+            "gen3": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 3
         }
     },
     {
@@ -743,34 +1185,60 @@
             "sora": "action/sora/A person is air drumming_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -786,34 +1254,60 @@
             "sora": "action/sora/A person is planting trees_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                5
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 3,
+            "sora": 4
         }
     },
     {
@@ -829,34 +1323,60 @@
             "sora": "action/sora/A person is robot dancing_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -872,34 +1392,60 @@
             "sora": "action/sora/A person is rock climbing_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                3
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 3,
+            "sora": 5
         }
     },
     {
@@ -915,34 +1461,60 @@
             "sora": "action/sora/A person is hula hooping_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 2,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 4,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -958,34 +1530,60 @@
             "sora": "action/sora/A person is jogging_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -1001,34 +1599,60 @@
             "sora": "action/sora/A person is motorcycling_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 1,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                5
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                4
+            ],
+            "pika": [
+                2
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                1
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 5,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 1,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 5,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 4,
+            "pika": 2,
+            "show1": 4,
+            "lavie": 1,
+            "sora": 5
         }
     },
     {
@@ -1044,34 +1668,60 @@
             "sora": "action/sora/A person is driving car_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                5
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 5,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -1087,34 +1737,60 @@
             "sora": "action/sora/A person is sword fighting_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 4,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                4
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 4,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 4,
+            "sora": 4
         }
     },
     {
@@ -1130,34 +1806,60 @@
             "sora": "action/sora/A person is doing aerobics_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                2
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 2,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 2,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -1173,34 +1875,60 @@
             "sora": "action/sora/A person is strumming guitar_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                3
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 3,
+            "lavie": 2,
+            "sora": 4
         }
     },
     {
@@ -1216,34 +1944,60 @@
             "sora": "action/sora/A person is riding or walking with horse_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                3
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                4
+            ],
+            "videocrafter2": [
+                3
+            ],
+            "pika": [
+                4
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                5
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 3,
+            "gen3": 5,
+            "kling": 4,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
+        },
+        "multiagent_score": {
+            "cogvideox5b": 3,
+            "kling": 4,
+            "gen3": 5,
+            "videocrafter2": 3,
+            "pika": 4,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 5
         }
     },
     {
@@ -1259,34 +2013,60 @@
             "sora": "action/sora/A person is archery_0.mp4"
         },
         "gpt4o_eval": {
-            "cogvideox5b": 0,
-            "gen3": 0,
-            "kling": 0,
-            "videocrafter2": 0,
-            "pika": 0,
-            "show1": 0,
-            "lavie": 0,
-            "sora": 0
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 4
         },
         "human_anno": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": [
+                4
+            ],
+            "gen3": [
+                5
+            ],
+            "kling": [
+                3
+            ],
+            "videocrafter2": [
+                2
+            ],
+            "pika": [
+                3
+            ],
+            "show1": [
+                4
+            ],
+            "lavie": [
+                2
+            ],
+            "sora": [
+                4
+            ]
         },
         "baseline_score": {
-            "cogvideox5b": [],
-            "gen3": [],
-            "kling": [],
-            "videocrafter2": [],
-            "pika": [],
-            "show1": [],
-            "lavie": [],
-            "sora": []
+            "cogvideox5b": 4,
+            "gen3": 5,
+            "kling": 3,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 4
+        },
+        "multiagent_score": {
+            "cogvideox5b": 4,
+            "kling": 3,
+            "gen3": 5,
+            "videocrafter2": 2,
+            "pika": 3,
+            "show1": 4,
+            "lavie": 2,
+            "sora": 4
         }
     }
 ]
