@@ -23,27 +23,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "kling": [
+                5,
+                5,
+                5,
                 5
             ],
             "gen3": [
-                2
-            ],
-            "kling": [
-                2
+                5,
+                5,
+                5,
+                5
             ],
             "videocrafter2": [
-                3
+                2,
+                3,
+                2,
+                2
             ],
             "pika": [
+                3,
+                3,
+                3,
                 3
             ],
             "show1": [
-                3
+                2,
+                3,
+                2,
+                2
             ],
             "lavie": [
+                3,
+                3,
+                3,
                 3
             ],
             "sora": [
+                5,
+                4,
+                5,
                 5
             ]
         },
@@ -59,8 +83,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 2,
             "gen3": 2,
+            "kling": 2,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
@@ -92,28 +116,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                3
-            ],
-            "gen3": [
-                5
-            ],
-            "kling": [
+                4,
+                4,
+                4,
                 4
             ],
+            "kling": [
+                5,
+                5,
+                5,
+                4
+            ],
+            "gen3": [
+                5,
+                4,
+                4,
+                5
+            ],
             "videocrafter2": [
-                3
+                4,
+                3,
+                4,
+                4
             ],
             "pika": [
-                2
+                4,
+                4,
+                4,
+                3
             ],
             "show1": [
+                3,
+                3,
+                3,
                 3
             ],
             "lavie": [
-                2
+                3,
+                3,
+                3,
+                3
             ],
             "sora": [
-                4
+                5,
+                5,
+                5,
+                5
             ]
         },
         "baseline_score": {
@@ -128,8 +176,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
@@ -161,28 +209,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                2,
+                2,
+                2,
+                2
+            ],
+            "kling": [
+                4,
+                4,
+                3,
                 4
             ],
             "gen3": [
-                5
-            ],
-            "kling": [
-                1
+                4,
+                4,
+                1,
+                4
             ],
             "videocrafter2": [
+                4,
+                4,
+                4,
                 3
             ],
             "pika": [
+                3,
+                3,
+                3,
                 2
             ],
             "show1": [
-                4
+                3,
+                3,
+                3,
+                2
             ],
             "lavie": [
-                3
+                1,
+                2,
+                3,
+                1
             ],
             "sora": [
-                5
+                4,
+                4,
+                4,
+                4
             ]
         },
         "baseline_score": {
@@ -197,8 +269,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 1,
             "gen3": 5,
+            "kling": 1,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 4,
@@ -230,28 +302,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                3
-            ],
-            "gen3": [
-                5
+                3,
+                4,
+                3,
+                2
             ],
             "kling": [
-                4
-            ],
-            "videocrafter2": [
+                2,
+                2,
+                1,
                 2
             ],
-            "pika": [
+            "gen3": [
+                2,
+                3,
+                1,
                 3
             ],
+            "videocrafter2": [
+                2,
+                2,
+                1,
+                1
+            ],
+            "pika": [
+                2,
+                4,
+                1,
+                1
+            ],
             "show1": [
-                2
+                1,
+                3,
+                1,
+                1
             ],
             "lavie": [
+                1,
+                2,
+                1,
                 2
             ],
             "sora": [
-                4
+                3,
+                2,
+                3,
+                3
             ]
         },
         "baseline_score": {
@@ -266,8 +362,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 2,
@@ -299,27 +395,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                1
-            ],
-            "gen3": [
-                5
+                3,
+                3,
+                3,
+                3
             ],
             "kling": [
+                5,
+                5,
+                3,
+                5
+            ],
+            "gen3": [
+                2,
+                2,
+                2,
                 3
             ],
             "videocrafter2": [
-                2
+                1,
+                1,
+                3,
+                3
             ],
             "pika": [
-                2
+                1,
+                1,
+                3,
+                3
             ],
             "show1": [
+                3,
+                3,
+                3,
                 3
             ],
             "lavie": [
-                2
+                1,
+                1,
+                2,
+                1
             ],
             "sora": [
+                5,
+                5,
+                5,
                 4
             ]
         },
@@ -335,8 +455,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 1,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 2,
             "pika": 2,
             "show1": 3,
@@ -368,27 +488,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                4
-            ],
-            "gen3": [
+                5,
+                3,
+                5,
                 5
             ],
             "kling": [
-                2
+                5,
+                5,
+                5,
+                5
+            ],
+            "gen3": [
+                3,
+                3,
+                3,
+                3
             ],
             "videocrafter2": [
+                2,
+                2,
+                2,
                 3
             ],
             "pika": [
-                3
-            ],
-            "show1": [
-                3
-            ],
-            "lavie": [
+                2,
+                3,
+                2,
                 2
             ],
+            "show1": [
+                2,
+                3,
+                3,
+                2
+            ],
+            "lavie": [
+                2,
+                2,
+                2,
+                3
+            ],
             "sora": [
+                5,
+                5,
+                4,
                 4
             ]
         },
@@ -404,8 +548,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 2,
             "gen3": 5,
+            "kling": 2,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
@@ -437,27 +581,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                5
-            ],
-            "gen3": [
+                4,
+                4,
+                4,
                 4
             ],
             "kling": [
-                1
+                4,
+                3,
+                3,
+                4
+            ],
+            "gen3": [
+                4,
+                4,
+                4,
+                4
             ],
             "videocrafter2": [
+                3,
+                3,
+                3,
                 3
             ],
             "pika": [
+                4,
+                4,
+                3,
                 4
             ],
             "show1": [
+                4,
+                4,
+                4,
                 4
             ],
             "lavie": [
+                3,
+                4,
+                3,
                 3
             ],
             "sora": [
+                5,
+                5,
+                5,
                 5
             ]
         },
@@ -473,8 +641,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 1,
             "gen3": 4,
+            "kling": 1,
             "videocrafter2": 3,
             "pika": 4,
             "show1": 4,
@@ -506,27 +674,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                4
-            ],
-            "gen3": [
-                5
+                5,
+                5,
+                3,
+                3
             ],
             "kling": [
+                5,
+                3,
+                5,
                 5
             ],
+            "gen3": [
+                5,
+                5,
+                5,
+                4
+            ],
             "videocrafter2": [
-                2
+                3,
+                3,
+                3,
+                3
             ],
             "pika": [
+                1,
+                2,
+                1,
                 1
             ],
             "show1": [
-                4
+                3,
+                3,
+                3,
+                3
             ],
             "lavie": [
+                3,
+                3,
+                3,
                 3
             ],
             "sora": [
+                5,
+                5,
+                5,
                 5
             ]
         },
@@ -542,8 +734,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 5,
             "gen3": 5,
+            "kling": 5,
             "videocrafter2": 2,
             "pika": 1,
             "show1": 4,
@@ -575,28 +767,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                5
-            ],
-            "gen3": [
-                5
+                5,
+                5,
+                3,
+                4
             ],
             "kling": [
+                5,
+                5,
+                5,
                 4
+            ],
+            "gen3": [
+                5,
+                5,
+                5,
+                5
             ],
             "videocrafter2": [
-                2
+                4,
+                2,
+                4,
+                3
             ],
             "pika": [
-                3
-            ],
-            "show1": [
+                4,
+                4,
+                4,
                 2
             ],
-            "lavie": [
+            "show1": [
+                3,
+                3,
+                3,
                 3
             ],
-            "sora": [
+            "lavie": [
+                3,
+                3,
+                3,
                 4
+            ],
+            "sora": [
+                4,
+                5,
+                5,
+                5
             ]
         },
         "baseline_score": {
@@ -611,8 +827,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 2,
@@ -644,27 +860,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                5,
+                3,
+                5,
+                4
+            ],
+            "kling": [
+                5,
+                5,
+                3,
                 4
             ],
             "gen3": [
-                5
-            ],
-            "kling": [
-                3
+                5,
+                5,
+                3,
+                4
             ],
             "videocrafter2": [
-                3
+                4,
+                3,
+                1,
+                4
             ],
             "pika": [
-                2
+                2,
+                2,
+                2,
+                3
             ],
             "show1": [
-                2
+                3,
+                1,
+                1,
+                3
             ],
             "lavie": [
-                1
+                3,
+                3,
+                1,
+                2
             ],
             "sora": [
+                5,
+                5,
+                5,
                 4
             ]
         },
@@ -680,8 +920,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 2,
@@ -713,28 +953,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                3
-            ],
-            "gen3": [
+                5,
+                5,
+                5,
                 5
             ],
             "kling": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "gen3": [
+                4,
+                4,
+                4,
                 4
             ],
             "videocrafter2": [
+                4,
+                4,
+                4,
                 3
             ],
             "pika": [
-                2
+                2,
+                3,
+                2,
+                3
             ],
             "show1": [
+                4,
+                2,
+                2,
                 4
             ],
             "lavie": [
+                3,
+                3,
+                3,
                 3
             ],
             "sora": [
-                2
+                4,
+                4,
+                5,
+                4
             ]
         },
         "baseline_score": {
@@ -749,8 +1013,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 4,
@@ -782,28 +1046,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                5,
+                4,
+                5,
+                5
+            ],
+            "kling": [
+                5,
+                3,
+                5,
                 5
             ],
             "gen3": [
-                4
-            ],
-            "kling": [
-                3
-            ],
-            "videocrafter2": [
-                3
-            ],
-            "pika": [
+                2,
+                2,
+                2,
                 2
             ],
+            "videocrafter2": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "pika": [
+                4,
+                4,
+                3,
+                4
+            ],
             "show1": [
+                3,
+                3,
+                3,
                 3
             ],
             "lavie": [
+                4,
+                3,
+                3,
                 3
             ],
             "sora": [
-                4
+                5,
+                5,
+                5,
+                5
             ]
         },
         "baseline_score": {
@@ -818,8 +1106,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 3,
             "gen3": 4,
+            "kling": 3,
             "videocrafter2": 3,
             "pika": 2,
             "show1": 3,
@@ -851,27 +1139,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                4
-            ],
-            "gen3": [
-                5
+                3,
+                3,
+                3,
+                3
             ],
             "kling": [
+                5,
+                3,
+                5,
+                5
+            ],
+            "gen3": [
+                3,
+                3,
+                3,
                 2
             ],
             "videocrafter2": [
-                3
+                2,
+                3,
+                2,
+                1
             ],
             "pika": [
+                2,
+                2,
+                2,
                 3
             ],
             "show1": [
-                3
+                2,
+                2,
+                2,
+                1
             ],
             "lavie": [
-                2
+                4,
+                4,
+                1,
+                3
             ],
             "sora": [
+                4,
+                5,
+                5,
                 3
             ]
         },
@@ -887,8 +1199,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 2,
             "gen3": 5,
+            "kling": 2,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
@@ -920,28 +1232,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                5
-            ],
-            "gen3": [
-                4
+                4,
+                4,
+                3,
+                2
             ],
             "kling": [
+                5,
+                5,
+                5,
+                4
+            ],
+            "gen3": [
+                2,
+                3,
+                2,
                 2
             ],
             "videocrafter2": [
-                2
+                1,
+                3,
+                3,
+                1
             ],
             "pika": [
+                1,
+                1,
+                3,
                 2
             ],
             "show1": [
-                1
+                1,
+                1,
+                1,
+                4
             ],
             "lavie": [
-                2
+                2,
+                2,
+                2,
+                1
             ],
             "sora": [
-                5
+                4,
+                2,
+                4,
+                2
             ]
         },
         "baseline_score": {
@@ -956,8 +1292,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 2,
             "gen3": 4,
+            "kling": 2,
             "videocrafter2": 2,
             "pika": 2,
             "show1": 1,
@@ -989,27 +1325,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                4
-            ],
-            "gen3": [
+                5,
+                5,
+                5,
                 5
             ],
             "kling": [
-                3
+                5,
+                5,
+                5,
+                5
+            ],
+            "gen3": [
+                4,
+                4,
+                3,
+                4
             ],
             "videocrafter2": [
-                2
+                2,
+                2,
+                2,
+                4
             ],
             "pika": [
-                3
+                2,
+                3,
+                3,
+                2
             ],
             "show1": [
+                4,
+                3,
+                4,
                 3
             ],
             "lavie": [
-                2
+                3,
+                3,
+                3,
+                3
             ],
             "sora": [
+                5,
+                5,
+                5,
                 4
             ]
         },
@@ -1025,8 +1385,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
@@ -1058,27 +1418,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                5,
+                5,
+                5,
+                5
+            ],
+            "kling": [
+                5,
+                3,
+                5,
                 5
             ],
             "gen3": [
-                3
-            ],
-            "kling": [
-                4
+                5,
+                5,
+                5,
+                5
             ],
             "videocrafter2": [
-                2
-            ],
-            "pika": [
+                3,
+                3,
+                3,
                 3
             ],
-            "show1": [
-                4
-            ],
-            "lavie": [
+            "pika": [
+                2,
+                2,
+                3,
                 2
             ],
+            "show1": [
+                2,
+                2,
+                1,
+                3
+            ],
+            "lavie": [
+                3,
+                3,
+                3,
+                3
+            ],
             "sora": [
+                5,
+                5,
+                4,
                 5
             ]
         },
@@ -1094,8 +1478,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 4,
             "gen3": 3,
+            "kling": 4,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 4,
@@ -1127,28 +1511,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                5
-            ],
-            "gen3": [
-                3
+                4,
+                4,
+                4,
+                4
             ],
             "kling": [
+                4,
+                3,
+                4,
+                3
+            ],
+            "gen3": [
+                4,
+                3,
+                4,
                 4
             ],
             "videocrafter2": [
+                2,
+                3,
+                3,
                 2
             ],
             "pika": [
-                3
-            ],
-            "show1": [
-                4
-            ],
-            "lavie": [
+                2,
+                3,
+                2,
                 2
             ],
+            "show1": [
+                2,
+                2,
+                2,
+                2
+            ],
+            "lavie": [
+                1,
+                1,
+                1,
+                1
+            ],
             "sora": [
-                3
+                4,
+                3,
+                4,
+                4
             ]
         },
         "baseline_score": {
@@ -1163,8 +1571,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 4,
             "gen3": 3,
+            "kling": 4,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 4,
@@ -1196,28 +1604,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                4,
+                3,
+                4,
                 3
             ],
-            "gen3": [
-                5
-            ],
             "kling": [
+                5,
+                5,
+                4,
+                4
+            ],
+            "gen3": [
+                4,
+                4,
+                4,
                 4
             ],
             "videocrafter2": [
+                2,
+                3,
+                2,
                 2
             ],
             "pika": [
+                3,
+                3,
+                3,
                 3
             ],
             "show1": [
-                3
+                3,
+                3,
+                3,
+                2
             ],
             "lavie": [
+                3,
+                3,
+                3,
                 2
             ],
             "sora": [
-                4
+                5,
+                4,
+                5,
+                5
             ]
         },
         "baseline_score": {
@@ -1232,8 +1664,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
@@ -1265,28 +1697,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                4,
+                4,
+                3,
                 4
             ],
-            "gen3": [
+            "kling": [
+                5,
+                5,
+                4,
                 5
             ],
-            "kling": [
-                5
+            "gen3": [
+                4,
+                4,
+                4,
+                2
             ],
             "videocrafter2": [
+                3,
+                3,
+                3,
                 3
             ],
             "pika": [
-                3
+                2,
+                2,
+                2,
+                2
             ],
             "show1": [
+                3,
+                4,
+                3,
                 3
             ],
             "lavie": [
+                3,
+                3,
+                3,
                 3
             ],
             "sora": [
-                4
+                5,
+                5,
+                5,
+                5
             ]
         },
         "baseline_score": {
@@ -1301,8 +1757,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 5,
             "gen3": 5,
+            "kling": 5,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
@@ -1334,28 +1790,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                4
-            ],
-            "gen3": [
-                5
+                3,
+                3,
+                3,
+                3
             ],
             "kling": [
-                3
+                5,
+                5,
+                5,
+                5
+            ],
+            "gen3": [
+                4,
+                3,
+                4,
+                4
             ],
             "videocrafter2": [
-                2
+                4,
+                3,
+                4,
+                4
             ],
             "pika": [
-                3
+                4,
+                3,
+                3,
+                4
             ],
             "show1": [
+                4,
+                4,
+                4,
                 3
             ],
             "lavie": [
-                2
+                2,
+                2,
+                2,
+                4
             ],
             "sora": [
-                4
+                4,
+                4,
+                4,
+                3
             ]
         },
         "baseline_score": {
@@ -1370,8 +1850,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
@@ -1403,27 +1883,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                4,
+                4,
+                4,
+                4
+            ],
+            "kling": [
+                5,
+                5,
+                3,
                 4
             ],
             "gen3": [
-                5
-            ],
-            "kling": [
+                5,
+                3,
+                3,
                 3
             ],
             "videocrafter2": [
-                3
-            ],
-            "pika": [
+                3,
+                3,
+                3,
                 4
             ],
+            "pika": [
+                2,
+                2,
+                2,
+                3
+            ],
             "show1": [
+                4,
+                5,
+                4,
                 4
             ],
             "lavie": [
-                3
+                4,
+                4,
+                4,
+                4
             ],
             "sora": [
+                5,
+                5,
+                5,
                 5
             ]
         },
@@ -1439,8 +1943,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 3,
             "pika": 4,
             "show1": 4,
@@ -1472,28 +1976,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                2,
+                3,
+                2,
+                3
+            ],
+            "kling": [
+                4,
+                4,
+                4,
                 3
             ],
             "gen3": [
-                5
-            ],
-            "kling": [
-                4
+                3,
+                3,
+                3,
+                3
             ],
             "videocrafter2": [
+                3,
+                3,
+                3,
                 2
             ],
             "pika": [
-                4
+                3,
+                2,
+                3,
+                2
             ],
             "show1": [
-                3
+                3,
+                3,
+                3,
+                2
             ],
             "lavie": [
+                3,
+                2,
+                3,
                 2
             ],
             "sora": [
-                4
+                2,
+                3,
+                2,
+                2
             ]
         },
         "baseline_score": {
@@ -1508,8 +2036,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 2,
             "pika": 4,
             "show1": 3,
@@ -1541,27 +2069,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                4,
+                4,
+                3,
                 3
             ],
-            "gen3": [
+            "kling": [
+                5,
+                5,
+                5,
                 5
             ],
-            "kling": [
+            "gen3": [
+                5,
+                5,
+                5,
                 4
             ],
             "videocrafter2": [
+                3,
+                3,
+                3,
                 4
             ],
             "pika": [
+                2,
+                2,
+                3,
                 3
             ],
             "show1": [
+                4,
+                4,
+                4,
                 3
             ],
             "lavie": [
-                2
+                3,
+                3,
+                2,
+                3
             ],
             "sora": [
+                5,
+                5,
+                5,
                 5
             ]
         },
@@ -1577,8 +2129,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 4,
             "pika": 3,
             "show1": 3,
@@ -1610,28 +2162,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                5
-            ],
-            "gen3": [
-                5
-            ],
-            "kling": [
-                3
-            ],
-            "videocrafter2": [
+                5,
+                5,
+                3,
                 4
             ],
+            "kling": [
+                2,
+                2,
+                2,
+                4
+            ],
+            "gen3": [
+                3,
+                3,
+                3,
+                4
+            ],
+            "videocrafter2": [
+                4,
+                5,
+                4,
+                3
+            ],
             "pika": [
-                2
+                1,
+                1,
+                3,
+                4
             ],
             "show1": [
+                4,
+                3,
+                4,
                 4
             ],
             "lavie": [
-                1
+                2,
+                2,
+                2,
+                2
             ],
             "sora": [
-                5
+                3,
+                4,
+                4,
+                1
             ]
         },
         "baseline_score": {
@@ -1646,8 +2222,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 5,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 4,
             "pika": 2,
             "show1": 4,
@@ -1679,27 +2255,51 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                4,
+                3,
+                3,
+                4
+            ],
+            "kling": [
+                4,
+                4,
+                4,
                 4
             ],
             "gen3": [
-                5
-            ],
-            "kling": [
-                5
+                4,
+                4,
+                4,
+                4
             ],
             "videocrafter2": [
-                3
+                4,
+                4,
+                4,
+                1
             ],
             "pika": [
+                3,
+                3,
+                3,
                 3
             ],
             "show1": [
-                3
+                4,
+                4,
+                3,
+                4
             ],
             "lavie": [
-                2
+                4,
+                3,
+                4,
+                3
             ],
             "sora": [
+                4,
+                5,
+                4,
                 5
             ]
         },
@@ -1715,8 +2315,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 5,
             "gen3": 5,
+            "kling": 5,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 3,
@@ -1748,28 +2348,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                4
-            ],
-            "gen3": [
-                5
+                4,
+                3,
+                4,
+                3
             ],
             "kling": [
+                5,
+                5,
+                5,
+                3
+            ],
+            "gen3": [
+                4,
+                4,
+                3,
                 3
             ],
             "videocrafter2": [
-                2
+                2,
+                4,
+                2,
+                4
             ],
             "pika": [
+                3,
+                4,
+                3,
                 3
             ],
             "show1": [
+                3,
+                3,
+                3,
                 3
             ],
             "lavie": [
-                4
+                2,
+                2,
+                2,
+                3
             ],
             "sora": [
-                4
+                3,
+                3,
+                4,
+                2
             ]
         },
         "baseline_score": {
@@ -1784,8 +2408,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
@@ -1817,28 +2441,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                3,
+                3,
+                3,
+                3
+            ],
+            "kling": [
+                5,
+                5,
+                2,
                 4
             ],
             "gen3": [
-                5
-            ],
-            "kling": [
-                2
+                4,
+                3,
+                3,
+                4
             ],
             "videocrafter2": [
+                3,
+                3,
+                3,
                 3
             ],
             "pika": [
+                3,
+                4,
+                3,
                 3
             ],
             "show1": [
+                3,
+                3,
+                3,
                 4
             ],
             "lavie": [
+                2,
+                2,
+                1,
                 2
             ],
             "sora": [
-                5
+                4,
+                4,
+                5,
+                4
             ]
         },
         "baseline_score": {
@@ -1853,8 +2501,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 2,
             "gen3": 5,
+            "kling": 2,
             "videocrafter2": 3,
             "pika": 3,
             "show1": 4,
@@ -1886,28 +2534,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                4,
+                5,
+                3,
                 4
             ],
-            "gen3": [
+            "kling": [
+                5,
+                5,
+                5,
                 5
             ],
-            "kling": [
-                3
+            "gen3": [
+                4,
+                3,
+                5,
+                4
             ],
             "videocrafter2": [
-                2
+                4,
+                4,
+                2,
+                3
             ],
             "pika": [
+                3,
+                3,
+                3,
                 3
             ],
             "show1": [
+                3,
+                3,
+                3,
                 3
             ],
             "lavie": [
-                2
+                2,
+                2,
+                1,
+                3
             ],
             "sora": [
-                4
+                5,
+                4,
+                5,
+                5
             ]
         },
         "baseline_score": {
@@ -1922,8 +2594,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 3,
@@ -1955,28 +2627,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
-                3
-            ],
-            "gen3": [
-                5
+                5,
+                5,
+                4,
+                4
             ],
             "kling": [
-                4
+                5,
+                5,
+                3,
+                5
+            ],
+            "gen3": [
+                5,
+                3,
+                5,
+                5
             ],
             "videocrafter2": [
-                3
+                3,
+                3,
+                4,
+                2
             ],
             "pika": [
-                4
+                4,
+                2,
+                4,
+                3
             ],
             "show1": [
-                4
+                4,
+                4,
+                4,
+                3
             ],
             "lavie": [
+                2,
+                2,
+                1,
                 2
             ],
             "sora": [
-                5
+                4,
+                5,
+                4,
+                4
             ]
         },
         "baseline_score": {
@@ -1991,8 +2687,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 3,
-            "kling": 4,
             "gen3": 5,
+            "kling": 4,
             "videocrafter2": 3,
             "pika": 4,
             "show1": 4,
@@ -2024,28 +2720,52 @@
         },
         "human_anno": {
             "cogvideox5b": [
+                3,
+                3,
+                3,
+                3
+            ],
+            "kling": [
+                4,
+                4,
+                4,
                 4
             ],
             "gen3": [
-                5
-            ],
-            "kling": [
-                3
+                2,
+                3,
+                2,
+                2
             ],
             "videocrafter2": [
+                2,
+                2,
+                2,
                 2
             ],
             "pika": [
+                2,
+                2,
+                3,
                 3
             ],
             "show1": [
-                4
+                2,
+                2,
+                2,
+                3
             ],
             "lavie": [
-                2
+                2,
+                2,
+                2,
+                3
             ],
             "sora": [
-                4
+                3,
+                2,
+                3,
+                3
             ]
         },
         "baseline_score": {
@@ -2060,8 +2780,8 @@
         },
         "multiagent_score": {
             "cogvideox5b": 4,
-            "kling": 3,
             "gen3": 5,
+            "kling": 3,
             "videocrafter2": 2,
             "pika": 3,
             "show1": 4,
