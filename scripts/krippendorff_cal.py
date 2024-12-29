@@ -8,7 +8,7 @@ parser.add_argument(
     "--metric",
     type=str,
     default="aesthetic_quality",
-    choices=["aesthetic_quality", "imaging_quality", "color", "object_class", "scene", "action","motion_effects","overall_consistency"],
+    choices=["aesthetic_quality", "imaging_quality", "color", "object_class", "scene", "action","motion_effects","overall_consistency","temporal_consistency"],
 )
 args = parser.parse_args()
 
@@ -60,7 +60,7 @@ def load_json_data(file_path):
 #data_1 = load_json_data(file_path)
 #file_path = 'imaging_quality_1.json'
 #data_2 = load_json_data(file_path)
-file_path = '../Human_anno/stable/'+args.metric + '_new.json'
+file_path = '../Human_anno_sora_test/'+args.metric + '.json'
 data = load_json_data(file_path)
 
 # Flatten the data into a single dictionary
@@ -96,7 +96,7 @@ df = pd.DataFrame(flattened_data)
 # Display the DataFrame
 print(df)
 ### Krippendorff's Alpha
-models = ['cogvideox5b', 'gen3', 'kling', 'videocrafter2', 'pika', 'show1', 'lavie']
+models = ['cogvideox5b', 'kling', 'gen3', 'videocrafter2', 'pika', 'show1', 'lavie','sora']
 human_scores = []
 gpt_scores = []
 single_gpt_scores = []
@@ -117,15 +117,15 @@ alpha_all = krippendorff.alpha(reliability_data=np.vstack([human_scores[:4], gpt
 alpha_single = krippendorff.alpha(reliability_data=np.vstack([human_scores[:4], single_gpt_scores]), level_of_measurement='interval')
 print(f"Krippendorff's alpha: 4 human: ", alpha_human, ";4 human&1 multiagent: ",alpha_all, ";4 human&1gpt: ", alpha_single)
 ### Confidence Interval
-for col in df.columns:
-    if col.startswith('human'):
-        df=df.explode(col) 
-models = ['cogvideox5b', 'gen3', 'kling', 'videocrafter2', 'pika', 'show1', 'lavie']
-confidence_level = 0.99
-score_pairs = []
-for model in models:
-    for index, row in df.iterrows():
-        score_pairs.append((row[f'multiagent_score_{model}'], row[f'human_anno_{model}'])) 
-print(np.mean([s[0] for s in score_pairs]) - np.mean([s[1] for s in score_pairs]))
-lower_ci, upper_ci = bootstrap_confidence_interval(score_pairs, n_iterations=100, sample_size=10000, confidence_level=confidence_level)
-print(f"{confidence_level} confidence interval for the mean difference: ({lower_ci}, {upper_ci}) for model {model}")
+# for col in df.columns:
+#     if col.startswith('human'):
+#         df=df.explode(col) 
+# models = ['cogvideox5b', 'kling', 'gen3', 'videocrafter2', 'pika', 'show1', 'lavie','sora']
+# confidence_level = 0.99
+# score_pairs = []
+# for model in models:
+#     for index, row in df.iterrows():
+#         score_pairs.append((row[f'multiagent_score_{model}'], row[f'human_anno_{model}'])) 
+# print(np.mean([s[0] for s in score_pairs]) - np.mean([s[1] for s in score_pairs]))
+# lower_ci, upper_ci = bootstrap_confidence_interval(score_pairs, n_iterations=100, sample_size=10000, confidence_level=confidence_level)
+# print(f"{confidence_level} confidence interval for the mean difference: ({lower_ci}, {upper_ci}) for model {model}")
